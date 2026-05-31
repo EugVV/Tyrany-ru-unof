@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Пощады не будет, Вершитель судеб. Ты за все поплатишься!"</DefaultText>
-      <FemaleText>"Пощады не будет, Вершительница судеб. Ты за все поплатишься!"</FemaleText>
+      <DefaultText>«Пощады не будет, Вершитель судеб. Ты за все поплатишься!»</DefaultText>
+      <FemaleText>«Пощады не будет, Вершительница судеб. Ты за все поплатишься!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"За королеву!"</DefaultText>
+      <DefaultText>«За королеву!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Твоя жизнь заканчивается здесь, Вершитель судеб. История о тебе и не вспомнит".</DefaultText>
-      <FemaleText>"Твоя жизнь заканчивается здесь, Вершительница судеб. История о тебе и не вспомнит".</FemaleText>
+      <DefaultText>«Твоя жизнь заканчивается здесь, Вершитель судеб. История о тебе и не вспомнит».</DefaultText>
+      <FemaleText>«Твоя жизнь заканчивается здесь, Вершительница судеб. История о тебе и не вспомнит».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Пусть отправляется в пустоту!"</DefaultText>
+      <DefaultText>«Пусть отправляется в пустоту!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

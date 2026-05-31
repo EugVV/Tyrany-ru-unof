@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель судеб? Я тебя прикончу, и Твердыня Часовых будет наша!"</DefaultText>
-      <FemaleText>"Вершительница судеб? Я тебя прикончу, и Твердыня Часовых будет наша!"</FemaleText>
+      <DefaultText>«Вершитель судеб? Я тебя прикончу, и Твердыня Часовых будет наша!»</DefaultText>
+      <FemaleText>«Вершительница судеб? Я тебя прикончу, и Твердыня Часовых будет наша!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"На этой железной швали мы просто размялись. Давай, не сдувайся, мы еще захватим этот клятый замок!"</DefaultText>
+      <DefaultText>«На этой железной швали мы просто размялись. Давай, не сдувайся, мы еще захватим этот клятый замок!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ну, кому добавки? Связку колец тому, кто первым проткнет шавку Аше!"</DefaultText>
+      <DefaultText>«Ну, кому добавки? Связку колец тому, кто первым проткнет шавку Аше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Подкрепления! К оружию!"</DefaultText>
+      <DefaultText>«Подкрепления! К оружию!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Сзади! Бей Вершителя судеб!"</DefaultText>
-      <FemaleText>"Сзади! Бей Вершительницу судеб!"</FemaleText>
+      <DefaultText>«Сзади! Бей Вершителя судеб!»</DefaultText>
+      <FemaleText>«Сзади! Бей Вершительницу судеб!»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Молодцы, воины! Этот сброд нас не одолеет, покуда генерал Аше бдит над нами".</DefaultText>
+      <DefaultText>«Молодцы, воины! Этот сброд нас не одолеет, покуда генерал Аше бдит над нами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Всем приготовиться! Мы должны захватить Твердыню Часовых, пока сила на нашей стороне. За Грэйвена Аше!"</DefaultText>
+      <DefaultText>«Всем приготовиться! Мы должны захватить Твердыню Часовых, пока сила на нашей стороне. За Грэйвена Аше!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Это не наша драка, Вершитель. Ну их всех".</DefaultText>
-      <FemaleText>"Это не наша драка, Вершительница. Ну их всех".</FemaleText>
+      <DefaultText>«Это не наша драка, Вершитель. Ну их всех».</DefaultText>
+      <FemaleText>«Это не наша драка, Вершительница. Ну их всех».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Проклятье, нет! Мы все вместе должны противостоять Кайросу!"</DefaultText>
+      <DefaultText>«Проклятье, нет! Мы все вместе должны противостоять Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"За королеву и за Ярусы!"</DefaultText>
+      <DefaultText>«За королеву и за Ярусы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Иди, закончи начатое, северная шавка!"</DefaultText>
+      <DefaultText>«Иди, закончи начатое, северная шавка!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

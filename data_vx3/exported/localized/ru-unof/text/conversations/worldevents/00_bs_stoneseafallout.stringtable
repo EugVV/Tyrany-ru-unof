@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Готовьтесь к бою! И помните, что Вершитель — опасный враг!"</DefaultText>
-      <FemaleText>"Готовьтесь к бою! И помните, что Вершительница — опасный враг!"</FemaleText>
+      <DefaultText>«Готовьтесь к бою! И помните, что Вершитель — опасный враг!»</DefaultText>
+      <FemaleText>«Готовьтесь к бою! И помните, что Вершительница — опасный враг!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"За Грэйвена Аше!"</DefaultText>
+      <DefaultText>«За Грэйвена Аше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:камнепыты]Камнепыты[/url] отомстят за приму! Покажут силу племени!"</DefaultText>
+      <DefaultText>«[url=glossary:камнепыты]Камнепыты[/url] отомстят за приму! Покажут силу племени!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Рви-грызи-кусай! Кровь Вершителя проливай!"</DefaultText>
-      <FemaleText>"Рви-грызи-кусай! Кровь Вершительницы проливай!"</FemaleText>
+      <DefaultText>«Рви-грызи-кусай! Кровь Вершителя проливай!»</DefaultText>
+      <FemaleText>«Рви-грызи-кусай! Кровь Вершительницы проливай!»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

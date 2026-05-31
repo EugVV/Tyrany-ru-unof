@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Послание?"</DefaultText>
+      <DefaultText>«Послание?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
