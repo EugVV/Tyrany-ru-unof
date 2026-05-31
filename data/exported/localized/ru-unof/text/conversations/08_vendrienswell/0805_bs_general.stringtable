@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель! Защищай мост!"</DefaultText>
-      <FemaleText>"Вершительница! Защищай мост!"</FemaleText>
+      <DefaultText>«Вершитель! Защищай мост!»</DefaultText>
+      <FemaleText>«Вершительница! Защищай мост!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Они перешли реку. Убить их!"</DefaultText>
+      <DefaultText>«Они перешли реку. Убить их!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Будь начеку. Враг может ударить в любой момент".</DefaultText>
+      <DefaultText>«Будь начеку. Враг может ударить в любой момент».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я думал, что мне точно конец. Ступай вперед, Вершитель. Я тебе вряд ли пригожусь".</DefaultText>
-      <FemaleText>"Я думал, что мне точно конец. Ступай вперед, Вершительница. Я тебе вряд ли пригожусь".</FemaleText>
+      <DefaultText>«Я думал, что мне точно конец. Ступай вперед, Вершитель. Я тебе вряд ли пригожусь».</DefaultText>
+      <FemaleText>«Я думал, что мне точно конец. Ступай вперед, Вершительница. Я тебе вряд ли пригожусь».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Отлично сработано, Вершитель судеб. Мы удержим мост, остановив любого врага".</DefaultText>
-      <FemaleText>"Отлично сработано, Вершительница судеб. Мы удержим мост, остановив любого врага".</FemaleText>
+      <DefaultText>«Отлично сработано, Вершитель судеб. Мы удержим мост, остановив любого врага».</DefaultText>
+      <FemaleText>«Отлично сработано, Вершительница судеб. Мы удержим мост, остановив любого врага».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Не останавливаемся! Наступайте на деревню. Мы присоединимся, как только сможем".</DefaultText>
+      <DefaultText>«Не останавливаемся! Наступайте на деревню. Мы присоединимся, как только сможем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Это мясники Кайроса! Бежим!"</DefaultText>
+      <DefaultText>«Это мясники Кайроса! Бежим!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

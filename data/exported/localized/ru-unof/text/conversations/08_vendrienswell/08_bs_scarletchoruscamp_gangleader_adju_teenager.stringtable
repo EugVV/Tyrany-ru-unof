@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Тебе еще что-то надо? У меня кольца на следующий кон поставлены".</DefaultText>
+      <DefaultText>«Тебе еще что-то надо? У меня кольца на следующий кон поставлены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Моей ватаге и так досталось от твоего закона. Оставь нас в покое".</DefaultText>
+      <DefaultText>«Моей ватаге и так досталось от твоего закона. Оставь нас в покое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

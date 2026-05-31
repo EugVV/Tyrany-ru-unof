@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы заняты. Возвращайся позже".</DefaultText>
+      <DefaultText>«Мы заняты. Возвращайся позже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Как дела у моего любимого ученика?"</DefaultText>
-      <FemaleText>"Как дела у моей любимой ученицы?"</FemaleText>
+      <DefaultText>«Как дела у моего любимого ученика?»</DefaultText>
+      <FemaleText>«Как дела у моей любимой ученицы?»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
-      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+      <DefaultText>«Я бы хотел потренироваться».</DefaultText>
+      <FemaleText>«Я бы хотела потренироваться».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -26,13 +26,13 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Чем могу помочь, Вершитель?"</DefaultText>
-      <FemaleText>"Чем могу помочь, Вершительница?"</FemaleText>
+      <DefaultText>«Чем могу помочь, Вершитель?»</DefaultText>
+      <FemaleText>«Чем могу помочь, Вершительница?»</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Чему будем тренироваться сегодня, Вершитель? Ближний бой или дальний?"</DefaultText>
-      <FemaleText>"Чему будем тренироваться сегодня, Вершительница? Ближний бой или дальний?"</FemaleText>
+      <DefaultText>«Чему будем тренироваться сегодня, Вершитель? Ближний бой или дальний?»</DefaultText>
+      <FemaleText>«Чему будем тренироваться сегодня, Вершительница? Ближний бой или дальний?»</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -41,22 +41,22 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Рад встрече, Вершитель".</DefaultText>
-      <FemaleText>"Рад встрече, Вершительница".</FemaleText>
+      <DefaultText>«Рад встрече, Вершитель».</DefaultText>
+      <FemaleText>«Рад встрече, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ну что, потренируемся?"</DefaultText>
+      <DefaultText>«Ну что, потренируемся?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Одно слово — и мы начнем".</DefaultText>
+      <DefaultText>«Одно слово — и мы начнем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно".</DefaultText>
+      <DefaultText>«Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Чему будем тренироваться сегодня, Вершитель? Ближний бой или дальний?"</DefaultText>
-      <FemaleText>"Чему будем тренироваться сегодня, Вершительница? Ближний бой или дальний?"</FemaleText>
+      <DefaultText>«Чему будем тренироваться сегодня, Вершитель? Ближний бой или дальний?»</DefaultText>
+      <FemaleText>«Чему будем тренироваться сегодня, Вершительница? Ближний бой или дальний?»</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -76,52 +76,52 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ну что, потренируемся?"</DefaultText>
+      <DefaultText>«Ну что, потренируемся?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Одно слово — и мы начнем".</DefaultText>
+      <DefaultText>«Одно слово — и мы начнем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Я собираюсь надавать тебе оплеух, Вершитель. Исключительно в целях обучения, конечно".</DefaultText>
-      <FemaleText>"Я собираюсь надавать тебе оплеух, Вершительница. Исключительно в целях обучения, конечно".</FemaleText>
+      <DefaultText>«Я собираюсь надавать тебе оплеух, Вершитель. Исключительно в целях обучения, конечно».</DefaultText>
+      <FemaleText>«Я собираюсь надавать тебе оплеух, Вершительница. Исключительно в целях обучения, конечно».</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно".</DefaultText>
+      <DefaultText>«Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Не нужно слишком радоваться. Просто кое-что, чему я научился в свое время".</DefaultText>
+      <DefaultText>«Не нужно слишком радоваться. Просто кое-что, чему я научился в свое время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ну что, потренируемся?"</DefaultText>
+      <DefaultText>«Ну что, потренируемся?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Если Вершитель хочет поговорить с моими кулаками, то я с радостью предоставлю такую возможность".</DefaultText>
-      <FemaleText>"Если Вершительница хочет поговорить с моими кулаками, то я с радостью предоставлю такую возможность".</FemaleText>
+      <DefaultText>«Если Вершитель хочет поговорить с моими кулаками, то я с радостью предоставлю такую возможность».</DefaultText>
+      <FemaleText>«Если Вершительница хочет поговорить с моими кулаками, то я с радостью предоставлю такую возможность».</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно".</DefaultText>
+      <DefaultText>«Если твои костяшки не покрыты наростами сильнее, чем корень кипариса, то ты занимаешься недостаточно усердно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"У тебя сегодня прямо глаза горят, Вершитель".</DefaultText>
-      <FemaleText>"У тебя сегодня прямо глаза горят, Вершительница".</FemaleText>
+      <DefaultText>«У тебя сегодня прямо глаза горят, Вершитель».</DefaultText>
+      <FemaleText>«У тебя сегодня прямо глаза горят, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Приступим, да?"</DefaultText>
+      <DefaultText>«Приступим, да?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

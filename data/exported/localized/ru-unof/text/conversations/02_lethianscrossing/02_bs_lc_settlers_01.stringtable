@@ -6,72 +6,72 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы даже в своих домах не можем чувствовать себя в безопасности! Кто знает, что может случиться завтра?"</DefaultText>
+      <DefaultText>«Мы даже в своих домах не можем чувствовать себя в безопасности! Кто знает, что может случиться завтра?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Кто-нибудь должен положить конец всем этим смертям и насилию".</DefaultText>
+      <DefaultText>«Кто-нибудь должен положить конец всем этим смертям и насилию».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"С тех пор, как на них обрушился новый [url=glossary:эдикт]Эдикт[/url], сюда бегут люди с Гребня. Вот бедолаги".</DefaultText>
+      <DefaultText>«С тех пор, как на них обрушился новый [url=glossary:эдикт]Эдикт[/url], сюда бегут люди с Гребня. Вот бедолаги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Распутью Летианы конец. Где нам теперь искать безопасное место?"</DefaultText>
+      <DefaultText>«Распутью Летианы конец. Где нам теперь искать безопасное место?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Целая армия Орды исчезла в один миг… Как вообще такое возможно?"</DefaultText>
+      <DefaultText>«Целая армия Орды исчезла в один миг… Как вообще такое возможно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Слышал, что от Эдикта в Гребне погибло очень много Опальных".</DefaultText>
+      <DefaultText>«Слышал, что от Эдикта в Гребне погибло очень много Опальных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Советую навестить торговцев в поселении — у них всегда попадается что-то интересное".</DefaultText>
+      <DefaultText>«Советую навестить торговцев в поселении — у них всегда попадается что-то интересное».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Элдиан — наш настоящий предводитель. Поговори с ним, если тебе что-то нужно".</DefaultText>
+      <DefaultText>«Элдиан — наш настоящий предводитель. Поговори с ним, если тебе что-то нужно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Старые Стены опасны. Я не советую тебе заглядывать внутрь".</DefaultText>
+      <DefaultText>«Старые Стены опасны. Я не советую тебе заглядывать внутрь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"[url=glossary:распутье летианы]Распутье Летианы[/url] навсегда перед вами в долгу, Вершитель".</DefaultText>
-      <FemaleText>"[url=glossary:распутье летианы]Распутье Летианы[/url] навсегда перед вами в долгу, Вершительница".</FemaleText>
+      <DefaultText>«[url=glossary:распутье летианы]Распутье Летианы[/url] навсегда перед вами в долгу, Вершитель».</DefaultText>
+      <FemaleText>«[url=glossary:распутье летианы]Распутье Летианы[/url] навсегда перед вами в долгу, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Бой дорого нам обошелся, но он того стоил".</DefaultText>
+      <DefaultText>«Бой дорого нам обошелся, но он того стоил».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Нехилый у вас арсенал, Вершитель".</DefaultText>
-      <FemaleText>"Нехилый у вас арсенал, Вершительница".</FemaleText>
+      <DefaultText>«Нехилый у вас арсенал, Вершитель».</DefaultText>
+      <FemaleText>«Нехилый у вас арсенал, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мы все слышали истории о том, что Вершитель [Player Name] не из тех, у кого стоит становиться на пути".</DefaultText>
-      <FemaleText>"Мы все слышали истории о том, что Вершительница [Player Name] не из тех, у кого стоит становиться на пути".</FemaleText>
+      <DefaultText>«Мы все слышали истории о том, что Вершитель [Player Name] не из тех, у кого стоит становиться на пути».</DefaultText>
+      <FemaleText>«Мы все слышали истории о том, что Вершительница [Player Name] не из тех, у кого стоит становиться на пути».</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Не могу сказать, что мне по нраву кровопролитие, но меня радует, что гарнизона больше нет".</DefaultText>
+      <DefaultText>«Не могу сказать, что мне по нраву кровопролитие, но меня радует, что гарнизона больше нет».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"От нашей обороны ничего не осталось. Если мы останемся здесь, скоро нас сомнут".</DefaultText>
+      <DefaultText>«От нашей обороны ничего не осталось. Если мы останемся здесь, скоро нас сомнут».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

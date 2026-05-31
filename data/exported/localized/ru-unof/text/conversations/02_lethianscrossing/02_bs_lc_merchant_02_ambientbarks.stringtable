@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Кто-то видел эту вспышку света на Шпиле?"</DefaultText>
+      <DefaultText>«Кто-то видел эту вспышку света на Шпиле?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Говорят, зажегся не только наш Шпиль, но и другие Шпили в Ярусах. Интересно, что это может значить?"</DefaultText>
+      <DefaultText>«Говорят, зажегся не только наш Шпиль, но и другие Шпили в Ярусах. Интересно, что это может значить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Надеюсь, теперь в [url=glossary:распутье летианы]Распутье Летианы[/url] наконец-то вернется мир…"</DefaultText>
+      <DefaultText>«Надеюсь, теперь в [url=glossary:распутье летианы]Распутье Летианы[/url] наконец-то вернется мир…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Кто защитит наши лавки, если гарнизона больше нет?"</DefaultText>
+      <DefaultText>«Кто защитит наши лавки, если гарнизона больше нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Теперь, когда нас защищает [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], мне дышится свободней".</DefaultText>
+      <DefaultText>«Теперь, когда нас защищает [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], мне дышится свободней».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

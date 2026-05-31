@@ -21,18 +21,18 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Кого я вижу! Мясник Отголоска. Полагаю, ты исполняешь собственные приказы?"</DefaultText>
+      <DefaultText>«Кого я вижу! Мясник Отголоска. Полагаю, ты исполняешь собственные приказы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Захватив Отголосок, [url=glossary:опальные]Опальные[/url] смогут переломить ход этой войны".</DefaultText>
+      <DefaultText>«Захватив Отголосок, [url=glossary:опальные]Опальные[/url] смогут переломить ход этой войны».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Мы рады сражаться рядом с тобой, Вершитель судеб".</DefaultText>
-      <FemaleText>"Мы рады сражаться рядом с тобой, Вершительница судеб".</FemaleText>
+      <DefaultText>«Мы рады сражаться рядом с тобой, Вершитель судеб».</DefaultText>
+      <FemaleText>«Мы рады сражаться рядом с тобой, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -46,42 +46,42 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Эта осада не стоит наших усилий. Мы должны оккупировать эти земли, а не сражаться, чтобы вернуть их неизвестно кому".</DefaultText>
+      <DefaultText>«Эта осада не стоит наших усилий. Мы должны оккупировать эти земли, а не сражаться, чтобы вернуть их неизвестно кому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Голоса, Сирин, [url=glossary:каирн]Каирн[/url], а теперь еще и Тунон… Мне начинает казаться, что в одиночку Аше завершил бы войну быстрее".</DefaultText>
+      <DefaultText>«Голоса, Сирин, [url=glossary:каирн]Каирн[/url], а теперь еще и Тунон… Мне начинает казаться, что в одиночку Аше завершил бы войну быстрее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Хороший клятвопреступник — мертвый клятвопреступник, что бы по этому поводу ни думали в Хоре".</DefaultText>
+      <DefaultText>«Хороший клятвопреступник — мертвый клятвопреступник, что бы по этому поводу ни думали в Хоре».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Из южан выходят хорошие батраки, но больше они ни на что не годятся".</DefaultText>
+      <DefaultText>«Из южан выходят хорошие батраки, но больше они ни на что не годятся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Помни о вежливости, когда будешь говорить с Архонтом".</DefaultText>
+      <DefaultText>«Помни о вежливости, когда будешь говорить с Архонтом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Если ты и впрямь наделен мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] — сборище беспринципных головорезов".</DefaultText>
-      <FemaleText>"Если ты и впрямь наделена мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] — сборище беспринципных головорезов".</FemaleText>
+      <DefaultText>«Если ты и впрямь наделен мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] — сборище беспринципных головорезов».</DefaultText>
+      <FemaleText>«Если ты и впрямь наделена мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] — сборище беспринципных головорезов».</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Постарайся вести себя прилично в лагере".</DefaultText>
+      <DefaultText>«Постарайся вести себя прилично в лагере».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

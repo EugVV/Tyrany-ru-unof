@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Похоже, этого будет легко обобрать".</DefaultText>
+      <DefaultText>«Похоже, этого будет легко обобрать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Тихо! Ты что, не узнаешь Вершителя судеб Тунона?"</DefaultText>
-      <FemaleText>"Тихо! Ты что, не узнаешь Вершительницу судеб Тунона?"</FemaleText>
+      <DefaultText>«Тихо! Ты что, не узнаешь Вершителя судеб Тунона?»</DefaultText>
+      <FemaleText>«Тихо! Ты что, не узнаешь Вершительницу судеб Тунона?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>

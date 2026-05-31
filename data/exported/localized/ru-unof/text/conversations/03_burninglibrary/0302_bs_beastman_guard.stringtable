@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Человек не пройдет зверолюда. Нельзя видеть пойманную добычу".</DefaultText>
+      <DefaultText>«Человек не пройдет зверолюда. Нельзя видеть пойманную добычу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Назад. Уходи на обеих ногах".</DefaultText>
+      <DefaultText>«Назад. Уходи на обеих ногах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

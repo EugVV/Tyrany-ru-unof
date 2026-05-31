@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вытащи нас отсюда!"</DefaultText>
+      <DefaultText>«Вытащи нас отсюда!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:несломленные]Несломленные[/url] пытают нас без конца. Пожалуйста, выпусти нас!"</DefaultText>
+      <DefaultText>«[url=glossary:несломленные]Несломленные[/url] пытают нас без конца. Пожалуйста, выпусти нас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Генералом молю, помоги нам!"</DefaultText>
+      <DefaultText>«Генералом молю, помоги нам!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

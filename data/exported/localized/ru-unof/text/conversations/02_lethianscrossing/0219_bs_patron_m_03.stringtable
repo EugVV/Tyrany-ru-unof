@@ -6,67 +6,67 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Иногда не обязательно платить, чтобы рядом оказался приятный человек".</DefaultText>
+      <DefaultText>«Иногда не обязательно платить, чтобы рядом оказался приятный человек».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Представить не могу, каково бы мне было без Софии и Хозяйки. Тут тебе и друзья, и выпивка, и веселье".</DefaultText>
+      <DefaultText>«Представить не могу, каково бы мне было без Софии и Хозяйки. Тут тебе и друзья, и выпивка, и веселье».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Разве она не красотка? Кому нужны Тимо и Зотика, когда она лучше их вместе взятых?"</DefaultText>
+      <DefaultText>«Разве она не красотка? Кому нужны Тимо и Зотика, когда она лучше их вместе взятых?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Мне бы сейчас не помешало выпить".</DefaultText>
+      <DefaultText>«Мне бы сейчас не помешало выпить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ты погляди, какая она красавица… Я с ней на трезвую голову и говорить не могу!"</DefaultText>
+      <DefaultText>«Ты погляди, какая она красавица… Я с ней на трезвую голову и говорить не могу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Как видно, судьба мне жить в одиночестве. Хоть бы раз смелости хватило с ней заговорить, а не только пялиться попусту".</DefaultText>
+      <DefaultText>«Как видно, судьба мне жить в одиночестве. Хоть бы раз смелости хватило с ней заговорить, а не только пялиться попусту».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Это ты что, меня шлюхой назвал?"</DefaultText>
+      <DefaultText>«Это ты что, меня шлюхой назвал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что? Нет! Я просто… А… ладно…"</DefaultText>
+      <DefaultText>«Что? Нет! Я просто… А… ладно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Черт! Я что, снова вслух думаю?"</DefaultText>
+      <DefaultText>«Черт! Я что, снова вслух думаю?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ты… ты вообще понимаешь, что я каждое твое слово слышу? Я же рядом с тобой стою".</DefaultText>
+      <DefaultText>«Ты… ты вообще понимаешь, что я каждое твое слово слышу? Я же рядом с тобой стою».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ну что… завтра может конец света настать. Сплошные Эдикты повсюду… Правда же, она не скажет нет?"</DefaultText>
+      <DefaultText>«Ну что… завтра может конец света настать. Сплошные Эдикты повсюду… Правда же, она не скажет нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Выпить немного, для храбрости… Угроза Эдиктов, чтобы подстегнуть… И она обязательно скажет да!"</DefaultText>
+      <DefaultText>«Выпить немного, для храбрости… Угроза Эдиктов, чтобы подстегнуть… И она обязательно скажет да!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"И ведь можно было бы, правда? Но… нет".</DefaultText>
+      <DefaultText>«И ведь можно было бы, правда? Но… нет».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

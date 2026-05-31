@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:несломленные]Несломленные[/url] наполовину смелые, а наполовину глупые, раз разбили лагерь так близко к Старым Стенам".</DefaultText>
+      <DefaultText>«[url=glossary:несломленные]Несломленные[/url] наполовину смелые, а наполовину глупые, раз разбили лагерь так близко к Старым Стенам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Да, он Книгочей. Нет, Книгочеи не знакомы со всеми другими Книгочеями".</DefaultText>
+      <DefaultText>«Да, он Книгочей. Нет, Книгочеи не знакомы со всеми другими Книгочеями».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Что здесь делает Книгочей? Берегись тех, кто ворует слова, — не верь их лжи".</DefaultText>
+      <DefaultText>«Что здесь делает Книгочей? Берегись тех, кто ворует слова, — не верь их лжи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мистик в перьях пахнет гнездом скворца, горелым деревом, одиночеством и ложью".</DefaultText>
+      <DefaultText>«Мистик в перьях пахнет гнездом скворца, горелым деревом, одиночеством и ложью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Седобородым нечего делать у Старых Стен. Нам нельзя им доверять".</DefaultText>
+      <DefaultText>«Седобородым нечего делать у Старых Стен. Нам нельзя им доверять».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Здесь Книгочеи! Может, кто-то наконец-то сможет поддержать приличный разговор…"</DefaultText>
+      <DefaultText>«Здесь Книгочеи! Может, кто-то наконец-то сможет поддержать приличный разговор…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

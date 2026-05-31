@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"А-а… ох…"</DefaultText>
+      <DefaultText>«А-а… ох…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"О-ох… у-у…"</DefaultText>
+      <DefaultText>«О-ох… у-у…»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Видишь тот хлев? Пленники в нем одеты в цвета Несломленных".</DefaultText>
+      <DefaultText>«Видишь тот хлев? Пленники в нем одеты в цвета Несломленных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Этим пленникам повезло, что Голоса не пришел допрашивать их лично".</DefaultText>
+      <DefaultText>«Этим пленникам повезло, что Голоса не пришел допрашивать их лично».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пленники Опальных даже не представляют, как им повезло. Ведь их мог бы захватить Хор…"</DefaultText>
+      <DefaultText>«Пленники Опальных даже не представляют, как им повезло. Ведь их мог бы захватить Хор…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

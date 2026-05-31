@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Слава Голосам!"</DefaultText>
+      <DefaultText>«Слава Голосам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Эти ярусники не знают, как хорошо жить под правлением Кайроса".</DefaultText>
+      <DefaultText>«Эти ярусники не знают, как хорошо жить под правлением Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Интересно, Владыка следит за нами из своего тронного зала?"</DefaultText>
+      <DefaultText>«Интересно, Владыка следит за нами из своего тронного зала?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Когда-нибудь я доберусь до Города-Бастарда".</DefaultText>
+      <DefaultText>«Когда-нибудь я доберусь до Города-Бастарда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Посидишь со мной у костра? Не?"</DefaultText>
+      <DefaultText>«Посидишь со мной у костра? Не?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я больше боюсь Голосов, чем Кайроса".</DefaultText>
+      <DefaultText>«Я больше боюсь Голосов, чем Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,19 +6,19 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель! Тебе стоит на это взглянуть".</DefaultText>
-      <FemaleText>"Вершительница! Тебе стоит на это взглянуть".</FemaleText>
+      <DefaultText>«Вершитель! Тебе стоит на это взглянуть».</DefaultText>
+      <FemaleText>«Вершительница! Тебе стоит на это взглянуть».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что у нас тут?"</DefaultText>
+      <DefaultText>«Что у нас тут?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Этому Опальному не повезло. Кажется, он не дышит".
+      <DefaultText>«Этому Опальному не повезло. Кажется, он не дышит».
 
-"Странно — обычно войска Грэйвена Аше так просто не умирают".</DefaultText>
+«Странно — обычно войска Грэйвена Аше так просто не умирают».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,17 +28,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Отлично сработано, Вершитель. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее".</DefaultText>
-      <FemaleText>"Отлично сработано, Вершительница. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее".</FemaleText>
+      <DefaultText>«Отлично сработано, Вершитель. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее».</DefaultText>
+      <FemaleText>«Отлично сработано, Вершительница. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"У нас нет времени. Не будем мешкать".</DefaultText>
+      <DefaultText>«У нас нет времени. Не будем мешкать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Обыкновенно я бы согласился с тобой, но похоже, это важно".</DefaultText>
+      <DefaultText>«Обыкновенно я бы согласился с тобой, но похоже, это важно».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

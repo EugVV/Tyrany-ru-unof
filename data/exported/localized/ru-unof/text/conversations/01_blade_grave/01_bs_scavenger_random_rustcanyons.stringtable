@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Будь осторожен. Эти ветра могут снять кожу с костей".</DefaultText>
-      <FemaleText>"Будь осторожна. Эти ветра могут снять кожу с костей".</FemaleText>
+      <DefaultText>«Будь осторожен. Эти ветра могут снять кожу с костей».</DefaultText>
+      <FemaleText>«Будь осторожна. Эти ветра могут снять кожу с костей».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я сейчас не в настроении для разговоров".</DefaultText>
+      <DefaultText>«Я сейчас не в настроении для разговоров».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эти ущелья раньше были оживленным перевалочным пунктом. [url=glossary:эдикт]Эдикт[/url] Бурь все изменил…"</DefaultText>
+      <DefaultText>«Эти ущелья раньше были оживленным перевалочным пунктом. [url=glossary:эдикт]Эдикт[/url] Бурь все изменил…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] закончился? Невероятно".</DefaultText>
+      <DefaultText>«[url=glossary:эдикт]Эдикт[/url] закончился? Невероятно».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

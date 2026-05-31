@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Да благословит вас Владыка, Вершитель".</DefaultText>
-      <FemaleText>"Да благословит вас Владыка, Вершительница".</FemaleText>
+      <DefaultText>«Да благословит вас Владыка, Вершитель».</DefaultText>
+      <FemaleText>«Да благословит вас Владыка, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Хорошо, что вы здесь, Вершитель".</DefaultText>
-      <FemaleText>"Хорошо, что вы здесь, Вершительница".</FemaleText>
+      <DefaultText>«Хорошо, что вы здесь, Вершитель».</DefaultText>
+      <FemaleText>«Хорошо, что вы здесь, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Неплохой сегодня денек, да, босс?"</DefaultText>
+      <DefaultText>«Неплохой сегодня денек, да, босс?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,32 +26,32 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Вот и наш Архонт — тот, кто заглушил Голоса".</DefaultText>
+      <DefaultText>«Вот и наш Архонт — тот, кто заглушил Голоса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Хорошо звучит. Как погребальный звон".</DefaultText>
+      <DefaultText>«Хорошо звучит. Как погребальный звон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Приветствую, босс".</DefaultText>
+      <DefaultText>«Приветствую, босс».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Архонт. Какая приятная встреча".</DefaultText>
+      <DefaultText>«Архонт. Какая приятная встреча».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Смотри, куда прешь! Ой, это вы, Архонт".</DefaultText>
+      <DefaultText>«Смотри, куда прешь! Ой, это вы, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Славы и всех тебе благ, босс".</DefaultText>
+      <DefaultText>«Славы и всех тебе благ, босс».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

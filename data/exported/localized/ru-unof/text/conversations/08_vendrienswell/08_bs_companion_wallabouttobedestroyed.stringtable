@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Книгочеи погибли! Стена не выстоит перед латниками Аше!"</DefaultText>
+      <DefaultText>«Книгочеи погибли! Стена не выстоит перед латниками Аше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Умники пошли на корм воронью. Теперь [url=glossary:опальные]Опальные[/url] спокойно возьмут стену".</DefaultText>
+      <DefaultText>«Умники пошли на корм воронью. Теперь [url=glossary:опальные]Опальные[/url] спокойно возьмут стену».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мои коллеги погибли. Теперь [url=glossary:опальные]Опальные[/url] с легкостью вскроют нашу оборону".</DefaultText>
+      <DefaultText>«Мои коллеги погибли. Теперь [url=glossary:опальные]Опальные[/url] с легкостью вскроют нашу оборону».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Книгочеи мертвы. Теперь ничто не сможет помешать Опальным пробить эту стену. Разумеется, кроме самой стены".</DefaultText>
+      <DefaultText>«Книгочеи мертвы. Теперь ничто не сможет помешать Опальным пробить эту стену. Разумеется, кроме самой стены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

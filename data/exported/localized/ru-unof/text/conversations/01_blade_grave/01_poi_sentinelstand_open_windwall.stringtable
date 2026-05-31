@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Столько мощи… поразительно! Посмотрим, к чему это приведет".</DefaultText>
+      <DefaultText>«Столько мощи… поразительно! Посмотрим, к чему это приведет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Быстрее — пока нас не заметили!"</DefaultText>
+      <DefaultText>«Быстрее — пока нас не заметили!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"У нас как будто островок затишья посреди бури… любопытно".</DefaultText>
+      <DefaultText>«У нас как будто островок затишья посреди бури… любопытно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Вот это место. А теперь проверим, действует ли Инсигния Непоколебимости".</DefaultText>
+      <DefaultText>«Вот это место. А теперь проверим, действует ли Инсигния Непоколебимости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Эти ветра поразительно сильны, нам не обойтись без ограждающей магии, чтобы пройти дальше".</DefaultText>
+      <DefaultText>«Эти ветра поразительно сильны, нам не обойтись без ограждающей магии, чтобы пройти дальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,27 +36,27 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Это не обычная буря, нам понадобится защита, чтобы сквозь нее пробиться".</DefaultText>
+      <DefaultText>«Это не обычная буря, нам понадобится защита, чтобы сквозь нее пробиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Эта буря разнесет нас в клочья! Надо чем-то себя оградить, чтобы пройти".</DefaultText>
+      <DefaultText>«Эта буря разнесет нас в клочья! Надо чем-то себя оградить, чтобы пройти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Даже мне не под силу пропеть нам путь сквозь эту бурю. Надо что-то придумать!"</DefaultText>
+      <DefaultText>«Даже мне не под силу пропеть нам путь сквозь эту бурю. Надо что-то придумать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Не-не. Умру. Нужен мистический предмет, который называют артефактом, чтобы выдержать режущие когти ветра!"</DefaultText>
+      <DefaultText>«Не-не. Умру. Нужен мистический предмет, который называют артефактом, чтобы выдержать режущие когти ветра!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Без помощи нам сквозь эту бурю никак не прорваться!"</DefaultText>
+      <DefaultText>«Без помощи нам сквозь эту бурю никак не прорваться!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

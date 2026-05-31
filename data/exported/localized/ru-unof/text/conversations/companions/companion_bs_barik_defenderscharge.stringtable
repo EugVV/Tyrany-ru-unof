@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Позволь, о них позабочусь я".</DefaultText>
+      <DefaultText>«Позволь, о них позабочусь я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Сильнейшего оставь мне".</DefaultText>
+      <DefaultText>«Сильнейшего оставь мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я поведу наступление!"</DefaultText>
+      <DefaultText>«Я поведу наступление!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

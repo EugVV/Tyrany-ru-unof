@@ -6,127 +6,127 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Давно пора было дать отпор Кайросу".</DefaultText>
+      <DefaultText>«Давно пора было дать отпор Кайросу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Наша страна принадлежит народу — не регентам и не Кайросу".</DefaultText>
+      <DefaultText>«Наша страна принадлежит народу — не регентам и не Кайросу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Это шанс Оплота на возрождение!"</DefaultText>
+      <DefaultText>«Это шанс Оплота на возрождение!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Наверное, нужно будет разрушить этот форт, когда война закончится".</DefaultText>
+      <DefaultText>«Наверное, нужно будет разрушить этот форт, когда война закончится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Должно быть, у Аше кровь в венах закипает от того, что на этом месте стоим мы, а не он".</DefaultText>
+      <DefaultText>«Должно быть, у Аше кровь в венах закипает от того, что на этом месте стоим мы, а не он».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Слава Голосам!"</DefaultText>
+      <DefaultText>«Слава Голосам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Теперь, когда Эдикта больше нет, нам нужно будет усилить защиту".</DefaultText>
+      <DefaultText>«Теперь, когда Эдикта больше нет, нам нужно будет усилить защиту».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"С Несломленными покончено. Оплот наш".</DefaultText>
+      <DefaultText>«С Несломленными покончено. Оплот наш».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Наконец-то можно немного расслабиться и стряхнуть пыль с доспехов".</DefaultText>
+      <DefaultText>«Наконец-то можно немного расслабиться и стряхнуть пыль с доспехов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Удержать этот форт должно быть не так проблемно, как взять его".</DefaultText>
+      <DefaultText>«Удержать этот форт должно быть не так проблемно, как взять его».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Стрейдусу нужно было упасть на собственный меч, когда была такая возможность".</DefaultText>
+      <DefaultText>«Стрейдусу нужно было упасть на собственный меч, когда была такая возможность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Это долгожданная победа, да, Барик?"</DefaultText>
+      <DefaultText>«Это долгожданная победа, да, Барик?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Алой Фурии здесь не место".</DefaultText>
+      <DefaultText>«Алой Фурии здесь не место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Почему эта груда ржавых доспехов ходит за тобой?"</DefaultText>
+      <DefaultText>«Почему эта груда ржавых доспехов ходит за тобой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Мы славно поработали, Фуга".</DefaultText>
+      <DefaultText>«Мы славно поработали, Фуга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Амелию должны хорошо принять в Какофонии".</DefaultText>
+      <DefaultText>«Амелию должны хорошо принять в Какофонии».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Хотелось бы увидеть выражение на лице Аше теперь, когда его последний отпрыск мертв".</DefaultText>
+      <DefaultText>«Хотелось бы увидеть выражение на лице Аше теперь, когда его последний отпрыск мертв».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Амелия была хорошим солдатом. Мне ужасно ее жаль".</DefaultText>
+      <DefaultText>«Амелия была хорошим солдатом. Мне ужасно ее жаль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Надеюсь, ты знаешь, что делать с Амелией, Вершитель".</DefaultText>
-      <FemaleText>"Надеюсь, ты знаешь, что делать с Амелией, Вершительница".</FemaleText>
+      <DefaultText>«Надеюсь, ты знаешь, что делать с Амелией, Вершитель».</DefaultText>
+      <FemaleText>«Надеюсь, ты знаешь, что делать с Амелией, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Кто сказал, что Аше простит свою дочь?"</DefaultText>
+      <DefaultText>«Кто сказал, что Аше простит свою дочь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ты поступил с Амелией так, как должен был. Никто из нас тебя не винит".</DefaultText>
-      <FemaleText>"Ты поступила с Амелией так, как должна была. Никто из нас тебя не винит".</FemaleText>
+      <DefaultText>«Ты поступил с Амелией так, как должен был. Никто из нас тебя не винит».</DefaultText>
+      <FemaleText>«Ты поступила с Амелией так, как должна была. Никто из нас тебя не винит».</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Раз Амелия на нашей стороне, у нас будет преимущество перед Опальными".</DefaultText>
+      <DefaultText>«Раз Амелия на нашей стороне, у нас будет преимущество перед Опальными».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Не думал, что буду отдавать честь Вершителю".</DefaultText>
-      <FemaleText>"Не думал, что буду отдавать честь Вершительнице".</FemaleText>
+      <DefaultText>«Не думал, что буду отдавать честь Вершителю».</DefaultText>
+      <FemaleText>«Не думал, что буду отдавать честь Вершительнице».</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Наконец-то я могу набрать полную грудь воздуха без пыли!"</DefaultText>
+      <DefaultText>«Наконец-то я могу набрать полную грудь воздуха без пыли!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

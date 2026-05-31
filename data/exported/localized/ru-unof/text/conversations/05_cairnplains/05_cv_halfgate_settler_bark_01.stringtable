@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Полуврата никогда не восстановят. Землетрясение оставило на их месте зияющую дыру".</DefaultText>
+      <DefaultText>«Полуврата никогда не восстановят. Землетрясение оставило на их месте зияющую дыру».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"По ночам тут лучше не бродить. Можно не заметить обрыва".</DefaultText>
+      <DefaultText>«По ночам тут лучше не бродить. Можно не заметить обрыва».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Железный Очаг — это организованное с беспощадной строгостью место".</DefaultText>
+      <DefaultText>«Железный Очаг — это организованное с беспощадной строгостью место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] проявил большую щедрость, позволив нам продолжать исследования".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] проявил большую щедрость, позволив нам продолжать исследования».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:каирн]Каирн[/url] мертв. Надеюсь, наша гильдия сможет выжить…"</DefaultText>
+      <DefaultText>«[url=glossary:каирн]Каирн[/url] мертв. Надеюсь, наша гильдия сможет выжить…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Сущность Каирна сохранена, и мы уже становимся сильнее".</DefaultText>
+      <DefaultText>«Сущность Каирна сохранена, и мы уже становимся сильнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,82 +31,82 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Мы рады помогать Грэйвену Аше чем можем".</DefaultText>
+      <DefaultText>«Мы рады помогать Грэйвену Аше чем можем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Мой кузен стал Железным Ходоком. Правда, почему-то мне не удалось его здесь найти".</DefaultText>
+      <DefaultText>«Мой кузен стал Железным Ходоком. Правда, почему-то мне не удалось его здесь найти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Пусть мы потеряли Архонта Камня, но у нас все еще есть его учения".</DefaultText>
+      <DefaultText>«Пусть мы потеряли Архонта Камня, но у нас все еще есть его учения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Я уже чувствую себя сильнее, когда сущность Каирна с нами".</DefaultText>
+      <DefaultText>«Я уже чувствую себя сильнее, когда сущность Каирна с нами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Мы всегда были в первую очередь учеными. Но, возможно, нам придется измениться".</DefaultText>
+      <DefaultText>«Мы всегда были в первую очередь учеными. Но, возможно, нам придется измениться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Стать магическим кулаком этой армии — это ответственность, которую мы все воспринимаем всерьез".</DefaultText>
+      <DefaultText>«Стать магическим кулаком этой армии — это ответственность, которую мы все воспринимаем всерьез».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Если мы не можем ничему научиться из разума Каирна, то, по крайней мере, можем исследовать его тело".</DefaultText>
+      <DefaultText>«Если мы не можем ничему научиться из разума Каирна, то, по крайней мере, можем исследовать его тело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"У Каирна было трудно учиться. Но мы все равно нуждались в нем".</DefaultText>
+      <DefaultText>«У Каирна было трудно учиться. Но мы все равно нуждались в нем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Мне пора возвращаться к исследованиям".</DefaultText>
+      <DefaultText>«Мне пора возвращаться к исследованиям».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Я все еще надеюсь, что благодаря смерти Каирна у нас появится какая-то неожиданная возможность".</DefaultText>
+      <DefaultText>«Я все еще надеюсь, что благодаря смерти Каирна у нас появится какая-то неожиданная возможность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"[url=glossary:каирн]Каирн[/url] сделал из нашей примитивной магии нечто выдающееся".</DefaultText>
+      <DefaultText>«[url=glossary:каирн]Каирн[/url] сделал из нашей примитивной магии нечто выдающееся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Сущность Каирна такая же странная и непостоянная, как и его характер".</DefaultText>
+      <DefaultText>«Сущность Каирна такая же странная и непостоянная, как и его характер».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Это же ты провозгласил [url=glossary:эдикт]Эдикт[/url] Камня? Впечатляет".</DefaultText>
-      <FemaleText>"Это же ты провозгласила [url=glossary:эдикт]Эдикт[/url] Камня? Впечатляет".</FemaleText>
+      <DefaultText>«Это же ты провозгласил [url=glossary:эдикт]Эдикт[/url] Камня? Впечатляет».</DefaultText>
+      <FemaleText>«Это же ты провозгласила [url=glossary:эдикт]Эдикт[/url] Камня? Впечатляет».</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"[url=glossary:каирн]Каирн[/url] не всегда был предателем. Он вдохнул новую жизнь в нашу магию".</DefaultText>
+      <DefaultText>«[url=glossary:каирн]Каирн[/url] не всегда был предателем. Он вдохнул новую жизнь в нашу магию».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Не знаю, как нам будет без Каирна".</DefaultText>
+      <DefaultText>«Не знаю, как нам будет без Каирна».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Мы очень благодарны. Сущность Каирна у нас".</DefaultText>
+      <DefaultText>«Мы очень благодарны. Сущность Каирна у нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

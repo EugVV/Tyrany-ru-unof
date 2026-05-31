@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Нападающие выбили ворота! Ко мне!"</DefaultText>
+      <DefaultText>«Нападающие выбили ворота! Ко мне!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Враг здесь!"</DefaultText>
+      <DefaultText>«Враг здесь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Укрепления рухнули, дайте сигнал подкреплению!"</DefaultText>
+      <DefaultText>«Укрепления рухнули, дайте сигнал подкреплению!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Цитадель выстоит!"</DefaultText>
+      <DefaultText>«Цитадель выстоит!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

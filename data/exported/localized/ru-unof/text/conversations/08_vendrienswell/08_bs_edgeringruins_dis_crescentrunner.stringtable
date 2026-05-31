@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Скорее!"</DefaultText>
+      <DefaultText>«Скорее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Они схватили Драстуса!"</DefaultText>
+      <DefaultText>«Они схватили Драстуса!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нельзя медлить!"</DefaultText>
+      <DefaultText>«Нельзя медлить!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Спасибо за помощь, Вершитель".</DefaultText>
-      <FemaleText>"Спасибо за помощь, Вершительница".</FemaleText>
+      <DefaultText>«Спасибо за помощь, Вершитель».</DefaultText>
+      <FemaleText>«Спасибо за помощь, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Мы проучим этих клятвопреступников!"</DefaultText>
+      <DefaultText>«Мы проучим этих клятвопреступников!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Да пребудет с вами Мир Кайроса".</DefaultText>
+      <DefaultText>«Да пребудет с вами Мир Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

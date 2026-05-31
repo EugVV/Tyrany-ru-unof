@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ш ума шойти, какая ш ты милашка. Аж жуть берет от такой крашоты".</DefaultText>
+      <DefaultText>«Ш ума шойти, какая ш ты милашка. Аж жуть берет от такой крашоты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Хочешь… снять кого-нибудь, чтобы вмеште ее… того?"</DefaultText>
+      <DefaultText>«Хочешь… снять кого-нибудь, чтобы вмеште ее… того?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Эй! Это шо такое еще? Думаешь… ты тут круче вшех?"</DefaultText>
+      <DefaultText>«Эй! Это шо такое еще? Думаешь… ты тут круче вшех?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты часто тут бываешь?"</DefaultText>
+      <DefaultText>«Ты часто тут бываешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Хочешь чего-нибудь — или кого-нибудь — определенного? Потому что я с удовольствием".</DefaultText>
+      <DefaultText>«Хочешь чего-нибудь — или кого-нибудь — определенного? Потому что я с удовольствием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Все равно что с собой разговаривать… Где та блондинка? Может, хоть она со мной поговорит?"</DefaultText>
+      <DefaultText>«Все равно что с собой разговаривать… Где та блондинка? Может, хоть она со мной поговорит?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Эй! Пошлушай, чо я говорю! А ешли мы все помрем на этой войне? Что ешли другого раза не будет?!"</DefaultText>
+      <DefaultText>«Эй! Пошлушай, чо я говорю! А ешли мы все помрем на этой войне? Что ешли другого раза не будет?!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Сплошные Эдикты, куда ни плюнь… Новый Владыка… Может, лучше в отдельную комнату забраться и забыть обо всем?"</DefaultText>
+      <DefaultText>«Сплошные Эдикты, куда ни плюнь… Новый Владыка… Может, лучше в отдельную комнату забраться и забыть обо всем?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

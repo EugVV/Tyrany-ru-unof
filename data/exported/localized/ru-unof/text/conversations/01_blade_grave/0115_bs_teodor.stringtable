@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"У вас с Грэйвеном Аше уже был разговор о его дочери? Как же я не завидую такому заданию…"</DefaultText>
+      <DefaultText>«У вас с Грэйвеном Аше уже был разговор о его дочери? Как же я не завидую такому заданию…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Последний из регентов падет от нашей руки, забрав этот [url=glossary:эдикт]Эдикт[/url] с собой!"</DefaultText>
+      <DefaultText>«Последний из регентов падет от нашей руки, забрав этот [url=glossary:эдикт]Эдикт[/url] с собой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Твердыня Часовых наша! [url=glossary:опальные]Опальные[/url] не забудут этот славный миг".</DefaultText>
+      <DefaultText>«Твердыня Часовых наша! [url=glossary:опальные]Опальные[/url] не забудут этот славный миг».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что-то не так. Я это чувствую".</DefaultText>
+      <DefaultText>«Что-то не так. Я это чувствую».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

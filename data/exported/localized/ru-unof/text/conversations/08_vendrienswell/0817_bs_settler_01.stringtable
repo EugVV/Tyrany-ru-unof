@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Прошу тебя… внутри мои дети. Если ты хочешь убить меня, сделай это здесь, чтобы они не видели".</DefaultText>
+      <DefaultText>«Прошу тебя… внутри мои дети. Если ты хочешь убить меня, сделай это здесь, чтобы они не видели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,42 +16,42 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Когда-то это было тихое место".</DefaultText>
+      <DefaultText>«Когда-то это было тихое место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Как война может принести мир? Я не понимаю…"</DefaultText>
+      <DefaultText>«Как война может принести мир? Я не понимаю…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Когда мы сами управляли своей жизнью, было гораздо проще".</DefaultText>
+      <DefaultText>«Когда мы сами управляли своей жизнью, было гораздо проще».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Если северяне твердо решили сделать нас вассалами, то долго нам против них не продержаться".</DefaultText>
+      <DefaultText>«Если северяне твердо решили сделать нас вассалами, то долго нам против них не продержаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вокруг нас такой большой, огромный мир. На мой вкус — слишком большой".</DefaultText>
+      <DefaultText>«Вокруг нас такой большой, огромный мир. На мой вкус — слишком большой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я хочу только одного — чтобы [url=glossary:кайрос]Кайрос[/url] оставил нас в покое".</DefaultText>
+      <DefaultText>«Я хочу только одного — чтобы [url=glossary:кайрос]Кайрос[/url] оставил нас в покое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Наверное, в результате придется выбирать между Хором и смертью, верно?"</DefaultText>
+      <DefaultText>«Наверное, в результате придется выбирать между Хором и смертью, верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Пожалуйста, не бей меня".</DefaultText>
+      <DefaultText>«Пожалуйста, не бей меня».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

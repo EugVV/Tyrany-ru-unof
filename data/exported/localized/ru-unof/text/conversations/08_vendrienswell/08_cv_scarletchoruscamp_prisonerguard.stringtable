@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Без разрешения Пятого Глаза к пленникам подходить нельзя!"</DefaultText>
+      <DefaultText>«Без разрешения Пятого Глаза к пленникам подходить нельзя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Отойди от пленника!"</DefaultText>
+      <DefaultText>«Отойди от пленника!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Можешь подойти к пленнику".</DefaultText>
+      <DefaultText>«Можешь подойти к пленнику».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Солдат, пусть Вершитель судеб побеседует с нашим уловом".</DefaultText>
-      <FemaleText>"Солдат, пусть Вершительница судеб побеседует с нашим уловом".</FemaleText>
+      <DefaultText>«Солдат, пусть Вершитель судеб побеседует с нашим уловом».</DefaultText>
+      <FemaleText>«Солдат, пусть Вершительница судеб побеседует с нашим уловом».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Хорошо".</DefaultText>
+      <DefaultText>«Хорошо».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

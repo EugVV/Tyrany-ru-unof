@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Их привлекают кристаллы!"</DefaultText>
+      <DefaultText>«Их привлекают кристаллы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Погибели подбираются ближе, готовятся напасть. Не могут устоять перед соблазном Зубов Старейшин".</DefaultText>
+      <DefaultText>«Погибели подбираются ближе, готовятся напасть. Не могут устоять перед соблазном Зубов Старейшин».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Засада. Эти кристаллы — приманка для погибелей!"</DefaultText>
+      <DefaultText>«Засада. Эти кристаллы — приманка для погибелей!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Кристаллы их очень беспокоят и раздражают".</DefaultText>
+      <DefaultText>«Кристаллы их очень беспокоят и раздражают».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Кристаллы привлекают погибелей!"</DefaultText>
+      <DefaultText>«Кристаллы привлекают погибелей!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Этим долбаным погибелям лучше держаться подальше от наших кристаллов".</DefaultText>
+      <DefaultText>«Этим долбаным погибелям лучше держаться подальше от наших кристаллов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,8 +41,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Должен гордиться тем, что прошел Обряд Отбора. Такое испытание отделяет лидеров от щенков".</DefaultText>
-      <FemaleText>"Должна гордиться тем, что прошла Обряд Отбора. Такое испытание отделяет лидеров от щенков".</FemaleText>
+      <DefaultText>«Должен гордиться тем, что прошел Обряд Отбора. Такое испытание отделяет лидеров от щенков».</DefaultText>
+      <FemaleText>«Должна гордиться тем, что прошла Обряд Отбора. Такое испытание отделяет лидеров от щенков».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

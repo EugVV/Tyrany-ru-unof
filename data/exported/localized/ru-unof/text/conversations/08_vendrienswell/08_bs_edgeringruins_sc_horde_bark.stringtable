@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Умираю от голода. Пайки испортились еще несколько недель назад".</DefaultText>
+      <DefaultText>«Умираю от голода. Пайки испортились еще несколько недель назад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Это явно лучше, чем пахать землю в Лазури".</DefaultText>
+      <DefaultText>«Это явно лучше, чем пахать землю в Лазури».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Никогда не доводилось бывать на Севере, но могу за него жизнь отдать".</DefaultText>
+      <DefaultText>«Никогда не доводилось бывать на Севере, но могу за него жизнь отдать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эти таблетки просто отвратительные на вкус".</DefaultText>
+      <DefaultText>«Эти таблетки просто отвратительные на вкус».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ни разу не довелось увидеть, чтобы Пятый Глаз мигнул. А тебе?"</DefaultText>
+      <DefaultText>«Ни разу не довелось увидеть, чтобы Пятый Глаз мигнул. А тебе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Подумай о той добыче, которую мы упускаем, пока чешем тут свои зады".</DefaultText>
+      <DefaultText>«Подумай о той добыче, которую мы упускаем, пока чешем тут свои зады».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Боюсь, мои кишки не выдержат еще один месяц осады".</DefaultText>
+      <DefaultText>«Боюсь, мои кишки не выдержат еще один месяц осады».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

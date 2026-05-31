@@ -13,13 +13,13 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Чем могу помочь, Вершитель?"</DefaultText>
-      <FemaleText>"Чем могу помочь, Вершительница?"</FemaleText>
+      <DefaultText>«Чем могу помочь, Вершитель?»</DefaultText>
+      <FemaleText>«Чем могу помочь, Вершительница?»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
-      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+      <DefaultText>«Я бы хотел потренироваться».</DefaultText>
+      <FemaleText>«Я бы хотела потренироваться».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мы заняты. Возвращайся позже".</DefaultText>
+      <DefaultText>«Мы заняты. Возвращайся позже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Мне это надоело. Займись лучше моим обучением".</DefaultText>
+      <DefaultText>«Мне это надоело. Займись лучше моим обучением».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,8 +88,8 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Наконец из его взгляда уходит напряжение, губы растягиваются в ухмылке. "Ты мне нравишься, Вершитель. Чем я могу быть тебе полезен?"</DefaultText>
-      <FemaleText>Наконец из его взгляда уходит напряжение, губы растягиваются в ухмылке. "Ты мне нравишься, Вершительница. Чем я могу быть тебе полезен?"</FemaleText>
+      <DefaultText>Наконец из его взгляда уходит напряжение, губы растягиваются в ухмылке. «Ты мне нравишься, Вершитель. Чем я могу быть тебе полезен?»</DefaultText>
+      <FemaleText>Наконец из его взгляда уходит напряжение, губы растягиваются в ухмылке. «Ты мне нравишься, Вершительница. Чем я могу быть тебе полезен?»</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>

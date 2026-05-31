@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Скорее к восточным воротам, пока мы их удерживаем!"</DefaultText>
+      <DefaultText>«Скорее к восточным воротам, пока мы их удерживаем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Слышал это? Враги у западных ворот!"</DefaultText>
-      <FemaleText>"Слышала это? Враги у западных ворот!"</FemaleText>
+      <DefaultText>«Слышал это? Враги у западных ворот!»</DefaultText>
+      <FemaleText>«Слышала это? Враги у западных ворот!»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Подкрепления врага идут с севера! Нет времени медлить!"</DefaultText>
+      <DefaultText>«Подкрепления врага идут с севера! Нет времени медлить!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Подкрепления, за нами!"</DefaultText>
+      <DefaultText>«Подкрепления, за нами!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

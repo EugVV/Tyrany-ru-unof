@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Жаль, мне не удалось полюбоваться на бойню. Ты хорошо поработал, Вершитель судеб".</DefaultText>
-      <FemaleText>"Жаль, мне не удалось полюбоваться на бойню. Ты хорошо поработала, Вершительница судеб".</FemaleText>
+      <DefaultText>«Жаль, мне не удалось полюбоваться на бойню. Ты хорошо поработал, Вершитель судеб».</DefaultText>
+      <FemaleText>«Жаль, мне не удалось полюбоваться на бойню. Ты хорошо поработала, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мой дом — там, где сейчас находится легион".</DefaultText>
+      <DefaultText>«Мой дом — там, где сейчас находится легион».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Враги Кайроса на своей шкуре почувствуют остроту Опальных клинков".</DefaultText>
+      <DefaultText>«Враги Кайроса на своей шкуре почувствуют остроту Опальных клинков».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Надеюсь, каждый из нас погибнет в честном бою".</DefaultText>
+      <DefaultText>«Надеюсь, каждый из нас погибнет в честном бою».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

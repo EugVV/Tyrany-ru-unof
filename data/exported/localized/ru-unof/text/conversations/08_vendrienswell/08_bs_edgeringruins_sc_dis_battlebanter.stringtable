@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне все равно, почему [url=glossary:алый хор]Алый Хор[/url] подошел так поздно. Пусть об этом думает [url=glossary:грэйвен аше]Грэйвен Аше[/url]".</DefaultText>
+      <DefaultText>«Мне все равно, почему [url=glossary:алый хор]Алый Хор[/url] подошел так поздно. Пусть об этом думает [url=glossary:грэйвен аше]Грэйвен Аше[/url]».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

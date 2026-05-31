@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Генерал… Генерал! Что они с вами сделали?"</DefaultText>
+      <DefaultText>«Генерал… Генерал! Что они с вами сделали?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,28 +21,28 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Север запомнит это оскорбление!"</DefaultText>
+      <DefaultText>«Север запомнит это оскорбление!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Рада, что вы с нами, Архонт".</DefaultText>
+      <DefaultText>«Рада, что вы с нами, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Нам нужен сильный лидер, и это относится к Аше тоже".</DefaultText>
+      <DefaultText>«Нам нужен сильный лидер, и это относится к Аше тоже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Подумай только о нашем героическом возвращении на Север!"</DefaultText>
+      <DefaultText>«Подумай только о нашем героическом возвращении на Север!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вершитель. У меня много работы. Поговори с Аше, если тебе что-то нужно".</DefaultText>
-      <FemaleText>"Вершительница. У меня много работы. Поговори с Аше, если тебе что-то нужно".</FemaleText>
+      <DefaultText>«Вершитель. У меня много работы. Поговори с Аше, если тебе что-то нужно».</DefaultText>
+      <FemaleText>«Вершительница. У меня много работы. Поговори с Аше, если тебе что-то нужно».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я смогу… это выдержать".</DefaultText>
+      <DefaultText>«Я смогу… это выдержать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,22 +61,22 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Такое ощущение, что мое тело гниет".</DefaultText>
+      <DefaultText>«Такое ощущение, что мое тело гниет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Сколько еще терпеть эту боль?"</DefaultText>
+      <DefaultText>«Сколько еще терпеть эту боль?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Аше… если бы вы могли нам помочь…"</DefaultText>
+      <DefaultText>«Аше… если бы вы могли нам помочь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Аше! Мы страдаем без вас!"</DefaultText>
+      <DefaultText>«Аше! Мы страдаем без вас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я едва могу выдержать вес своего доспеха".</DefaultText>
+      <DefaultText>«Я едва могу выдержать вес своего доспеха».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

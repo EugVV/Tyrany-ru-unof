@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы в ловушке! Я очень хорошо знаю это чувство".</DefaultText>
+      <DefaultText>«Мы в ловушке! Я очень хорошо знаю это чувство».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Вернемся той же дорогой? Как бы не так…"</DefaultText>
+      <DefaultText>«Вернемся той же дорогой? Как бы не так…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Сюда! Здесь появился выход".</DefaultText>
+      <DefaultText>«Сюда! Здесь появился выход».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Каждый раз, когда море затопляет гавань, где-то неподалеку возникает еще одна".</DefaultText>
+      <DefaultText>«Каждый раз, когда море затопляет гавань, где-то неподалеку возникает еще одна».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Нравится копать. Нравится снова и снова скрести-ковырять землю, глубоко погружая когти. Но не могу прокопать путь обратно через сплошной камень. Ага?"</DefaultText>
+      <DefaultText>«Нравится копать. Нравится снова и снова скрести-ковырять землю, глубоко погружая когти. Но не могу прокопать путь обратно через сплошной камень. Ага?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ну что же, этим путем мы уже не вернемся, если только не найдем способ снова его открыть…"</DefaultText>
+      <DefaultText>«Ну что же, этим путем мы уже не вернемся, если только не найдем способ снова его открыть…»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

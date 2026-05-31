@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] победит! Я ни о чем не жалею".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] победит! Я ни о чем не жалею».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,37 +16,37 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Разве Тунон отправил бы тебя на фронт, если бы доверял Архонтам?"</DefaultText>
+      <DefaultText>«Разве Тунон отправил бы тебя на фронт, если бы доверял Архонтам?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты очень далеко от суда, Вершитель".</DefaultText>
-      <FemaleText>"Ты очень далеко от суда, Вершительница".</FemaleText>
+      <DefaultText>«Ты очень далеко от суда, Вершитель».</DefaultText>
+      <FemaleText>«Ты очень далеко от суда, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Что бы ты ни думал, Кайросу не сломить нашу волю".</DefaultText>
-      <FemaleText>"Что бы ты ни думала, Кайросу не сломить нашу волю".</FemaleText>
+      <DefaultText>«Что бы ты ни думал, Кайросу не сломить нашу волю».</DefaultText>
+      <FemaleText>«Что бы ты ни думала, Кайросу не сломить нашу волю».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Отголосок… я буду скучать по этому месту, когда ты покончишь с ним".</DefaultText>
+      <DefaultText>«Отголосок… я буду скучать по этому месту, когда ты покончишь с ним».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Больше всех от этой осады пострадали прислужники Кайроса".</DefaultText>
+      <DefaultText>«Больше всех от этой осады пострадали прислужники Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Почему бы тебе не сбежать к хозяину, поджав хвост?"</DefaultText>
+      <DefaultText>«Почему бы тебе не сбежать к хозяину, поджав хвост?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] с тобой еще не закончила".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] с тобой еще не закончила».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

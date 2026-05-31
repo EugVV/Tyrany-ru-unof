@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Руки прочь от артефакта. Смотри, но не трогай".</DefaultText>
+      <DefaultText>«Руки прочь от артефакта. Смотри, но не трогай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я ничем не могу тебе помочь, Вершитель судеб".</DefaultText>
-      <FemaleText>"Я ничем не могу тебе помочь, Вершительница судеб".</FemaleText>
+      <DefaultText>«Я ничем не могу тебе помочь, Вершитель судеб».</DefaultText>
+      <FemaleText>«Я ничем не могу тебе помочь, Вершительница судеб».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

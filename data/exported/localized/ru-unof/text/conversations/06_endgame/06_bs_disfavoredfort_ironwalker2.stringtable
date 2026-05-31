@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Иногда у меня кружится голова".</DefaultText>
+      <DefaultText>«Иногда у меня кружится голова».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Может, слишком много раз мне по голове попадали".</DefaultText>
+      <DefaultText>«Может, слишком много раз мне по голове попадали».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] всегда вылечивает меня, но не всегда я чувствую себя так же, как раньше".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] всегда вылечивает меня, но не всегда я чувствую себя так же, как раньше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мы уже встречались? Может, во время завоевания?"</DefaultText>
+      <DefaultText>«Мы уже встречались? Может, во время завоевания?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Иногда я забываю, как долго мы уже воюем".</DefaultText>
+      <DefaultText>«Иногда я забываю, как долго мы уже воюем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

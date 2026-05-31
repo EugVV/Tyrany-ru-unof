@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Идем скорей, у нас проблемы на утесе. Они захватили командира!"</DefaultText>
+      <DefaultText>«Идем скорей, у нас проблемы на утесе. Они захватили командира!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

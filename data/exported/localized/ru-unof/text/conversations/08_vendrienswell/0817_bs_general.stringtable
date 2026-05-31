@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Они здесь! Бегите! Скорее!"</DefaultText>
+      <DefaultText>«Они здесь! Бегите! Скорее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Солдаты Кайроса уже здесь!"</DefaultText>
+      <DefaultText>«Солдаты Кайроса уже здесь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не защитит нас. Нужно бежать!"</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не защитит нас. Нужно бежать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Не отступать! Защитим деревню".</DefaultText>
+      <DefaultText>«Не отступать! Защитим деревню».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

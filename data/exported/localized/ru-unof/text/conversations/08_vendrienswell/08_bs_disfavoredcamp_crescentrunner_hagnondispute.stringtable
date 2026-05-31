@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Слухи расходятся быстро, Вершитель".</DefaultText>
-      <FemaleText>"Слухи расходятся быстро, Вершительница".</FemaleText>
+      <DefaultText>«Слухи расходятся быстро, Вершитель».</DefaultText>
+      <FemaleText>«Слухи расходятся быстро, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Спасибо, Вершитель".</DefaultText>
-      <FemaleText>"Спасибо, Вершительница".</FemaleText>
+      <DefaultText>«Спасибо, Вершитель».</DefaultText>
+      <FemaleText>«Спасибо, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Этот торговец, похоже, и сам не знал, что ему досталось. Хорошо, мы успели первыми".</DefaultText>
+      <DefaultText>«Этот торговец, похоже, и сам не знал, что ему досталось. Хорошо, мы успели первыми».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Они прорвали периметр! Они уже здесь, в донжоне!"</DefaultText>
+      <DefaultText>«Они прорвали периметр! Они уже здесь, в донжоне!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,33 +16,33 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Клинки наголо! Дальше мы не отступим!"</DefaultText>
+      <DefaultText>«Клинки наголо! Дальше мы не отступим!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Бейтесь! Не сдавайтесь!"</DefaultText>
+      <DefaultText>«Бейтесь! Не сдавайтесь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Вершитель уже внутри? Так чего вы тут встали?!"</DefaultText>
-      <FemaleText>"Вершительница уже внутри? Так чего вы тут встали?!"</FemaleText>
+      <DefaultText>«Вершитель уже внутри? Так чего вы тут встали?!»</DefaultText>
+      <FemaleText>«Вершительница уже внутри? Так чего вы тут встали?!»</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Идиоты, вы пропустили Вершителя в донжон!"</DefaultText>
-      <FemaleText>"Идиоты, вы пропустили Вершительницу в донжон!"</FemaleText>
+      <DefaultText>«Идиоты, вы пропустили Вершителя в донжон!»</DefaultText>
+      <FemaleText>«Идиоты, вы пропустили Вершительницу в донжон!»</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Сомкнуть щиты! Держать строй!"</DefaultText>
+      <DefaultText>«Сомкнуть щиты! Держать строй!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Как Вершителю удалось пройти так далеко?"</DefaultText>
-      <FemaleText>"Как Вершительнице удалось пройти так далеко?"</FemaleText>
+      <DefaultText>«Как Вершителю удалось пройти так далеко?»</DefaultText>
+      <FemaleText>«Как Вершительнице удалось пройти так далеко?»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,98 +6,98 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Прошу простить за настойчивость, Вершитель". Он быстро уходит.</DefaultText>
-      <FemaleText>"Прошу простить за настойчивость, Вершительница". Он быстро уходит.</FemaleText>
+      <DefaultText>«Прошу простить за настойчивость, Вершитель». Он быстро уходит.</DefaultText>
+      <FemaleText>«Прошу простить за настойчивость, Вершительница». Он быстро уходит.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вершитель судеб! Как я рад, что нашел тебя".</DefaultText>
-      <FemaleText>"Вершительница судеб! Как я рад, что нашел тебя".</FemaleText>
+      <DefaultText>«Вершитель судеб! Как я рад, что нашел тебя».</DefaultText>
+      <FemaleText>«Вершительница судеб! Как я рад, что нашел тебя».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Что, снова задание от Бледена Марка?"</DefaultText>
+      <DefaultText>«Что, снова задание от Бледена Марка?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"О нет, ничего подобного. Это… личная просьба".</DefaultText>
+      <DefaultText>«О нет, ничего подобного. Это… личная просьба».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Что тебе нужно?"</DefaultText>
+      <DefaultText>«Что тебе нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я слышал, Арасон попросил тебя отыскать Вечную Чернильницу?"</DefaultText>
+      <DefaultText>«Я слышал, Арасон попросил тебя отыскать Вечную Чернильницу?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ты слышал верно".</DefaultText>
+      <DefaultText>«Ты слышал верно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты видишь, как бедно мы живем". Он обводит рукой вокруг. "Эта реликвия нужна Арасону лишь для себя одного, он не станет делиться с нами. Но если бы все [Plainsgate] стали ее хозяевами, доля денег, вырученных с продажи чернил Книгочеям досталась бы каждому из нас, включая Арасона".</DefaultText>
+      <DefaultText>«Ты видишь, как бедно мы живем». Он обводит рукой вокруг. «Эта реликвия нужна Арасону лишь для себя одного, он не станет делиться с нами. Но если бы все [Plainsgate] стали ее хозяевами, доля денег, вырученных с продажи чернил Книгочеям досталась бы каждому из нас, включая Арасона».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я подумаю".</DefaultText>
+      <DefaultText>«Я подумаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Спасибо, что выслушал, Вершитель судеб".</DefaultText>
-      <FemaleText>"Спасибо, что выслушала, Вершительница судеб".</FemaleText>
+      <DefaultText>«Спасибо, что выслушал, Вершитель судеб».</DefaultText>
+      <FemaleText>«Спасибо, что выслушала, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Полагаю, ты хочешь предложить больше?"</DefaultText>
+      <DefaultText>«Полагаю, ты хочешь предложить больше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"К сожалению, нет. Ни я, ни кто-либо другой не сможет предложить больше, чем Арасон".</DefaultText>
+      <DefaultText>«К сожалению, нет. Ни я, ни кто-либо другой не сможет предложить больше, чем Арасон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Исчезни с глаз моих".</DefaultText>
+      <DefaultText>«Исчезни с глаз моих».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Быстро тут слухи расходятся".</DefaultText>
+      <DefaultText>«Быстро тут слухи расходятся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ты — Вершитель судеб. А [Plainsgate] — место такое. Что бы ты ни сказал или сделал — об этом узнают сразу".</DefaultText>
-      <FemaleText>"Ты — Вершительница судеб. А [Plainsgate] — место такое. Что бы ты ни сказала или сделала — об этом узнают сразу".</FemaleText>
+      <DefaultText>«Ты — Вершитель судеб. А [Plainsgate] — место такое. Что бы ты ни сказал или сделал — об этом узнают сразу».</DefaultText>
+      <FemaleText>«Ты — Вершительница судеб. А [Plainsgate] — место такое. Что бы ты ни сказала или сделала — об этом узнают сразу».</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"И это дает тебе право без спросу лезть к Вершителю судеб?"</DefaultText>
-      <FemaleText>"И это дает тебе право без спросу лезть к Вершительнице судеб?"</FemaleText>
+      <DefaultText>«И это дает тебе право без спросу лезть к Вершителю судеб?»</DefaultText>
+      <FemaleText>«И это дает тебе право без спросу лезть к Вершительнице судеб?»</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я не хотел тебя оскорбить!" Он поднимает руки. "Просто думал предложить… альтернативу".</DefaultText>
+      <DefaultText>«Я не хотел тебя оскорбить!» Он поднимает руки. «Просто думал предложить… альтернативу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ты загораживаешь путь".</DefaultText>
+      <DefaultText>«Ты загораживаешь путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Выслушай меня, Вершитель! Прошу, это ненадолго".</DefaultText>
-      <FemaleText>"Выслушай меня, Вершительница! Прошу, это ненадолго".</FemaleText>
+      <DefaultText>«Выслушай меня, Вершитель! Прошу, это ненадолго».</DefaultText>
+      <FemaleText>«Выслушай меня, Вершительница! Прошу, это ненадолго».</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Несмотря на постоянную дрожь земли, я могу сказать, что теперь, когда Хора больше нет, все начинает приходить в порядок". Мужчина жестом подзывает вас поближе. "Будет ли у спасителя нашего городка минутка для скромного поселенца?"</DefaultText>
+      <DefaultText>«Несмотря на постоянную дрожь земли, я могу сказать, что теперь, когда Хора больше нет, все начинает приходить в порядок». Мужчина жестом подзывает вас поближе. «Будет ли у спасителя нашего городка минутка для скромного поселенца?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

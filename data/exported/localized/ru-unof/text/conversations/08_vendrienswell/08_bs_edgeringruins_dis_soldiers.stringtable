@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Просто возмутительно, что нам приходится делить поле боя со всем этим сбродом из Алого Хора".</DefaultText>
+      <DefaultText>«Просто возмутительно, что нам приходится делить поле боя со всем этим сбродом из Алого Хора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Слава Грэйвену Аше! Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Грэйвену Аше! Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если кто-то из Хора будет доставлять хлопоты, дайте мне знать — я готов проломить пару черепов".</DefaultText>
+      <DefaultText>«Если кто-то из Хора будет доставлять хлопоты, дайте мне знать — я готов проломить пару черепов».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

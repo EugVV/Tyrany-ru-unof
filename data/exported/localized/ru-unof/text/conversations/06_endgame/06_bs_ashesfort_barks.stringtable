@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Добро пожаловать в Железный Очаг".</DefaultText>
+      <DefaultText>«Добро пожаловать в Железный Очаг».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы рады вас видеть, Вершитель. Надеюсь, вы действовали от имени Опальных в ваших путешествиях".</DefaultText>
-      <FemaleText>"Мы рады вас видеть, Вершительница. Надеюсь, вы действовали от имени Опальных в ваших путешествиях".</FemaleText>
+      <DefaultText>«Мы рады вас видеть, Вершитель. Надеюсь, вы действовали от имени Опальных в ваших путешествиях».</DefaultText>
+      <FemaleText>«Мы рады вас видеть, Вершительница. Надеюсь, вы действовали от имени Опальных в ваших путешествиях».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Бей левой! Сильнее!"</DefaultText>
+      <DefaultText>«Бей левой! Сильнее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершитель".</DefaultText>
-      <FemaleText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершительница".</FemaleText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершитель».</DefaultText>
+      <FemaleText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

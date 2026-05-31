@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"На нас нападают бичеватели — не недооценивай их!"</DefaultText>
+      <DefaultText>«На нас нападают бичеватели — не недооценивай их!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я не вижу ни шей, ни глаз… куда мне целиться?"</DefaultText>
+      <DefaultText>«Я не вижу ни шей, ни глаз… куда мне целиться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Слышу пронзительную песнь погибели. Настало время охоты".</DefaultText>
+      <DefaultText>«Слышу пронзительную песнь погибели. Настало время охоты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Готовьтесь — к нам приближаются бичеватели".</DefaultText>
+      <DefaultText>«Готовьтесь — к нам приближаются бичеватели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Бичеватели! Вечно нам не везет…"</DefaultText>
+      <DefaultText>«Бичеватели! Вечно нам не везет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Погибели у Старых Стен! Дело плохо…"</DefaultText>
+      <DefaultText>«Погибели у Старых Стен! Дело плохо…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

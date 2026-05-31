@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"За мной, друзья!"</DefaultText>
+      <DefaultText>«За мной, друзья!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

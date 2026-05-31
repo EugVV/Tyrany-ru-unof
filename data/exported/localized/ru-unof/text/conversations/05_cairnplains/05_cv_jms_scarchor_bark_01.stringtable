@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Кровь Опальных характерна тем, что ее очень легко пролить. Позволь, я покажу".</DefaultText>
+      <DefaultText>«Кровь Опальных характерна тем, что ее очень легко пролить. Позволь, я покажу».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

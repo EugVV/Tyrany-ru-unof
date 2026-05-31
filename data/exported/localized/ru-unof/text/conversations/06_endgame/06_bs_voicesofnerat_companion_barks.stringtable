@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Стань частью нас, ничтожный червь!"</DefaultText>
+      <DefaultText>«Стань частью нас, ничтожный червь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Стань частью нас, ничтожный червь!"</DefaultText>
+      <DefaultText>«Стань частью нас, ничтожный червь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Да… подчинись".</DefaultText>
+      <DefaultText>«Да… подчинись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что… ты со мной сделал?"</DefaultText>
-      <FemaleText>"Что… ты со мной сделала?"</FemaleText>
+      <DefaultText>«Что… ты со мной сделал?»</DefaultText>
+      <FemaleText>«Что… ты со мной сделала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"А-а-а-а-а!"</DefaultText>
+      <DefaultText>«А-а-а-а-а!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Да… подчинись".</DefaultText>
+      <DefaultText>«Да… подчинись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ты ничего не сделаешь нашим личностям".</DefaultText>
+      <DefaultText>«Ты ничего не сделаешь нашим личностям».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Изыди!"</DefaultText>
+      <DefaultText>«Изыди!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

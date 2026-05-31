@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Улучшенная версия "Удара щитом" с повышенным дробящим уроном и дополнительным эффектом оглушения.</DefaultText>
+      <DefaultText>Улучшенная версия «Удара щитом» с повышенным дробящим уроном и дополнительным эффектом оглушения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Сигил "Сконцентрированного замысла"</DefaultText>
+      <DefaultText>Сигил «Сконцентрированного замысла»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Сигил "Направленного воздействия"</DefaultText>
+      <DefaultText>Сигил «Направленного воздействия»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Сигил "Непосредственного воздействия"</DefaultText>
+      <DefaultText>Сигил «Непосредственного воздействия»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Сигил "Материальной силы"</DefaultText>
+      <DefaultText>Сигил «Материальной силы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Сигил "Передачи силы"</DefaultText>
+      <DefaultText>Сигил «Передачи силы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Сигил "Зоны влияния"</DefaultText>
+      <DefaultText>Сигил «Зоны влияния»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Сигил "Нисхождения хаоса"</DefaultText>
+      <DefaultText>Сигил «Нисхождения хаоса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Форма "Тайной угрозы"</DefaultText>
+      <DefaultText>Форма «Тайной угрозы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Сигил "Силы" I</DefaultText>
+      <DefaultText>Сигил «Силы» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Сигил "Среднего расстояния"</DefaultText>
+      <DefaultText>Сигил «Среднего расстояния»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -530,7 +530,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Сигил "Защитной формы"</DefaultText>
+      <DefaultText>Сигил «Защитной формы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,7 +597,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Высоко поднимите "Бесстрашный", выпустив волну энергии, которая оглушает всех ближайших врагов. Урон растет вместе с известностью "Бесстрашного".</DefaultText>
+      <DefaultText>Высоко поднимите «Бесстрашный», выпустив волну энергии, которая оглушает всех ближайших врагов. Урон растет вместе с известностью «Бесстрашного».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1017,27 +1017,27 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Повышает навык "[url=glossary:управление жизнью]Управление жизнью[/url]".</DefaultText>
+      <DefaultText>Повышает навык «[url=glossary:управление жизнью]Управление жизнью[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Умеренно повышает навык "[url=glossary:управление жизнью]Управление жизнью[/url]".</DefaultText>
+      <DefaultText>Умеренно повышает навык «[url=glossary:управление жизнью]Управление жизнью[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Значительно повышает навык "[url=glossary:управление жизнью]Управление жизнью[/url]".</DefaultText>
+      <DefaultText>Значительно повышает навык «[url=glossary:управление жизнью]Управление жизнью[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Когда Лантри в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыков "[url=glossary:знания]Знания[/url]" и "Метательное оружие".</DefaultText>
+      <DefaultText>Когда Лантри в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыков «[url=glossary:знания]Знания[/url]» и «Метательное оружие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Повышает навык "[url=glossary:знания]Знания[/url]".</DefaultText>
+      <DefaultText>Повышает навык «[url=glossary:знания]Знания[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,7 +1062,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Снижает перезарядку и время восстановления при использовании способностей "Удар пером", "Шквал перьев" и "Ураган перьев".</DefaultText>
+      <DefaultText>Снижает перезарядку и время восстановления при использовании способностей «Удар пером», «Шквал перьев» и «Ураган перьев».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,7 +1072,7 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Дает пассивный бонус навыкам "[url=glossary:хитроумие]Хитроумие[/url]" и "[url=glossary:уклонение]Уклонение[/url]".</DefaultText>
+      <DefaultText>Дает пассивный бонус навыкам «[url=glossary:хитроумие]Хитроумие[/url]» и «[url=glossary:уклонение]Уклонение[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,10 +1232,10 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Медитативная стойка, помогающая лучше уклоняться от вражеских атак. В этой стойке способности "Вне оков" и "Насмешка" действую гораздо эффективнее.
+      <DefaultText>Медитативная стойка, помогающая лучше уклоняться от вражеских атак. В этой стойке способности «Вне оков» и «Насмешка» действую гораздо эффективнее.
 
-Повышает дистанцию воздействия способности "Вне оков".
-Цели способности "Насмешка" получают штраф к парированию.</DefaultText>
+Повышает дистанцию воздействия способности «Вне оков».
+Цели способности «Насмешка» получают штраф к парированию.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1255,9 +1255,9 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Стойка, позволяющая наносить удары более метко. В этой стойке увеличивается точность атак, а способности "Шампур", "Могильщик" и "Свинья на вертеле" действуют гораздо эффективнее.
+      <DefaultText>Стойка, позволяющая наносить удары более метко. В этой стойке увеличивается точность атак, а способности «Шампур», «Могильщик» и «Свинья на вертеле» действуют гораздо эффективнее.
 
-Повышает точность способностей "Шампур", "Могильщик" и "Свинья на вертеле".</DefaultText>
+Повышает точность способностей «Шампур», «Могильщик» и «Свинья на вертеле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1472,7 +1472,7 @@
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>Когда противник атакует Фугу, та до конца боя получает пассивный бонус к навыкам "[url=glossary:уклонение]Уклонение[/url]" и "[url=glossary:парирование]Парирование[/url]". (Это воздействие суммируется.)</DefaultText>
+      <DefaultText>Когда противник атакует Фугу, та до конца боя получает пассивный бонус к навыкам «[url=glossary:уклонение]Уклонение[/url]» и «[url=glossary:парирование]Парирование[/url]». (Это воздействие суммируется.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1482,7 +1482,7 @@
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Знай своего врага" теперь повышает точность атак Фуги после того, как она задевает врага. (Это воздействие суммируется.)</DefaultText>
+      <DefaultText>«Знай своего врага» теперь повышает точность атак Фуги после того, как она задевает врага. (Это воздействие суммируется.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1582,7 +1582,7 @@
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>При использовании "Рывка Фурии" Фуга будет автоматически наносить урон противникам, оказавшимся на ее пути (данная способность не работает, если Фуга облачена в тяжелую броню).</DefaultText>
+      <DefaultText>При использовании «Рывка Фурии» Фуга будет автоматически наносить урон противникам, оказавшимся на ее пути (данная способность не работает, если Фуга облачена в тяжелую броню).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1612,12 +1612,12 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Когда Фуга в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыков "[url=glossary:парное оружие]Парное оружие[/url]", "[url=glossary:луки]Луки[/url]" и "[url=glossary:атлетика]Атлетика[/url]".</DefaultText>
+      <DefaultText>Когда Фуга в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыков «[url=glossary:парное оружие]Парное оружие[/url]», «[url=glossary:луки]Луки[/url]» и «[url=glossary:атлетика]Атлетика[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>Позволяет выполнять финты при использовании способности "Выпад". Финты ослепляют противников.</DefaultText>
+      <DefaultText>Позволяет выполнять финты при использовании способности «Выпад». Финты ослепляют противников.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1632,12 +1632,12 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>Увеличивает точность способности "Выпад" и добавляет к ней эффект пробивания брони.</DefaultText>
+      <DefaultText>Увеличивает точность способности «Выпад» и добавляет к ней эффект пробивания брони.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Добавляет к способности "Выпад" воздействие магического пробоя и на короткое время после ее применения повышает магические навыки персонажа.</DefaultText>
+      <DefaultText>Добавляет к способности «Выпад» воздействие магического пробоя и на короткое время после ее применения повышает магические навыки персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1734,7 +1734,7 @@
       <ID>484</ID>
       <DefaultText>Используйте Сигил Мощи, чтобы направлять магическую энергию в силы, которые отталкивают и сбивают врагов с ног.
 
-Многие магические гильдии в течение столетий открывали Сигил Мощи, и каждая ревностно хранила его в секрете. Когда каждую из них по очереди завоевывала и поглощала Империя Кайроса, маги с большим огорчением обнаруживали, что их "секрет" был самой распространенной частью магических знаний на Терратусе.</DefaultText>
+Многие магические гильдии в течение столетий открывали Сигил Мощи, и каждая ревностно хранила его в секрете. Когда каждую из них по очереди завоевывала и поглощала Империя Кайроса, маги с большим огорчением обнаруживали, что их «секрет» был самой распространенной частью магических знаний на Терратусе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1754,7 +1754,7 @@
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>Для пробуждения энергии через Сигил Камня нужна огромная сила воли, поскольку камень непросто подчинить воле человека. 
+      <DefaultText>Для пробуждения энергии через Сигил Камня нужна огромная сила воли, поскольку камень непросто подчинить воле человека.
 
 Сигил Камня, разработанный последователями Архонта Каирна, — это, возможно, самый новый магический сигил на Терратусе. После уничтожения Архонта Камня Эдиктом Кайроса в 430 году ИИ Скаловержцы посвятили себя сохранению наследия Каирна и освоению этого неподатливого сигила.</DefaultText>
       <FemaleText />
@@ -2332,7 +2332,7 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>Когда Барик в отряде, все бойцы отряда получают дополнительный опыт за применение навыков "[url=glossary:атлетика]Атлетика[/url]", "[url=glossary:одноручное оружие]Одноручное оружие[/url]" и "[url=glossary:двуручное оружие]Двуручное оружие[/url]".</DefaultText>
+      <DefaultText>Когда Барик в отряде, все бойцы отряда получают дополнительный опыт за применение навыков «[url=glossary:атлетика]Атлетика[/url]», «[url=glossary:одноручное оружие]Одноручное оружие[/url]» и «[url=glossary:двуручное оружие]Двуручное оружие[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2342,7 +2342,7 @@
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>Когда Барик использует "Узы чести", и сам он, и цель на короткое время оказываются прикрыты щитом, поглощающим урон.</DefaultText>
+      <DefaultText>Когда Барик использует «Узы чести», и сам он, и цель на короткое время оказываются прикрыты щитом, поглощающим урон.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2357,7 +2357,7 @@
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>"Лязг железа" Барика придает сил его ближайшим союзникам, на короткое время давая им бонус к броне.</DefaultText>
+      <DefaultText>«Лязг железа» Барика придает сил его ближайшим союзникам, на короткое время давая им бонус к броне.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2507,7 +2507,7 @@
     </Entry>
     <Entry>
       <ID>709</ID>
-      <DefaultText>Когда "Объятья матери" разрываются, ближайшие цели начинают захлебываться.</DefaultText>
+      <DefaultText>Когда «Объятья матери» разрываются, ближайшие цели начинают захлебываться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2537,7 +2537,7 @@
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Дает бонус к навыку "[url=glossary:управление могильным светом]Управление могильным светом[/url]" и урону могильным светом в ночное время.</DefaultText>
+      <DefaultText>Дает бонус к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2552,7 +2552,7 @@
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Когда Атли в отряде, она и ее союзники получают больше опыта за применение заклинаний, волшебных посохов и навыка "[url=glossary:знания]Знания[/url]".</DefaultText>
+      <DefaultText>Когда Атли в отряде, она и ее союзники получают больше опыта за применение заклинаний, волшебных посохов и навыка «[url=glossary:знания]Знания[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2842,42 +2842,42 @@
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>Сигил "Точного действия" I</DefaultText>
+      <DefaultText>Сигил «Точного действия» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>Сигил "Бесконечных границ" I</DefaultText>
+      <DefaultText>Сигил «Бесконечных границ» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>Сигил "Сковывающих выстрелов" I</DefaultText>
+      <DefaultText>Сигил «Сковывающих выстрелов» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Сигил "Проникающей силы" I</DefaultText>
+      <DefaultText>Сигил «Проникающей силы» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>803</ID>
-      <DefaultText>Сигил "Извечной формы" I</DefaultText>
+      <DefaultText>Сигил «Извечной формы» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Сигил "Ударной силы" I</DefaultText>
+      <DefaultText>Сигил «Ударной силы» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Сигил "Простирающейся хватки" I</DefaultText>
+      <DefaultText>Сигил «Простирающейся хватки» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>806</ID>
-      <DefaultText>Сигил "Энергетического цикла" I</DefaultText>
+      <DefaultText>Сигил «Энергетического цикла» I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3297,7 +3297,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Дает бонус к навыку "[url=glossary:хитроумие]Хитроумие[/url]".</DefaultText>
+      <DefaultText>Дает бонус к навыку «[url=glossary:хитроумие]Хитроумие[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3307,7 +3307,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Когда Смерть-из-Тени в отряде, она предоставляет бонус к опыту за применение навыков "[url=glossary:хитроумие]Хитроумие[/url]", "[url=glossary:безоружный бой]Безоружный бой[/url]" и "[url=glossary:одноручное оружие]Одноручное оружие[/url]".</DefaultText>
+      <DefaultText>Когда Смерть-из-Тени в отряде, она предоставляет бонус к опыту за применение навыков «[url=glossary:хитроумие]Хитроумие[/url]», «[url=glossary:безоружный бой]Безоружный бой[/url]» и «[url=glossary:одноручное оружие]Одноручное оружие[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3317,7 +3317,7 @@
     </Entry>
     <Entry>
       <ID>901</ID>
-      <DefaultText>Усиливает дистанцию атаки и дробящий урон, наносимый способностью "Таран" Смерти-из-Тени.</DefaultText>
+      <DefaultText>Усиливает дистанцию атаки и дробящий урон, наносимый способностью «Таран» Смерти-из-Тени.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3532,7 +3532,7 @@
     </Entry>
     <Entry>
       <ID>944</ID>
-      <DefaultText>Сигил "Импульса силы"</DefaultText>
+      <DefaultText>Сигил «Импульса силы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4302,7 +4302,7 @@
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>Сирин замедляет свои песни, увеличивая длительность каждого станса, пока используется "Медленный темп".</DefaultText>
+      <DefaultText>Сирин замедляет свои песни, увеличивая длительность каждого станса, пока используется «Медленный темп».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4472,7 +4472,7 @@
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Добавляет способности "Выпад" эффект метки. Атаки против меченой цели получают бонус к точности. [url=glossary:метка]Метка[/url] сохраняется до смерти противника.</DefaultText>
+      <DefaultText>Добавляет способности «Выпад» эффект метки. Атаки против меченой цели получают бонус к точности. [url=glossary:метка]Метка[/url] сохраняется до смерти противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4599,7 +4599,7 @@
       <ID>1181</ID>
       <DefaultText>Атакует цель ударами щита, ошеломляя и оглушая ее, а затем, пока цель уязвима, добивает ее ударом сверху.
 
-Эта способность замещает "Удар Щитом".</DefaultText>
+Эта способность замещает «Удар Щитом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4649,7 +4649,7 @@
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>При критическом попадании по персонажу стойка "Претендент" усиливает урон, наносимый по ближайшим противникам, а стойка "Стражник" дает вам и вашему отряду бонус к броне.</DefaultText>
+      <DefaultText>При критическом попадании по персонажу стойка «Претендент» усиливает урон, наносимый по ближайшим противникам, а стойка «Стражник» дает вам и вашему отряду бонус к броне.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4689,7 +4689,7 @@
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>Увеличивает урон способности "Раскол" и добавляет к ней воздействие оглушения.</DefaultText>
+      <DefaultText>Увеличивает урон способности «Раскол» и добавляет к ней воздействие оглушения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4859,7 +4859,7 @@
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Запускает снаряд с силой, достаточной для пробивания брони. Враги на линии поражения получают урон, и у них начинается кровотечение (замещает "Выстрел в сердце").</DefaultText>
+      <DefaultText>Запускает снаряд с силой, достаточной для пробивания брони. Враги на линии поражения получают урон, и у них начинается кровотечение (замещает «Выстрел в сердце»).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4969,7 +4969,7 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>Направляет поток энергии через ваш волшебный посох, нанося урон всем противникам в конусе поражения и вытягивая здоровье из погибелей (замещает "Магический конус").</DefaultText>
+      <DefaultText>Направляет поток энергии через ваш волшебный посох, нанося урон всем противникам в конусе поражения и вытягивая здоровье из погибелей (замещает «Магический конус»).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5019,7 +5019,7 @@
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Дает бонус к навыку "[url=glossary:знания]Знания[/url]".</DefaultText>
+      <DefaultText>Дает бонус к навыку «[url=glossary:знания]Знания[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5059,7 +5059,7 @@
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>Дает способности "Энергетический щит" шанс отразить стандартные человеческие заклинания обратно в противника (только вредоносные заклинания).</DefaultText>
+      <DefaultText>Дает способности «Энергетический щит» шанс отразить стандартные человеческие заклинания обратно в противника (только вредоносные заклинания).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5069,7 +5069,7 @@
     </Entry>
     <Entry>
       <ID>1279</ID>
-      <DefaultText>Добавляет физическую защиту к "Энергетическому щиту". Вредоносные заклинания, нацеленные на бойца под щитом, действуют менее эффективно.</DefaultText>
+      <DefaultText>Добавляет физическую защиту к «Энергетическому щиту». Вредоносные заклинания, нацеленные на бойца под щитом, действуют менее эффективно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5079,7 +5079,7 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Усиливает "Взрыв Хаоса", отбрасывая врагов и поражая их случайными мощными эффектами.</DefaultText>
+      <DefaultText>Усиливает «Взрыв Хаоса», отбрасывая врагов и поражая их случайными мощными эффектами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5193,7 +5193,7 @@
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>Разрывает связь между Грэйвеном Аше и всеми Опальными в области действия, отрезая их от "Защиты Аше".</DefaultText>
+      <DefaultText>Разрывает связь между Грэйвеном Аше и всеми Опальными в области действия, отрезая их от «Защиты Аше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5445,7 +5445,7 @@
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>Дает бонус к навыку "[url=glossary:знания]Знания[/url]".
+      <DefaultText>Дает бонус к навыку «[url=glossary:знания]Знания[/url]».
 
 Бонус зависит от уровня гнева Книгочеев.</DefaultText>
       <FemaleText />
@@ -5511,7 +5511,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>Сигил "Ледяного пламени"</DefaultText>
+      <DefaultText>Сигил «Ледяного пламени»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5521,17 +5521,17 @@
     </Entry>
     <Entry>
       <ID>1395</ID>
-      <DefaultText>Сигил "Оглушения"</DefaultText>
+      <DefaultText>Сигил «Оглушения»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Штрих, добавляющий к заклинаниям "Молнии" воздействие оглушения.</DefaultText>
+      <DefaultText>Штрих, добавляющий к заклинаниям «Молнии» воздействие оглушения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Сигил "Магии крови"</DefaultText>
+      <DefaultText>Сигил «Магии крови»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5541,117 +5541,117 @@
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Сигил "Фазирования"</DefaultText>
+      <DefaultText>Сигил «Фазирования»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Штрих, позволяющий заклинаниям "Терратуса" и "Иллюзии" погружать цель в состояние стазиса.</DefaultText>
+      <DefaultText>Штрих, позволяющий заклинаниям «Терратуса» и «Иллюзии» погружать цель в состояние стазиса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>Сигил "Врастания"</DefaultText>
+      <DefaultText>Сигил «Врастания»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1402</ID>
-      <DefaultText>Штрих, добавляющий к заклинаниям "Мощи" и "Истощения" воздействие обездвиживания.</DefaultText>
+      <DefaultText>Штрих, добавляющий к заклинаниям «Мощи» и «Истощения» воздействие обездвиживания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1403</ID>
-      <DefaultText>Сигил "Решающего удара"</DefaultText>
+      <DefaultText>Сигил «Решающего удара»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>Штрих, который для заклинаний "Терратуса" и "Молнии" увеличивает урон целям с низким запасом здоровья и позволяет наносить большой урон почти побежденным врагам.</DefaultText>
+      <DefaultText>Штрих, который для заклинаний «Терратуса» и «Молнии» увеличивает урон целям с низким запасом здоровья и позволяет наносить большой урон почти побежденным врагам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1405</ID>
-      <DefaultText>Сигил "Прокалывания"</DefaultText>
+      <DefaultText>Сигил «Прокалывания»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1406</ID>
-      <DefaultText>Штрих, который усиливает заклинания "Импульса силы", позволяя им пронзать врагов на одной линии.</DefaultText>
+      <DefaultText>Штрих, который усиливает заклинания «Импульса силы», позволяя им пронзать врагов на одной линии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>Сигил "Залпа"</DefaultText>
+      <DefaultText>Сигил «Залпа»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1408</ID>
-      <DefaultText>Штрих, увеличивающий число снарядов для заклинаний "Импульса силы".</DefaultText>
+      <DefaultText>Штрих, увеличивающий число снарядов для заклинаний «Импульса силы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>Сигил "Вулканического оружия"</DefaultText>
+      <DefaultText>Сигил «Вулканического оружия»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>Штрих, использующий огонь и серу, чтобы заклинания "Материальной силы" наносили урон врагам на одной линии.</DefaultText>
+      <DefaultText>Штрих, использующий огонь и серу, чтобы заклинания «Материальной силы» наносили урон врагам на одной линии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>Сигил "Отражения"</DefaultText>
+      <DefaultText>Сигил «Отражения»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1412</ID>
-      <DefaultText>Штрих, позволяющий заклинаниям "Защитной формы" уменьшать урон, который цель получает от критических попаданий.</DefaultText>
+      <DefaultText>Штрих, позволяющий заклинаниям «Защитной формы» уменьшать урон, который цель получает от критических попаданий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>Сигил "Быстрой волшбы"</DefaultText>
+      <DefaultText>Сигил «Быстрой волшбы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Штрих, устраняющий время восстановления после использования заклинаний "Материальной силы" и "Защитной формы".</DefaultText>
+      <DefaultText>Штрих, устраняющий время восстановления после использования заклинаний «Материальной силы» и «Защитной формы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>Сигил "Заносчивой магии"</DefaultText>
+      <DefaultText>Сигил «Заносчивой магии»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>Штрих, при использовании которого заклинания "Материальной силы" и "Защитной формы" воздействуют только на вас, но становятся мощнее и действуют дольше.</DefaultText>
+      <DefaultText>Штрих, при использовании которого заклинания «Материальной силы» и «Защитной формы» воздействуют только на вас, но становятся мощнее и действуют дольше.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>Сигил "Бескорыстной магии"</DefaultText>
+      <DefaultText>Сигил «Бескорыстной магии»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1418</ID>
-      <DefaultText>Штрих, при использовании которого заклинания "Материальной силы" и "Защитной формы" больше нельзя использовать на вас, но они становятся мощнее и действуют дольше для ваших союзников.</DefaultText>
+      <DefaultText>Штрих, при использовании которого заклинания «Материальной силы» и «Защитной формы» больше нельзя использовать на вас, но они становятся мощнее и действуют дольше для ваших союзников.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>Сигил "Прицельного дождя"</DefaultText>
+      <DefaultText>Сигил «Прицельного дождя»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1420</ID>
-      <DefaultText>Штрих, который уменьшает площадь заклинаний "Нисхождения хаоса", но увеличивает количество снарядов, которые оно вызывает.</DefaultText>
+      <DefaultText>Штрих, который уменьшает площадь заклинаний «Нисхождения хаоса», но увеличивает количество снарядов, которые оно вызывает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>Сигил "Кровотечения"</DefaultText>
+      <DefaultText>Сигил «Кровотечения»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5661,7 +5661,7 @@
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Сигил "Ошеломления"</DefaultText>
+      <DefaultText>Сигил «Ошеломления»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5671,7 +5671,7 @@
     </Entry>
     <Entry>
       <ID>1425</ID>
-      <DefaultText>Сигил "Импульса"</DefaultText>
+      <DefaultText>Сигил «Импульса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5681,7 +5681,7 @@
     </Entry>
     <Entry>
       <ID>1427</ID>
-      <DefaultText>Сигил "Дикой магии"</DefaultText>
+      <DefaultText>Сигил «Дикой магии»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5691,7 +5691,7 @@
     </Entry>
     <Entry>
       <ID>1431</ID>
-      <DefaultText>Сигил "Магического всплеска"</DefaultText>
+      <DefaultText>Сигил «Магического всплеска»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5701,7 +5701,7 @@
     </Entry>
     <Entry>
       <ID>1433</ID>
-      <DefaultText>Сигил "Отметки"</DefaultText>
+      <DefaultText>Сигил «Отметки»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5726,92 +5726,92 @@
     </Entry>
     <Entry>
       <ID>1457</ID>
-      <DefaultText>Сигил "Точного действия" II</DefaultText>
+      <DefaultText>Сигил «Точного действия» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1458</ID>
-      <DefaultText>Сигил "Точного действия" III</DefaultText>
+      <DefaultText>Сигил «Точного действия» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1459</ID>
-      <DefaultText>Сигил "Точного действия" IV</DefaultText>
+      <DefaultText>Сигил «Точного действия» IV</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1460</ID>
-      <DefaultText>Сигил "Бесконечных границ" II</DefaultText>
+      <DefaultText>Сигил «Бесконечных границ» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1461</ID>
-      <DefaultText>Сигил "Бесконечных границ" III</DefaultText>
+      <DefaultText>Сигил «Бесконечных границ» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1462</ID>
-      <DefaultText>Сигил "Сковывающих выстрелов" II</DefaultText>
+      <DefaultText>Сигил «Сковывающих выстрелов» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Сигил "Проникающей силы" II</DefaultText>
+      <DefaultText>Сигил «Проникающей силы» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1464</ID>
-      <DefaultText>Сигил "Проникающей силы" III</DefaultText>
+      <DefaultText>Сигил «Проникающей силы» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Сигил "Извечной формы" II</DefaultText>
+      <DefaultText>Сигил «Извечной формы» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Сигил "Извечной формы" III</DefaultText>
+      <DefaultText>Сигил «Извечной формы» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1467</ID>
-      <DefaultText>Сигил "Силы" II</DefaultText>
+      <DefaultText>Сигил «Силы» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Сигил "Силы" III</DefaultText>
+      <DefaultText>Сигил «Силы» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1469</ID>
-      <DefaultText>Сигил "Силы" IV</DefaultText>
+      <DefaultText>Сигил «Силы» IV</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Сигил "Ударной силы" II</DefaultText>
+      <DefaultText>Сигил «Ударной силы» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1471</ID>
-      <DefaultText>Сигил "Ударной силы" III</DefaultText>
+      <DefaultText>Сигил «Ударной силы» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1472</ID>
-      <DefaultText>Сигил "Простирающейся хватки" II</DefaultText>
+      <DefaultText>Сигил «Простирающейся хватки» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1473</ID>
-      <DefaultText>Сигил "Простирающейся хватки" III</DefaultText>
+      <DefaultText>Сигил «Простирающейся хватки» III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Сигил "Энергетического цикла" II</DefaultText>
+      <DefaultText>Сигил «Энергетического цикла» II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5876,7 +5876,7 @@
     </Entry>
     <Entry>
       <ID>1489</ID>
-      <DefaultText>Значительно замедляет врагов в выбранной области. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью "Посоха Часов".</DefaultText>
+      <DefaultText>Значительно замедляет врагов в выбранной области. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью «Посоха Часов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5886,12 +5886,12 @@
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>Приговаривает врага, замораживая его в цельной глыбе льда. В этом состоянии противник не может предпринимать никаких действий. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью "Лика Правосудия".</DefaultText>
+      <DefaultText>Приговаривает врага, замораживая его в цельной глыбе льда. В этом состоянии противник не может предпринимать никаких действий. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью «Лика Правосудия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText>Выпускает смертоносные вращающиеся клинки. Энергия в "Миротворце" заполняет область воздействия молниями, нанося рубящий и электрический урон всем врагам поблизости. Урон возрастает вместе с известностью "Миротворца".</DefaultText>
+      <DefaultText>Выпускает смертоносные вращающиеся клинки. Энергия в «Миротворце» заполняет область воздействия молниями, нанося рубящий и электрический урон всем врагам поблизости. Урон возрастает вместе с известностью «Миротворца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5911,7 +5911,7 @@
     </Entry>
     <Entry>
       <ID>1496</ID>
-      <DefaultText>Боец оглушает окрестности "Последним криком" и выпускает хаотический взрыв энергии. Все враги поблизости отбрасываются назад и оказываются в состоянии ошеломления и дезориентации. Длительность воздействия растет вместе с известностью "Последнего крика".</DefaultText>
+      <DefaultText>Боец оглушает окрестности «Последним криком» и выпускает хаотический взрыв энергии. Все враги поблизости отбрасываются назад и оказываются в состоянии ошеломления и дезориентации. Длительность воздействия растет вместе с известностью «Последнего крика».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5921,7 +5921,7 @@
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText>Превращает бойца в его собственную тень. В этой форме боец наносит дополнительный магический урон с каждой атакой и получает дополнительный вычет урона. [url=glossary:сила]Сила[/url] этих воздействий возрастает с известностью "Оков теней".</DefaultText>
+      <DefaultText>Превращает бойца в его собственную тень. В этой форме боец наносит дополнительный магический урон с каждой атакой и получает дополнительный вычет урона. [url=glossary:сила]Сила[/url] этих воздействий возрастает с известностью «Оков теней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5931,7 +5931,7 @@
     </Entry>
     <Entry>
       <ID>1500</ID>
-      <DefaultText>Превращает бойца в его собственную тень и вызывает двух теневых двойников. В этой форме боец наносит дополнительный магический урон с каждой атакой и получает дополнительный вычет урона. [url=glossary:сила]Сила[/url] этих воздействий возрастает с известностью "Оков теней".</DefaultText>
+      <DefaultText>Превращает бойца в его собственную тень и вызывает двух теневых двойников. В этой форме боец наносит дополнительный магический урон с каждой атакой и получает дополнительный вычет урона. [url=glossary:сила]Сила[/url] этих воздействий возрастает с известностью «Оков теней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5941,7 +5941,7 @@
     </Entry>
     <Entry>
       <ID>1502</ID>
-      <DefaultText>Выпускает стрелу. Все враги на ее пути получают урон и ослепляются. При попадании в погибель происходит небольшой взрыв, который наносит магический урон всем погибелям поблизости. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью "Могильного лука".</DefaultText>
+      <DefaultText>Выпускает стрелу. Все враги на ее пути получают урон и ослепляются. При попадании в погибель происходит небольшой взрыв, который наносит магический урон всем погибелям поблизости. [url=glossary:сила]Сила[/url] этого воздействия возрастает с известностью «Могильного лука».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5951,7 +5951,7 @@
     </Entry>
     <Entry>
       <ID>1504</ID>
-      <DefaultText>Выпускает шлейфы блуждающего огня, которые ищут случайных врагов в области. Когда шлейф достигает цели, он превращается в столб огня и света, который наносит огненный урон. Урон увеличивается вместе с известностью "Солнечного копья".</DefaultText>
+      <DefaultText>Выпускает шлейфы блуждающего огня, которые ищут случайных врагов в области. Когда шлейф достигает цели, он превращается в столб огня и света, который наносит огненный урон. Урон увеличивается вместе с известностью «Солнечного копья».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5966,7 +5966,7 @@
     </Entry>
     <Entry>
       <ID>1507</ID>
-      <DefaultText>В небесах собираются грозовые тучи, из которых вырываются разряды молний, поражающие врагов в выбранной области. Урон увеличивается вместе с известностью "Урагана".</DefaultText>
+      <DefaultText>В небесах собираются грозовые тучи, из которых вырываются разряды молний, поражающие врагов в выбранной области. Урон увеличивается вместе с известностью «Урагана».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5976,7 +5976,7 @@
     </Entry>
     <Entry>
       <ID>1509</ID>
-      <DefaultText>Наносит урон всем врагам в конусе поражения, игнорируя их доспехи. Также снимаются все полезные воздействия на цели. Урон увеличивается вместе с известностью "Смертоносца".</DefaultText>
+      <DefaultText>Наносит урон всем врагам в конусе поражения, игнорируя их доспехи. Также снимаются все полезные воздействия на цели. Урон увеличивается вместе с известностью «Смертоносца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5986,7 +5986,7 @@
     </Entry>
     <Entry>
       <ID>1511</ID>
-      <DefaultText>Замораживает врага и, тем самым, предрешает его судьбу. Когда воздействие заканчивается, лед перестраивается и наносит большой ледяной урон. Урон увеличивается вместе с известностью "Снежного клыка".</DefaultText>
+      <DefaultText>Замораживает врага и, тем самым, предрешает его судьбу. Когда воздействие заканчивается, лед перестраивается и наносит большой ледяной урон. Урон увеличивается вместе с известностью «Снежного клыка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6006,7 +6006,7 @@
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Выстреливает рикошетящим энергетическим разрядом. Каждый враг, по которому попадает разряд, получает колющий урон и передает здоровье обладателю. Кроме того, у этих врагов до конца боя уменьшаются [url=glossary:сила]Сила[/url], [url=glossary:быстрота]Быстрота[/url] и [url=glossary:живучесть]Живучесть[/url]. Количество перекачанного здоровья зависит от известности "Крови сердца".</DefaultText>
+      <DefaultText>Выстреливает рикошетящим энергетическим разрядом. Каждый враг, по которому попадает разряд, получает колющий урон и передает здоровье обладателю. Кроме того, у этих врагов до конца боя уменьшаются [url=glossary:сила]Сила[/url], [url=glossary:быстрота]Быстрота[/url] и [url=glossary:живучесть]Живучесть[/url]. Количество перекачанного здоровья зависит от известности «Крови сердца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6016,7 +6016,7 @@
     </Entry>
     <Entry>
       <ID>1517</ID>
-      <DefaultText>Боец телепортируется за спину врага и атакует, нанося значительный дополнительный урон. Урон увеличивается вместе с известностью "Ботинков Ночного Ходока".</DefaultText>
+      <DefaultText>Боец телепортируется за спину врага и атакует, нанося значительный дополнительный урон. Урон увеличивается вместе с известностью «Ботинков Ночного Ходока».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6026,7 +6026,7 @@
     </Entry>
     <Entry>
       <ID>1519</ID>
-      <DefaultText>Выкачивает здоровье из ближайших противников. За каждого подвергшегося воздействию врага обладатель "Грозы погибелей" получает суммирующийся бонус к магическому урону от своих атак. [url=glossary:сила]Сила[/url] этих воздействий увеличивается с известностью "Грозы погибелей". (Эффективней всего в бою против погибелей)</DefaultText>
+      <DefaultText>Выкачивает здоровье из ближайших противников. За каждого подвергшегося воздействию врага обладатель «Грозы погибелей» получает суммирующийся бонус к магическому урону от своих атак. [url=glossary:сила]Сила[/url] этих воздействий увеличивается с известностью «Грозы погибелей». (Эффективней всего в бою против погибелей)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6036,7 +6036,7 @@
     </Entry>
     <Entry>
       <ID>1521</ID>
-      <DefaultText>Мгновенно меняет персонажа со спутником местами. Вы и ваш союзник получаете бонус к Живучести и Искусности до конца боя. [url=glossary:сила]Сила[/url] этого воздействия увеличивается с известностью "Нагрудника Командира".</DefaultText>
+      <DefaultText>Мгновенно меняет персонажа со спутником местами. Вы и ваш союзник получаете бонус к Живучести и Искусности до конца боя. [url=glossary:сила]Сила[/url] этого воздействия увеличивается с известностью «Нагрудника Командира».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1523</ID>
-      <DefaultText>Призывает ужасающую маску энергии. Все враги в конусе поражения приходят в ужас. Длительность воздействия ужаса растет с известностью "Одеяния иерархов".</DefaultText>
+      <DefaultText>Призывает ужасающую маску энергии. Все враги в конусе поражения приходят в ужас. Длительность воздействия ужаса растет с известностью «Одеяния иерархов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6056,7 +6056,7 @@
     </Entry>
     <Entry>
       <ID>1525</ID>
-      <DefaultText>Запускает сферы целительной энергии в определенную точку. При столкновении сфера раскрывается в область восстановительной энергии, которая периодически лечит находящихся в ней членов отряда. Целительное воздействие усиливается с ростом известности "Перчаток алхимика".</DefaultText>
+      <DefaultText>Запускает сферы целительной энергии в определенную точку. При столкновении сфера раскрывается в область восстановительной энергии, которая периодически лечит находящихся в ней членов отряда. Целительное воздействие усиливается с ростом известности «Перчаток алхимика».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6066,7 +6066,7 @@
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Создает пульсирующее воздействие вокруг обладателя, которое уменьшает [url=glossary:точность]Точность[/url] врагов и случайным образом накладывает на них различные негативные эффекты. [url=glossary:воздействие]Воздействие[/url] на [url=glossary:точность]Точность[/url] увеличивается с известностью "Весов милосердия".</DefaultText>
+      <DefaultText>Создает пульсирующее воздействие вокруг обладателя, которое уменьшает [url=glossary:точность]Точность[/url] врагов и случайным образом накладывает на них различные негативные эффекты. [url=glossary:воздействие]Воздействие[/url] на [url=glossary:точность]Точность[/url] увеличивается с известностью «Весов милосердия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6316,7 +6316,7 @@
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Дает невосприимчивость к воздействиям "[url=glossary:волшебный огонь]Волшебный огонь[/url]", "[url=glossary:горение]Горение[/url]" и "[url=glossary:кровотечение]Кровотечение[/url]".</DefaultText>
+      <DefaultText>Дает невосприимчивость к воздействиям «[url=glossary:волшебный огонь]Волшебный огонь[/url]», «[url=glossary:горение]Горение[/url]» и «[url=glossary:кровотечение]Кровотечение[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6331,7 +6331,7 @@
     </Entry>
     <Entry>
       <ID>1580</ID>
-      <DefaultText>Барик сосредоточится на нанесении урона. Он будет использовать способность "Кровная Связь" на других наносящих урон персонажах, а также агрессивно применять способности "Брешь в стене", "Рывок защитника" и "Рубящее железо".</DefaultText>
+      <DefaultText>Барик сосредоточится на нанесении урона. Он будет использовать способность «Кровная Связь» на других наносящих урон персонажах, а также агрессивно применять способности «Брешь в стене», «Рывок защитника» и «Рубящее железо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6341,7 +6341,7 @@
     </Entry>
     <Entry>
       <ID>1582</ID>
-      <DefaultText>Барик сосредоточится на защите отряда. В начале боя он будет применять "Кровную Связь" на союзнике, затем переходить в стойку "Фаланга" и отвлекать на себя как можно больше противников. Если союзники будут в опасности, Барик попытается помочь им, использовав "Рывок защитника".</DefaultText>
+      <DefaultText>Барик сосредоточится на защите отряда. В начале боя он будет применять «Кровную Связь» на союзнике, затем переходить в стойку «Фаланга» и отвлекать на себя как можно больше противников. Если союзники будут в опасности, Барик попытается помочь им, использовав «Рывок защитника».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6351,7 +6351,7 @@
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>Фуга будет активно сражаться в ближнем бою, выцеливая противников с низким здоровьем и слабой защитой. Она сделает упор на подвижность, балансируя между стойками Алого Гейзера и Неуемных Ножен при высоком уровне здоровья и переходя в стойку Трех Шепотов при низком. В случае опасности Фуга использует способность "Вне оков", чтобы обмануть врага и атаковать уязвимые цели.</DefaultText>
+      <DefaultText>Фуга будет активно сражаться в ближнем бою, выцеливая противников с низким здоровьем и слабой защитой. Она сделает упор на подвижность, балансируя между стойками Алого Гейзера и Неуемных Ножен при высоком уровне здоровья и переходя в стойку Трех Шепотов при низком. В случае опасности Фуга использует способность «Вне оков», чтобы обмануть врага и атаковать уязвимые цели.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6361,7 +6361,7 @@
     </Entry>
     <Entry>
       <ID>1586</ID>
-      <DefaultText>В бою Фуга будет стараться не лезть на рожон и соблюдать безопасную дистанцию. По возможности она будет тщательно выбирать цели для своих выстрелов из лука. Также она станет использовать способности "Холсторез", "Хромая добыча", "Головоломка" и "Горящее железо", когда это будет эффективно. Если Фуга окажется в опасности, она попытается использовать способность "Вне оков", чтобы сбежать под прикрытие союзника.</DefaultText>
+      <DefaultText>В бою Фуга будет стараться не лезть на рожон и соблюдать безопасную дистанцию. По возможности она будет тщательно выбирать цели для своих выстрелов из лука. Также она станет использовать способности «Холсторез», «Хромая добыча», «Головоломка» и «Горящее железо», когда это будет эффективно. Если Фуга окажется в опасности, она попытается использовать способность «Вне оков», чтобы сбежать под прикрытие союзника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6376,12 +6376,12 @@
     </Entry>
     <Entry>
       <ID>1589</ID>
-      <DefaultText>Смерть-из-Тени будет вступать в бой с самым сильным противником, после чего сосредоточится на уничтожении его брони. По возможности она будет применять способности "Треск костей", "Косой удар" и "Дробящее железо". "Животный крик" используется только тогда, когда он может поразить больше, чем одного врага.</DefaultText>
+      <DefaultText>Смерть-из-Тени будет вступать в бой с самым сильным противником, после чего сосредоточится на уничтожении его брони. По возможности она будет применять способности «Треск костей», «Косой удар» и «Дробящее железо». «Животный крик» используется только тогда, когда он может поразить больше, чем одного врага.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1590</ID>
-      <DefaultText>Смерть-из-Тени сразу же попытается найти наиболее слабую добычу и помчится к ней, используя способность "Таран". Также она будет применять способности "[url=glossary:ярость]Ярость[/url] берсерка", "Расчленение" и "Разящий коготь". Оказавшись в опасности, она попытается откинуть противника "Быстрозверским ударом". Если добыча сможет увернуться, она по возможности вновь попытается ее настичь "Тараном".</DefaultText>
+      <DefaultText>Смерть-из-Тени сразу же попытается найти наиболее слабую добычу и помчится к ней, используя способность «Таран». Также она будет применять способности «[url=glossary:ярость]Ярость[/url] берсерка», «Расчленение» и «Разящий коготь». Оказавшись в опасности, она попытается откинуть противника «Быстрозверским ударом». Если добыча сможет увернуться, она по возможности вновь попытается ее настичь «Тараном».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6396,12 +6396,12 @@
     </Entry>
     <Entry>
       <ID>1593</ID>
-      <DefaultText>Атли предпочитает атаковать. Она сосредотачивается на нанесении максимального урона, используя "Могильный удар" и "Призрачный выстрел", а затем добивает жертву "Возвращением к истокам". Если противники приблизятся, она применит "Отбрасывающий взрыв". Оказавшись в опасности, Атли использует "Врата Терратуса" на целях с низким здоровьем, чтобы даже в этом случае атаковать, дезориентируя противника.</DefaultText>
+      <DefaultText>Атли предпочитает атаковать. Она сосредотачивается на нанесении максимального урона, используя «Могильный удар» и «Призрачный выстрел», а затем добивает жертву «Возвращением к истокам». Если противники приблизятся, она применит «Отбрасывающий взрыв». Оказавшись в опасности, Атли использует «Врата Терратуса» на целях с низким здоровьем, чтобы даже в этом случае атаковать, дезориентируя противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>Атли будет пытаться контролировать ход сражения. В начале боя она сокроет поле боя с помощью "Дыхания матери". Затем станет применять "Хватку Терратуса", "Зов Терратуса" и "Объятья матери" на самых опасных целях. Если противник приблизится, она откинет его "Отбрасывающим взрывом". Попав в серьезную переделку, Атли отступит под прикрытие союзников с помощью "Врат Терратуса".</DefaultText>
+      <DefaultText>Атли будет пытаться контролировать ход сражения. В начале боя она сокроет поле боя с помощью «Дыхания матери». Затем станет применять «Хватку Терратуса», «Зов Терратуса» и «Объятья матери» на самых опасных целях. Если противник приблизится, она откинет его «Отбрасывающим взрывом». Попав в серьезную переделку, Атли отступит под прикрытие союзников с помощью «Врат Терратуса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6416,7 +6416,7 @@
     </Entry>
     <Entry>
       <ID>1597</ID>
-      <DefaultText>Основной задачей Лантри станет поддержка союзников. В начале боя для усиления защиты он будет использовать "Обновление", а затем — "Стирание записей", чтобы увеличить силу отряда. Если его здоровье критически снизится, он попробует использовать "Дар мгновения". В случае поражения союзника Лантри попытается вернуть его к жизни "Вторым дыханием".</DefaultText>
+      <DefaultText>Основной задачей Лантри станет поддержка союзников. В начале боя для усиления защиты он будет использовать «Обновление», а затем — «Стирание записей», чтобы увеличить силу отряда. Если его здоровье критически снизится, он попробует использовать «Дар мгновения». В случае поражения союзника Лантри попытается вернуть его к жизни «Вторым дыханием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6426,7 +6426,7 @@
     </Entry>
     <Entry>
       <ID>1599</ID>
-      <DefaultText>Лантри сосредоточится на помощи отряду, ослабляя и изнуряя противников. При помощи "Перечисления подвигов" он напугает врагов и повысит боевой дух союзников. Затем он станет применять "Ход времени", "Удар пером" и "Ураган перьев" против самых опасных целей, а также целей с низким запасом здоровья. Если предоставится возможность, Лантри ударит "Суждением хранителя".</DefaultText>
+      <DefaultText>Лантри сосредоточится на помощи отряду, ослабляя и изнуряя противников. При помощи «Перечисления подвигов» он напугает врагов и повысит боевой дух союзников. Затем он станет применять «Ход времени», «Удар пером» и «Ураган перьев» против самых опасных целей, а также целей с низким запасом здоровья. Если предоставится возможность, Лантри ударит «Суждением хранителя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6461,7 +6461,7 @@
     </Entry>
     <Entry>
       <ID>1607</ID>
-      <DefaultText>Позволяет "Суждению хранителя" поразить магической атакой ближайших к цели врагов. У противников снижаются Выносливость, Воля и защита Магией.</DefaultText>
+      <DefaultText>Позволяет «Суждению хранителя» поразить магической атакой ближайших к цели врагов. У противников снижаются Выносливость, Воля и защита Магией.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6580,7 +6580,7 @@
     </Entry>
     <Entry>
       <ID>1631</ID>
-      <DefaultText>Способность "Выпад" добавляет бонус к защите вам и ближайшим бойцам отряда.</DefaultText>
+      <DefaultText>Способность «Выпад» добавляет бонус к защите вам и ближайшим бойцам отряда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6625,7 +6625,7 @@
     </Entry>
     <Entry>
       <ID>1640</ID>
-      <DefaultText>"Выпад" упреждает цель, задерживая ее следующую атаку.</DefaultText>
+      <DefaultText>«Выпад» упреждает цель, задерживая ее следующую атаку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,7 +6675,7 @@
     </Entry>
     <Entry>
       <ID>1650</ID>
-      <DefaultText>Тройной удар по цели. (Заменяет "Шквал ударов".)</DefaultText>
+      <DefaultText>Тройной удар по цели. (Заменяет «Шквал ударов».)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6695,7 +6695,7 @@
     </Entry>
     <Entry>
       <ID>1654</ID>
-      <DefaultText>Добавляет к способности "Выпад" эффект обездвиживания. "Выпад" также увеличивает скорость передвижения и позволяет выйти из боя.</DefaultText>
+      <DefaultText>Добавляет к способности «Выпад» эффект обездвиживания. «Выпад» также увеличивает скорость передвижения и позволяет выйти из боя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6745,7 +6745,7 @@
     </Entry>
     <Entry>
       <ID>1664</ID>
-      <DefaultText>Ношение только тяжелых доспехов дает бонус к броне. (Эффективней, чем "Тяжелая стража I".)</DefaultText>
+      <DefaultText>Ношение только тяжелых доспехов дает бонус к броне. (Эффективней, чем «Тяжелая стража I».)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7715,7 +7715,7 @@
     </Entry>
     <Entry>
       <ID>1861</ID>
-      <DefaultText>Выпускает облитую маслом и подожженную стрелу. Поджигает противников на более долгий срок в сравнении с "Горящим железом" (замещает "Горящее железо").</DefaultText>
+      <DefaultText>Выпускает облитую маслом и подожженную стрелу. Поджигает противников на более долгий срок в сравнении с «Горящим железом» (замещает «Горящее железо»).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7765,7 +7765,7 @@
     </Entry>
     <Entry>
       <ID>1871</ID>
-      <DefaultText>Использовав "Лязг железа", Барик в течение короткого времени наносит два удара за атаку.</DefaultText>
+      <DefaultText>Использовав «Лязг железа», Барик в течение короткого времени наносит два удара за атаку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7900,7 +7900,7 @@
     </Entry>
     <Entry>
       <ID>1898</ID>
-      <DefaultText>Повышает уровень навыка "[url=glossary:управление рвением]Управление рвением[/url]".</DefaultText>
+      <DefaultText>Повышает уровень навыка «[url=glossary:управление рвением]Управление рвением[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7910,12 +7910,12 @@
     </Entry>
     <Entry>
       <ID>1900</ID>
-      <DefaultText>Умеренно повышает уровень навыка "[url=glossary:управление рвением]Управление рвением[/url]".</DefaultText>
+      <DefaultText>Умеренно повышает уровень навыка «[url=glossary:управление рвением]Управление рвением[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1901</ID>
-      <DefaultText>Значительно повышает уровень навыка "[url=glossary:управление рвением]Управление рвением[/url]".</DefaultText>
+      <DefaultText>Значительно повышает уровень навыка «[url=glossary:управление рвением]Управление рвением[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7930,7 +7930,7 @@
     </Entry>
     <Entry>
       <ID>1904</ID>
-      <DefaultText>Значительно повышает уровень здоровья, восстанавливаемого "Вторым дыханием". Ненадолго защищает возрожденных персонажей от получения урона.</DefaultText>
+      <DefaultText>Значительно повышает уровень здоровья, восстанавливаемого «Вторым дыханием». Ненадолго защищает возрожденных персонажей от получения урона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7960,7 +7960,7 @@
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>Дает умеренный бонус к навыку "[url=glossary:управление могильным светом]Управление могильным светом[/url]" и урону могильным светом в ночное время.</DefaultText>
+      <DefaultText>Дает умеренный бонус к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7970,7 +7970,7 @@
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>Дает значительный бонус к навыку "[url=glossary:управление могильным светом]Управление могильным светом[/url]" и урону могильным светом в ночное время.</DefaultText>
+      <DefaultText>Дает значительный бонус к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8040,7 +8040,7 @@
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Значительно увеличивает урон от критических попаданий "Скачущей смерти" и дает бонус к урону, сохраняющийся до конца боя.</DefaultText>
+      <DefaultText>Значительно увеличивает урон от критических попаданий «Скачущей смерти» и дает бонус к урону, сохраняющийся до конца боя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8070,7 +8070,7 @@
     </Entry>
     <Entry>
       <ID>1932</ID>
-      <DefaultText>Пока Сирин не носит тяжелую броню, "Невинный облик" дает ей 50% шанс отражения критических попаданий.</DefaultText>
+      <DefaultText>Пока Сирин не носит тяжелую броню, «Невинный облик» дает ей 50% шанс отражения критических попаданий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8080,7 +8080,7 @@
     </Entry>
     <Entry>
       <ID>1934</ID>
-      <DefaultText>Присутствие Сирин вдохновляет отряд, и все бойцы отряда получают дополнительный опыт за применение навыков "Магия" и "[url=glossary:хитроумие]Хитроумие[/url]". Также "Вдохновение" обеспечивает Сирин дополнительными ячейками заклинаний.</DefaultText>
+      <DefaultText>Присутствие Сирин вдохновляет отряд, и все бойцы отряда получают дополнительный опыт за применение навыков «Магия» и «[url=glossary:хитроумие]Хитроумие[/url]». Также «Вдохновение» обеспечивает Сирин дополнительными ячейками заклинаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8135,12 +8135,12 @@
     </Entry>
     <Entry>
       <ID>1945</ID>
-      <DefaultText>Умеренно повышает уровень навыка "[url=glossary:знания]Знания[/url]".</DefaultText>
+      <DefaultText>Умеренно повышает уровень навыка «[url=glossary:знания]Знания[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1946</ID>
-      <DefaultText>Значительно повышает уровень навыка "[url=glossary:знания]Знания[/url]".</DefaultText>
+      <DefaultText>Значительно повышает уровень навыка «[url=glossary:знания]Знания[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8260,7 +8260,7 @@
     </Entry>
     <Entry>
       <ID>1973</ID>
-      <DefaultText>Усиливает способность Лантри "Обновление", еще больше увеличивая броню и урон от оружия.</DefaultText>
+      <DefaultText>Усиливает способность Лантри «Обновление», еще больше увеличивая броню и урон от оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8315,7 +8315,7 @@
     </Entry>
     <Entry>
       <ID>1984</ID>
-      <DefaultText>Увеличивает число дополнительных ячеек заклинаний, полученных от "Расширенного разума".</DefaultText>
+      <DefaultText>Увеличивает число дополнительных ячеек заклинаний, полученных от «Расширенного разума».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8580,7 +8580,7 @@
     </Entry>
     <Entry>
       <ID>2068</ID>
-      <DefaultText>При ношении только тяжелых доспехов дается бонус к броне и восстановлению. (Эффективней, чем "Тяжелая стража I")</DefaultText>
+      <DefaultText>При ношении только тяжелых доспехов дается бонус к броне и восстановлению. (Эффективней, чем «Тяжелая стража I»)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8745,7 +8745,7 @@
     </Entry>
     <Entry>
       <ID>2108</ID>
-      <DefaultText>Когда Лантри в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыка "[url=glossary:знания]Знания[/url]" и дополнительную ячейку заклинания.</DefaultText>
+      <DefaultText>Когда Лантри в составе отряда, все бойцы отряда получают дополнительный опыт за применение навыка «[url=glossary:знания]Знания[/url]» и дополнительную ячейку заклинания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

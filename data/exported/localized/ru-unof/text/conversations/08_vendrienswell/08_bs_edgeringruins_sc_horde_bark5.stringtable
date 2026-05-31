@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Жизнь за Кайроса!"</DefaultText>
+      <DefaultText>«Жизнь за Кайроса!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Победа будет наша!"</DefaultText>
+      <DefaultText>«Победа будет наша!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Еще один бой, который приходится заканчивать Алому Хору".</DefaultText>
+      <DefaultText>«Еще один бой, который приходится заканчивать Алому Хору».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

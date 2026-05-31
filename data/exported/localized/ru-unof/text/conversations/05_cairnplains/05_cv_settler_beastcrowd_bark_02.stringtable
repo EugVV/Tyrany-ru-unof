@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Никакой пощады чудовищам! Убийцы! Кровопийцы!"</DefaultText>
+      <DefaultText>«Никакой пощады чудовищам! Убийцы! Кровопийцы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Уберите эту тварь из нашего города!"</DefaultText>
+      <DefaultText>«Уберите эту тварь из нашего города!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Сломайте ему ноги, чтоб в свой клан не вернулся!"</DefaultText>
+      <DefaultText>«Сломайте ему ноги, чтоб в свой клан не вернулся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Отомстим за наших людей!"</DefaultText>
+      <DefaultText>«Отомстим за наших людей!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Тварь поганая!"</DefaultText>
+      <DefaultText>«Тварь поганая!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Содрать с него шкуру и скинуть в пропасть!"</DefaultText>
+      <DefaultText>«Содрать с него шкуру и скинуть в пропасть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Одной тварью меньше станет!"</DefaultText>
+      <DefaultText>«Одной тварью меньше станет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,32 +46,32 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"За нами охотятся, а вы отпускаете зверя? Вот оно, ваше правосудие!"</DefaultText>
+      <DefaultText>«За нами охотятся, а вы отпускаете зверя? Вот оно, ваше правосудие!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Нужно выследить эту гниду и прикончить ее!"</DefaultText>
+      <DefaultText>«Нужно выследить эту гниду и прикончить ее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Спорю, он спит с этими зверюгами. Как еще это объяснить?"</DefaultText>
-      <FemaleText>"Спорю, она спит с этими зверюгами. Как еще это объяснить?"</FemaleText>
+      <DefaultText>«Спорю, он спит с этими зверюгами. Как еще это объяснить?»</DefaultText>
+      <FemaleText>«Спорю, она спит с этими зверюгами. Как еще это объяснить?»</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Нужно было убить эту тварь, когда была возможность!"</DefaultText>
+      <DefaultText>«Нужно было убить эту тварь, когда была возможность!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"И Вершитель зовет это правосудием? Возмутительно!"</DefaultText>
-      <FemaleText>"И Вершительница зовет это правосудием? Возмутительно!"</FemaleText>
+      <DefaultText>«И Вершитель зовет это правосудием? Возмутительно!»</DefaultText>
+      <FemaleText>«И Вершительница зовет это правосудием? Возмутительно!»</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"От суда Тyнона можно было ждать большего".</DefaultText>
+      <DefaultText>«От суда Тyнона можно было ждать большего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,17 +81,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Может, мы зря жаждали крови зверя".</DefaultText>
+      <DefaultText>«Может, мы зря жаждали крови зверя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Просто уберите этого ублюдка с глаз моих!"</DefaultText>
+      <DefaultText>«Просто уберите этого ублюдка с глаз моих!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Если зверь будет сражаться за Хор, то он все равно обречен на смерть".</DefaultText>
+      <DefaultText>«Если зверь будет сражаться за Хор, то он все равно обречен на смерть».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

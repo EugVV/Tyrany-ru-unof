@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Почему статуя плачет?"</DefaultText>
+      <DefaultText>«Почему статуя плачет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] спасал меня от гибели столько раз, что я потеряла счет".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] спасал меня от гибели столько раз, что я потеряла счет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Смерть Гвардии Вендриенов!"</DefaultText>
+      <DefaultText>«Смерть Гвардии Вендриенов!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Теперь, когда долина перекрыта, Гвардии Вендриенов некуда бежать".</DefaultText>
+      <DefaultText>«Теперь, когда долина перекрыта, Гвардии Вендриенов некуда бежать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Да славится [url=glossary:кайрос]Кайрос[/url]! Да славится Север!"</DefaultText>
+      <DefaultText>«Да славится [url=glossary:кайрос]Кайрос[/url]! Да славится Север!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Когда мы сокрушим повстанцев, Ярусы вспомнят, с кем имеют дело".</DefaultText>
+      <DefaultText>«Когда мы сокрушим повстанцев, Ярусы вспомнят, с кем имеют дело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

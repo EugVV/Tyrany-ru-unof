@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Когда к власти пришел Раэтоммон, Братство стало куда более организованным".</DefaultText>
+      <DefaultText>«Когда к власти пришел Раэтоммон, Братство стало куда более организованным».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Сказал бы мне кто, почему меня всегда ставят заниматься мытарством".</DefaultText>
+      <DefaultText>«Сказал бы мне кто, почему меня всегда ставят заниматься мытарством».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Не такими уж силачами они мне кажутся. А мне говорили, будто [url=glossary:опальные]Опальные[/url] — страшные бойцы".</DefaultText>
+      <DefaultText>«Не такими уж силачами они мне кажутся. А мне говорили, будто [url=glossary:опальные]Опальные[/url] — страшные бойцы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если отребье из Алого Хора ценит свою жизнь, лучше им на нашу территорию не соваться".</DefaultText>
+      <DefaultText>«Если отребье из Алого Хора ценит свою жизнь, лучше им на нашу территорию не соваться».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

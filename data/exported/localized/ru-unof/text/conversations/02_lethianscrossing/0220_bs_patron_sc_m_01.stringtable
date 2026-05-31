@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Скажем прямо — я тут слишком много трачу, но она того стоит, правда".</DefaultText>
+      <DefaultText>«Скажем прямо — я тут слишком много трачу, но она того стоит, правда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Если хочешь снять Эваристу, становись в очередь. Она умеет доставлять удовольствие!"</DefaultText>
+      <DefaultText>«Если хочешь снять Эваристу, становись в очередь. Она умеет доставлять удовольствие!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Если будет возможность, «Железное долбило» у нее закажи. Круче не бывает!"</DefaultText>
+      <DefaultText>«Если будет возможность, „Железное долбило“ у нее закажи. Круче не бывает!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эй, тихо! Не раскрывай все мои секреты!"</DefaultText>
+      <DefaultText>«Эй, тихо! Не раскрывай все мои секреты!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

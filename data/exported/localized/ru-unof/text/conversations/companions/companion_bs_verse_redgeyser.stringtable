@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Поглядим, что у тебя внутри!"</DefaultText>
+      <DefaultText>«Поглядим, что у тебя внутри!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я тебе кишки выпущу!"</DefaultText>
+      <DefaultText>«Я тебе кишки выпущу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Надеюсь, тебе нравится красный!"</DefaultText>
+      <DefaultText>«Надеюсь, тебе нравится красный!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

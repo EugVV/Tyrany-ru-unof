@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Знаешь эту песню? Я раньше пела ее дочери".</DefaultText>
+      <DefaultText>«Знаешь эту песню? Я раньше пела ее дочери».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"У тебя осталась семья на родине?"</DefaultText>
+      <DefaultText>«У тебя осталась семья на родине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мой муж присматривает за фермой. Я не должна беспокоиться".</DefaultText>
+      <DefaultText>«Мой муж присматривает за фермой. Я не должна беспокоиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Мы решили, что только один из нас пойдет на войну. Он для армии непригоден".</DefaultText>
+      <DefaultText>«Мы решили, что только один из нас пойдет на войну. Он для армии непригоден».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я одолела его в состязании. Уложила его на лопатки через минуту".</DefaultText>
+      <DefaultText>«Я одолела его в состязании. Уложила его на лопатки через минуту».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Думаю, он знал, как сильно я хотела этого, и дал мне выиграть. Мой добросердечный дурачок".</DefaultText>
+      <DefaultText>«Думаю, он знал, как сильно я хотела этого, и дал мне выиграть. Мой добросердечный дурачок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

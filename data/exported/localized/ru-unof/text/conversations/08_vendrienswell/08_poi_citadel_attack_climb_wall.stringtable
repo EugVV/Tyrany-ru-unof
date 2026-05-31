@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Похоже, по этому участку стены можно забраться наверх".</DefaultText>
+      <DefaultText>«Похоже, по этому участку стены можно забраться наверх».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Смотри, здесь можно вскарабкаться на стену".</DefaultText>
+      <DefaultText>«Смотри, здесь можно вскарабкаться на стену».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Думаю, по той стене можно взобраться наверх".</DefaultText>
+      <DefaultText>«Думаю, по той стене можно взобраться наверх».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

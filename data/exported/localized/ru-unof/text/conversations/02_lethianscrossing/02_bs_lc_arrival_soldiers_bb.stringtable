@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не ищи неприятностей, Вершитель".</DefaultText>
-      <FemaleText>"Не ищи неприятностей, Вершительница".</FemaleText>
+      <DefaultText>«Не ищи неприятностей, Вершитель».</DefaultText>
+      <FemaleText>«Не ищи неприятностей, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Никто не сможет отбить [url=glossary:распутье летианы]Распутье Летианы[/url] у солдат Бронзового Братства".</DefaultText>
+      <DefaultText>«Никто не сможет отбить [url=glossary:распутье летианы]Распутье Летианы[/url] у солдат Бронзового Братства».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я ничем не могу тебе помочь".</DefaultText>
+      <DefaultText>«Я ничем не могу тебе помочь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если у тебя есть вопросы, задай их кому-нибудь еще".</DefaultText>
+      <DefaultText>«Если у тебя есть вопросы, задай их кому-нибудь еще».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Если [url=glossary:эдикт]Эдикт[/url] — это и правда твоих рук дело, на твоем месте, я был бы поосторожнее".</DefaultText>
+      <DefaultText>«Если [url=glossary:эдикт]Эдикт[/url] — это и правда твоих рук дело, на твоем месте, я был бы поосторожнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Была надежда на [url=glossary:распутье летианы]Распутье Летианы[/url] укрыться от Эдиктов… но, я вижу, они и сюда последовали за мной".</DefaultText>
+      <DefaultText>«Была надежда на [url=glossary:распутье летианы]Распутье Летианы[/url] укрыться от Эдиктов… но, я вижу, они и сюда последовали за мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Не стану утверждать, что меня не впечатлило, как ты расправился с армиями Кайроса у Колодца Вендриенов. Отличная работа".</DefaultText>
+      <DefaultText>«Не стану утверждать, что меня не впечатлило, как ты расправился с армиями Кайроса у Колодца Вендриенов. Отличная работа».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Братство не побоится и Архонта угробить, если понадобится. Так что поберегись".</DefaultText>
+      <DefaultText>«Братство не побоится и Архонта угробить, если понадобится. Так что поберегись».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

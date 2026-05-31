@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Буду бить, рвать-крутить и кромсать!"</DefaultText>
+      <DefaultText>«Буду бить, рвать-крутить и кромсать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Хочу резать, хочу бить и когтями в клочья рвать!"</DefaultText>
+      <DefaultText>«Хочу резать, хочу бить и когтями в клочья рвать!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

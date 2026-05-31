@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Полагаю, дирижирует этим ансамблем дураков Железный Маршал".</DefaultText>
+      <DefaultText>«Полагаю, дирижирует этим ансамблем дураков Железный Маршал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Поглядите на эту стальную леди. Похоже, Железный Маршал — это она".</DefaultText>
+      <DefaultText>«Поглядите на эту стальную леди. Похоже, Железный Маршал — это она».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Железный Маршал прямо перед нами, надо вести переговоры".</DefaultText>
+      <DefaultText>«Железный Маршал прямо перед нами, надо вести переговоры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Пред вами моя госпожа. Вам она известна как Железный Маршал".</DefaultText>
+      <DefaultText>«Пред вами моя госпожа. Вам она известна как Железный Маршал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

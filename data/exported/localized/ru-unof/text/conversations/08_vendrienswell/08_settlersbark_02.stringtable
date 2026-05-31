@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы обязаны тебе жизнями, Вершитель судеб. Спасибо".</DefaultText>
-      <FemaleText>"Мы обязаны тебе жизнями, Вершительница судеб. Спасибо".</FemaleText>
+      <DefaultText>«Мы обязаны тебе жизнями, Вершитель судеб. Спасибо».</DefaultText>
+      <FemaleText>«Мы обязаны тебе жизнями, Вершительница судеб. Спасибо».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

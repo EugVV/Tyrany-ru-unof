@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Помоги нам, прошу…"</DefaultText>
+      <DefaultText>«Помоги нам, прошу…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Зверолюды хотят нас съесть?"</DefaultText>
+      <DefaultText>«Зверолюды хотят нас съесть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Эти твари мне в кошмарах снятся".</DefaultText>
+      <DefaultText>«Эти твари мне в кошмарах снятся».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

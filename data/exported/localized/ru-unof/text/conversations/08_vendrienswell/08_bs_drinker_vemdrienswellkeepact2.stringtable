@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Тяжелый был день, Вершитель. Мы потеряли много хороших солдат".</DefaultText>
-      <FemaleText>"Тяжелый был день, Вершительница. Мы потеряли много хороших солдат".</FemaleText>
+      <DefaultText>«Тяжелый был день, Вершитель. Мы потеряли много хороших солдат».</DefaultText>
+      <FemaleText>«Тяжелый был день, Вершительница. Мы потеряли много хороших солдат».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

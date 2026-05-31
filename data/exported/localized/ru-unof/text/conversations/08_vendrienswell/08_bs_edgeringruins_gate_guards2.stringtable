@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Наш командир доволен твоим прибытием".</DefaultText>
+      <DefaultText>«Наш командир доволен твоим прибытием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не стоило Кайросу принимать сдачу Вендриенов".</DefaultText>
+      <DefaultText>«Не стоило Кайросу принимать сдачу Вендриенов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Жду не дождусь, когда эти мятежные псы окажутся на моем штыке".</DefaultText>
+      <DefaultText>«Жду не дождусь, когда эти мятежные псы окажутся на моем штыке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

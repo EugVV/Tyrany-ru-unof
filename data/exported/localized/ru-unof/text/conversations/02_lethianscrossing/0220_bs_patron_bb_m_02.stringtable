@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы никак не можем решиться, кого бы нам выбрать. Поможешь советом?"</DefaultText>
+      <DefaultText>«Мы никак не можем решиться, кого бы нам выбрать. Поможешь советом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что-то сегодня у меня не на «меч» настроение, а скорее на «ножны»".</DefaultText>
+      <DefaultText>«Что-то сегодня у меня не на „меч“ настроение, а скорее на „ножны“».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Давай Роксану возьмем. С ней точно не соскучишься. Хотя, конечно, Фило нам угодить умеет…"</DefaultText>
+      <DefaultText>«Давай Роксану возьмем. С ней точно не соскучишься. Хотя, конечно, Фило нам угодить умеет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"В смысле ищешь такое? Или сам хочешь побыть?"</DefaultText>
-      <FemaleText>"В смысле ищешь такое? Или сама хочешь побыть?"</FemaleText>
+      <DefaultText>«В смысле ищешь такое? Или сам хочешь побыть?»</DefaultText>
+      <FemaleText>«В смысле ищешь такое? Или сама хочешь побыть?»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

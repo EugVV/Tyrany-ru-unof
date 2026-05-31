@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Подожди, господин!"</DefaultText>
-      <FemaleText>"Подожди, госпожа!"</FemaleText>
+      <DefaultText>«Подожди, господин!»</DefaultText>
+      <FemaleText>«Подожди, госпожа!»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

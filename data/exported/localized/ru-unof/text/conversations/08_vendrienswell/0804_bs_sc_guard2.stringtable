@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я должен быть начеку. Могут показаться враги".</DefaultText>
+      <DefaultText>«Я должен быть начеку. Могут показаться враги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Иди доставай кого-нибудь еще. Не мешай мне концентрироваться".</DefaultText>
+      <DefaultText>«Иди доставай кого-нибудь еще. Не мешай мне концентрироваться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ты что, не видишь, что мы заняты? От стояния в дозоре такая жажда просыпается…"</DefaultText>
+      <DefaultText>«Ты что, не видишь, что мы заняты? От стояния в дозоре такая жажда просыпается…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

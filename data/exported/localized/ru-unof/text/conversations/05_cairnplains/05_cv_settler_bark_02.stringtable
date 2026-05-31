@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Учуял, как тряхнуло? Не то чтобы очень прям сильно, ага, но после таких обычно идут здоровые толчки!"</DefaultText>
+      <DefaultText>«Учуял, как тряхнуло? Не то чтобы очень прям сильно, ага, но после таких обычно идут здоровые толчки!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Землетрясения… они прекратились!"</DefaultText>
+      <DefaultText>«Землетрясения… они прекратились!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Честно говоря, землетрясения уже стали привычными. Эта тишина немного пугает".</DefaultText>
+      <DefaultText>«Честно говоря, землетрясения уже стали привычными. Эта тишина немного пугает».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Говорят, после окончания Эдикта зверолюдов стало меньше".</DefaultText>
+      <DefaultText>«Говорят, после окончания Эдикта зверолюдов стало меньше».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

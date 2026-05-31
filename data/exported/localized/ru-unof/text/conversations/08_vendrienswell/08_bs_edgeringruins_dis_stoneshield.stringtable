@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Спасибо за заботу о Драстусе".</DefaultText>
+      <DefaultText>«Спасибо за заботу о Драстусе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Жаль, что так получилось с Драстусом".</DefaultText>
+      <DefaultText>«Жаль, что так получилось с Драстусом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит!"</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"На Юге так душно, чтоб его…"</DefaultText>
+      <DefaultText>«На Юге так душно, чтоб его…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"У меня уже доспехи ржавеют".</DefaultText>
+      <DefaultText>«У меня уже доспехи ржавеют».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Скорей бы эта осада закончилась".</DefaultText>
+      <DefaultText>«Скорей бы эта осада закончилась».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] долго не протянет".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] долго не протянет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

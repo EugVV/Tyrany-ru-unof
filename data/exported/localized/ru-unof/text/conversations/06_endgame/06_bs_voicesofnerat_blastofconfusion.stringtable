@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Какие вы наивные…"</DefaultText>
+      <DefaultText>«Какие вы наивные…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Раздели наши кошмары".</DefaultText>
+      <DefaultText>«Раздели наши кошмары».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Хочешь узнать тайну?"</DefaultText>
+      <DefaultText>«Хочешь узнать тайну?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Твой разум что игрушка для меня".</DefaultText>
+      <DefaultText>«Твой разум что игрушка для меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Внемли, когда говорит вечность!"</DefaultText>
+      <DefaultText>«Внемли, когда говорит вечность!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

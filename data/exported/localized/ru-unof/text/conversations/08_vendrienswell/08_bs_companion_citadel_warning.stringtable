@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Идем, Вершитель! У нас мало времени!"</DefaultText>
-      <FemaleText>"Идем, Вершительница! У нас мало времени!"</FemaleText>
+      <DefaultText>«Идем, Вершитель! У нас мало времени!»</DefaultText>
+      <FemaleText>«Идем, Вершительница! У нас мало времени!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] ждать не станет! Мы должны попасть в [url=glossary:зал вознесения]Зал Вознесения[/url]!"</DefaultText>
+      <DefaultText>«[url=glossary:эдикт]Эдикт[/url] ждать не станет! Мы должны попасть в [url=glossary:зал вознесения]Зал Вознесения[/url]!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Шевели булками, нужно добраться до Зала Вознесения!"</DefaultText>
+      <DefaultText>«Шевели булками, нужно добраться до Зала Вознесения!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

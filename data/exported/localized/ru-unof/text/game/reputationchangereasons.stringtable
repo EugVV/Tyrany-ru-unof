@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>Вы "вступили" в "ватагу" Фуги.</DefaultText>
+      <DefaultText>Вы «вступили» в «ватагу» Фуги.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2346,7 +2346,7 @@
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Сирин рада, что вы отправили в Хор ее первую паству, которую она считала "категорически неприятной".</DefaultText>
+      <DefaultText>Сирин рада, что вы отправили в Хор ее первую паству, которую она считала «категорически неприятной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,7 +2941,7 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Маттиас помнит, как вы убили "шпионов" Алого Хора, которые сражались с армией Несломленных.</DefaultText>
+      <DefaultText>Маттиас помнит, как вы убили «шпионов» Алого Хора, которые сражались с армией Несломленных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

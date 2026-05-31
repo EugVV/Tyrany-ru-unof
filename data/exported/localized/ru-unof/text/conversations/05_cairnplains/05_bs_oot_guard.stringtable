@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Тупым когтям нет ходу на Воющую Скалу. Ни безволосым, ни людям".</DefaultText>
+      <DefaultText>«Тупым когтям нет ходу на Воющую Скалу. Ни безволосым, ни людям».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Людям нельзя на Воющую Скалу. Нужно разрешение от [url=glossary:примы]примы[/url]".</DefaultText>
+      <DefaultText>«Людям нельзя на Воющую Скалу. Нужно разрешение от [url=glossary:примы]примы[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,27 +21,27 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Иди обратно, человек. Зверолюдка охраняет проход к Воющей Скале. Защищает земли племени".</DefaultText>
+      <DefaultText>«Иди обратно, человек. Зверолюдка охраняет проход к Воющей Скале. Защищает земли племени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Людям нельзя на Воющую Скалу. Нужно разрешение от [url=glossary:примы]примы[/url]".</DefaultText>
+      <DefaultText>«Людям нельзя на Воющую Скалу. Нужно разрешение от [url=glossary:примы]примы[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Прочь с дороги. Я — [url=glossary:прима]прима[/url] этого племени".</DefaultText>
+      <DefaultText>«Прочь с дороги. Я — [url=glossary:прима]прима[/url] этого племени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Сгинь, падаль".</DefaultText>
+      <DefaultText>«Сгинь, падаль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Атаковать] "Отойди с дороги, смрадная тварь".</DefaultText>
+      <DefaultText>[Атаковать] «Отойди с дороги, смрадная тварь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

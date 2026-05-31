@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"По-моему, крестьяне нас пока еще недостаточно боятся, как ты считаешь?"</DefaultText>
+      <DefaultText>«По-моему, крестьяне нас пока еще недостаточно боятся, как ты считаешь?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

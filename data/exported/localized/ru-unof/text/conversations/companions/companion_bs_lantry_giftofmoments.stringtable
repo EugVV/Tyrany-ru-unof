@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не обращай на меня внимания".</DefaultText>
+      <DefaultText>«Не обращай на меня внимания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я скоро буду".</DefaultText>
+      <DefaultText>«Я скоро буду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Постарайся не убиться в мое отсутствие".</DefaultText>
+      <DefaultText>«Постарайся не убиться в мое отсутствие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Подожди, будет весело!"</DefaultText>
+      <DefaultText>«Подожди, будет весело!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Скучали по мне?"</DefaultText>
+      <DefaultText>«Скучали по мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я же говорил, что вернусь…"</DefaultText>
+      <DefaultText>«Я же говорил, что вернусь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Давай, вдарь!"</DefaultText>
+      <DefaultText>«Давай, вдарь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Я возвращаюсь неотвратимо, как артрит!"</DefaultText>
+      <DefaultText>«Я возвращаюсь неотвратимо, как артрит!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

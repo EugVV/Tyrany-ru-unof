@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Уходи. Мне и без тебя есть чем заняться, а ты все испортишь, если будешь тут торчать".</DefaultText>
+      <DefaultText>«Уходи. Мне и без тебя есть чем заняться, а ты все испортишь, если будешь тут торчать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Да что за… Почему не вставляется… Может, если вот так развернуть?"</DefaultText>
+      <DefaultText>«Да что за… Почему не вставляется… Может, если вот так развернуть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Если так и будешь торчать тут и пялиться, я с тебя деньги за просмотр брать начну".</DefaultText>
+      <DefaultText>«Если так и будешь торчать тут и пялиться, я с тебя деньги за просмотр брать начну».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

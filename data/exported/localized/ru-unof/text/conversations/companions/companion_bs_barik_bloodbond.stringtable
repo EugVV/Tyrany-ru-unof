@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Сначала тебе придется иметь дело со мной!"</DefaultText>
+      <DefaultText>«Сначала тебе придется иметь дело со мной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Этот человек под моей защитой".</DefaultText>
+      <DefaultText>«Этот человек под моей защитой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я твой щит!"</DefaultText>
+      <DefaultText>«Я твой щит!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

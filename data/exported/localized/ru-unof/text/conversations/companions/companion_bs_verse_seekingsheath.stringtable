@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Они у меня на прицеле".</DefaultText>
+      <DefaultText>«Они у меня на прицеле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я тебя вижу".</DefaultText>
+      <DefaultText>«Я тебя вижу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Вижу на расстояние птичьего полета".</DefaultText>
+      <DefaultText>«Вижу на расстояние птичьего полета».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

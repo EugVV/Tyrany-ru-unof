@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Грязные крысы!"</DefaultText>
+      <DefaultText>«Грязные крысы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Трусы! Вы все трусы!"</DefaultText>
+      <DefaultText>«Трусы! Вы все трусы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не падет!"</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не падет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,22 +41,22 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Милосердия… Неужели вам неведомо милосердие?"</DefaultText>
+      <DefaultText>«Милосердия… Неужели вам неведомо милосердие?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Без разрешения Пятого Глаза к пленникам подходить нельзя!"</DefaultText>
+      <DefaultText>«Без разрешения Пятого Глаза к пленникам подходить нельзя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Отойди от пленника!"</DefaultText>
+      <DefaultText>«Отойди от пленника!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Сперва разберемся с Варией, а потом пусть Книгочей говорит".</DefaultText>
+      <DefaultText>«Сперва разберемся с Варией, а потом пусть Книгочей говорит».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

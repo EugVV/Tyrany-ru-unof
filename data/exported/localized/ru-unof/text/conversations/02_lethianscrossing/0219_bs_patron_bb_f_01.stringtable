@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эти койки крепкими не выглядят. Я люблю, когда все жестко".</DefaultText>
+      <DefaultText>«Эти койки крепкими не выглядят. Я люблю, когда все жестко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что с этими стенами такое? Мне тишина ни к чему".</DefaultText>
+      <DefaultText>«Что с этими стенами такое? Мне тишина ни к чему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Атмосфера меня устраивает. Если не считать бочонков. Как думаешь, что они пытались сказать?"</DefaultText>
+      <DefaultText>«Атмосфера меня устраивает. Если не считать бочонков. Как думаешь, что они пытались сказать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я здесь в безопасности. Сниму кого-нибудь и забуду про всякие Эдикты, Владык и все такое прочее".</DefaultText>
+      <DefaultText>«Я здесь в безопасности. Сниму кого-нибудь и забуду про всякие Эдикты, Владык и все такое прочее».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

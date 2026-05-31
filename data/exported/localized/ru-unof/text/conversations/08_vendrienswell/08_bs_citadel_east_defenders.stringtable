@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Жду твоего приказа, Вершитель!"</DefaultText>
-      <FemaleText>"Жду твоего приказа, Вершительница!"</FemaleText>
+      <DefaultText>«Жду твоего приказа, Вершитель!»</DefaultText>
+      <FemaleText>«Жду твоего приказа, Вершительница!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы пойдем в наступление вместе с тобой!"</DefaultText>
+      <DefaultText>«Мы пойдем в наступление вместе с тобой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пришло время действовать!"</DefaultText>
+      <DefaultText>«Пришло время действовать!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

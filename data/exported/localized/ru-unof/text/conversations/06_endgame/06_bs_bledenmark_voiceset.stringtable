@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне не важно, чья эта будет кровь — твоя или моя. Один из нас выживет… или мы оба умрем".</DefaultText>
+      <DefaultText>«Мне не важно, чья эта будет кровь — твоя или моя. Один из нас выживет… или мы оба умрем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Х-ха!"</DefaultText>
+      <DefaultText>«Х-ха!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Свет… ослепляет…"</DefaultText>
+      <DefaultText>«Свет… ослепляет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,22 +46,22 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Главное — продолжать выкручивать… пока не услышишь треск".</DefaultText>
+      <DefaultText>«Главное — продолжать выкручивать… пока не услышишь треск».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Больно, когда бью, да?"</DefaultText>
+      <DefaultText>«Больно, когда бью, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Хороший удар, малыш".</DefaultText>
-      <FemaleText>"Хороший удар, девочка".</FemaleText>
+      <DefaultText>«Хороший удар, малыш».</DefaultText>
+      <FemaleText>«Хороший удар, девочка».</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Неплохо…"</DefaultText>
+      <DefaultText>«Неплохо…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

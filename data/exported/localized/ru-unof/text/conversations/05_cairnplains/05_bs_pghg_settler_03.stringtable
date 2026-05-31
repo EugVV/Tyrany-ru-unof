@@ -6,87 +6,87 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Люди боялись заводить детей из-за всех этих землетрясений. Теперь семьи наверняка начнут расти".</DefaultText>
+      <DefaultText>«Люди боялись заводить детей из-за всех этих землетрясений. Теперь семьи наверняка начнут расти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Надеюсь, что здесь появится больше торговцев, когда разойдутся слухи, что землетрясения прекратились".</DefaultText>
+      <DefaultText>«Надеюсь, что здесь появится больше торговцев, когда разойдутся слухи, что землетрясения прекратились».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Надеюсь, больше их не будет — такое впечатление, что хористы в последнее время выскакивают из каждой щели и трещины".</DefaultText>
+      <DefaultText>«Надеюсь, больше их не будет — такое впечатление, что хористы в последнее время выскакивают из каждой щели и трещины».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Если я увижу еще кого-то из этих красных зверотрахов, своими руками посталкиваю их с обрыва".</DefaultText>
+      <DefaultText>«Если я увижу еще кого-то из этих красных зверотрахов, своими руками посталкиваю их с обрыва».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Говорят, ты закончил [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделал, но спасибо тебе".</DefaultText>
-      <FemaleText>"Говорят, ты закончила [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделала, но спасибо тебе".</FemaleText>
+      <DefaultText>«Говорят, ты закончил [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделал, но спасибо тебе».</DefaultText>
+      <FemaleText>«Говорят, ты закончила [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделала, но спасибо тебе».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Наконец-то я могу нормально выспаться".</DefaultText>
+      <DefaultText>«Наконец-то я могу нормально выспаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Может ли [url=glossary:каирн]Каирн[/url] вернуться? Надеюсь, что нет".</DefaultText>
+      <DefaultText>«Может ли [url=glossary:каирн]Каирн[/url] вернуться? Надеюсь, что нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Город наш, может, и не тронут, но страна лежит в руинах".</DefaultText>
+      <DefaultText>«Город наш, может, и не тронут, но страна лежит в руинах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Когда-нибудь весь город попросту рухнет в бездну".</DefaultText>
+      <DefaultText>«Когда-нибудь весь город попросту рухнет в бездну».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"К счастью, мне удалось пережить нападение Каирна. А вот городу нашему повезло меньше".</DefaultText>
+      <DefaultText>«К счастью, мне удалось пережить нападение Каирна. А вот городу нашему повезло меньше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Надеюсь, ты расскажешь Адъюдикатору о наших страданиях".</DefaultText>
+      <DefaultText>«Надеюсь, ты расскажешь Адъюдикатору о наших страданиях».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Что еще нужно от нас Кайросу? Как будто мы мало страдали!"</DefaultText>
+      <DefaultText>«Что еще нужно от нас Кайросу? Как будто мы мало страдали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Зверолюдам лучше держаться от нормальных людей подальше".</DefaultText>
+      <DefaultText>«Зверолюдам лучше держаться от нормальных людей подальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Интересно, зачем Архонту Камня было нападать на нас?"</DefaultText>
+      <DefaultText>«Интересно, зачем Архонту Камня было нападать на нас?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Силы Кайроса разобщены. Сколько еще будет длиться эта война?"</DefaultText>
+      <DefaultText>«Силы Кайроса разобщены. Сколько еще будет длиться эта война?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"После того как наша страна была разрушена Эдиктом, зверолюды совсем обнаглели".</DefaultText>
+      <DefaultText>«После того как наша страна была разрушена Эдиктом, зверолюды совсем обнаглели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"[Plainsgate] сильно натерпелись из-за Мира Кайроса".</DefaultText>
+      <DefaultText>«[Plainsgate] сильно натерпелись из-за Мира Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

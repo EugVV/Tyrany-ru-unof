@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вершитель, ты глянь — там, на стене. Мы не одни".</DefaultText>
-      <FemaleText>"Вершительница, ты глянь — там, на стене. Мы не одни".</FemaleText>
+      <DefaultText>«Вершитель, ты глянь — там, на стене. Мы не одни».</DefaultText>
+      <FemaleText>«Вершительница, ты глянь — там, на стене. Мы не одни».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я вижу на стене человека. Надо быть осторожнее".</DefaultText>
+      <DefaultText>«Я вижу на стене человека. Надо быть осторожнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Хищник следит за альфой оттуда — с насеста на вершине стены".</DefaultText>
+      <DefaultText>«Хищник следит за альфой оттуда — с насеста на вершине стены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Мне изменяет зрение, или на стене и впрямь кто-то есть?"</DefaultText>
+      <DefaultText>«Мне изменяет зрение, или на стене и впрямь кто-то есть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Взгляни туда, Вершитель. На стене. Кто-то наблюдает за нами".</DefaultText>
-      <FemaleText>"Взгляни туда, Вершительница. На стене. Кто-то наблюдает за нами".</FemaleText>
+      <DefaultText>«Взгляни туда, Вершитель. На стене. Кто-то наблюдает за нами».</DefaultText>
+      <FemaleText>«Взгляни туда, Вершительница. На стене. Кто-то наблюдает за нами».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"За нами следят! Вон там, со стены!"</DefaultText>
+      <DefaultText>«За нами следят! Вон там, со стены!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

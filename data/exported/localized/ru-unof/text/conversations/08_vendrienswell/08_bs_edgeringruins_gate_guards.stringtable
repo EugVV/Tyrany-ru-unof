@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Драстус сказал, что тебе можно пройти".</DefaultText>
+      <DefaultText>«Драстус сказал, что тебе можно пройти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Будь осторожней, когда будешь проходить под решеткой. Эта треклятая штуковина проржавела почти насквозь".</DefaultText>
+      <DefaultText>«Будь осторожней, когда будешь проходить под решеткой. Эта треклятая штуковина проржавела почти насквозь».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

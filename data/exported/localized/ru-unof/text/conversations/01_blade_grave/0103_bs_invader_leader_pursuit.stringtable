@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Скорей к крепости! Регент отступает!"</DefaultText>
+      <DefaultText>«Скорей к крепости! Регент отступает!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вернись, трус! Оттуда мы не слышим твои условия сдачи!"</DefaultText>
+      <DefaultText>«Вернись, трус! Оттуда мы не слышим твои условия сдачи!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Регент бежит от руки правосудия! Загони его в угол в крепости!"</DefaultText>
+      <DefaultText>«Регент бежит от руки правосудия! Загони его в угол в крепости!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я не из клятвопреступников, клянусь!"</DefaultText>
+      <DefaultText>«Я не из клятвопреступников, клянусь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Еще один ключ-камень — бери его! Э-э… для архива… конечно".</DefaultText>
+      <DefaultText>«Еще один ключ-камень — бери его! Э-э… для архива… конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Еще камень! Может уже хватит нам собирать древний мусор?"</DefaultText>
+      <DefaultText>«Еще камень! Может уже хватит нам собирать древний мусор?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Похож на ключ-камень, который нам дал Книгочей".</DefaultText>
+      <DefaultText>«Похож на ключ-камень, который нам дал Книгочей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Моя ноша и так тяжела, чтобы добавлять к ней еще камень".</DefaultText>
+      <DefaultText>«Моя ноша и так тяжела, чтобы добавлять к ней еще камень».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Альфе нравится собирать камни. Нравится носить тяжести? Или, может быть, у камней есть применение…"</DefaultText>
+      <DefaultText>«Альфе нравится собирать камни. Нравится носить тяжести? Или, может быть, у камней есть применение…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Все загружаем наши сумки камнями, да? Ясно".</DefaultText>
+      <DefaultText>«Все загружаем наши сумки камнями, да? Ясно».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

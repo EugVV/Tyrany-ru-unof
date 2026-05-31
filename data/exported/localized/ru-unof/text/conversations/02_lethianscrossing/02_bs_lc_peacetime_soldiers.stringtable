@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"К бою — Вершитель судеб явился! Поднимайте мосты!"</DefaultText>
-      <FemaleText>"К бою — Вершительница судеб явилась! Поднимайте мосты!"</FemaleText>
+      <DefaultText>«К бою — Вершитель судеб явился! Поднимайте мосты!»</DefaultText>
+      <FemaleText>«К бою — Вершительница судеб явилась! Поднимайте мосты!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Погибели вырвались из ловушек!"</DefaultText>
+      <DefaultText>«Погибели вырвались из ловушек!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Добро пожаловать в [url=glossary:распутье летианы]Распутье Летианы[/url], Вершитель судеб".</DefaultText>
-      <FemaleText>"Добро пожаловать в [url=glossary:распутье летианы]Распутье Летианы[/url], Вершительница судеб".</FemaleText>
+      <DefaultText>«Добро пожаловать в [url=glossary:распутье летианы]Распутье Летианы[/url], Вершитель судеб».</DefaultText>
+      <FemaleText>«Добро пожаловать в [url=glossary:распутье летианы]Распутье Летианы[/url], Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Будь начеку. Враг может ударить в любой момент".</DefaultText>
+      <DefaultText>«Будь начеку. Враг может ударить в любой момент».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

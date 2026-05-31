@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"У нас все под контролем, Вершитель судеб".</DefaultText>
-      <FemaleText>"У нас все под контролем, Вершительница судеб".</FemaleText>
+      <DefaultText>«У нас все под контролем, Вершитель судеб».</DefaultText>
+      <FemaleText>«У нас все под контролем, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"[url=glossary:опальные]Опальные[/url] редко прощают такие преступления, Вершитель".</DefaultText>
-      <FemaleText>"[url=glossary:опальные]Опальные[/url] редко прощают такие преступления, Вершительница".</FemaleText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] редко прощают такие преступления, Вершитель».</DefaultText>
+      <FemaleText>«[url=glossary:опальные]Опальные[/url] редко прощают такие преступления, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Мы благодарны тебе за помощь, Вершитель судеб".</DefaultText>
-      <FemaleText>"Мы благодарны тебе за помощь, Вершительница судеб".</FemaleText>
+      <DefaultText>«Мы благодарны тебе за помощь, Вершитель судеб».</DefaultText>
+      <FemaleText>«Мы благодарны тебе за помощь, Вершительница судеб».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Враг у главных ворот! Не пропускайте никого!"</DefaultText>
+      <DefaultText>«Враг у главных ворот! Не пропускайте никого!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Все сюда! Стены под атакой!"</DefaultText>
+      <DefaultText>«Все сюда! Стены под атакой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Идите вперед и удерживайте позиции!"</DefaultText>
+      <DefaultText>«Идите вперед и удерживайте позиции!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Бочка наполнена мутной красноватой водой. Под жирной пленкой этого "супа" плавают оторванные конечности.</DefaultText>
+      <DefaultText>Бочка наполнена мутной красноватой водой. Под жирной пленкой этого «супа» плавают оторванные конечности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,52 +681,52 @@
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Сомнительные товары Трупоглаза"</DefaultText>
+      <DefaultText>«Сомнительные товары Трупоглаза»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Магический паноптикум Эйрины"</DefaultText>
+      <DefaultText>«Магический паноптикум Эйрины»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Кузница Темерина"</DefaultText>
+      <DefaultText>«Кузница Темерина»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Арсенал Воры"</DefaultText>
+      <DefaultText>«Арсенал Воры»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Необыкновенные товары Рагуса"</DefaultText>
+      <DefaultText>«Необыкновенные товары Рагуса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Арсенал Виллы"</DefaultText>
+      <DefaultText>«Арсенал Виллы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Товары для разведчиков от Приксоса"</DefaultText>
+      <DefaultText>«Товары для разведчиков от Приксоса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Алхимические товары Арасто"</DefaultText>
+      <DefaultText>«Алхимические товары Арасто»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Лучшие зелья Гелы"</DefaultText>
+      <DefaultText>«Лучшие зелья Гелы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Решатели проблем от Нереуса"</DefaultText>
+      <DefaultText>«Решатели проблем от Нереуса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,42 +781,42 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Товары Арасона"</DefaultText>
+      <DefaultText>«Товары Арасона»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Товары Ирен"</DefaultText>
+      <DefaultText>«Товары Ирен»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Качественные товары Шариз"</DefaultText>
+      <DefaultText>«Качественные товары Шариз»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Кузница Лоары"</DefaultText>
+      <DefaultText>«Кузница Лоары»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Товары Болтока"</DefaultText>
+      <DefaultText>«Товары Болтока»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Лавка Тикуса"</DefaultText>
+      <DefaultText>«Лавка Тикуса»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Кованое оружие и доспехи"</DefaultText>
+      <DefaultText>«Кованое оружие и доспехи»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Лучшие вещи Арчианда"</DefaultText>
+      <DefaultText>«Лучшие вещи Арчианда»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -852,7 +852,7 @@
     <Entry>
       <ID>234</ID>
       <DefaultText>На стене вы видите истертую и выцветшую руну. Понять, что это за руна, не представляется возможным.
-(Чтобы изучить ее, требуется талант Лантри "Голос прошлого").</DefaultText>
+(Чтобы изучить ее, требуется талант Лантри «Голос прошлого»).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -897,7 +897,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Похоже, это труп того самого избранного Несломленных, которого вы ищете. Но "Бесстрашного" нигде не видно.</DefaultText>
+      <DefaultText>Похоже, это труп того самого избранного Несломленных, которого вы ищете. Но «Бесстрашного» нигде не видно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,7 +1072,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Перед вами — скромная могила. Ее венчает сломанный меч, на железе которого выгравирован инициал — литера "Б".</DefaultText>
+      <DefaultText>Перед вами — скромная могила. Ее венчает сломанный меч, на железе которого выгравирован инициал — литера «Б».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1282,17 +1282,17 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>"Товары Джино"</DefaultText>
+      <DefaultText>«Товары Джино»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>"Хозяйка Летианы"</DefaultText>
+      <DefaultText>«Хозяйка Летианы»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>"Меч и Ножны"</DefaultText>
+      <DefaultText>«Меч и Ножны»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1307,7 +1307,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>"Товары Алагана"</DefaultText>
+      <DefaultText>«Товары Алагана»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1412,7 +1412,7 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Похоже, "великодушие" Нерата распространялось только на дочь Амелии, а не на саму Амелию. Голоса специально выставил ее труп напоказ — военный трофей, сравниться с которым может разве что бездыханное тело ее отца.</DefaultText>
+      <DefaultText>Похоже, «великодушие» Нерата распространялось только на дочь Амелии, а не на саму Амелию. Голоса специально выставил ее труп напоказ — военный трофей, сравниться с которым может разве что бездыханное тело ее отца.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1437,7 +1437,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Маттиас "Бурое Гузно" продолжает оправдывать свое прозвище — он ужасно обделался в последние мгновения жизни. Голова лидера Несломленных запрокинута вверх, что придает ему несколько горделивый вид, несмотря на мух, которые роятся вокруг его зада.</DefaultText>
+      <DefaultText>Маттиас «Бурое Гузно» продолжает оправдывать свое прозвище — он ужасно обделался в последние мгновения жизни. Голова лидера Несломленных запрокинута вверх, что придает ему несколько горделивый вид, несмотря на мух, которые роятся вокруг его зада.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1512,7 +1512,7 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Табличка заляпана грязью и исцарапана, и большую часть написанного на ней вы прочесть не можете. Однако там упоминается "новая техника переплетения", а также "искусство магии сохранения свитков".</DefaultText>
+      <DefaultText>Табличка заляпана грязью и исцарапана, и большую часть написанного на ней вы прочесть не можете. Однако там упоминается «новая техника переплетения», а также «искусство магии сохранения свитков».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

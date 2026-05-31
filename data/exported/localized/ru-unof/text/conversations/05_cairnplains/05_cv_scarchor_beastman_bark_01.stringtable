@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"А ну-ка все нахер назад отошли! Если кто и освежует эту тварь, так это мы. Ясно вам?"</DefaultText>
+      <DefaultText>«А ну-ка все нахер назад отошли! Если кто и освежует эту тварь, так это мы. Ясно вам?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Отпустил скотину, да? Жаль. Он бы нам пригодился".</DefaultText>
+      <DefaultText>«Отпустил скотину, да? Жаль. Он бы нам пригодился».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Такое хорошее тело просрали, ну. Теперь придется искать рекрутов где-нибудь еще".</DefaultText>
+      <DefaultText>«Такое хорошее тело просрали, ну. Теперь придется искать рекрутов где-нибудь еще».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мы проследим, чтобы зверю досталось теплое местечко в авангарде".</DefaultText>
+      <DefaultText>«Мы проследим, чтобы зверю досталось теплое местечко в авангарде».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Доброго дня, Вершитель".</DefaultText>
-      <FemaleText>"Доброго дня, Вершительница".</FemaleText>
+      <DefaultText>«Доброго дня, Вершитель».</DefaultText>
+      <FemaleText>«Доброго дня, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

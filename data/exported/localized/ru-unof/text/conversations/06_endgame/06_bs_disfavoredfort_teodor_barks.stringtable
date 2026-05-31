@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Архонт. Мы готовы выступить по твоему приказу".</DefaultText>
+      <DefaultText>«Архонт. Мы готовы выступить по твоему приказу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты проделал долгий путь от Суда Тунона, не так ли?"</DefaultText>
-      <FemaleText>"Ты проделала долгий путь от Суда Тунона, не так ли?"</FemaleText>
+      <DefaultText>«Ты проделал долгий путь от Суда Тунона, не так ли?»</DefaultText>
+      <FemaleText>«Ты проделала долгий путь от Суда Тунона, не так ли?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:опальные]Опальные[/url] еще никогда не были такими сильными".</DefaultText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] еще никогда не были такими сильными».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если Великий генерал мертв, то мы сражались напрасно".</DefaultText>
+      <DefaultText>«Если Великий генерал мертв, то мы сражались напрасно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Аше погиб. Эта война обходится нам слишком большой ценой".</DefaultText>
+      <DefaultText>«Аше погиб. Эта война обходится нам слишком большой ценой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Жаль, что я не мог встать на пути удара, который его убил…"</DefaultText>
+      <DefaultText>«Жаль, что я не мог встать на пути удара, который его убил…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Очень рад оставить Ржавые Каньоны позади".</DefaultText>
+      <DefaultText>«Очень рад оставить Ржавые Каньоны позади».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Такое впечатление, что мои внутренности горят…"</DefaultText>
+      <DefaultText>«Такое впечатление, что мои внутренности горят…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Значит, вот каково жить без защиты Аше".</DefaultText>
+      <DefaultText>«Значит, вот каково жить без защиты Аше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

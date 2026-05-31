@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Убирайся, Архонт Теней! Ты позоришь свою должность".</DefaultText>
+      <DefaultText>«Убирайся, Архонт Теней! Ты позоришь свою должность».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,87 +6,87 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Это… это «Бесстрашный»?"</DefaultText>
+      <DefaultText>«Это… это „Бесстрашный“?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Буря явно что-то странное сделала с нашей страной".</DefaultText>
+      <DefaultText>«Буря явно что-то странное сделала с нашей страной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Что ты здесь делаешь, отщепенец?"</DefaultText>
-      <FemaleText>"Что ты здесь делаешь, отщепенка?"</FemaleText>
+      <DefaultText>«Что ты здесь делаешь, отщепенец?»</DefaultText>
+      <FemaleText>«Что ты здесь делаешь, отщепенка?»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Хорист вшивый".</DefaultText>
-      <FemaleText>"Хористка вшивая".</FemaleText>
+      <DefaultText>«Хорист вшивый».</DefaultText>
+      <FemaleText>«Хористка вшивая».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Что останется от Оплота, даже если мы выживем?"</DefaultText>
+      <DefaultText>«Что останется от Оплота, даже если мы выживем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ни за что не буду подчиняться Голосам Нерата".</DefaultText>
+      <DefaultText>«Ни за что не буду подчиняться Голосам Нерата».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"[url=glossary:опальные]Опальные[/url] ненавидят нас, а Хор хочет нас завербовать. Не знаю, что хуже".</DefaultText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] ненавидят нас, а Хор хочет нас завербовать. Не знаю, что хуже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Поможешь нам, как помог клятвопреступникам?"</DefaultText>
-      <FemaleText>"Поможешь нам, как помогла клятвопреступникам?"</FemaleText>
+      <DefaultText>«Поможешь нам, как помог клятвопреступникам?»</DefaultText>
+      <FemaleText>«Поможешь нам, как помогла клятвопреступникам?»</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Буря рассеялась прямо на моих глазах! В какое захватывающее время мы живем!"</DefaultText>
+      <DefaultText>«Буря рассеялась прямо на моих глазах! В какое захватывающее время мы живем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Я и не мечтал дожить до дня, когда [url=glossary:эдикт]Эдикт[/url] закончится!"</DefaultText>
+      <DefaultText>«Я и не мечтал дожить до дня, когда [url=glossary:эдикт]Эдикт[/url] закончится!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Значит, это ты забрался на Океанский Шпиль?"</DefaultText>
-      <FemaleText>"Значит, это ты забралась на Океанский Шпиль?"</FemaleText>
+      <DefaultText>«Значит, это ты забрался на Океанский Шпиль?»</DefaultText>
+      <FemaleText>«Значит, это ты забралась на Океанский Шпиль?»</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"А правда, что ты прошел в брешь в Старых Стенах?"</DefaultText>
-      <FemaleText>"А правда, что ты прошла в брешь в Старых Стенах?"</FemaleText>
+      <DefaultText>«А правда, что ты прошел в брешь в Старых Стенах?»</DefaultText>
+      <FemaleText>«А правда, что ты прошла в брешь в Старых Стенах?»</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Как Оплот выглядит с вершины Океанского Шпиля?"</DefaultText>
+      <DefaultText>«Как Оплот выглядит с вершины Океанского Шпиля?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Регент мертв? Вот и хорошо".</DefaultText>
+      <DefaultText>«Регент мертв? Вот и хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Не нужно было Иродину блокировать Твердыню Часовых".</DefaultText>
+      <DefaultText>«Не нужно было Иродину блокировать Твердыню Часовых».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Я бы собственными руками убил Стрейдуса Иродина, будь у меня такая возможность".</DefaultText>
+      <DefaultText>«Я бы собственными руками убил Стрейдуса Иродина, будь у меня такая возможность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Оплот может быть сильным без регентов. Только дай нам время".</DefaultText>
+      <DefaultText>«Оплот может быть сильным без регентов. Только дай нам время».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

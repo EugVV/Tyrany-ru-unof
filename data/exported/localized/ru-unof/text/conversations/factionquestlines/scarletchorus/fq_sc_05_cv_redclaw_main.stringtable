@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Почему вдруг передумал?"</DefaultText>
-      <FemaleText>"Почему вдруг передумала?"</FemaleText>
+      <DefaultText>«Почему вдруг передумал?»</DefaultText>
+      <FemaleText>«Почему вдруг передумала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ненавижу слабаков. Место Культяпого теперь твое. Постарайся меня не разочаровать".</DefaultText>
+      <DefaultText>«Ненавижу слабаков. Место Культяпого теперь твое. Постарайся меня не разочаровать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Она кивает и вытягивается по струнке, наслаждаясь неожиданной властью. "Мы немедленно доложим о случившемся Голосам Нерата".</DefaultText>
+      <DefaultText>Она кивает и вытягивается по струнке, наслаждаясь неожиданной властью. «Мы немедленно доложим о случившемся Голосам Нерата».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"У меня были причины".</DefaultText>
+      <DefaultText>«У меня были причины».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Никогда не задавай мне таких вопросов, понятно?"</DefaultText>
+      <DefaultText>«Никогда не задавай мне таких вопросов, понятно?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

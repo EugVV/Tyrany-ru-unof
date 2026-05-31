@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Что нам делать, Вершитель судеб?"</DefaultText>
-      <FemaleText>"Что нам делать, Вершительница судеб?"</FemaleText>
+      <DefaultText>«Что нам делать, Вершитель судеб?»</DefaultText>
+      <FemaleText>«Что нам делать, Вершительница судеб?»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"С этим нужно разобраться. Идем поговорим с ними".</DefaultText>
+      <DefaultText>«С этим нужно разобраться. Идем поговорим с ними».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пусть подождут. Я еще не готов".</DefaultText>
-      <FemaleText>"Пусть подождут. Я еще не готова".</FemaleText>
+      <DefaultText>«Пусть подождут. Я еще не готов».</DefaultText>
+      <FemaleText>«Пусть подождут. Я еще не готова».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Их слишком много. Стены их надолго не удержат".</DefaultText>
+      <DefaultText>«Их слишком много. Стены их надолго не удержат».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

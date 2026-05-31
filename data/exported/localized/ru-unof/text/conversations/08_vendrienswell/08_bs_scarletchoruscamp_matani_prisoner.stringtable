@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Если уж мне суждено умереть, я хочу умереть спокойно".</DefaultText>
+      <DefaultText>«Если уж мне суждено умереть, я хочу умереть спокойно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] сражается за то, что принадлежит им по праву, а за что сражаешься ты?"</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] сражается за то, что принадлежит им по праву, а за что сражаешься ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Хватит, отвали!"</DefaultText>
+      <DefaultText>«Хватит, отвали!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

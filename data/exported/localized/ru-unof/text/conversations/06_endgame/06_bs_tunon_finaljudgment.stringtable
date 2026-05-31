@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Сегодня — твой Судный день, Вершитель!"</DefaultText>
-      <FemaleText>"Сегодня — твой Судный день, Вершительница!"</FemaleText>
+      <DefaultText>«Сегодня — твой Судный день, Вершитель!»</DefaultText>
+      <FemaleText>«Сегодня — твой Судный день, Вершительница!»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Готовься к смерти!"</DefaultText>
+      <DefaultText>«Готовься к смерти!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

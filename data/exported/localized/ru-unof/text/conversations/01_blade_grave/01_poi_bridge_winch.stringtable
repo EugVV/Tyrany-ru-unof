@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Видишь вон ту лебедку? Сломай ее, и тогда мост упадет!"</DefaultText>
+      <DefaultText>«Видишь вон ту лебедку? Сломай ее, и тогда мост упадет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Видишь лебедку рядом с мостом? Если мы сможем как-то ее сломать, мы опустим платформу".</DefaultText>
+      <DefaultText>«Видишь лебедку рядом с мостом? Если мы сможем как-то ее сломать, мы опустим платформу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Сможешь попасть вон в ту лебедку, или доверишь дело мне?"</DefaultText>
+      <DefaultText>«Сможешь попасть вон в ту лебедку, или доверишь дело мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

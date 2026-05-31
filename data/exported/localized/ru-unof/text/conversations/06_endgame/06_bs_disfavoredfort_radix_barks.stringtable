@@ -11,38 +11,38 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Аше погиб? Нет… этого не может быть".</DefaultText>
+      <DefaultText>«Аше погиб? Нет… этого не может быть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Север будет всегда вас помнить, Аше…"</DefaultText>
+      <DefaultText>«Север будет всегда вас помнить, Аше…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Генерал… мы вас подвели".</DefaultText>
+      <DefaultText>«Генерал… мы вас подвели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Вершитель… прошу прощения, Архонт".</DefaultText>
-      <FemaleText>"Вершительница… прошу прощения, Архонт".</FemaleText>
+      <DefaultText>«Вершитель… прошу прощения, Архонт».</DefaultText>
+      <FemaleText>«Вершительница… прошу прощения, Архонт».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Теперь я получаю приказы от тебя, да?"</DefaultText>
+      <DefaultText>«Теперь я получаю приказы от тебя, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Север примет тебя с раскрытыми объятиями".</DefaultText>
+      <DefaultText>«Север примет тебя с раскрытыми объятиями».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вершитель. Рад снова быть среди друзей и семьи в легионе".</DefaultText>
-      <FemaleText>"Вершительница. Рад снова быть среди друзей и семьи в легионе".</FemaleText>
+      <DefaultText>«Вершитель. Рад снова быть среди друзей и семьи в легионе».</DefaultText>
+      <FemaleText>«Вершительница. Рад снова быть среди друзей и семьи в легионе».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -51,27 +51,27 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Зря я пригласил Вершителя в лагерь. Ты даже не представляешь, что ты наделал!"</DefaultText>
-      <FemaleText>"Зря я пригласил Вершительницу в лагерь. Ты даже не представляешь, что ты наделала!"</FemaleText>
+      <DefaultText>«Зря я пригласил Вершителя в лагерь. Ты даже не представляешь, что ты наделал!»</DefaultText>
+      <FemaleText>«Зря я пригласил Вершительницу в лагерь. Ты даже не представляешь, что ты наделала!»</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мне… не очень хорошо".</DefaultText>
+      <DefaultText>«Мне… не очень хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"В этом форте стало ужасно жарко…"</DefaultText>
+      <DefaultText>«В этом форте стало ужасно жарко…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Все чувствуют такую боль?"</DefaultText>
+      <DefaultText>«Все чувствуют такую боль?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Чем мы заслужили такую сильную боль?"</DefaultText>
+      <DefaultText>«Чем мы заслужили такую сильную боль?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мои глаза… мне больно даже смотреть на свет".</DefaultText>
+      <DefaultText>«Мои глаза… мне больно даже смотреть на свет».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

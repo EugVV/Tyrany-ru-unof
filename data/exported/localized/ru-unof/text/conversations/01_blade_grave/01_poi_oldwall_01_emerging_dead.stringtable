@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Бичеватели! Нужно действовать быстро, пока нас не задавили!"</DefaultText>
+      <DefaultText>«Бичеватели! Нужно действовать быстро, пока нас не задавили!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Держитесь, нас окружают хищники!"</DefaultText>
+      <DefaultText>«Держитесь, нас окружают хищники!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мы можем бежать, но вряд ли сможем скрыться от этих существ".</DefaultText>
+      <DefaultText>«Мы можем бежать, но вряд ли сможем скрыться от этих существ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Стая должна нападать, как хищники, а не убегать, как добыча!"</DefaultText>
+      <DefaultText>«Стая должна нападать, как хищники, а не убегать, как добыча!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Подходите поближе, уродливые ублюдки!"</DefaultText>
+      <DefaultText>«Подходите поближе, уродливые ублюдки!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Берегись! Нам нужно разобраться с бичевателями!"</DefaultText>
+      <DefaultText>«Берегись! Нам нужно разобраться с бичевателями!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

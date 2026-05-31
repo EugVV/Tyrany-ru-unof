@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Даже не знаю, хочу ли я тут тратить деньги. Но ты на него посмотри…"</DefaultText>
+      <DefaultText>«Даже не знаю, хочу ли я тут тратить деньги. Но ты на него посмотри…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я знаю, что будет весело, но решиться никак не могу. Дорого слишком…"</DefaultText>
+      <DefaultText>«Я знаю, что будет весело, но решиться никак не могу. Дорого слишком…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нет, живем-то мы, конечно, один раз, но когда на него уже насмотришься… что еще он может предложить?"</DefaultText>
+      <DefaultText>«Нет, живем-то мы, конечно, один раз, но когда на него уже насмотришься… что еще он может предложить?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

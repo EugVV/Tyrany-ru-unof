@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель судеб, от всего сердца благодарю, что вы спасли нас от этих чудовищ".</DefaultText>
-      <FemaleText>"Вершительница судеб, от всего сердца благодарю, что вы спасли нас от этих чудовищ".</FemaleText>
+      <DefaultText>«Вершитель судеб, от всего сердца благодарю, что вы спасли нас от этих чудовищ».</DefaultText>
+      <FemaleText>«Вершительница судеб, от всего сердца благодарю, что вы спасли нас от этих чудовищ».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Благодаря вам я жива и снова могу заниматься торговлей. Сделаю-ка я вам за эту скидочку, что скажете?"</DefaultText>
+      <DefaultText>«Благодаря вам я жива и снова могу заниматься торговлей. Сделаю-ка я вам за эту скидочку, что скажете?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Рада видеть вас, Вершитель. Чем могу помочь?"</DefaultText>
-      <FemaleText>"Рада видеть вас, Вершительница. Чем могу помочь?"</FemaleText>
+      <DefaultText>«Рада видеть вас, Вершитель. Чем могу помочь?»</DefaultText>
+      <FemaleText>«Рада видеть вас, Вершительница. Чем могу помочь?»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Доброго здравия, Вершитель судеб. Хотите взглянуть на товары?"</DefaultText>
-      <FemaleText>"Доброго здравия, Вершительница судеб. Хотите взглянуть на товары?"</FemaleText>
+      <DefaultText>«Доброго здравия, Вершитель судеб. Хотите взглянуть на товары?»</DefaultText>
+      <FemaleText>«Доброго здравия, Вершительница судеб. Хотите взглянуть на товары?»</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Спасибо! Спасибо вам, Вершитель! Я обязана вам жизнью. И даже больше".</DefaultText>
-      <FemaleText>"Спасибо! Спасибо вам, Вершительница! Я обязан вам жизнью. И даже больше".</FemaleText>
+      <DefaultText>«Спасибо! Спасибо вам, Вершитель! Я обязана вам жизнью. И даже больше».</DefaultText>
+      <FemaleText>«Спасибо! Спасибо вам, Вершительница! Я обязан вам жизнью. И даже больше».</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Для вас — только самые лучше цены. Вот, смотрите сами!"</DefaultText>
+      <DefaultText>«Для вас — только самые лучше цены. Вот, смотрите сами!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Давай посмотрим, что у тебя есть".</DefaultText>
+      <DefaultText>«Давай посмотрим, что у тебя есть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Пожалуй, не сейчас".</DefaultText>
+      <DefaultText>«Пожалуй, не сейчас».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

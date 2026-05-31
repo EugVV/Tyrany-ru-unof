@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Похоже, нужно возвращаться во двор".</DefaultText>
+      <DefaultText>«Похоже, нужно возвращаться во двор».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Судя по звуку, у них хлопот полон рот во дворе — давай скорее им поможем!"</DefaultText>
+      <DefaultText>«Судя по звуку, у них хлопот полон рот во дворе — давай скорее им поможем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Это во дворе! Там явно что-то неладно…"</DefaultText>
+      <DefaultText>«Это во дворе! Там явно что-то неладно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Во дворе проблемы. Надо спешить туда".</DefaultText>
+      <DefaultText>«Во дворе проблемы. Надо спешить туда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

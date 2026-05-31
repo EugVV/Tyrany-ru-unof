@@ -6,102 +6,102 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Сегодня такой чудесный день… если не вспоминать об армиях за горизонтом да погибелях в Старых Стенах".</DefaultText>
+      <DefaultText>«Сегодня такой чудесный день… если не вспоминать об армиях за горизонтом да погибелях в Старых Стенах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"В [url=glossary:распутье летианы]Распутье Летианы[/url] можно найти много разных товаров".</DefaultText>
+      <DefaultText>«В [url=glossary:распутье летианы]Распутье Летианы[/url] можно найти много разных товаров».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:скованные горном]Скованные Горном[/url] ничего не продают нам, поселенцам!"</DefaultText>
+      <DefaultText>«[url=glossary:скованные горном]Скованные Горном[/url] ничего не продают нам, поселенцам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Старые Стены опасны. Я не советую тебе заглядывать внутрь".</DefaultText>
+      <DefaultText>«Старые Стены опасны. Я не советую тебе заглядывать внутрь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Элдиан — наш настоящий предводитель. Поговори с ним, если тебе что-то нужно".</DefaultText>
+      <DefaultText>«Элдиан — наш настоящий предводитель. Поговори с ним, если тебе что-то нужно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Кто-нибудь должен положить конец всем этим смертям и насилию".</DefaultText>
+      <DefaultText>«Кто-нибудь должен положить конец всем этим смертям и насилию».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я уезжаю. Тут погибло слишком много моих друзей".</DefaultText>
+      <DefaultText>«Я уезжаю. Тут погибло слишком много моих друзей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мы даже в своих домах не можем чувствовать себя в безопасности! Кто знает, что может случиться завтра?"</DefaultText>
+      <DefaultText>«Мы даже в своих домах не можем чувствовать себя в безопасности! Кто знает, что может случиться завтра?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Как ты мог так с нами поступить, Вершитель судеб?"</DefaultText>
-      <FemaleText>"Как ты могла так с нами поступить, Вершительница судеб?"</FemaleText>
+      <DefaultText>«Как ты мог так с нами поступить, Вершитель судеб?»</DefaultText>
+      <FemaleText>«Как ты могла так с нами поступить, Вершительница судеб?»</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Распутью Летианы конец. Где нам теперь искать безопасное место?"</DefaultText>
+      <DefaultText>«Распутью Летианы конец. Где нам теперь искать безопасное место?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
+      <DefaultText>«Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"С тех пор, как на них обрушился новый [url=glossary:эдикт]Эдикт[/url], сюда бегут люди с Гребня. Вот бедолаги".</DefaultText>
+      <DefaultText>«С тех пор, как на них обрушился новый [url=glossary:эдикт]Эдикт[/url], сюда бегут люди с Гребня. Вот бедолаги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Никаких больше солдат… это что, набору конец?"</DefaultText>
+      <DefaultText>«Никаких больше солдат… это что, набору конец?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"У этого поселения что ни день, то новые хозяева, честное слово".</DefaultText>
+      <DefaultText>«У этого поселения что ни день, то новые хозяева, честное слово».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Слышал, что от Эдикта в Гребне погибло очень много Опальных".</DefaultText>
+      <DefaultText>«Слышал, что от Эдикта в Гребне погибло очень много Опальных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Целая армия Орды исчезла в один миг… Как вообще такое возможно?"</DefaultText>
+      <DefaultText>«Целая армия Орды исчезла в один миг… Как вообще такое возможно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Хорошо, что всем здесь снова распоряжаются ярусники".</DefaultText>
+      <DefaultText>«Хорошо, что всем здесь снова распоряжаются ярусники».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] намного лучше понимает наш уклад".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] намного лучше понимает наш уклад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Не могу сказать, что мне по нраву кровопролитие, но меня радует, что гарнизона больше нет".</DefaultText>
+      <DefaultText>«Не могу сказать, что мне по нраву кровопролитие, но меня радует, что гарнизона больше нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Хорошо, что мы избавились от этих злобных зверотрахов".</DefaultText>
+      <DefaultText>«Хорошо, что мы избавились от этих злобных зверотрахов».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

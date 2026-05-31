@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Заупокойная с Сальверосом лают друг на друга, как собаки в течке".</DefaultText>
+      <DefaultText>«Заупокойная с Сальверосом лают друг на друга, как собаки в течке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты замечаешь, какими все стали резкими, когда вокруг начали шляться [url=glossary:опальные]Опальные[/url]?"</DefaultText>
+      <DefaultText>«Ты замечаешь, какими все стали резкими, когда вокруг начали шляться [url=glossary:опальные]Опальные[/url]?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

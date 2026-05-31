@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ударим первыми!"</DefaultText>
+      <DefaultText>«Ударим первыми!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Давай, потанцуй со мной!"</DefaultText>
+      <DefaultText>«Давай, потанцуй со мной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Насадись на мой клинок!"</DefaultText>
+      <DefaultText>«Насадись на мой клинок!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

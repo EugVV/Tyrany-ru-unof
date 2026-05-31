@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Будь бдителен, Вершитель".</DefaultText>
-      <FemaleText>"Будь бдительна, Вершительница".</FemaleText>
+      <DefaultText>«Будь бдителен, Вершитель».</DefaultText>
+      <FemaleText>«Будь бдительна, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

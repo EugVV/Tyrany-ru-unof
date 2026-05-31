@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Спасибо, [Player Name]! Если бы не ты, мне конец!"</DefaultText>
+      <DefaultText>«Спасибо, [Player Name]! Если бы не ты, мне конец!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы спасены, Вершитель! Большое тебе спасибо".</DefaultText>
-      <FemaleText>"Мы спасены, Вершительница! Большое тебе спасибо".</FemaleText>
+      <DefaultText>«Мы спасены, Вершитель! Большое тебе спасибо».</DefaultText>
+      <FemaleText>«Мы спасены, Вершительница! Большое тебе спасибо».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

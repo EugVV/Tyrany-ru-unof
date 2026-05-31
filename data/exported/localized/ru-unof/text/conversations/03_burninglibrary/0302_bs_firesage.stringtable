@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Со всеми вопросами лучше обращайся к Ренате".</DefaultText>
+      <DefaultText>«Со всеми вопросами лучше обращайся к Ренате».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне правда нечего тебе предложить".</DefaultText>
+      <DefaultText>«Мне правда нечего тебе предложить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Не ищи неприятностей, Вершитель".</DefaultText>
-      <FemaleText>"Не ищи неприятностей, Вершительница".</FemaleText>
+      <DefaultText>«Не ищи неприятностей, Вершитель».</DefaultText>
+      <FemaleText>«Не ищи неприятностей, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ты очень далеко от суда, Вершитель".</DefaultText>
-      <FemaleText>"Ты очень далеко от суда, Вершительница".</FemaleText>
+      <DefaultText>«Ты очень далеко от суда, Вершитель».</DefaultText>
+      <FemaleText>«Ты очень далеко от суда, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Смотри у меня".</DefaultText>
+      <DefaultText>«Смотри у меня».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

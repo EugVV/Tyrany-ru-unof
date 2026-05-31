@@ -6,82 +6,82 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я бы хотел, чтобы легион вернулся на Север, когда эта война закончится!"</DefaultText>
+      <DefaultText>«Я бы хотел, чтобы легион вернулся на Север, когда эта война закончится!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я не могу назвать военачальника талантливее, чем Великий генерал".</DefaultText>
+      <DefaultText>«Я не могу назвать военачальника талантливее, чем Великий генерал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Скоро [url=glossary:голоса нерата]Голоса Нерата[/url] замолчит навсегда".</DefaultText>
+      <DefaultText>«Скоро [url=glossary:голоса нерата]Голоса Нерата[/url] замолчит навсегда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Скажи, это ты обрек нас на этот кошмар?"</DefaultText>
+      <DefaultText>«Скажи, это ты обрек нас на этот кошмар?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я надеюсь, что Север не забудет своих детей, если мы сгинем в этой проклятой стране".</DefaultText>
+      <DefaultText>«Я надеюсь, что Север не забудет своих детей, если мы сгинем в этой проклятой стране».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Мы способны преодолеть во сто крат более страшные трудности, чем любая крыса из Алого Хора".</DefaultText>
+      <DefaultText>«Мы способны преодолеть во сто крат более страшные трудности, чем любая крыса из Алого Хора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мы можем выступать, как только Великий генерал отдаст приказ".</DefaultText>
+      <DefaultText>«Мы можем выступать, как только Великий генерал отдаст приказ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Эта страна сводит меня с ума. Здешние обитатели не заслуживают Мира Кайроса".</DefaultText>
+      <DefaultText>«Эта страна сводит меня с ума. Здешние обитатели не заслуживают Мира Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесет закон и порядок в эти дикие земли. Я верю".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесет закон и порядок в эти дикие земли. Я верю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Жизнь за легион".</DefaultText>
+      <DefaultText>«Жизнь за легион».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Эта броня заменяет мне сестру, которой у меня никогда не было".</DefaultText>
+      <DefaultText>«Эта броня заменяет мне сестру, которой у меня никогда не было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Железный Очаг — оплот дисциплины, которую мы насадили в море хаоса".</DefaultText>
+      <DefaultText>«Железный Очаг — оплот дисциплины, которую мы насадили в море хаоса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Только настоящие северяне, как мы, умеют воевать по-настоящему".</DefaultText>
+      <DefaultText>«Только настоящие северяне, как мы, умеют воевать по-настоящему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Что бы ни случилось, я питаю к Великому генералу любовь и полное доверие".</DefaultText>
+      <DefaultText>«Что бы ни случилось, я питаю к Великому генералу любовь и полное доверие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мой дом — там, где сейчас находится легион".</DefaultText>
+      <DefaultText>«Мой дом — там, где сейчас находится легион».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,57 +91,57 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Враги Кайроса на своей шкуре почувствуют остроту Опальных клинков".</DefaultText>
+      <DefaultText>«Враги Кайроса на своей шкуре почувствуют остроту Опальных клинков».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Обитатели Ярусов глупцы. Они сами отказались от Мира Кайроса".</DefaultText>
+      <DefaultText>«Обитатели Ярусов глупцы. Они сами отказались от Мира Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Как еще научить разбойников закону, если не с помощью мечей и публичных казней?"</DefaultText>
+      <DefaultText>«Как еще научить разбойников закону, если не с помощью мечей и публичных казней?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Война у нас в крови. Мы живем ради завоеваний".</DefaultText>
+      <DefaultText>«Война у нас в крови. Мы живем ради завоеваний».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Я пойду за Великим генералом куда угодно, даже в могилу".</DefaultText>
+      <DefaultText>«Я пойду за Великим генералом куда угодно, даже в могилу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Надеюсь, каждый из нас погибнет в честном бою".</DefaultText>
+      <DefaultText>«Надеюсь, каждый из нас погибнет в честном бою».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"В подземельях слишком много пленников. Нужно поколачивать их почаще".</DefaultText>
+      <DefaultText>«В подземельях слишком много пленников. Нужно поколачивать их почаще».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Аше может показаться беспощадным, но на самом деле он куда милосерднее других Архонтов".</DefaultText>
+      <DefaultText>«Аше может показаться беспощадным, но на самом деле он куда милосерднее других Архонтов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Постарайся не сердить Великого генерала. Эта война обошлась ему слишком дорого".</DefaultText>
+      <DefaultText>«Постарайся не сердить Великого генерала. Эта война обошлась ему слишком дорого».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Железный Очаг и [url=glossary:город-бастард]Город-Бастард[/url] больше похожи на родной дом, чем другие города и укрепления Ярусов".</DefaultText>
+      <DefaultText>«Железный Очаг и [url=glossary:город-бастард]Город-Бастард[/url] больше похожи на родной дом, чем другие города и укрепления Ярусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Здравствуй, Барик из Каменных Щитов".</DefaultText>
+      <DefaultText>«Здравствуй, Барик из Каменных Щитов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Держи свою зверолюдку на коротком поводке".</DefaultText>
+      <DefaultText>«Держи свою зверолюдку на коротком поводке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,48 +161,48 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Твой библиотекарь будто пьян или безумен. Или и то, и другое сразу".</DefaultText>
+      <DefaultText>«Твой библиотекарь будто пьян или безумен. Или и то, и другое сразу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ты решил заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать".</DefaultText>
-      <FemaleText>"Ты решила заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать".</FemaleText>
+      <DefaultText>«Ты решил заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать».</DefaultText>
+      <FemaleText>«Ты решила заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать».</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"От тебя пахнет дерьмом, Барик. Помылся бы ты уже наконец, а?"</DefaultText>
+      <DefaultText>«От тебя пахнет дерьмом, Барик. Помылся бы ты уже наконец, а?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Твоя зверолюдка знает команды или ты ее держишь, чтобы устроить блошиный цирк?"</DefaultText>
+      <DefaultText>«Твоя зверолюдка знает команды или ты ее держишь, чтобы устроить блошиный цирк?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Держа зверолюдку рядом с собой, ты сильно рискуешь".</DefaultText>
+      <DefaultText>«Держа зверолюдку рядом с собой, ты сильно рискуешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ты привел сюда шпиона Голосов Нерата?"</DefaultText>
-      <FemaleText>"Ты привела сюда шпиона Голосов Нерата?"</FemaleText>
+      <DefaultText>«Ты привел сюда шпиона Голосов Нерата?»</DefaultText>
+      <FemaleText>«Ты привела сюда шпиона Голосов Нерата?»</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Я слежу за каждым шагом твоей Алой Фурии".</DefaultText>
+      <DefaultText>«Я слежу за каждым шагом твоей Алой Фурии».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Я бы не стал доверять ни одному из Архонтов, за исключением Грэйвена Аше".</DefaultText>
+      <DefaultText>«Я бы не стал доверять ни одному из Архонтов, за исключением Грэйвена Аше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Надеюсь, ты ведешь этого ярусника в подземелья, Вершитель".</DefaultText>
-      <FemaleText>"Надеюсь, ты ведешь этого ярусника в подземелья, Вершительница".</FemaleText>
+      <DefaultText>«Надеюсь, ты ведешь этого ярусника в подземелья, Вершитель».</DefaultText>
+      <FemaleText>«Надеюсь, ты ведешь этого ярусника в подземелья, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -211,82 +211,82 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Железный Очаг — пристанище истинных северян. Мы не можем гарантировать безопасность тех, кто не уважает наших обычаев".</DefaultText>
+      <DefaultText>«Железный Очаг — пристанище истинных северян. Мы не можем гарантировать безопасность тех, кто не уважает наших обычаев».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Мы посадили дюжину пленников в бочки и пустили катиться по горному склону. Одной дюжиной бесполезных едоков стало меньше".</DefaultText>
+      <DefaultText>«Мы посадили дюжину пленников в бочки и пустили катиться по горному склону. Одной дюжиной бесполезных едоков стало меньше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"У меня и хористов есть одна общая черта — мы любим допрашивать наших пленных".</DefaultText>
+      <DefaultText>«У меня и хористов есть одна общая черта — мы любим допрашивать наших пленных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Нужды Севера главнее личных предпочтений каждого из нас".</DefaultText>
+      <DefaultText>«Нужды Севера главнее личных предпочтений каждого из нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Я убиваю с именем Грэйвена Аше на устах и с радостью за него умру".</DefaultText>
+      <DefaultText>«Я убиваю с именем Грэйвена Аше на устах и с радостью за него умру».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Я с радостью отдам мою жизнь ради Севера".</DefaultText>
+      <DefaultText>«Я с радостью отдам мою жизнь ради Севера».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Великий генерал стал для каждого из нас вторым отцом".</DefaultText>
+      <DefaultText>«Великий генерал стал для каждого из нас вторым отцом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"[url=glossary:опальные]Опальные[/url] — моя единственная опора в жизни".</DefaultText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] — моя единственная опора в жизни».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"[url=glossary:алый хор]Алый Хор[/url] — толпа недисциплинированных головорезов. Мы сметем их с лица Терратуса без сомнений и жалости".</DefaultText>
+      <DefaultText>«[url=glossary:алый хор]Алый Хор[/url] — толпа недисциплинированных головорезов. Мы сметем их с лица Терратуса без сомнений и жалости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Служить Грэйвену Аше — великая честь".</DefaultText>
+      <DefaultText>«Служить Грэйвену Аше — великая честь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Хранить мир Кайроса — большая честь и еще большая ответственность".</DefaultText>
+      <DefaultText>«Хранить мир Кайроса — большая честь и еще большая ответственность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Никогда бы не подумал, что Аше преклонит колена во второй раз".</DefaultText>
+      <DefaultText>«Никогда бы не подумал, что Аше преклонит колена во второй раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Мы в вашем распоряжении, Архонт".</DefaultText>
+      <DefaultText>«Мы в вашем распоряжении, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Хорошо, что вы с Аше нашли общий язык".</DefaultText>
+      <DefaultText>«Хорошо, что вы с Аше нашли общий язык».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Вы теперь наш генерал, Вершитель?"</DefaultText>
-      <FemaleText>"Вы теперь наш генерал, Вершительница?"</FemaleText>
+      <DefaultText>«Вы теперь наш генерал, Вершитель?»</DefaultText>
+      <FemaleText>«Вы теперь наш генерал, Вершительница?»</FemaleText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Север потерял своего любимого сына…"</DefaultText>
+      <DefaultText>«Север потерял своего любимого сына…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,12 +296,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ты… что ты наделал?"</DefaultText>
-      <FemaleText>"Ты… что ты наделала?"</FemaleText>
+      <DefaultText>«Ты… что ты наделал?»</DefaultText>
+      <FemaleText>«Ты… что ты наделала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Великий генерал погиб! Мы… не знаем, что делать".</DefaultText>
+      <DefaultText>«Великий генерал погиб! Мы… не знаем, что делать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Как мы сможем жить дальше без Аше?"</DefaultText>
+      <DefaultText>«Как мы сможем жить дальше без Аше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Как… как такое могло случиться?"</DefaultText>
+      <DefaultText>«Как… как такое могло случиться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,12 +331,12 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Нашу преданность получить нелегко. Должно быть, Аше распознал в вас величие".</DefaultText>
+      <DefaultText>«Нашу преданность получить нелегко. Должно быть, Аше распознал в вас величие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"За Север и нового Архонта!"</DefaultText>
+      <DefaultText>«За Север и нового Архонта!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,17 +346,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ваши приказы, генерал?"</DefaultText>
+      <DefaultText>«Ваши приказы, генерал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Слава новому Архонту!"</DefaultText>
+      <DefaultText>«Слава новому Архонту!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Мы рады, что вы на нашей стороне, Архонт".</DefaultText>
+      <DefaultText>«Мы рады, что вы на нашей стороне, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,42 +366,42 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Вас теперь называть Архонтом или генералом?"</DefaultText>
+      <DefaultText>«Вас теперь называть Архонтом или генералом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Нам нужно провести церемонию, чтобы восславить ваши добродетели".</DefaultText>
+      <DefaultText>«Нам нужно провести церемонию, чтобы восславить ваши добродетели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Непросто должно быть, было присмирить нашего Аше".</DefaultText>
+      <DefaultText>«Непросто должно быть, было присмирить нашего Аше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Пусть славятся Архонт [Player Name] и генерал!"</DefaultText>
+      <DefaultText>«Пусть славятся Архонт [Player Name] и генерал!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Итак, Архонт. Что мы теперь будем делать?"</DefaultText>
+      <DefaultText>«Итак, Архонт. Что мы теперь будем делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Что-то мне… нехорошо".</DefaultText>
+      <DefaultText>«Что-то мне… нехорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"С тех пор, как погиб Аше, мне трудно даже поднять меч".</DefaultText>
+      <DefaultText>«С тех пор, как погиб Аше, мне трудно даже поднять меч».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Я чувствую… усталость. Истощение. Это только у меня такое?"</DefaultText>
+      <DefaultText>«Я чувствую… усталость. Истощение. Это только у меня такое?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,82 +411,82 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Все болит… мне раньше никогда не было так больно".</DefaultText>
+      <DefaultText>«Все болит… мне раньше никогда не было так больно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Что это… я истекаю кровью?"</DefaultText>
+      <DefaultText>«Что это… я истекаю кровью?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Кажется, мне нужно прилечь".</DefaultText>
+      <DefaultText>«Кажется, мне нужно прилечь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Мои старые шрамы стали ужасно чесаться…"</DefaultText>
+      <DefaultText>«Мои старые шрамы стали ужасно чесаться…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Мы все благодарны за то, что ты покончил с Голосами и его бандой негодяев".</DefaultText>
-      <FemaleText>"Мы все благодарны за то, что ты покончила с Голосами и его бандой негодяев".</FemaleText>
+      <DefaultText>«Мы все благодарны за то, что ты покончил с Голосами и его бандой негодяев».</DefaultText>
+      <FemaleText>«Мы все благодарны за то, что ты покончила с Голосами и его бандой негодяев».</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Когда ты убивал Архонта Тайн, он кричал разными голосами?"</DefaultText>
-      <FemaleText>"Когда ты убивала Архонта Тайн, он кричал разными голосами?"</FemaleText>
+      <DefaultText>«Когда ты убивал Архонта Тайн, он кричал разными голосами?»</DefaultText>
+      <FemaleText>«Когда ты убивала Архонта Тайн, он кричал разными голосами?»</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Замыслы Архонта Тайн в любом случае ему бы аукнулись рано или поздно. Хорошо, что Тунон поручил своим палачам с ним разобраться. Жаль только, что он не сделал этого раньше".</DefaultText>
+      <DefaultText>«Замыслы Архонта Тайн в любом случае ему бы аукнулись рано или поздно. Хорошо, что Тунон поручил своим палачам с ним разобраться. Жаль только, что он не сделал этого раньше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Я бы отдал кучу железных колец, лишь бы только услышать, что Голоса сказал перед тем, как [url=glossary:бледен марк]Бледен Марк[/url] его зарезал".</DefaultText>
+      <DefaultText>«Я бы отдал кучу железных колец, лишь бы только услышать, что Голоса сказал перед тем, как [url=glossary:бледен марк]Бледен Марк[/url] его зарезал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Без Голосов Нерата [url=glossary:алый хор]Алый Хор[/url] точно распадется".</DefaultText>
+      <DefaultText>«Без Голосов Нерата [url=glossary:алый хор]Алый Хор[/url] точно распадется».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"[url=glossary:опальные]Опальные[/url] будут веками помнить о Вершителе, я это обещаю".</DefaultText>
-      <FemaleText>"[url=glossary:опальные]Опальные[/url] будут веками помнить о Вершителе, я это обещаю".</FemaleText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] будут веками помнить о Вершителе, я это обещаю».</DefaultText>
+      <FemaleText>«[url=glossary:опальные]Опальные[/url] будут веками помнить о Вершителе, я это обещаю».</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ты ловко обращаешься со словами, если смог убедить Тунона казнить другого Архонта".</DefaultText>
-      <FemaleText>"Ты ловко обращаешься со словами, если смогла убедить Тунона казнить другого Архонта".</FemaleText>
+      <DefaultText>«Ты ловко обращаешься со словами, если смог убедить Тунона казнить другого Архонта».</DefaultText>
+      <FemaleText>«Ты ловко обращаешься со словами, если смогла убедить Тунона казнить другого Архонта».</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url] был признан виновным в измене? Удивительно, как много времени понадобилось Тунону, чтобы прийти к этому заключению".</DefaultText>
+      <DefaultText>«[url=glossary:голоса нерата]Голоса Нерата[/url] был признан виновным в измене? Удивительно, как много времени понадобилось Тунону, чтобы прийти к этому заключению».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Говорят, Суд Тунона пал. Не могу сказать, что мне будет не хватать его Вершителей, которые совали нос в наши дела. Без обид".</DefaultText>
+      <DefaultText>«Говорят, Суд Тунона пал. Не могу сказать, что мне будет не хватать его Вершителей, которые совали нос в наши дела. Без обид».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Тунон больше не следит за каждым нашим шагом, и мы, наконец, можем делать здесь все по-своему".</DefaultText>
+      <DefaultText>«Тунон больше не следит за каждым нашим шагом, и мы, наконец, можем делать здесь все по-своему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Мне называть вас Адъюдикатор [Player Name]?"</DefaultText>
+      <DefaultText>«Мне называть вас Адъюдикатор [Player Name]?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Меня радует, что Тунон передал свой молоток вам — человеку, который понимает уклад Опальных".</DefaultText>
+      <DefaultText>«Меня радует, что Тунон передал свой молоток вам — человеку, который понимает уклад Опальных».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Это Вершитель судеб! К оружию!"</DefaultText>
-      <FemaleText>"Это Вершительница судеб! К оружию!"</FemaleText>
+      <DefaultText>«Это Вершитель судеб! К оружию!»</DefaultText>
+      <FemaleText>«Это Вершительница судеб! К оружию!»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

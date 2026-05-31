@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не нравится это место. Скучаю по племени".</DefaultText>
+      <DefaultText>«Не нравится это место. Скучаю по племени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Другие зверолюды хорошие. Но не из племени".</DefaultText>
+      <DefaultText>«Другие зверолюды хорошие. Но не из племени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Что со мной будет?"</DefaultText>
+      <DefaultText>«Что со мной будет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Потом разрешат сожрать кого-нибудь из гнилой стаи, да?"</DefaultText>
+      <DefaultText>«Потом разрешат сожрать кого-нибудь из гнилой стаи, да?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

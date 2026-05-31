@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Заклинаю чистое небо! Пришло время бури!"</DefaultText>
+      <DefaultText>«Заклинаю чистое небо! Пришло время бури!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Твой взгляд затуманен. Да поглотит тебя буря!"</DefaultText>
+      <DefaultText>«Твой взгляд затуманен. Да поглотит тебя буря!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

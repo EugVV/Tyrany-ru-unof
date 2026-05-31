@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Если не возражаешь, мне сейчас не до разговоров".</DefaultText>
+      <DefaultText>«Если не возражаешь, мне сейчас не до разговоров».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Разве ты не должен сейчас убивать повстанцев?"</DefaultText>
-      <FemaleText>"Разве ты не должна сейчас убивать повстанцев?"</FemaleText>
+      <DefaultText>«Разве ты не должен сейчас убивать повстанцев?»</DefaultText>
+      <FemaleText>«Разве ты не должна сейчас убивать повстанцев?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Цитадель сама себя не захватит, знаешь ли…"</DefaultText>
+      <DefaultText>«Цитадель сама себя не захватит, знаешь ли…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

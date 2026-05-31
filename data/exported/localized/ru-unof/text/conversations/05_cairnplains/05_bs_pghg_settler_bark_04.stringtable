@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Что еще нужно от нас Кайросу? Как будто мы мало страдали!"</DefaultText>
+      <DefaultText>«Что еще нужно от нас Кайросу? Как будто мы мало страдали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:кайрос]Кайрос[/url] спаси нас".</DefaultText>
+      <DefaultText>«[url=glossary:кайрос]Кайрос[/url] спаси нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель, помоги мне!"</DefaultText>
-      <FemaleText>"Вершительница, помоги мне!"</FemaleText>
+      <DefaultText>«Вершитель, помоги мне!»</DefaultText>
+      <FemaleText>«Вершительница, помоги мне!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты поможешь нам?"</DefaultText>
+      <DefaultText>«Ты поможешь нам?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Спасибо за помощь, Вершитель".</DefaultText>
-      <FemaleText>"Спасибо за помощь, Вершительница".</FemaleText>
+      <DefaultText>«Спасибо за помощь, Вершитель».</DefaultText>
+      <FemaleText>«Спасибо за помощь, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

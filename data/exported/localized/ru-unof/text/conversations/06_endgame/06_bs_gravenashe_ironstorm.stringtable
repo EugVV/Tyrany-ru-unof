@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Узри ярость Севера!"</DefaultText>
+      <DefaultText>«Узри ярость Севера!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"От тебя не останется и следа".</DefaultText>
+      <DefaultText>«От тебя не останется и следа».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

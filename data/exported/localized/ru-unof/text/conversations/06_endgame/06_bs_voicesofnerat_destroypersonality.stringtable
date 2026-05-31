@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ничего, сейчас все пройдет…"</DefaultText>
+      <DefaultText>«Ничего, сейчас все пройдет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Иди к нам, прикоснись к величию!"</DefaultText>
+      <DefaultText>«Иди к нам, прикоснись к величию!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Стань частью нас…"</DefaultText>
+      <DefaultText>«Стань частью нас…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тс-с-с… расслабься… отдайся вечности".</DefaultText>
+      <DefaultText>«Тс-с-с… расслабься… отдайся вечности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Зачем сражаться? С нами ты никогда не будешь одинок…"</DefaultText>
-      <FemaleText>"Зачем сражаться? С нами ты никогда не будешь одинока…"</FemaleText>
+      <DefaultText>«Зачем сражаться? С нами ты никогда не будешь одинок…»</DefaultText>
+      <FemaleText>«Зачем сражаться? С нами ты никогда не будешь одинока…»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

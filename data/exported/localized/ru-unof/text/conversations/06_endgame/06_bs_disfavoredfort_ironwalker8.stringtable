@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Пока что эти ворота — мой легион, мой возлюбленный, моя жизнь".</DefaultText>
+      <DefaultText>«Пока что эти ворота — мой легион, мой возлюбленный, моя жизнь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Когда-нибудь они освободят меня от этой обязанности и назначат куда-нибудь в другое место".</DefaultText>
+      <DefaultText>«Когда-нибудь они освободят меня от этой обязанности и назначат куда-нибудь в другое место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Интересно, думает кто сменить меня или нет?"</DefaultText>
+      <DefaultText>«Интересно, думает кто сменить меня или нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если я буду помнить, что нельзя полностью выпрямлять ноги в коленях, то смогу стоять здесь вечно. Мы гордимся своей стойкостью".</DefaultText>
+      <DefaultText>«Если я буду помнить, что нельзя полностью выпрямлять ноги в коленях, то смогу стоять здесь вечно. Мы гордимся своей стойкостью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я хочу поддержать своих собратьев на поле боя, но горжусь тем, что нахожусь возле Аше".</DefaultText>
+      <DefaultText>«Я хочу поддержать своих собратьев на поле боя, но горжусь тем, что нахожусь возле Аше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Эти паскудные южане дали неслабый отпор, но [url=glossary:опальные]Опальные[/url] их все равно задавили".</DefaultText>
+      <DefaultText>«Эти паскудные южане дали неслабый отпор, но [url=glossary:опальные]Опальные[/url] их все равно задавили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я охраняю эту решетку с тех пор, как мы выбили Железный Очаг у его защитников".</DefaultText>
+      <DefaultText>«Я охраняю эту решетку с тех пор, как мы выбили Железный Очаг у его защитников».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,44 +46,44 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Архонту Войны лучше знать".</DefaultText>
+      <DefaultText>«Архонту Войны лучше знать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Они отправят меня на передовую, где мне и место. Это может случиться в любую минуту".</DefaultText>
+      <DefaultText>«Они отправят меня на передовую, где мне и место. Это может случиться в любую минуту».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Уже скоро".</DefaultText>
+      <DefaultText>«Уже скоро».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Приветствую, Вершитель. Чем я могу помочь?"</DefaultText>
-      <FemaleText>"Приветствую, Вершительница. Чем я могу помочь?"</FemaleText>
+      <DefaultText>«Приветствую, Вершитель. Чем я могу помочь?»</DefaultText>
+      <FemaleText>«Приветствую, Вершительница. Чем я могу помочь?»</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ты знаешь, что в кустах за этими воротами скрывается солдат?"</DefaultText>
+      <DefaultText>«Ты знаешь, что в кустах за этими воротами скрывается солдат?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ничего. До свидания".</DefaultText>
+      <DefaultText>«Ничего. До свидания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Что? Да что за…" Он качает головой. "В прошлый раз, когда я его поймал, я решил, что сезон копания нужников избавит его от дурных привычек. Очевидно, я ошибался".
+      <DefaultText>«Что? Да что за…» Он качает головой. «В прошлый раз, когда я его поймал, я решил, что сезон копания нужников избавит его от дурных привычек. Очевидно, я ошибался».
 
-"Предупреждал этого паразита уже сотню раз. Он заслужил, по меньшей мере, столько же плетей".</DefaultText>
+«Предупреждал этого паразита уже сотню раз. Он заслужил, по меньшей мере, столько же плетей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Спасибо, что сообщили".</DefaultText>
+      <DefaultText>«Спасибо, что сообщили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

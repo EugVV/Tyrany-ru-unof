@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Помоги! Нам нужен еще один верный топор — прошу тебя!"</DefaultText>
+      <DefaultText>«Помоги! Нам нужен еще один верный топор — прошу тебя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не останавливайся! Мы загоним этих злобных тварей обратно!"</DefaultText>
+      <DefaultText>«Не останавливайся! Мы загоним этих злобных тварей обратно!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Приветствую, Вершитель судеб! Пришел взглянуть на товар?"</DefaultText>
-      <FemaleText>"Приветствую, Вершительница судеб! Пришла взглянуть на товар?"</FemaleText>
+      <DefaultText>«Приветствую, Вершитель судеб! Пришел взглянуть на товар?»</DefaultText>
+      <FemaleText>«Приветствую, Вершительница судеб! Пришла взглянуть на товар?»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"С возвращением, Вершитель судеб! Чего изволите?"</DefaultText>
-      <FemaleText>"С возвращением, Вершительница судеб! Чего изволите?"</FemaleText>
+      <DefaultText>«С возвращением, Вершитель судеб! Чего изволите?»</DefaultText>
+      <FemaleText>«С возвращением, Вершительница судеб! Чего изволите?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Давай посмотрим, что у тебя есть на продажу".</DefaultText>
+      <DefaultText>«Давай посмотрим, что у тебя есть на продажу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Давай посмотрим, что у тебя есть на продажу".</DefaultText>
+      <DefaultText>«Давай посмотрим, что у тебя есть на продажу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

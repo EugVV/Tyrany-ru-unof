@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Нет! Не-е-ет!"</DefaultText>
+      <DefaultText>«Нет! Не-е-ет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я без боя не сдамся!"</DefaultText>
+      <DefaultText>«Я без боя не сдамся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Бегите, пока Адъюдикатор не приговорил кого-то еще!"</DefaultText>
+      <DefaultText>«Бегите, пока Адъюдикатор не приговорил кого-то еще!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Никто не уйдет от меня!"</DefaultText>
+      <DefaultText>«Никто не уйдет от меня!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мои раны уже затягиваются…"</DefaultText>
+      <DefaultText>«Мои раны уже затягиваются…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я получила копьем в бок, но теперь этого даже не чувствую".</DefaultText>
+      <DefaultText>«Я получила копьем в бок, но теперь этого даже не чувствую».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Однажды мне в плечо загнали топор, и я вырубилась. А когда очнулась, была в порядке".</DefaultText>
+      <DefaultText>«Однажды мне в плечо загнали топор, и я вырубилась. А когда очнулась, была в порядке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] — это командир, которого мы недостойны".</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] — это командир, которого мы недостойны».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Слава Северу!"</DefaultText>
+      <DefaultText>«Слава Северу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Неужели я однажды увижу свой дом".</DefaultText>
+      <DefaultText>«Неужели я однажды увижу свой дом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

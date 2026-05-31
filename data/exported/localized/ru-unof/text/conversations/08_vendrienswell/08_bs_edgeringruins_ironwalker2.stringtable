@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ненавижу этих южан".</DefaultText>
+      <DefaultText>«Ненавижу этих южан».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Почему Ярусы не хотят принимать Мир Кайроса?"</DefaultText>
+      <DefaultText>«Почему Ярусы не хотят принимать Мир Кайроса?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Слабость. Наследие этих крыс из Ярусов".</DefaultText>
+      <DefaultText>«Слабость. Наследие этих крыс из Ярусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Да проклянет [url=glossary:кайрос]Кайрос[/url] этих повстанцев!"</DefaultText>
+      <DefaultText>«Да проклянет [url=glossary:кайрос]Кайрос[/url] этих повстанцев!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

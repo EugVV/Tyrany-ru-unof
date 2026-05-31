@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Пойдем пообщаемся с Пятым Глазом. Вижу его к востоку отсюда".</DefaultText>
+      <DefaultText>«Пойдем пообщаемся с Пятым Глазом. Вижу его к востоку отсюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я вижу это мерзкое существо, Пятого Глаза! Стоит к востоку от нас".</DefaultText>
+      <DefaultText>«Я вижу это мерзкое существо, Пятого Глаза! Стоит к востоку от нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пятый Глаз — впереди. Развлекается с Певчими Крови к востоку от нас".</DefaultText>
+      <DefaultText>«Пятый Глаз — впереди. Развлекается с Певчими Крови к востоку от нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

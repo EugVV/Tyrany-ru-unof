@@ -6,38 +6,38 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы гордимся, что ты на нашей стороне, Архонт".</DefaultText>
+      <DefaultText>«Мы гордимся, что ты на нашей стороне, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что… что мы будем делать без генерала?"</DefaultText>
+      <DefaultText>«Что… что мы будем делать без генерала?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Спасибо, что проявил милосердие к Аше".</DefaultText>
-      <FemaleText>"Спасибо, что проявила милосердие к Аше".</FemaleText>
+      <DefaultText>«Спасибо, что проявил милосердие к Аше».</DefaultText>
+      <FemaleText>«Спасибо, что проявила милосердие к Аше».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тебе поклялся в преданности последний великий воевода Севера — каково это осознавать?"</DefaultText>
+      <DefaultText>«Тебе поклялся в преданности последний великий воевода Севера — каково это осознавать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Защита генерала исчезает, и я чувствую себя… слабее".</DefaultText>
+      <DefaultText>«Защита генерала исчезает, и я чувствую себя… слабее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Может ли легион существовать без Аше? Я не знаю".</DefaultText>
+      <DefaultText>«Может ли легион существовать без Аше? Я не знаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вершитель. Рад видеть тебя в этом бастионе северных ценностей".</DefaultText>
-      <FemaleText>"Вершительница. Рад видеть тебя в этом бастионе северных ценностей".</FemaleText>
+      <DefaultText>«Вершитель. Рад видеть тебя в этом бастионе северных ценностей».</DefaultText>
+      <FemaleText>«Вершительница. Рад видеть тебя в этом бастионе северных ценностей».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мне… больно. Что со мной происходит?"</DefaultText>
+      <DefaultText>«Мне… больно. Что со мной происходит?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Такое впечатление, что что-то сжимает мне внутренности. Я истекаю кровью?"</DefaultText>
+      <DefaultText>«Такое впечатление, что что-то сжимает мне внутренности. Я истекаю кровью?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

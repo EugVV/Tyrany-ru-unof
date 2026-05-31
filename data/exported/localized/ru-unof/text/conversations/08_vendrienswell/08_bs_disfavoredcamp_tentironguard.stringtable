@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель судеб! Архонты ждут вас внутри".</DefaultText>
-      <FemaleText>"Вершительница судеб! Архонты ждут вас внутри".</FemaleText>
+      <DefaultText>«Вершитель судеб! Архонты ждут вас внутри».</DefaultText>
+      <FemaleText>«Вершительница судеб! Архонты ждут вас внутри».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты это слышал?"</DefaultText>
-      <FemaleText>"Ты это слышала?"</FemaleText>
+      <DefaultText>«Ты это слышал?»</DefaultText>
+      <FemaleText>«Ты это слышала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Похоже на [url=glossary:эдикт]Эдикт[/url]. Наверное, Владыка устал ждать".</DefaultText>
+      <DefaultText>«Похоже на [url=glossary:эдикт]Эдикт[/url]. Наверное, Владыка устал ждать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Вот что получаешь, когда приходится работать с упырями из Хора".</DefaultText>
+      <DefaultText>«Вот что получаешь, когда приходится работать с упырями из Хора».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

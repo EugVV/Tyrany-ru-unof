@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты погляди на него. Очень даже в моем вкусе. Будет шанс — пощупай мышцы, они твердые, как камень".</DefaultText>
+      <DefaultText>«Ты погляди на него. Очень даже в моем вкусе. Будет шанс — пощупай мышцы, они твердые, как камень».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я обычно выбираю Галума, потому что на Лорида у меня смелости не хватает. Но, может, сегодня и решусь".</DefaultText>
+      <DefaultText>«Я обычно выбираю Галума, потому что на Лорида у меня смелости не хватает. Но, может, сегодня и решусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Лучше уж Галум все-таки. С ним, по крайней мере, неожиданностей не будет…"</DefaultText>
+      <DefaultText>«Лучше уж Галум все-таки. С ним, по крайней мере, неожиданностей не будет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Если смелости хватит, могу кое-что тебе предложить".</DefaultText>
+      <DefaultText>«Если смелости хватит, могу кое-что тебе предложить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"…"</DefaultText>
+      <DefaultText>«…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Отлично! Если нас все равно прикончит [url=glossary:эдикт]Эдикт[/url], я хоть разок с ним попробую перед этим!"</DefaultText>
+      <DefaultText>«Отлично! Если нас все равно прикончит [url=glossary:эдикт]Эдикт[/url], я хоть разок с ним попробую перед этим!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Уму непостижимо. У нас есть проблемы и поважнее!"</DefaultText>
+      <DefaultText>«Уму непостижимо. У нас есть проблемы и поважнее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я чего, должен сказать спасибо или куда?"</DefaultText>
+      <DefaultText>«Я чего, должен сказать спасибо или куда?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

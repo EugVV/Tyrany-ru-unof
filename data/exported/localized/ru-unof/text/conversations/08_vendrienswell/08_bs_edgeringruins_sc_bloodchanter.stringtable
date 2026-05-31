@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] заплатит за непокорность".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] заплатит за непокорность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:кайрос]Кайрос[/url] не потерпит, чтобы предатели остались в живых".</DefaultText>
+      <DefaultText>«[url=glossary:кайрос]Кайрос[/url] не потерпит, чтобы предатели остались в живых».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url] приветствует нашу победу".</DefaultText>
+      <DefaultText>«[url=glossary:голоса нерата]Голоса Нерата[/url] приветствует нашу победу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] может и дальше бросать на нас своих слабейших отпрысков".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] может и дальше бросать на нас своих слабейших отпрысков».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"У меня рана кровоточит. Щекотно".</DefaultText>
+      <DefaultText>«У меня рана кровоточит. Щекотно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Надеюсь, [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] голодает".</DefaultText>
+      <DefaultText>«Надеюсь, [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] голодает».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я ранен, но меня это никогда не останавливало. Дай перевести дыхание".</DefaultText>
+      <DefaultText>«Я ранен, но меня это никогда не останавливало. Дай перевести дыхание».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

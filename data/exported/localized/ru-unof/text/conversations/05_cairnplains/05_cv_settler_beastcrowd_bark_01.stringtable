@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Убей зверя! Они бы с нами не церемонились, если б поймали!"</DefaultText>
+      <DefaultText>«Убей зверя! Они бы с нами не церемонились, если б поймали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Чего ты ждешь? Убей чудовище!"</DefaultText>
+      <DefaultText>«Чего ты ждешь? Убей чудовище!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Золотое кольцо тому, кто принесет мне его отрубленную лапу!"</DefaultText>
+      <DefaultText>«Золотое кольцо тому, кто принесет мне его отрубленную лапу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Этот дикарь убил моих родных!"</DefaultText>
+      <DefaultText>«Этот дикарь убил моих родных!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Содрать с него шкуру!"</DefaultText>
+      <DefaultText>«Содрать с него шкуру!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,32 +41,32 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Зверь на свободе? Теперь мы обречены!"</DefaultText>
+      <DefaultText>«Зверь на свободе? Теперь мы обречены!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Не подпускайте эту тварь к моим детям!"</DefaultText>
+      <DefaultText>«Не подпускайте эту тварь к моим детям!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Это сделал Вершитель судеб? Какой позор!"</DefaultText>
-      <FemaleText>"Это сделала Вершительница судеб? Какой позор!"</FemaleText>
+      <DefaultText>«Это сделал Вершитель судеб? Какой позор!»</DefaultText>
+      <FemaleText>«Это сделала Вершительница судеб? Какой позор!»</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Уберите этого дикаря из нашего города!"</DefaultText>
+      <DefaultText>«Уберите этого дикаря из нашего города!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Это [Plainsgate], здесь так дела не делают!"</DefaultText>
+      <DefaultText>«Это [Plainsgate], здесь так дела не делают!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Отвратительно! Эти твари не должны быть на свободе".</DefaultText>
+      <DefaultText>«Отвратительно! Эти твари не должны быть на свободе».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

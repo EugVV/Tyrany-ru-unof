@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель, этот железный пень ведет себя, как последний кретин. Ты нам не поможешь?"</DefaultText>
-      <FemaleText>"Вершительница, этот железный пень ведет себя, как последний кретин. Ты нам не поможешь?"</FemaleText>
+      <DefaultText>«Вершитель, этот железный пень ведет себя, как последний кретин. Ты нам не поможешь?»</DefaultText>
+      <FemaleText>«Вершительница, этот железный пень ведет себя, как последний кретин. Ты нам не поможешь?»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"В последний раз прошу помощи у суда…"</DefaultText>
+      <DefaultText>«В последний раз прошу помощи у суда…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Клинок моих предков! Я буду носить его с честью".</DefaultText>
+      <DefaultText>«Клинок моих предков! Я буду носить его с честью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Даже если мне достанется старая, ржавая кочерга, это лучше, чем ничего".</DefaultText>
+      <DefaultText>«Даже если мне достанется старая, ржавая кочерга, это лучше, чем ничего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ну что, у тебя нет для меня никаких новостей? Нет?"</DefaultText>
+      <DefaultText>«Ну что, у тебя нет для меня никаких новостей? Нет?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

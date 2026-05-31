@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не подходи, незнакомец. Чужаков дальше не пускаем".</DefaultText>
-      <FemaleText>"Не подходи, незнакомка. Чужаков дальше не пускаем".</FemaleText>
+      <DefaultText>«Не подходи, незнакомец. Чужаков дальше не пускаем».</DefaultText>
+      <FemaleText>«Не подходи, незнакомка. Чужаков дальше не пускаем».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Стой! Ты не враг нам, но мы удерживаем этот мост не просто так".</DefaultText>
+      <DefaultText>«Стой! Ты не враг нам, но мы удерживаем этот мост не просто так».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Спасибо тебе!"</DefaultText>
+      <DefaultText>«Спасибо тебе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Возвращайся туда, откуда пришел, пока не начались проблемы".</DefaultText>
-      <FemaleText>"Возвращайся туда, откуда пришла, пока не начались проблемы".</FemaleText>
+      <DefaultText>«Возвращайся туда, откуда пришел, пока не начались проблемы».</DefaultText>
+      <FemaleText>«Возвращайся туда, откуда пришла, пока не начались проблемы».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Тебя предупреждали!"</DefaultText>
+      <DefaultText>«Тебя предупреждали!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

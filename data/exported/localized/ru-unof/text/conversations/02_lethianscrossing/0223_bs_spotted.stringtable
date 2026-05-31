@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Сотня колец тому, кто убьет Вершителя!"</DefaultText>
-      <FemaleText>"Сотня колец тому, кто убьет Вершительницу!"</FemaleText>
+      <DefaultText>«Сотня колец тому, кто убьет Вершителя!»</DefaultText>
+      <FemaleText>«Сотня колец тому, кто убьет Вершительницу!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Враги! Остановите Вершителя!"</DefaultText>
-      <FemaleText>"Враги! Остановите Вершительницу!"</FemaleText>
+      <DefaultText>«Враги! Остановите Вершителя!»</DefaultText>
+      <FemaleText>«Враги! Остановите Вершительницу!»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

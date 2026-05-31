@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"У них не было шансов".</DefaultText>
+      <DefaultText>«У них не было шансов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пусть думают, что могут достать меня".</DefaultText>
+      <DefaultText>«Пусть думают, что могут достать меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Им и не подобраться".</DefaultText>
+      <DefaultText>«Им и не подобраться».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Один из любимых моих фокусов".</DefaultText>
+      <DefaultText>«Один из любимых моих фокусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Отступаем!"</DefaultText>
+      <DefaultText>«Отступаем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Улыбаемся и машем!"</DefaultText>
+      <DefaultText>«Улыбаемся и машем!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

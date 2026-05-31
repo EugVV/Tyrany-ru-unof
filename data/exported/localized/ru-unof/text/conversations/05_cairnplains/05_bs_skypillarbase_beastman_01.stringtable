@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Порычи на Алую Пасть, Вершитель судеб".</DefaultText>
-      <FemaleText>"Порычи на Алую Пасть, Вершительница судеб".</FemaleText>
+      <DefaultText>«Порычи на Алую Пасть, Вершитель судеб».</DefaultText>
+      <FemaleText>«Порычи на Алую Пасть, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Назад. Уходи на обеих ногах".</DefaultText>
+      <DefaultText>«Назад. Уходи на обеих ногах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

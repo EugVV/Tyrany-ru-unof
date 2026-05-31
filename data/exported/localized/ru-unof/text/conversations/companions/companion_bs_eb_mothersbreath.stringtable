@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я скрою нас от любопытных глаз".</DefaultText>
+      <DefaultText>«Я скрою нас от любопытных глаз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Они не заметят, как мы подойдем".</DefaultText>
+      <DefaultText>«Они не заметят, как мы подойдем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Видишь? Идеальная погода для пряток и краж".</DefaultText>
+      <DefaultText>«Видишь? Идеальная погода для пряток и краж».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Туман укроет нас, но надо двигаться осторожно".</DefaultText>
+      <DefaultText>«Туман укроет нас, но надо двигаться осторожно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"У них не будет ни малейшего представления, где нас искать".</DefaultText>
+      <DefaultText>«У них не будет ни малейшего представления, где нас искать».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

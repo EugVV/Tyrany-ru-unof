@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Тебя осудит сама земля!"</DefaultText>
+      <DefaultText>«Тебя осудит сама земля!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пусть скалы поглотят твое тело!"</DefaultText>
+      <DefaultText>«Пусть скалы поглотят твое тело!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

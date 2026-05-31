@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ну давай, если кишка не тонка!"</DefaultText>
+      <DefaultText>«Ну давай, если кишка не тонка!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Подойди и узри мою сталь!"</DefaultText>
+      <DefaultText>«Подойди и узри мою сталь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Боишься ли ты смерти, червяк?"</DefaultText>
+      <DefaultText>«Боишься ли ты смерти, червяк?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

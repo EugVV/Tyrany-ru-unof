@@ -6,53 +6,53 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы тебя прикроем. Клятвопреступники поплатятся".</DefaultText>
+      <DefaultText>«Мы тебя прикроем. Клятвопреступники поплатятся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы останемся здесь на тот случай, если появятся стражи".</DefaultText>
+      <DefaultText>«Мы останемся здесь на тот случай, если появятся стражи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Отлично сработано, Вершитель. Мы останемся здесь, пока начальство не прикажет иначе".</DefaultText>
-      <FemaleText>"Отлично сработано, Вершительница. Мы останемся здесь, пока начальство не прикажет иначе".</FemaleText>
+      <DefaultText>«Отлично сработано, Вершитель. Мы останемся здесь, пока начальство не прикажет иначе».</DefaultText>
+      <FemaleText>«Отлично сработано, Вершительница. Мы останемся здесь, пока начальство не прикажет иначе».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Жаль, что трупов получилось больше, чем новобранцев. Впрочем, ничего не поделаешь".</DefaultText>
+      <DefaultText>«Жаль, что трупов получилось больше, чем новобранцев. Впрочем, ничего не поделаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Резать врагов весело, но ставить их в наши ряды гораздо полезнее".</DefaultText>
+      <DefaultText>«Резать врагов весело, но ставить их в наши ряды гораздо полезнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Если бы мы могли продлить осаду, то к нам присоединилось бы больше клятвопреступников. Но сейчас об этом незачем говорить".</DefaultText>
+      <DefaultText>«Если бы мы могли продлить осаду, то к нам присоединилось бы больше клятвопреступников. Но сейчас об этом незачем говорить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Эта долина превратилась в могилу".</DefaultText>
+      <DefaultText>«Эта долина превратилась в могилу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Гвардию надо научить уважению и покорности".</DefaultText>
+      <DefaultText>«Гвардию надо научить уважению и покорности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Хвала Кайросу и Голосам".</DefaultText>
+      <DefaultText>«Хвала Кайросу и Голосам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Мы готовы служить, Вершитель".</DefaultText>
-      <FemaleText>"Мы готовы служить, Вершительница".</FemaleText>
+      <DefaultText>«Мы готовы служить, Вершитель».</DefaultText>
+      <FemaleText>«Мы готовы служить, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>

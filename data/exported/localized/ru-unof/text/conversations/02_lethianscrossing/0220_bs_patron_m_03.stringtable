@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Говорят, Эвариста любит, когда все жестко. Надеюсь, тут койки достаточно крепкие…"</DefaultText>
+      <DefaultText>«Говорят, Эвариста любит, когда все жестко. Надеюсь, тут койки достаточно крепкие…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"А хватит ли у меня на нее колец? Но здесь меня, кроме нее, больше никто не устроит".</DefaultText>
+      <DefaultText>«А хватит ли у меня на нее колец? Но здесь меня, кроме нее, больше никто не устроит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Может, кого-нибудь еще попробовать? С Полумачтой может быть весело…"</DefaultText>
+      <DefaultText>«Может, кого-нибудь еще попробовать? С Полумачтой может быть весело…»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

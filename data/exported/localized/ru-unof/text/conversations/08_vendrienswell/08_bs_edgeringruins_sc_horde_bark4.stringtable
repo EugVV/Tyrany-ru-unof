@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Возмездие за Кайроса!"</DefaultText>
+      <DefaultText>«Возмездие за Кайроса!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Кровь за Голоса!"</DefaultText>
+      <DefaultText>«Кровь за Голоса!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Выпустите этому бунтарю кишки!"</DefaultText>
+      <DefaultText>«Выпустите этому бунтарю кишки!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Слава Голосам!"</DefaultText>
+      <DefaultText>«Слава Голосам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

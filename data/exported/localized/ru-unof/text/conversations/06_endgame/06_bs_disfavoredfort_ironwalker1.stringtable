@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Архонт Аше — наш защитник".</DefaultText>
+      <DefaultText>«Архонт Аше — наш защитник».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Такого хорошего оружия, как у нас, южане никогда даже не видели".</DefaultText>
+      <DefaultText>«Такого хорошего оружия, как у нас, южане никогда даже не видели».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Надеюсь, эта кампания не закончится никогда".</DefaultText>
+      <DefaultText>«Надеюсь, эта кампания не закончится никогда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я готовлю похлебку для солдат. В основном из лука и костей".</DefaultText>
+      <DefaultText>«Я готовлю похлебку для солдат. В основном из лука и костей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Она полезна для костей. У меня уже немало переломанных".</DefaultText>
+      <DefaultText>«Она полезна для костей. У меня уже немало переломанных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мне сильно досталось во время кампании в Оплоте. Но раны очень неплохо зажили".</DefaultText>
+      <DefaultText>«Мне сильно досталось во время кампании в Оплоте. Но раны очень неплохо зажили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

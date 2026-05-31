@@ -6,52 +6,52 @@
   <Entries>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"Я быстро угасаю".</DefaultText>
+      <DefaultText>«Я быстро угасаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Мне нужно лечение!"</DefaultText>
+      <DefaultText>«Мне нужно лечение!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Мне недолго осталось…"</DefaultText>
+      <DefaultText>«Мне недолго осталось…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Если я должна…"</DefaultText>
+      <DefaultText>«Если я должна…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>"Очень просто…"</DefaultText>
+      <DefaultText>«Очень просто…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>"Столь простая задача".</DefaultText>
+      <DefaultText>«Столь простая задача».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>"Сделаю это немедленно".</DefaultText>
+      <DefaultText>«Сделаю это немедленно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>"Мне правда нужно это делать?"</DefaultText>
+      <DefaultText>«Мне правда нужно это делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"Если ты думаешь, что это поможет".</DefaultText>
+      <DefaultText>«Если ты думаешь, что это поможет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>"Полагаю, это мне по силам".</DefaultText>
+      <DefaultText>«Полагаю, это мне по силам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>"Ой!"</DefaultText>
+      <DefaultText>«Ой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,67 +101,67 @@
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Атака не удалась…"</DefaultText>
+      <DefaultText>«Атака не удалась…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>"Сделаю все, что смогу".</DefaultText>
+      <DefaultText>«Сделаю все, что смогу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"Никто не узнает, что я была там".</DefaultText>
+      <DefaultText>«Никто не узнает, что я была там».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>"Я буду вне поля зрения".</DefaultText>
+      <DefaultText>«Я буду вне поля зрения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>"Это невозможно".</DefaultText>
+      <DefaultText>«Это невозможно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Исключено".</DefaultText>
+      <DefaultText>«Исключено».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Посмотрим, получится ли".</DefaultText>
+      <DefaultText>«Посмотрим, получится ли».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Меня никто не увидит".</DefaultText>
+      <DefaultText>«Меня никто не увидит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Мы можем сделать… что-то еще?"</DefaultText>
+      <DefaultText>«Мы можем сделать… что-то еще?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Подожди. Здесь что-то есть".</DefaultText>
+      <DefaultText>«Подожди. Здесь что-то есть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Секундочку. Я кое-что нашла".</DefaultText>
+      <DefaultText>«Секундочку. Я кое-что нашла».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>"Взгляни туда. Видишь это?"</DefaultText>
+      <DefaultText>«Взгляни туда. Видишь это?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>"Встретимся у Шпиля".</DefaultText>
+      <DefaultText>«Встретимся у Шпиля».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,92 +171,92 @@
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Мы в ближайшее время продолжим?"</DefaultText>
+      <DefaultText>«Мы в ближайшее время продолжим?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"Это план такой — стоять здесь?"</DefaultText>
+      <DefaultText>«Это план такой — стоять здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Полагаю, Фуга не настолько сильна, как думает…"</DefaultText>
+      <DefaultText>«Полагаю, Фуга не настолько сильна, как думает…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>"Книгочей в отключке".</DefaultText>
+      <DefaultText>«Книгочей в отключке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>"Водяная ведьма повержена".</DefaultText>
+      <DefaultText>«Водяная ведьма повержена».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Конец скотине".</DefaultText>
+      <DefaultText>«Конец скотине».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Ходячая груда лома повержен".</DefaultText>
+      <DefaultText>«Ходячая груда лома повержен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Наш командир пал!"</DefaultText>
+      <DefaultText>«Наш командир пал!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>"Приведите Вершителя в чувства!"</DefaultText>
-      <FemaleText>"Приведите Вершительницу в чувства!"</FemaleText>
+      <DefaultText>«Приведите Вершителя в чувства!»</DefaultText>
+      <FemaleText>«Приведите Вершительницу в чувства!»</FemaleText>
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Фуге не хватило силы спасти ее".</DefaultText>
+      <DefaultText>«Фуге не хватило силы спасти ее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Книгочей мертв!"</DefaultText>
+      <DefaultText>«Книгочей мертв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>"Атли конец!"</DefaultText>
+      <DefaultText>«Атли конец!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>"Зверолюдку убили!"</DefaultText>
+      <DefaultText>«Зверолюдку убили!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>"Барик истек кровью".</DefaultText>
+      <DefaultText>«Барик истек кровью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Вершитель мертв!"</DefaultText>
-      <FemaleText>"Вершительница мертва!"</FemaleText>
+      <DefaultText>«Вершитель мертв!»</DefaultText>
+      <FemaleText>«Вершительница мертва!»</FemaleText>
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>"Возможно, ты захочешь взглянуть на это".</DefaultText>
+      <DefaultText>«Возможно, ты захочешь взглянуть на это».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>"Что это здесь?"</DefaultText>
+      <DefaultText>«Что это здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>"Интересно…"</DefaultText>
+      <DefaultText>«Интересно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>"Отличный удар!"</DefaultText>
+      <DefaultText>«Отличный удар!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>"Я всегда бью точно в цель!"</DefaultText>
+      <DefaultText>«Я всегда бью точно в цель!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,102 +286,102 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>"Уничтожить их!"</DefaultText>
+      <DefaultText>«Уничтожить их!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>"Грядет твоя смерть!"</DefaultText>
+      <DefaultText>«Грядет твоя смерть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>"Тебе не на что надеяться".</DefaultText>
+      <DefaultText>«Тебе не на что надеяться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>"Как-то мне нехорошо…"</DefaultText>
+      <DefaultText>«Как-то мне нехорошо…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>"Мне не удержать еще что-нибудь".</DefaultText>
+      <DefaultText>«Мне не удержать еще что-нибудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>"Покой нам всегда будет только сниться?"</DefaultText>
+      <DefaultText>«Покой нам всегда будет только сниться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>"Мы в ближайшее время отдохнем?"</DefaultText>
+      <DefaultText>«Мы в ближайшее время отдохнем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>"Нам нужен отдых. Я так больше не могу!"</DefaultText>
+      <DefaultText>«Нам нужен отдых. Я так больше не могу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>"Следуй за мной".</DefaultText>
+      <DefaultText>«Следуй за мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>"Я не могу двинуться!"</DefaultText>
+      <DefaultText>«Я не могу двинуться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>"Хочешь, попробуем спеть дуэтом?"</DefaultText>
+      <DefaultText>«Хочешь, попробуем спеть дуэтом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>"В следующий раз закрывай ушки…"</DefaultText>
+      <DefaultText>«В следующий раз закрывай ушки…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>"Благодарю за внимание!"</DefaultText>
+      <DefaultText>«Благодарю за внимание!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>"Попробуем снова в другой раз".</DefaultText>
+      <DefaultText>«Попробуем снова в другой раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>"Сейчас мы не можем это сделать".</DefaultText>
+      <DefaultText>«Сейчас мы не можем это сделать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>"Быть может, они хотят песню?"</DefaultText>
+      <DefaultText>«Быть может, они хотят песню?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>"Давай-ка споем им что-нибудь…"</DefaultText>
+      <DefaultText>«Давай-ка споем им что-нибудь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>"Бей, пока они бегут!"</DefaultText>
+      <DefaultText>«Бей, пока они бегут!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>"Давай! Я еще столько всего в мире не видела!"</DefaultText>
+      <DefaultText>«Давай! Я еще столько всего в мире не видела!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>[Страдальчески выпевает] "Горячо-о!"</DefaultText>
+      <DefaultText>[Страдальчески выпевает] «Горячо-о!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,27 +391,27 @@
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>"Моя сила растет!"</DefaultText>
+      <DefaultText>«Моя сила растет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>"Если мы сейчас же не передохнем — я умру!"</DefaultText>
+      <DefaultText>«Если мы сейчас же не передохнем — я умру!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>"О, жду не дождусь, чтобы попробовать!"</DefaultText>
+      <DefaultText>«О, жду не дождусь, чтобы попробовать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>"Такая силища! Используем ее!"</DefaultText>
+      <DefaultText>«Такая силища! Используем ее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>"Не зли Архонта Песни!"</DefaultText>
+      <DefaultText>«Не зли Архонта Песни!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>"Я поведу нас!"</DefaultText>
+      <DefaultText>«Я поведу нас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

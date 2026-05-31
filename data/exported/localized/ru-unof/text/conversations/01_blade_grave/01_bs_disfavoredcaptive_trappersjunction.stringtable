@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:кайрос]Кайрос[/url] спаси нас".</DefaultText>
+      <DefaultText>«[url=glossary:кайрос]Кайрос[/url] спаси нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Спасибо за помощь, Вершитель".</DefaultText>
-      <FemaleText>"Спасибо за помощь, Вершительница".</FemaleText>
+      <DefaultText>«Спасибо за помощь, Вершитель».</DefaultText>
+      <FemaleText>«Спасибо за помощь, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ненавижу вонь человеческого логова. Жжет в носу. Горькая, словно желчь".</DefaultText>
+      <DefaultText>«Ненавижу вонь человеческого логова. Жжет в носу. Горькая, словно желчь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Всегда нужно работать. Не могу дать отдыха уставшим лапам".</DefaultText>
+      <DefaultText>«Всегда нужно работать. Не могу дать отдыха уставшим лапам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Скучаю по племени. Скучаю по родным землям".</DefaultText>
+      <DefaultText>«Скучаю по племени. Скучаю по родным землям».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

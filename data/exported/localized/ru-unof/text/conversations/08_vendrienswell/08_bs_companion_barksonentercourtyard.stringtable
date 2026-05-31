@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Вершитель, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!"</DefaultText>
-      <FemaleText>"Вершительница, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!"</FemaleText>
+      <DefaultText>«Вершитель, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!»</DefaultText>
+      <FemaleText>«Вершительница, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!»</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Латники забрались на стены? Пусти меня к ним!"</DefaultText>
+      <DefaultText>«Латники забрались на стены? Пусти меня к ним!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Кто бы мог подумать, что [url=glossary:опальные]Опальные[/url] способны забраться так высоко… они уже на стенах!"</DefaultText>
+      <DefaultText>«Кто бы мог подумать, что [url=glossary:опальные]Опальные[/url] способны забраться так высоко… они уже на стенах!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Солдаты легиона уже взобрались на стены. Я бы рекомендовал сбросить их оттуда".</DefaultText>
+      <DefaultText>«Солдаты легиона уже взобрались на стены. Я бы рекомендовал сбросить их оттуда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

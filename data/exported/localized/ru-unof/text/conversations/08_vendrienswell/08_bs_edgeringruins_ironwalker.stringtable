@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Слава Кайросу!"</DefaultText>
+      <DefaultText>«Слава Кайросу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я своим солдатам спуска не даю. Дисциплина строжайшая".</DefaultText>
+      <DefaultText>«Я своим солдатам спуска не даю. Дисциплина строжайшая».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Воняет просто невыносимо!"</DefaultText>
+      <DefaultText>«Воняет просто невыносимо!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит!"</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Надеюсь, Тунон оценит наши жертвы".</DefaultText>
+      <DefaultText>«Надеюсь, Тунон оценит наши жертвы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я все еще скучаю по Северу".</DefaultText>
+      <DefaultText>«Я все еще скучаю по Северу».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Когда-нибудь мы вернемся домой".</DefaultText>
+      <DefaultText>«Когда-нибудь мы вернемся домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Скучаю по Северу. А на Севере у меня была бы тоска по сражениям".</DefaultText>
+      <DefaultText>«Скучаю по Северу. А на Севере у меня была бы тоска по сражениям».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Архонт Аше относится к нам лучше, чем мы, скромные рядовые, заслуживаем".</DefaultText>
+      <DefaultText>«Архонт Аше относится к нам лучше, чем мы, скромные рядовые, заслуживаем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я могу выдержать столько стрел, сколько от меня потребует [url=glossary:грэйвен аше]Грэйвен Аше[/url]".</DefaultText>
+      <DefaultText>«Я могу выдержать столько стрел, сколько от меня потребует [url=glossary:грэйвен аше]Грэйвен Аше[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Хорошо у огня".</DefaultText>
+      <DefaultText>«Хорошо у огня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я рук почти не чувствую после последнего боя".</DefaultText>
+      <DefaultText>«Я рук почти не чувствую после последнего боя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Аше хорошо обо мне заботится".</DefaultText>
+      <DefaultText>«Аше хорошо обо мне заботится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Крепко держи оружие и не отступай. Если тебя разоружили, продолжай сражаться — или умрешь. Таков путь воина".</DefaultText>
+      <DefaultText>«Крепко держи оружие и не отступай. Если тебя разоружили, продолжай сражаться — или умрешь. Таков путь воина».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
-      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+      <DefaultText>«Я бы хотел потренироваться».</DefaultText>
+      <FemaleText>«Я бы хотела потренироваться».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что-нибудь нужно?"</DefaultText>
+      <DefaultText>«Что-нибудь нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Что ж, сразимся — но в духе инструкций".</DefaultText>
+      <DefaultText>«Что ж, сразимся — но в духе инструкций».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

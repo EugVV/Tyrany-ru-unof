@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Никогда не встречал подобной женщины на Севере".</DefaultText>
+      <DefaultText>«Никогда не встречал подобной женщины на Севере».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вот она и ушла… из моей жизни".</DefaultText>
+      <DefaultText>«Вот она и ушла… из моей жизни».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Без закона Кайроса мир скатился бы в анархию".</DefaultText>
+      <DefaultText>«Без закона Кайроса мир скатился бы в анархию».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Не обращай внимания на мою пленницу".</DefaultText>
+      <DefaultText>«Не обращай внимания на мою пленницу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Может, она еще вернется".</DefaultText>
+      <DefaultText>«Может, она еще вернется».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

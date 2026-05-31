@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Будет честью штурмовать [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вместе с тобой, Вершитель".</DefaultText>
-      <FemaleText>"Будет честью штурмовать [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вместе с тобой, Вершительница".</FemaleText>
+      <DefaultText>«Будет честью штурмовать [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вместе с тобой, Вершитель».</DefaultText>
+      <FemaleText>«Будет честью штурмовать [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вместе с тобой, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Клянусь, я готов к марш-броску!"</DefaultText>
+      <DefaultText>«Клянусь, я готов к марш-броску!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

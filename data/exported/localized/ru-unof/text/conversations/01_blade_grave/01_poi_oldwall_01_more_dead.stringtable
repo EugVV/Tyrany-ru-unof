@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Они опять лезут. Готовься, Вершитель!"</DefaultText>
-      <FemaleText>"Они опять лезут. Готовься, Вершительница!"</FemaleText>
+      <DefaultText>«Они опять лезут. Готовься, Вершитель!»</DefaultText>
+      <FemaleText>«Они опять лезут. Готовься, Вершительница!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Сейчас будет продолжение!"</DefaultText>
+      <DefaultText>«Сейчас будет продолжение!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Довольно с тебя? Если нет — то скоро будет добавка".</DefaultText>
+      <DefaultText>«Довольно с тебя? Если нет — то скоро будет добавка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Это еще не конец. Я не чувствую страха, а ты?"</DefaultText>
+      <DefaultText>«Это еще не конец. Я не чувствую страха, а ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Слышу, как существа приближаются, крадутся поближе! Быстро присаживайся, чтобы наброситься на них".</DefaultText>
+      <DefaultText>«Слышу, как существа приближаются, крадутся поближе! Быстро присаживайся, чтобы наброситься на них».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Похоже, мы перебили не всех! Готовимся!"</DefaultText>
+      <DefaultText>«Похоже, мы перебили не всех! Готовимся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

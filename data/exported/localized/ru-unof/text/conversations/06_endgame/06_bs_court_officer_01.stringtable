@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель. Добро пожаловать обратно в суд Тунона".</DefaultText>
-      <FemaleText>"Вершительница. Добро пожаловать обратно в суд Тунона".</FemaleText>
+      <DefaultText>«Вершитель. Добро пожаловать обратно в суд Тунона».</DefaultText>
+      <FemaleText>«Вершительница. Добро пожаловать обратно в суд Тунона».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вельможи становятся беспокойными. Поддерживать мир очень нелегко".</DefaultText>
+      <DefaultText>«Вельможи становятся беспокойными. Поддерживать мир очень нелегко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Тунон в последнее время строг со своими подчиненными".</DefaultText>
+      <DefaultText>«Тунон в последнее время строг со своими подчиненными».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

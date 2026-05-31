@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эй, Вершитель! Вся выпивка за мой счет!"</DefaultText>
-      <FemaleText>"Эй, Вершительница! Вся выпивка за мой счет!"</FemaleText>
+      <DefaultText>«Эй, Вершитель! Вся выпивка за мой счет!»</DefaultText>
+      <FemaleText>«Эй, Вершительница! Вся выпивка за мой счет!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Все кружится!"</DefaultText>
+      <DefaultText>«Все кружится!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

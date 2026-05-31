@@ -6,103 +6,103 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Слава Кайросу, Вершитель".</DefaultText>
-      <FemaleText>"Слава Кайросу, Вершительница".</FemaleText>
+      <DefaultText>«Слава Кайросу, Вершитель».</DefaultText>
+      <FemaleText>«Слава Кайросу, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я стану Певчим Крови, если на то будет воля Кайроса".</DefaultText>
+      <DefaultText>«Я стану Певчим Крови, если на то будет воля Кайроса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Певчие Крови как-то странно на нас смотрят".</DefaultText>
+      <DefaultText>«Певчие Крови как-то странно на нас смотрят».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Вершитель судеб! Да благословит тебя Владыка".</DefaultText>
-      <FemaleText>"Вершительница судеб! Да благословит тебя Владыка".</FemaleText>
+      <DefaultText>«Вершитель судеб! Да благословит тебя Владыка».</DefaultText>
+      <FemaleText>«Вершительница судеб! Да благословит тебя Владыка».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Надеюсь, ты не лишишься милости начальства".</DefaultText>
+      <DefaultText>«Надеюсь, ты не лишишься милости начальства».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Похоже, правду о тебе наши говорили".</DefaultText>
+      <DefaultText>«Похоже, правду о тебе наши говорили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Будет время — заглядывай к нам в шатер, выпьем!"</DefaultText>
+      <DefaultText>«Будет время — заглядывай к нам в шатер, выпьем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Хорошо, что ты с нами, Вершитель судеб!"</DefaultText>
-      <FemaleText>"Хорошо, что ты с нами, Вершительница судеб!"</FemaleText>
+      <DefaultText>«Хорошо, что ты с нами, Вершитель судеб!»</DefaultText>
+      <FemaleText>«Хорошо, что ты с нами, Вершительница судеб!»</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Хорошо, что хоть кто-то поставил Опальных на место".</DefaultText>
+      <DefaultText>«Хорошо, что хоть кто-то поставил Опальных на место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Когда мы нападем на Железный Очаг?"</DefaultText>
+      <DefaultText>«Когда мы нападем на Железный Очаг?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Вершитель судеб, мы с тобой до конца".</DefaultText>
-      <FemaleText>"Вершительница судеб, мы с тобой до конца".</FemaleText>
+      <DefaultText>«Вершитель судеб, мы с тобой до конца».</DefaultText>
+      <FemaleText>«Вершительница судеб, мы с тобой до конца».</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Без твоей помощи Хор никогда бы не добился таких успехов".</DefaultText>
+      <DefaultText>«Без твоей помощи Хор никогда бы не добился таких успехов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Тебе не показалось, что Голоса какой-то… слегка не такой? Может, чужих мозгов переел?"</DefaultText>
+      <DefaultText>«Тебе не показалось, что Голоса какой-то… слегка не такой? Может, чужих мозгов переел?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Не доводилось мне до сих пор видеть, чтобы старшой хоть кому-то кланялся. Кто против тебя пойдет — сам себе дурак!"</DefaultText>
+      <DefaultText>«Не доводилось мне до сих пор видеть, чтобы старшой хоть кому-то кланялся. Кто против тебя пойдет — сам себе дурак!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Каких только слухов про тебя и старшого не ходит. Но мне плевать — Голоса так стал только лучше".</DefaultText>
+      <DefaultText>«Каких только слухов про тебя и старшого не ходит. Но мне плевать — Голоса так стал только лучше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Эй, старшой. Хороший денек, чтоб немного пограбить, а? Ты только слово скажи".</DefaultText>
-      <FemaleText>"Эй, командирша. Хороший денек, чтоб немного пограбить, а? Ты только слово скажи".</FemaleText>
+      <DefaultText>«Эй, старшой. Хороший денек, чтоб немного пограбить, а? Ты только слово скажи».</DefaultText>
+      <FemaleText>«Эй, командирша. Хороший денек, чтоб немного пограбить, а? Ты только слово скажи».</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Рад нашей встрече, беспощадный лидер. Хочешь убить еще одного Архонта сегодня?"</DefaultText>
+      <DefaultText>«Рад нашей встрече, беспощадный лидер. Хочешь убить еще одного Архонта сегодня?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Нерат был самым громким в Хоре, но ты легко его заглушил! С тобой Ярусы будут нашими!"</DefaultText>
-      <FemaleText>"Нерат был самым громким в Хоре, но ты легко его заглушила! С тобой Ярусы будут нашими!"</FemaleText>
+      <DefaultText>«Нерат был самым громким в Хоре, но ты легко его заглушил! С тобой Ярусы будут нашими!»</DefaultText>
+      <FemaleText>«Нерат был самым громким в Хоре, но ты легко его заглушила! С тобой Ярусы будут нашими!»</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] мертв? Да ты теперь гребаная легенда, Вершитель!"</DefaultText>
-      <FemaleText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] мертв? Да ты теперь гребаная легенда, Вершительница!"</FemaleText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] мертв? Да ты теперь гребаная легенда, Вершитель!»</DefaultText>
+      <FemaleText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] мертв? Да ты теперь гребаная легенда, Вершительница!»</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ты выиграл для нас всю войну. Железный Очаг наш!"</DefaultText>
-      <FemaleText>"Ты выиграла для нас всю войну. Железный Очаг наш!"</FemaleText>
+      <DefaultText>«Ты выиграл для нас всю войну. Железный Очаг наш!»</DefaultText>
+      <FemaleText>«Ты выиграла для нас всю войну. Железный Очаг наш!»</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -111,13 +111,13 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Архонт Правосудия пал! Насколько я понимаю, теперь твое слово закон".</DefaultText>
+      <DefaultText>«Архонт Правосудия пал! Насколько я понимаю, теперь твое слово закон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Убийца Архонтов, ты вернулся. Это значит, что [url=glossary:город-бастард]Город-Бастард[/url] теперь наш?"</DefaultText>
-      <FemaleText>"Убийца Архонтов, ты вернулась. Это значит, что [url=glossary:город-бастард]Город-Бастард[/url] теперь наш?"</FemaleText>
+      <DefaultText>«Убийца Архонтов, ты вернулся. Это значит, что [url=glossary:город-бастард]Город-Бастард[/url] теперь наш?»</DefaultText>
+      <FemaleText>«Убийца Архонтов, ты вернулась. Это значит, что [url=glossary:город-бастард]Город-Бастард[/url] теперь наш?»</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -126,18 +126,18 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"[url=glossary:бледен марк]Бледен Марк[/url] был жутким ублюдком. Хорошо, что больше не нужно бояться теней…"</DefaultText>
+      <DefaultText>«[url=glossary:бледен марк]Бледен Марк[/url] был жутким ублюдком. Хорошо, что больше не нужно бояться теней…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Марк всегда был страшилищем в этих краях, а теперь он мертв. Теперь ясно, что встать на пути Вершителя может только безумец".</DefaultText>
-      <FemaleText>"Марк всегда был страшилищем в этих краях, а теперь он мертв. Теперь ясно, что встать на пути Вершительницы может только безумец".</FemaleText>
+      <DefaultText>«Марк всегда был страшилищем в этих краях, а теперь он мертв. Теперь ясно, что встать на пути Вершителя может только безумец».</DefaultText>
+      <FemaleText>«Марк всегда был страшилищем в этих краях, а теперь он мертв. Теперь ясно, что встать на пути Вершительницы может только безумец».</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"А ну посторонись! Вернулся убийца Опальных".</DefaultText>
-      <FemaleText>"А ну посторонись! Вернулась убийца Опальных".</FemaleText>
+      <DefaultText>«А ну посторонись! Вернулся убийца Опальных».</DefaultText>
+      <FemaleText>«А ну посторонись! Вернулась убийца Опальных».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

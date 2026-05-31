@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ладно, с этим разобрались. Может, вернемся теперь к более насущным вопросам?"</DefaultText>
+      <DefaultText>«Ладно, с этим разобрались. Может, вернемся теперь к более насущным вопросам?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

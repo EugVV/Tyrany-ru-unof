@@ -11,18 +11,18 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Предательство тебе с рук не сойдет!"</DefaultText>
+      <DefaultText>«Предательство тебе с рук не сойдет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты заплатишь за свою измену!"</DefaultText>
+      <DefaultText>«Ты заплатишь за свою измену!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Почувствуй боль наказания, отступник!"</DefaultText>
-      <FemaleText>"Почувствуй боль наказания, отступница!"</FemaleText>
+      <DefaultText>«Почувствуй боль наказания, отступник!»</DefaultText>
+      <FemaleText>«Почувствуй боль наказания, отступница!»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

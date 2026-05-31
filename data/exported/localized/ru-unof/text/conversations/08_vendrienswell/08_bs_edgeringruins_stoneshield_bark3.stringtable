@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Этот поход занял больше времени, чем планировалось".</DefaultText>
+      <DefaultText>«Этот поход занял больше времени, чем планировалось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не думаю, что [url=glossary:кайрос]Кайрос[/url] нами доволен".</DefaultText>
+      <DefaultText>«Не думаю, что [url=glossary:кайрос]Кайрос[/url] нами доволен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Когда-нибудь я стану Железным Стражем".</DefaultText>
+      <DefaultText>«Когда-нибудь я стану Железным Стражем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] глумится над нашими спорами".</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] глумится над нашими спорами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ненавижу, когда мимо проходит [url=glossary:голоса нерата]Голоса Нерата[/url]".</DefaultText>
+      <DefaultText>«Ненавижу, когда мимо проходит [url=glossary:голоса нерата]Голоса Нерата[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Служить под началом Грэйвена Аше — наивысшая честь для меня".</DefaultText>
+      <DefaultText>«Служить под началом Грэйвена Аше — наивысшая честь для меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

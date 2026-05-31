@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я приглядываю, все ли тут в порядке. Не обращай на меня внимания".</DefaultText>
+      <DefaultText>«Я приглядываю, все ли тут в порядке. Не обращай на меня внимания».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

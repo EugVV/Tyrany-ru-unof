@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!"</DefaultText>
-      <FemaleText>"Вершительница! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!"</FemaleText>
+      <DefaultText>«Вершитель! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!»</DefaultText>
+      <FemaleText>«Вершительница! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Бегом в Цитадель, пока Вершителя отвлекли!"</DefaultText>
-      <FemaleText>"Бегом в Цитадель, пока Вершительницы отвлекли!"</FemaleText>
+      <DefaultText>«Бегом в Цитадель, пока Вершителя отвлекли!»</DefaultText>
+      <FemaleText>«Бегом в Цитадель, пока Вершительницы отвлекли!»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Вершитель! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!"</DefaultText>
-      <FemaleText>"Вершительница! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!"</FemaleText>
+      <DefaultText>«Вершитель! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!»</DefaultText>
+      <FemaleText>«Вершительница! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Внутрь! Живо!"</DefaultText>
+      <DefaultText>«Внутрь! Живо!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Вершитель, иди на запад, на главный двор. Я за тобой!"</DefaultText>
-      <FemaleText>"Вершительница, иди на запад, на главный двор. Я за тобой!"</FemaleText>
+      <DefaultText>«Вершитель, иди на запад, на главный двор. Я за тобой!»</DefaultText>
+      <FemaleText>«Вершительница, иди на запад, на главный двор. Я за тобой!»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Вперед, немедленно!"</DefaultText>
+      <DefaultText>«Вперед, немедленно!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

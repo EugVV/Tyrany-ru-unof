@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Слава Северной Империи!"</DefaultText>
+      <DefaultText>«Слава Северной Империи!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Шпиль над Колодцем Вендриенов очень красивый".</DefaultText>
+      <DefaultText>«Шпиль над Колодцем Вендриенов очень красивый».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Почему [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не хочет принять Мир Кайроса?"</DefaultText>
+      <DefaultText>«Почему [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] не хочет принять Мир Кайроса?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Это было трудным заданием".</DefaultText>
+      <DefaultText>«Это было трудным заданием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Интересно, ценит ли нас [url=glossary:кайрос]Кайрос[/url]?"</DefaultText>
+      <DefaultText>«Интересно, ценит ли нас [url=glossary:кайрос]Кайрос[/url]?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я скучаю по жене и ребенку".</DefaultText>
+      <DefaultText>«Я скучаю по жене и ребенку».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

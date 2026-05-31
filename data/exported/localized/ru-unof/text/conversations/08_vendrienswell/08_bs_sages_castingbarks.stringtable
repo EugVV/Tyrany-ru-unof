@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], к бою! Мы должны остановить Вершителя судеб!"</DefaultText>
-      <FemaleText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], к бою! Мы должны остановить Вершительницу судеб!"</FemaleText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], к бою! Мы должны остановить Вершителя судеб!»</DefaultText>
+      <FemaleText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url], к бою! Мы должны остановить Вершительницу судеб!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мы должны удержать барьер, иначе Скаловержцы его обрушат!"</DefaultText>
+      <DefaultText>«Мы должны удержать барьер, иначе Скаловержцы его обрушат!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,18 +11,18 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Встань, мой избранный! Генерал благославляет тебя".</DefaultText>
-      <FemaleText>"Встань, моя избранная! Генерал благославляет тебя".</FemaleText>
+      <DefaultText>«Встань, мой избранный! Генерал благославляет тебя».</DefaultText>
+      <FemaleText>«Встань, моя избранная! Генерал благославляет тебя».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я дарую тебе храбрость Севера, мой избранный".</DefaultText>
-      <FemaleText>"Я дарую тебе храбрость Севера, моя избранная".</FemaleText>
+      <DefaultText>«Я дарую тебе храбрость Севера, мой избранный».</DefaultText>
+      <FemaleText>«Я дарую тебе храбрость Севера, моя избранная».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Избранный! В этом сражении моя сила — твоя".</DefaultText>
-      <FemaleText>"Избранная! В этом сражении моя сила — твоя".</FemaleText>
+      <DefaultText>«Избранный! В этом сражении моя сила — твоя».</DefaultText>
+      <FemaleText>«Избранная! В этом сражении моя сила — твоя».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

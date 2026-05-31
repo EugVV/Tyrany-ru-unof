@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Да славится [url=glossary:кайрос]Кайрос[/url]!"</DefaultText>
+      <DefaultText>«Да славится [url=glossary:кайрос]Кайрос[/url]!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Она плачет кровавыми слезами… Интересно, что стряслось".</DefaultText>
+      <DefaultText>«Она плачет кровавыми слезами… Интересно, что стряслось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мы вернемся на Север победителями!"</DefaultText>
+      <DefaultText>«Мы вернемся на Север победителями!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

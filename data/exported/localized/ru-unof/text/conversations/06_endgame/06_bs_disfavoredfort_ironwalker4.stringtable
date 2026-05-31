@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне снятся прошлые сражения. Тактики меняются, но исход всегда один и тот же".</DefaultText>
+      <DefaultText>«Мне снятся прошлые сражения. Тактики меняются, но исход всегда один и тот же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я тренируюсь день и ночь, наяву и во сне".</DefaultText>
+      <DefaultText>«Я тренируюсь день и ночь, наяву и во сне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Клянусь честью, мы принесем славу Севера на эти непокорные земли".</DefaultText>
+      <DefaultText>«Клянусь честью, мы принесем славу Севера на эти непокорные земли».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я только надеюсь, что Архонт Аше заметит мою преданность".</DefaultText>
+      <DefaultText>«Я только надеюсь, что Архонт Аше заметит мою преданность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

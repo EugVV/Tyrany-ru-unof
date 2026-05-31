@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Что мы будем делать без Шлема Магоборца?"</DefaultText>
+      <DefaultText>«Что мы будем делать без Шлема Магоборца?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Надеюсь, у Элдиана есть план, который поможет нам вернуть шлем".</DefaultText>
+      <DefaultText>«Надеюсь, у Элдиана есть план, который поможет нам вернуть шлем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Если мы не вернем шлем, то кто защитит нас от погибелей?"</DefaultText>
+      <DefaultText>«Если мы не вернем шлем, то кто защитит нас от погибелей?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

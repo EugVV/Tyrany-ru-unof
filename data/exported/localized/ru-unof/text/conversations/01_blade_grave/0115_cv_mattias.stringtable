@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Боюсь, я знаю причину того, что бури не прекращаются…"</DefaultText>
+      <DefaultText>«Боюсь, я знаю причину того, что бури не прекращаются…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Давай покончим с этим, Вершитель судеб".</DefaultText>
-      <FemaleText>"Давай покончим с этим, Вершительница судеб".</FemaleText>
+      <DefaultText>«Давай покончим с этим, Вершитель судеб».</DefaultText>
+      <FemaleText>«Давай покончим с этим, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Я не ожидал, что все так закончится, но Оплоту будет лучше".</DefaultText>
+      <DefaultText>«Я не ожидал, что все так закончится, но Оплоту будет лучше».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

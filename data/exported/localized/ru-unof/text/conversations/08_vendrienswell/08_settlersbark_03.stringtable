@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Обоз был к этому не готов!"</DefaultText>
+      <DefaultText>«Обоз был к этому не готов!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

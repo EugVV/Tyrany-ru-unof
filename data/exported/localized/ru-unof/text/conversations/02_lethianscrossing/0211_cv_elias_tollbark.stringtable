@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты шутишь?! Плата? Я не буду ничего платить! Я требую пропустить меня!"</DefaultText>
+      <DefaultText>«Ты шутишь?! Плата? Я не буду ничего платить! Я требую пропустить меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Извини… Никто не проходит без платы".</DefaultText>
+      <DefaultText>«Извини… Никто не проходит без платы».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

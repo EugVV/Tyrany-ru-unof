@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ни капли пощады клятвопреступникам!"</DefaultText>
+      <DefaultText>«Ни капли пощады клятвопреступникам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Смерть всем врагам Кайроса!"</DefaultText>
+      <DefaultText>«Смерть всем врагам Кайроса!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"За Владыку!"</DefaultText>
+      <DefaultText>«За Владыку!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

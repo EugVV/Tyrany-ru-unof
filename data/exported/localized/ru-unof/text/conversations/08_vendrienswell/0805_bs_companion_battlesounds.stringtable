@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я слышу музыку битвы. Мы не должны терять времени!"</DefaultText>
+      <DefaultText>«Я слышу музыку битвы. Мы не должны терять времени!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Слышишь? Бой уже начался".</DefaultText>
+      <DefaultText>«Слышишь? Бой уже начался».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Бой идет без нас? Вперед!"</DefaultText>
+      <DefaultText>«Бой идет без нас? Вперед!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
