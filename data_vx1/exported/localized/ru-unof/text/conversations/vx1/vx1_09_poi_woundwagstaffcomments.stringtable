@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вижу, в этих затопленных залах устроился Заклинатель Приливов".</DefaultText>
+      <DefaultText>«Вижу, в этих затопленных залах устроился Заклинатель Приливов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"У поистине тщеславных Заклинателей Приливов всегда есть симпатичные прудики… у меня был больше".</DefaultText>
+      <DefaultText>«У поистине тщеславных Заклинателей Приливов всегда есть симпатичные прудики… у меня был больше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Пахнет океаном… не как другая вода… странно, как и все тут".</DefaultText>
+      <DefaultText>«Пахнет океаном… не как другая вода… странно, как и все тут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Вода здесь звучит спокойнее, но глубоко, как море".</DefaultText>
+      <DefaultText>«Вода здесь звучит спокойнее, но глубоко, как море».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

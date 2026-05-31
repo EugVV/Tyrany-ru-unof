@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нашел что-нибудь?"</DefaultText>
+      <DefaultText>«Нашел что-нибудь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Уйти] "Мы закончили".</DefaultText>
+      <DefaultText>[Уйти] «Мы закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я забыл, что мы писали шифр задом наперед, слово-абзац-страница, а не страница-абзац-слово. Мне чудовищно неловко, прости".</DefaultText>
+      <DefaultText>«Я забыл, что мы писали шифр задом наперед, слово-абзац-страница, а не страница-абзац-слово. Мне чудовищно неловко, прости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,27 +36,27 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Нашел что-нибудь?"</DefaultText>
+      <DefaultText>«Нашел что-нибудь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Поторопись".</DefaultText>
+      <DefaultText>«Поторопись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Хм, пока я выяснил, что это отвратительно медленный способ шифровки длинных предложений. Но, обещаю, осталось уже недолго".</DefaultText>
+      <DefaultText>«Хм, пока я выяснил, что это отвратительно медленный способ шифровки длинных предложений. Но, обещаю, осталось уже недолго».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Да, конечно".</DefaultText>
+      <DefaultText>«Да, конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Прошу прощения, я, хм… нерасторопный, но милый? Я скоро закончу, честное слово!"</DefaultText>
+      <DefaultText>«Прошу прощения, я, хм… нерасторопный, но милый? Я скоро закончу, честное слово!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,74 +66,74 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Уверен, ты уже задавался вопросом, что будет раньше: я закончу работу или умру от старости. Рад сообщить, что верным оказалось первое".</DefaultText>
-      <FemaleText>"Уверен, ты уже задавалась вопросом, что будет раньше: я закончу работу или умру от старости. Рад сообщить, что верным оказалось первое".</FemaleText>
+      <DefaultText>«Уверен, ты уже задавался вопросом, что будет раньше: я закончу работу или умру от старости. Рад сообщить, что верным оказалось первое».</DefaultText>
+      <FemaleText>«Уверен, ты уже задавалась вопросом, что будет раньше: я закончу работу или умру от старости. Рад сообщить, что верным оказалось первое».</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"И что ты узнал?"</DefaultText>
+      <DefaultText>«И что ты узнал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Мое терпение на исходе".</DefaultText>
+      <DefaultText>«Мое терпение на исходе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ну, я получил ряд указаний, которые должны привести меня… в некую точку вдали от всех известных мне городов или деревень. Идеальное место, где можно что-то спрятать, я бы сказал".</DefaultText>
+      <DefaultText>«Ну, я получил ряд указаний, которые должны привести меня… в некую точку вдали от всех известных мне городов или деревень. Идеальное место, где можно что-то спрятать, я бы сказал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Погоди, погоди!"
+      <DefaultText>«Погоди, погоди!»
 
 Лантри торопливо набрасывает последние записи, затем с ликующим видом облизывает перо.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"И что же там может быть?"</DefaultText>
+      <DefaultText>«И что же там может быть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Откуда ты знаешь, что это не ловушка?"</DefaultText>
+      <DefaultText>«Откуда ты знаешь, что это не ловушка?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Так мы здесь закончили?"</DefaultText>
+      <DefaultText>«Так мы здесь закончили?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Трудно сказать. Очевидный ответ: «некая реликвия из Цитадели», но я не стал бы утверждать наверняка. В послании сказано, где, но не сказано, что и зачем".</DefaultText>
+      <DefaultText>«Трудно сказать. Очевидный ответ: „некая реликвия из Цитадели“, но я не стал бы утверждать наверняка. В послании сказано, где, но не сказано, что и зачем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Если учесть, что тут меня кто-то ждал, это не исключено. Однако в боевой ситуации мы обманчиво компетентны, так что… сами пожалеют, если вдруг что".</DefaultText>
+      <DefaultText>«Если учесть, что тут меня кто-то ждал, это не исключено. Однако в боевой ситуации мы обманчиво компетентны, так что… сами пожалеют, если вдруг что».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Да, это все. Благодарю тебя за терпение".</DefaultText>
+      <DefaultText>«Да, это все. Благодарю тебя за терпение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"В послании говорится, что нам нужно отыскать поле, где растут лаванды. Не могу назвать ближайший город или деревню, но в письме указано достаточно примет. Полагаю, я найду, где это".</DefaultText>
+      <DefaultText>«В послании говорится, что нам нужно отыскать поле, где растут лаванды. Не могу назвать ближайший город или деревню, но в письме указано достаточно примет. Полагаю, я найду, где это».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Слава Кайросу, он еще тут! Я быстро".</DefaultText>
+      <DefaultText>«Слава Кайросу, он еще тут! Я быстро».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Что это значит? Хм-м… ох, я все напутал. Попробуем еще раз, не так по-глупому".</DefaultText>
+      <DefaultText>«Что это значит? Хм-м… ох, я все напутал. Попробуем еще раз, не так по-глупому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,24 +163,24 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Лексема не могла знать, что ты окажешься в Ране… а в ее трудах нашлось послание для ТЕБЯ? Что-то тут не так".</DefaultText>
+      <DefaultText>«Лексема не могла знать, что ты окажешься в Ране… а в ее трудах нашлось послание для ТЕБЯ? Что-то тут не так».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Хм, да… мы с ней писали эти тексты много лет".
+      <DefaultText>«Хм, да… мы с ней писали эти тексты много лет».
 
 Лантри заливается краской до кончиков ушей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Я думаю, она начала составлять это послание еще до войны… а я… обнаружил его позже, чем следовало".</DefaultText>
+      <DefaultText>«Я думаю, она начала составлять это послание еще до войны… а я… обнаружил его позже, чем следовало».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Уйти] "Пора в путь".</DefaultText>
+      <DefaultText>[Уйти] «Пора в путь».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

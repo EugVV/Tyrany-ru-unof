@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Пахнет как свой, но волос нет".</DefaultText>
-      <FemaleText>"Пахнет как своя, но волос нет".</FemaleText>
+      <DefaultText>«Пахнет как свой, но волос нет».</DefaultText>
+      <FemaleText>«Пахнет как своя, но волос нет».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Почему у людей нет шерсти?"</DefaultText>
+      <DefaultText>«Почему у людей нет шерсти?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мать стаи говорит, у мелкого большие острые когти!"</DefaultText>
+      <DefaultText>«Мать стаи говорит, у мелкого большие острые когти!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ар-р-р-р! Р-р-р! Мелкий напугал человека, да?"</DefaultText>
+      <DefaultText>«Ар-р-р-р! Р-р-р! Мелкий напугал человека, да?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

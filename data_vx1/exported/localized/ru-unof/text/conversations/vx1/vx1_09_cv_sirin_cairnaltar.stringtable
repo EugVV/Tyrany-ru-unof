@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты же тоже это слышишь, да?" Сирин кладет руку на камень.</DefaultText>
+      <DefaultText>«Ты же тоже это слышишь, да?» Сирин кладет руку на камень.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мне кажется, что он оставил это для меня… как послание". Она пытается прижать ухо к камню, но лишь бьется о него своим головным убором.</DefaultText>
+      <DefaultText>«Мне кажется, что он оставил это для меня… как послание». Она пытается прижать ухо к камню, но лишь бьется о него своим головным убором.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Послание?"</DefaultText>
+      <DefaultText>«Послание?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,22 +36,22 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Он? Он — кто?"</DefaultText>
+      <DefaultText>«Он? Он — кто?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Уйти] "У нас сейчас нет на это времени".</DefaultText>
+      <DefaultText>[Уйти] «У нас сейчас нет на это времени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"В музыке есть какой-то смысл… я думаю". Она качает головой.</DefaultText>
+      <DefaultText>«В музыке есть какой-то смысл… я думаю». Она качает головой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я его не понимаю, но, быть может, глубже есть еще камни! Идем".</DefaultText>
+      <DefaultText>«Я его не понимаю, но, быть может, глубже есть еще камни! Идем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,18 +61,18 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"[url=glossary:каирн]Каирн[/url], конечно! Ты думаешь, этот волшебный камень сам собой появился?"</DefaultText>
+      <DefaultText>«[url=glossary:каирн]Каирн[/url], конечно! Ты думаешь, этот волшебный камень сам собой появился?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Все это кажется таким знакомым…" Она выпрямляется, нахмурившись.</DefaultText>
+      <DefaultText>«Все это кажется таким знакомым…» Она выпрямляется, нахмурившись.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершитель судеб. Веди вперед!"</DefaultText>
-      <FemaleText>"Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершительница судеб. Веди вперед!"</FemaleText>
+      <DefaultText>«Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершитель судеб. Веди вперед!»</DefaultText>
+      <FemaleText>«Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершительница судеб. Веди вперед!»</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>

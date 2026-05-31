@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"А они очень милые, когда не пытаются тебя убить".</DefaultText>
+      <DefaultText>«А они очень милые, когда не пытаются тебя убить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Интересно, почему эта тварь не пытается нас убить. Хотя… давайте не задерживаться, чтобы это выяснить".</DefaultText>
+      <DefaultText>«Интересно, почему эта тварь не пытается нас убить. Хотя… давайте не задерживаться, чтобы это выяснить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Она спит? Погибели ВООБЩЕ спят? Нам убить ее?"</DefaultText>
+      <DefaultText>«Она спит? Погибели ВООБЩЕ спят? Нам убить ее?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Почему… не… убить?"</DefaultText>
+      <DefaultText>«Почему… не… убить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ух ты. Красотища… Я бы предложила взять ее с собой, но даже думать не хочу, чем ее кормить придется".</DefaultText>
+      <DefaultText>«Ух ты. Красотища… Я бы предложила взять ее с собой, но даже думать не хочу, чем ее кормить придется».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Пусть тебя не обманывает ее мирный облик. Она не обращает на нас внимания только потому, что уже сожрала кого-то, кого было попроще поймать".</DefaultText>
+      <DefaultText>«Пусть тебя не обманывает ее мирный облик. Она не обращает на нас внимания только потому, что уже сожрала кого-то, кого было попроще поймать».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

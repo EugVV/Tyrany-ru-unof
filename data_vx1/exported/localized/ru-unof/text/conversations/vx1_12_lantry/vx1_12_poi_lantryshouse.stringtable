@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ох, проклятая забывчивость… Я ведь собирался сделать чернила из этих листьев".</DefaultText>
+      <DefaultText>«Ох, проклятая забывчивость… Я ведь собирался сделать чернила из этих листьев».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Уверяю тебя, все вещи у меня здесь лежат по продуманной системе".</DefaultText>
+      <DefaultText>«Уверяю тебя, все вещи у меня здесь лежат по продуманной системе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Из-за этого стола так удобно наблюдать за птицами! Когда станешь постарше, ты тоже начнешь ценить скучные вещи".</DefaultText>
+      <DefaultText>«Из-за этого стола так удобно наблюдать за птицами! Когда станешь постарше, ты тоже начнешь ценить скучные вещи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Добро пожаловать! Прошу простить меня за беспорядок".</DefaultText>
+      <DefaultText>«Добро пожаловать! Прошу простить меня за беспорядок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Если тебе что-то понравится или может пригодиться, то бери, не стесняйся".</DefaultText>
+      <DefaultText>«Если тебе что-то понравится или может пригодиться, то бери, не стесняйся».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

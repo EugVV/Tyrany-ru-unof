@@ -11,42 +11,42 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Да?"</DefaultText>
+      <DefaultText>«Да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Да будь оно все неладно. Как насчет того, чтобы сегодня вечером уединиться в темноте? Если хочешь, конечно". Ее разноцветные глаза впиваются вам в лицо.</DefaultText>
+      <DefaultText>«Да будь оно все неладно. Как насчет того, чтобы сегодня вечером уединиться в темноте? Если хочешь, конечно». Ее разноцветные глаза впиваются вам в лицо.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"У меня кровь на лице, да?"</DefaultText>
+      <DefaultText>«У меня кровь на лице, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Немножко, раз уж ты спрашиваешь. Но я не о том думала".</DefaultText>
+      <DefaultText>«Немножко, раз уж ты спрашиваешь. Но я не о том думала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Почему мне кажется, что ты обдумываешь способ моего убийства?"</DefaultText>
+      <DefaultText>«Почему мне кажется, что ты обдумываешь способ моего убийства?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ха! Все варианты я прикинула еще сто лет назад".</DefaultText>
+      <DefaultText>«Ха! Все варианты я прикинула еще сто лет назад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"На своих сестер ты тоже так смотрела?"</DefaultText>
+      <DefaultText>«На своих сестер ты тоже так смотрела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Только на Шепот, и то редко".</DefaultText>
+      <DefaultText>«Только на Шепот, и то редко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,47 +56,47 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"В темноте?"</DefaultText>
+      <DefaultText>«В темноте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Тебе что, по буквам объяснять? П-О-Т-Р-А-Х-А-ТЬ-С-Я". У нее хищная и одновременно голодная улыбка.</DefaultText>
+      <DefaultText>«Тебе что, по буквам объяснять? П-О-Т-Р-А-Х-А-ТЬ-С-Я». У нее хищная и одновременно голодная улыбка.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"А, значит, хоть одно слово ты знаешь по буквам".</DefaultText>
+      <DefaultText>«А, значит, хоть одно слово ты знаешь по буквам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Я несколько знаю! Самых важных". Уголки рта растягиваются в усмешке, она шевелит пальцами.</DefaultText>
+      <DefaultText>«Я несколько знаю! Самых важных». Уголки рта растягиваются в усмешке, она шевелит пальцами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Я даже написать могу, если дашь мне минутку… эти руки кое-что умеют".</DefaultText>
+      <DefaultText>«Я даже написать могу, если дашь мне минутку… эти руки кое-что умеют».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Я по-прежнему не совсем понимаю, о чем ты просишь".</DefaultText>
+      <DefaultText>«Я по-прежнему не совсем понимаю, о чем ты просишь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Да ну, Вершитель!" Ее раздраженный вздох переходит в хриплый гортанный стон.</DefaultText>
-      <FemaleText>"Да ну, Вершительница!" Ее раздраженный вздох переходит в хриплый гортанный стон.</FemaleText>
+      <DefaultText>«Да ну, Вершитель!» Ее раздраженный вздох переходит в хриплый гортанный стон.</DefaultText>
+      <FemaleText>«Да ну, Вершительница!» Ее раздраженный вздох переходит в хриплый гортанный стон.</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Не больно-то и хотелось!" Она поворачивается, чтобы уйти.</DefaultText>
+      <DefaultText>«Не больно-то и хотелось!» Она поворачивается, чтобы уйти.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Фуга, постой".</DefaultText>
+      <DefaultText>«Фуга, постой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Не откажусь".</DefaultText>
+      <DefaultText>«Не откажусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,92 +126,92 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Шепчущие теплые губы почти касаются вашего уха. "Ну-ка посмотрим, как нам это уединение, которое я нам выгрызла…"</DefaultText>
+      <DefaultText>Шепчущие теплые губы почти касаются вашего уха. «Ну-ка посмотрим, как нам это уединение, которое я нам выгрызла…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Лучше «или как». Давай останемся друзьями".</DefaultText>
+      <DefaultText>«Лучше „или как“. Давай останемся друзьями».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Никаких обид, все в порядке. Чисто по-дружески, чисто профессионально". На губах мелькает тень намека на улыбку.</DefaultText>
+      <DefaultText>«Никаких обид, все в порядке. Чисто по-дружески, чисто профессионально». На губах мелькает тень намека на улыбку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Доброй ночи, Вершитель судеб".</DefaultText>
-      <FemaleText>"Доброй ночи, Вершительница судеб".</FemaleText>
+      <DefaultText>«Доброй ночи, Вершитель судеб».</DefaultText>
+      <FemaleText>«Доброй ночи, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Извини".</DefaultText>
+      <DefaultText>«Извини».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Извинила. Так ты за или как?"</DefaultText>
+      <DefaultText>«Извинила. Так ты за или как?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Серьезно, я хочу понять, зачем тебе это".</DefaultText>
+      <DefaultText>«Серьезно, я хочу понять, зачем тебе это».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Немного веселой возни в темноте. Потрахушки в Зале Вознесения. Называй, как хочешь. Не напрягайся".</DefaultText>
+      <DefaultText>«Немного веселой возни в темноте. Потрахушки в Зале Вознесения. Называй, как хочешь. Не напрягайся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"А дальше?"</DefaultText>
+      <DefaultText>«А дальше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Твою ж мать. Дальше, может, мы сдохнем. Дальше, может, [url=glossary:кайрос]Кайрос[/url] утопит Ярусы в море. Не вижу смысла париться о будущем, не с нашей жизнью".</DefaultText>
+      <DefaultText>«Твою ж мать. Дальше, может, мы сдохнем. Дальше, может, [url=glossary:кайрос]Кайрос[/url] утопит Ярусы в море. Не вижу смысла париться о будущем, не с нашей жизнью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Мне этого недостаточно".</DefaultText>
+      <DefaultText>«Мне этого недостаточно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Я уже поняла. Но мне нечего больше дать". Она сжимает побледневшие губы.</DefaultText>
+      <DefaultText>«Я уже поняла. Но мне нечего больше дать». Она сжимает побледневшие губы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Хм".</DefaultText>
+      <DefaultText>«Хм».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Хм?"</DefaultText>
+      <DefaultText>«Хм?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Просто… я такого не ожидала". Она быстро моргает.</DefaultText>
+      <DefaultText>«Просто… я такого не ожидала». Она быстро моргает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"То есть я не жалуюсь! Просто. Ну, ты понял. Хм". Она расплывается в улыбке.</DefaultText>
-      <FemaleText>"То есть я не жалуюсь! Просто. Ну, ты поняла. Хм". Она расплывается в улыбке.</FemaleText>
+      <DefaultText>«То есть я не жалуюсь! Просто. Ну, ты понял. Хм». Она расплывается в улыбке.</DefaultText>
+      <FemaleText>«То есть я не жалуюсь! Просто. Ну, ты поняла. Хм». Она расплывается в улыбке.</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Если повезет меня еще как-нибудь зацепить в хорошем настроении — можем повторить".</DefaultText>
+      <DefaultText>«Если повезет меня еще как-нибудь зацепить в хорошем настроении — можем повторить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Да, будет хорошо".</DefaultText>
+      <DefaultText>«Да, будет хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,27 +221,27 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Договорились. Ну что, пошли разгребать дерьмо?"</DefaultText>
+      <DefaultText>«Договорились. Ну что, пошли разгребать дерьмо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Это было разовое развлечение".</DefaultText>
+      <DefaultText>«Это было разовое развлечение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ясно. Веди, неутомимый лидер. Давненько мы никого под ребро не пыряли…"</DefaultText>
+      <DefaultText>«Ясно. Веди, неутомимый лидер. Давненько мы никого под ребро не пыряли…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ага…"</DefaultText>
+      <DefaultText>«Ага…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Что, понравилось?"</DefaultText>
+      <DefaultText>«Что, понравилось?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,12 +306,12 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"НУ И ПОЖАЛУЙСТА". Прошипев это, она беззвучно поднимается на ноги и уходит прочь, а вы вновь погружаетесь в сладостные объятия сна.</DefaultText>
+      <DefaultText>«НУ И ПОЖАЛУЙСТА». Прошипев это, она беззвучно поднимается на ноги и уходит прочь, а вы вновь погружаетесь в сладостные объятия сна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Я хотела отвести тебя подальше от лагеря".</DefaultText>
+      <DefaultText>«Я хотела отвести тебя подальше от лагеря».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,42 +366,42 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Твой призыв к молчанию заставил меня понервничать".</DefaultText>
+      <DefaultText>«Твой призыв к молчанию заставил меня понервничать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Угу. Я же терпеть не могу торчать в лагере, когда пытаюсь поспать".</DefaultText>
+      <DefaultText>«Угу. Я же терпеть не могу торчать в лагере, когда пытаюсь поспать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ты наконец объяснишь что-нибудь?"</DefaultText>
+      <DefaultText>«Ты наконец объяснишь что-нибудь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Теперь можно говорить?"</DefaultText>
+      <DefaultText>«Теперь можно говорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Извиняюсь, старшой. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно — каждый первый".</DefaultText>
-      <FemaleText>"Извиняюсь, командирша. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно — каждый первый".</FemaleText>
+      <DefaultText>«Извиняюсь, старшой. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно — каждый первый».</DefaultText>
+      <FemaleText>«Извиняюсь, командирша. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно — каждый первый».</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Она хмыкает. "Так тоже бывает. Мы оба это знаем".</DefaultText>
+      <DefaultText>Она хмыкает. «Так тоже бывает. Мы оба это знаем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Возможно. Если будешь хорошо себя вести".</DefaultText>
+      <DefaultText>«Возможно. Если будешь хорошо себя вести».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Если очень хочется".</DefaultText>
+      <DefaultText>«Если очень хочется».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Я за".</DefaultText>
+      <DefaultText>«Я за».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

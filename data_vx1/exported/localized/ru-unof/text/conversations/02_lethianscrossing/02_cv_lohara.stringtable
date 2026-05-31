@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Яспос просил меня привезти ему инструменты для работы с камнем".</DefaultText>
+      <DefaultText>«Яспос просил меня привезти ему инструменты для работы с камнем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Я хочу поговорить о Барике".</DefaultText>
+      <DefaultText>«Я хочу поговорить о Барике».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Не стоит ли тебе лучше заняться проблемой с Братством?"</DefaultText>
+      <DefaultText>«Не стоит ли тебе лучше заняться проблемой с Братством?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

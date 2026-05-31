@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не охочусь на человека… пока что…"</DefaultText>
+      <DefaultText>«Не охочусь на человека… пока что…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Стая хочет обратно, на берег волн. Хочет мокрую охоту".</DefaultText>
+      <DefaultText>«Стая хочет обратно, на берег волн. Хочет мокрую охоту».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Человек, не оставайся в пещере долго".</DefaultText>
+      <DefaultText>«Человек, не оставайся в пещере долго».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Старый человек… СЪЕЛ светлогриб?"</DefaultText>
+      <DefaultText>«Старый человек… СЪЕЛ светлогриб?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

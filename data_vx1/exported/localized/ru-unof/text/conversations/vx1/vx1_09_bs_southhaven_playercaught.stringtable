@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Вершитель судеб, комендантский час введен для всех без исключения".</DefaultText>
-      <FemaleText>"Вершительница судеб, комендантский час введен для всех без исключения".</FemaleText>
+      <DefaultText>«Вершитель судеб, комендантский час введен для всех без исключения».</DefaultText>
+      <FemaleText>«Вершительница судеб, комендантский час введен для всех без исключения».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Сейчас комендантский час. Идите домой".</DefaultText>
+      <DefaultText>«Сейчас комендантский час. Идите домой».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

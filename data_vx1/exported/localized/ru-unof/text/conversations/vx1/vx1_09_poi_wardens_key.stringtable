@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я думаю, тут [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] уже должен действовать. Попробуй".</DefaultText>
+      <DefaultText>«Я думаю, тут [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] уже должен действовать. Попробуй».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"[url=glossary:ключ надзирателя]Ключ Надзирателя[/url] должен действовать на расстоянии. Попробуй".</DefaultText>
+      <DefaultText>«[url=glossary:ключ надзирателя]Ключ Надзирателя[/url] должен действовать на расстоянии. Попробуй».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Вряд ли ключ-камень будет работать с такого расстояния, Вершитель".</DefaultText>
-      <FemaleText>"Вряд ли ключ-камень будет работать с такого расстояния, Вершительница".</FemaleText>
+      <DefaultText>«Вряд ли ключ-камень будет работать с такого расстояния, Вершитель».</DefaultText>
+      <FemaleText>«Вряд ли ключ-камень будет работать с такого расстояния, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Эта штука, [url=glossary:ключ надзирателя]Ключ Надзирателя[/url], наверняка тут уже действует".</DefaultText>
+      <DefaultText>«Эта штука, [url=glossary:ключ надзирателя]Ключ Надзирателя[/url], наверняка тут уже действует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Пора посмотреть, действительно ли [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] работает так, как нам рассказывали. Хочешь пари?"</DefaultText>
+      <DefaultText>«Пора посмотреть, действительно ли [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] работает так, как нам рассказывали. Хочешь пари?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Если этот так называемый [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] и вправду работает с расстояния… интересно, что еще он может открыть?"</DefaultText>
+      <DefaultText>«Если этот так называемый [url=glossary:ключ надзирателя]Ключ Надзирателя[/url] и вправду работает с расстояния… интересно, что еще он может открыть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

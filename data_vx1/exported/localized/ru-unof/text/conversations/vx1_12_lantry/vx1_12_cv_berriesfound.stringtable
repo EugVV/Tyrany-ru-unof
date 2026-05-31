@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Да славится [url=glossary:кайрос]Кайрос[/url]! Нашли!"</DefaultText>
+      <DefaultText>«Да славится [url=glossary:кайрос]Кайрос[/url]! Нашли!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне казалось, мы ищем еще один тайник с Хроникой".</DefaultText>
+      <DefaultText>«Мне казалось, мы ищем еще один тайник с Хроникой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Погоди… Так вот что ты искал?"</DefaultText>
+      <DefaultText>«Погоди… Так вот что ты искал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ты заставил меня проделать весь этот путь ради каких-то новых мозгодробительных чернил?"</DefaultText>
+      <DefaultText>«Ты заставил меня проделать весь этот путь ради каких-то новых мозгодробительных чернил?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я не знаю, что ты задумал, но давай быстрее".</DefaultText>
+      <DefaultText>«Я не знаю, что ты задумал, но давай быстрее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Не помню, чтобы я такое говорил, но… можно понять, почему ты так думаешь".</DefaultText>
+      <DefaultText>«Не помню, чтобы я такое говорил, но… можно понять, почему ты так думаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,22 +46,22 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Мне понадобится всего пара минут — и это не как в прошлый раз, когда пара минут растянулась на полдня. Если я правильно понимаю, ягодам нужно немного алкоголя, и тогда они всасываются в кожу и вызывают…"</DefaultText>
+      <DefaultText>«Мне понадобится всего пара минут — и это не как в прошлый раз, когда пара минут растянулась на полдня. Если я правильно понимаю, ягодам нужно немного алкоголя, и тогда они всасываются в кожу и вызывают…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"И что будет?"</DefaultText>
+      <DefaultText>«И что будет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ты собираешься делиться, или тебе приказать?"</DefaultText>
+      <DefaultText>«Ты собираешься делиться, или тебе приказать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Уйти] "У нас сейчас нет на это времени".</DefaultText>
+      <DefaultText>[Уйти] «У нас сейчас нет на это времени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Да".</DefaultText>
+      <DefaultText>«Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

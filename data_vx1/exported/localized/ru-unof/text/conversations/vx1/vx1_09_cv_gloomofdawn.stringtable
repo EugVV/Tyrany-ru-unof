@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Извиняюсь. Не хотел плохо, извиняться ни за что".</DefaultText>
+      <DefaultText>«Извиняюсь. Не хотел плохо, извиняться ни за что».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,42 +21,42 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Уважение покажи, щенок!" Смерть-из-Тени наседает на зверолюда.</DefaultText>
+      <DefaultText>«Уважение покажи, щенок!» Смерть-из-Тени наседает на зверолюда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Этот зверолюд не припал к земле, когда нас увидел. Смерть-из-Тени научит, как надо себя вести".</DefaultText>
+      <DefaultText>«Этот зверолюд не припал к земле, когда нас увидел. Смерть-из-Тени научит, как надо себя вести».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Оставь в покое?! Но… ладно. Один раз послушаю".</DefaultText>
+      <DefaultText>«Оставь в покое?! Но… ладно. Один раз послушаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Сопливому надо вбить мозги на место". Смерть-из-Тени соединяет кулаки и убирает когти, чтобы отвесить зверолюду мощную оплеуху.</DefaultText>
+      <DefaultText>«Сопливому надо вбить мозги на место». Смерть-из-Тени соединяет кулаки и убирает когти, чтобы отвесить зверолюду мощную оплеуху.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"В чем проблема?"</DefaultText>
+      <DefaultText>«В чем проблема?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Оставь его в покое".</DefaultText>
+      <DefaultText>«Оставь его в покое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Покажи этому зверю, кто тут главный".</DefaultText>
+      <DefaultText>«Покажи этому зверю, кто тут главный».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ходи осторожно. Не буду спасать человека, если упадет в воду".</DefaultText>
+      <DefaultText>«Ходи осторожно. Не буду спасать человека, если упадет в воду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Не смотри Смерти-из-Тени в глаза! Поклонись! Покажи уважение! Или слизняка надо проучить?"</DefaultText>
+      <DefaultText>«Не смотри Смерти-из-Тени в глаза! Поклонись! Покажи уважение! Или слизняка надо проучить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"На глупости нет времени. Уходи".</DefaultText>
+      <DefaultText>«На глупости нет времени. Уходи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Хватит!" Зверолюд быстро уступает, с мольбой протягивает лапы и склоняется перед Смертью-из-Тени. "Сила меньше твоей, вызова нет!"</DefaultText>
+      <DefaultText>«Хватит!» Зверолюд быстро уступает, с мольбой протягивает лапы и склоняется перед Смертью-из-Тени. «Сила меньше твоей, вызова нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Приветствую, Вершитель судеб. Мы тут славные люди. Все любим Владыку".</DefaultText>
-      <FemaleText>"Приветствую, Вершительница судеб. Мы тут славные люди. Все любим Владыку".</FemaleText>
+      <DefaultText>«Приветствую, Вершитель судеб. Мы тут славные люди. Все любим Владыку».</DefaultText>
+      <FemaleText>«Приветствую, Вершительница судеб. Мы тут славные люди. Все любим Владыку».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Добро пожаловать в Южную Гавань".</DefaultText>
+      <DefaultText>«Добро пожаловать в Южную Гавань».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Лично я считаю, Скованным Горном не следует никуда уходить!"</DefaultText>
+      <DefaultText>«Лично я считаю, Скованным Горном не следует никуда уходить!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Говорят, ты наверху Шпиля был. А оттуда Кайроса видно?"</DefaultText>
-      <FemaleText>"Говорят, ты наверху Шпиля была. А оттуда Кайроса видно?"</FemaleText>
+      <DefaultText>«Говорят, ты наверху Шпиля был. А оттуда Кайроса видно?»</DefaultText>
+      <FemaleText>«Говорят, ты наверху Шпиля была. А оттуда Кайроса видно?»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -21,14 +21,14 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Обычай?"</DefaultText>
+      <DefaultText>«Обычай?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Человек не шевелится до тех пор, пока вы почти не поравняетесь с ним. Лишь тогда его взгляд устремляется на вас, пустые глаза медленно фокусируются.
 
-"А-а…" Он тянет этот звук так долго, насколько позволяет воздух в легких. "Обычай".</DefaultText>
+«А-а…» Он тянет этот звук так долго, насколько позволяет воздух в легких. «Обычай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Кто ты?"</DefaultText>
+      <DefaultText>«Кто ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,102 +50,102 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я…" Он хмурится, замолкает. Потом, после паузы, вновь открывает рот. "Каролек. Я Каролек. Торговец дивными, экзотическими товарами. Ты еще не знаешь, что оно тебе нужно, а у меня это уже есть. Все по… ценам. Неразумным". Он быстро смаргивает. "Неразумно низким, хотел я сказать".</DefaultText>
+      <DefaultText>«Я…» Он хмурится, замолкает. Потом, после паузы, вновь открывает рот. «Каролек. Я Каролек. Торговец дивными, экзотическими товарами. Ты еще не знаешь, что оно тебе нужно, а у меня это уже есть. Все по… ценам. Неразумным». Он быстро смаргивает. «Неразумно низким, хотел я сказать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Давай посмотрим".</DefaultText>
+      <DefaultText>«Давай посмотрим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Экзотические товары?"</DefaultText>
+      <DefaultText>«Экзотические товары?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Уйти] "Нет, спасибо".</DefaultText>
+      <DefaultText>[Уйти] «Нет, спасибо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Разумный выбор!" Он мелко, по-птичьи кивает. "Разумный, разумный выбор!"</DefaultText>
+      <DefaultText>«Разумный выбор!» Он мелко, по-птичьи кивает. «Разумный, разумный выбор!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Да! Экзотические!"</DefaultText>
+      <DefaultText>«Да! Экзотические!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"И хорошо. Приходи еще…" Он вновь впадает в оцепенение.</DefaultText>
+      <DefaultText>«И хорошо. Приходи еще…» Он вновь впадает в оцепенение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Что это значит?"</DefaultText>
+      <DefaultText>«Что это значит?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Вода".</DefaultText>
+      <DefaultText>«Вода».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"…Вода?"</DefaultText>
+      <DefaultText>«…Вода?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Старая вода". Он вздрагивает, взгляд фокусируется. Внезапно слова начинают сыпаться, как горох. "И Сущность погибели. Вроде ничего особенного, если не считать свечения, но спальню очень украшает! Древние самоцветы, камни, которым столько лет…" Внимание вновь рассредоточивается. "…столько лет…"</DefaultText>
+      <DefaultText>«Старая вода». Он вздрагивает, взгляд фокусируется. Внезапно слова начинают сыпаться, как горох. «И Сущность погибели. Вроде ничего особенного, если не считать свечения, но спальню очень украшает! Древние самоцветы, камни, которым столько лет…» Внимание вновь рассредоточивается. «…столько лет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ты был в Старых Стенах? Ты разве не знаешь, что это запрещено?"</DefaultText>
+      <DefaultText>«Ты был в Старых Стенах? Ты разве не знаешь, что это запрещено?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ты Бессонный?"</DefaultText>
+      <DefaultText>«Ты Бессонный?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"М-м? Нет?" Кажется, он сам в этом не уверен.</DefaultText>
+      <DefaultText>«М-м? Нет?» Кажется, он сам в этом не уверен.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Бессонный?" Лоб идет морщинами. "Я без сна". Он резко кивает. "В смысле, почти. Много дел в дороге всегда. Едешь куда-то, опасности всякие, особенно в такие времена, как…" Он хмурится. "…времена".</DefaultText>
+      <DefaultText>«Бессонный?» Лоб идет морщинами. «Я без сна». Он резко кивает. «В смысле, почти. Много дел в дороге всегда. Едешь куда-то, опасности всякие, особенно в такие времена, как…» Он хмурится. «…времена».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Я не стану тебя убивать, но постарайся не привлекать столько внимания".</DefaultText>
+      <DefaultText>«Я не стану тебя убивать, но постарайся не привлекать столько внимания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Тебе нужно вернуться в Рану".</DefaultText>
+      <DefaultText>«Тебе нужно вернуться в Рану».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Убить его.] "Ты нарушил закон и проник в Старые Стены. Сим ты будешь покаран".</DefaultText>
+      <DefaultText>[Убить его.] «Ты нарушил закон и проник в Старые Стены. Сим ты будешь покаран».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Да. Внимания". Он рассеянно кивает.</DefaultText>
+      <DefaultText>«Да. Внимания». Он рассеянно кивает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Хорошо. Хорошо. Только… надо сперва продать".</DefaultText>
+      <DefaultText>«Хорошо. Хорошо. Только… надо сперва продать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@
       <ID>30</ID>
       <DefaultText>Впереди вы видите Каролека, торговца из Раны Бастарда. Он стоит посреди дороги с озадаченным видом. Когда вы подходите ближе, он поворачивается в вашу сторону, но смотрит словно бы сквозь вас.
 
-"Торговать? Товары?"</DefaultText>
+«Торговать? Товары?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
