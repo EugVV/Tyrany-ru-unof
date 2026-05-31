@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Избранный! В этом сражении моя сила – твоя".</DefaultText>
-      <FemaleText>"Избранная! В этом сражении моя сила – твоя".</FemaleText>
+      <DefaultText>"Избранный! В этом сражении моя сила — твоя".</DefaultText>
+      <FemaleText>"Избранная! В этом сражении моя сила — твоя".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

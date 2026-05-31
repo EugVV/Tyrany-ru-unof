@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Говорят, Эвариста – на все руки мастерица, и что-то мне рискнуть захотелось".</DefaultText>
+      <DefaultText>"Говорят, Эвариста — на все руки мастерица, и что-то мне рискнуть захотелось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Лапуля, если уверенности не хватает – тогда это точно не для тебя…"</DefaultText>
+      <DefaultText>"Лапуля, если уверенности не хватает — тогда это точно не для тебя…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

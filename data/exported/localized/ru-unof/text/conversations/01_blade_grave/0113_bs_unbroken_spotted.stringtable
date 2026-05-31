@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вершитель, ты глянь – там, на стене. Мы не одни".</DefaultText>
-      <FemaleText>"Вершительница, ты глянь – там, на стене. Мы не одни".</FemaleText>
+      <DefaultText>"Вершитель, ты глянь — там, на стене. Мы не одни".</DefaultText>
+      <FemaleText>"Вершительница, ты глянь — там, на стене. Мы не одни".</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Хищник следит за альфой оттуда – с насеста на вершине стены".</DefaultText>
+      <DefaultText>"Хищник следит за альфой оттуда — с насеста на вершине стены".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

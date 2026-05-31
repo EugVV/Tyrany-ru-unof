@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Кто бы мог в такое поверить – зверолюдка мной командует!"</DefaultText>
+      <DefaultText>"Кто бы мог в такое поверить — зверолюдка мной командует!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Вот не знаю, долго ли Рана протянет – с такими-то делами".</DefaultText>
+      <DefaultText>"Вот не знаю, долго ли Рана протянет — с такими-то делами".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Вот не знаю, долго ли Рана протянет – с такими-то делами".</DefaultText>
+      <DefaultText>"Вот не знаю, долго ли Рана протянет — с такими-то делами".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

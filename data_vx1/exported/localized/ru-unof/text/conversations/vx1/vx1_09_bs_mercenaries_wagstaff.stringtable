@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Все, что зверолюды не добьют, – Махальник прогонит".</DefaultText>
+      <DefaultText>"Все, что зверолюды не добьют, — Махальник прогонит".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Отличный выбор, Вершитель судеб. Теперь мы построим в Ране жизнь – всем на зависть".</DefaultText>
-      <FemaleText>"Отличный выбор, Вершительница судеб. Теперь мы построим в Ране жизнь – всем на зависть".</FemaleText>
+      <DefaultText>"Отличный выбор, Вершитель судеб. Теперь мы построим в Ране жизнь — всем на зависть".</DefaultText>
+      <FemaleText>"Отличный выбор, Вершительница судеб. Теперь мы построим в Ране жизнь — всем на зависть".</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"На вид, конечно, это место не ахти – но тут лучше, чем наемником быть".</DefaultText>
+      <DefaultText>"На вид, конечно, это место не ахти — но тут лучше, чем наемником быть".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Видишь, сколько тут воды? Подумай об этом – и не зли Заклинателя Приливов".</DefaultText>
+      <DefaultText>"Видишь, сколько тут воды? Подумай об этом — и не зли Заклинателя Приливов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Яспоса главным сделали – все, хана нам теперь".</DefaultText>
+      <DefaultText>"Яспоса главным сделали — все, хана нам теперь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

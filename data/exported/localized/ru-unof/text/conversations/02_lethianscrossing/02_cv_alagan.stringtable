@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Я сам видел трупы. Это были Певчие Крови из Алого Хора – и прикончили их [url=glossary:опальные]Опальные[/url]".</DefaultText>
+      <DefaultText>"Я сам видел трупы. Это были Певчие Крови из Алого Хора — и прикончили их [url=glossary:опальные]Опальные[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Не желаешь ли взглянуть на мои товары? Для Архонта – только самое лучшее".</DefaultText>
+      <DefaultText>"Не желаешь ли взглянуть на мои товары? Для Архонта — только самое лучшее".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

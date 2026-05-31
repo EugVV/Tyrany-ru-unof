@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Вы получили Лазурный Щит – хоть и пришлось пролить немало крови.</DefaultText>
+      <DefaultText>Вы получили Лазурный Щит — хоть и пришлось пролить немало крови.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я уже тут, мне тепло, выпивка есть. Думаю, напиться – это самое то, что надо".</DefaultText>
+      <DefaultText>"Я уже тут, мне тепло, выпивка есть. Думаю, напиться — это самое то, что надо".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Никак не могу решить: все-таки сделать это – или пойти прибить кого-нибудь".</DefaultText>
+      <DefaultText>"Никак не могу решить: все-таки сделать это — или пойти прибить кого-нибудь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Когда не знаешь, какой новый [url=glossary:эдикт]Эдикт[/url] на голову свалится, самое лучшее – напиться и сидеть как можно тише".</DefaultText>
+      <DefaultText>"Когда не знаешь, какой новый [url=glossary:эдикт]Эдикт[/url] на голову свалится, самое лучшее — напиться и сидеть как можно тише".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Эти фрески – не человеческих рук дело. Вот и все, что я могу тебе о них рассказать".</DefaultText>
+      <DefaultText>"Эти фрески — не человеческих рук дело. Вот и все, что я могу тебе о них рассказать".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

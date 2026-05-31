@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Осмиос – справедливый командир".</DefaultText>
+      <DefaultText>"Осмиос — справедливый командир".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Осмиос – лучший из всех командиров, которые у меня были".</DefaultText>
+      <DefaultText>"Осмиос — лучший из всех командиров, которые у меня были".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Сумеречный Бастион – не лучшая крепость этой страны, но она принадлежит нам по праву".</DefaultText>
+      <DefaultText>"Сумеречный Бастион — не лучшая крепость этой страны, но она принадлежит нам по праву".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

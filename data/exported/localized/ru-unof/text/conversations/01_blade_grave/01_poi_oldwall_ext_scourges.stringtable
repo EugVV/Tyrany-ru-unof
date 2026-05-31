@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"На нас нападают бичеватели – не недооценивай их!"</DefaultText>
+      <DefaultText>"На нас нападают бичеватели — не недооценивай их!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Готовьтесь – к нам приближаются бичеватели".</DefaultText>
+      <DefaultText>"Готовьтесь — к нам приближаются бичеватели".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

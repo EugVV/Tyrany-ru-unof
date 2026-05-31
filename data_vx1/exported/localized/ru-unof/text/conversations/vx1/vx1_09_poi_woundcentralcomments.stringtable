@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ну, у них есть вода, немного солнечного света… жаль, что соседи – летающие чудовища".</DefaultText>
+      <DefaultText>"Ну, у них есть вода, немного солнечного света… жаль, что соседи — летающие чудовища".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эти самоселы – трусы без стыда и совести. Мне противно о них даже думать".</DefaultText>
+      <DefaultText>"Эти самоселы — трусы без стыда и совести. Мне противно о них даже думать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

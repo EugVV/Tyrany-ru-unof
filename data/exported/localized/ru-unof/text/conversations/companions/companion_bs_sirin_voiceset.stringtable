@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"Это план такой – стоять здесь?"</DefaultText>
+      <DefaultText>"Это план такой — стоять здесь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>"Если мы сейчас же не передохнем – я умру!"</DefaultText>
+      <DefaultText>"Если мы сейчас же не передохнем — я умру!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

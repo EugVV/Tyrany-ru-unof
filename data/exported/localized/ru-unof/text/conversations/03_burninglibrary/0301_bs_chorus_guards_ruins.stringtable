@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Игра – штука опасная. Лучше подожди снаружи".</DefaultText>
+      <DefaultText>"Игра — штука опасная. Лучше подожди снаружи".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Книгочеи – твари хитрые. Никогда не задерживаются надолго на одном месте".</DefaultText>
+      <DefaultText>"Книгочеи — твари хитрые. Никогда не задерживаются надолго на одном месте".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

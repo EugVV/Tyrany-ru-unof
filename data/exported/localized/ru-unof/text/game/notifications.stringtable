@@ -261,22 +261,22 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{0} – получена клятва на верность!</DefaultText>
+      <DefaultText>{0} — получена клятва на верность!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} – получено признание вашей власти!</DefaultText>
+      <DefaultText>{0} — получено признание вашей власти!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} – победа за вами!</DefaultText>
+      <DefaultText>{0} — победа за вами!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{0} – получена клятва на верность!</DefaultText>
+      <DefaultText>{0} — получена клятва на верность!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>{0} ({1}) – {2}</DefaultText>
+      <DefaultText>{0} ({1}) — {2}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

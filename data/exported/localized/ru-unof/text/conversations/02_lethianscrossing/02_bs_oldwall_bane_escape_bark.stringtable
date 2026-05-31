@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Чья это была идея – полезть сюда? От Старых Стен добра не жди, это всем известно".</DefaultText>
+      <DefaultText>"Чья это была идея — полезть сюда? От Старых Стен добра не жди, это всем известно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Осторожно – ловушки не удержались! Нам нужно уничтожить этих погибелей!"</DefaultText>
+      <DefaultText>"Осторожно — ловушки не удержались! Нам нужно уничтожить этих погибелей!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

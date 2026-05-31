@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"В конце концов, самое главное – это Безмолвный Архив".</DefaultText>
+      <DefaultText>"В конце концов, самое главное — это Безмолвный Архив".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Все знания, что мы найдем здесь – к твоим услугам. Это самое малое, что мы можем сделать".</DefaultText>
+      <DefaultText>"Все знания, что мы найдем здесь — к твоим услугам. Это самое малое, что мы можем сделать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Нам еще многое предстоит узнать из Архива – и все это благодаря тебе".</DefaultText>
+      <DefaultText>"Нам еще многое предстоит узнать из Архива — и все это благодаря тебе".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Невежество и страх – вот инструменты завоевателей. Пока правит [url=glossary:кайрос]Кайрос[/url], ни одна библиотека не будет в безопасности".</DefaultText>
+      <DefaultText>"Невежество и страх — вот инструменты завоевателей. Пока правит [url=glossary:кайрос]Кайрос[/url], ни одна библиотека не будет в безопасности".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

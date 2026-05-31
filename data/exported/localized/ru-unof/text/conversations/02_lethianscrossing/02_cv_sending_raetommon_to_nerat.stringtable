@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Его ждет Нерат – доставьте его туда целым и невредимым".</DefaultText>
+      <DefaultText>"Его ждет Нерат — доставьте его туда целым и невредимым".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Его ждет Нерат. Если понадобится его покалечить, не стесняйтесь. Главное – доставьте его живым".</DefaultText>
+      <DefaultText>"Его ждет Нерат. Если понадобится его покалечить, не стесняйтесь. Главное — доставьте его живым".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

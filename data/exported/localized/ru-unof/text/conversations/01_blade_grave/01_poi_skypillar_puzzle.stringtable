@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ступай осторожно – сразу видно, что это ловушка".</DefaultText>
+      <DefaultText>"Ступай осторожно — сразу видно, что это ловушка".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Внимательно изучайте символы – мне они непонятны, но я всегда могу распознать магию!"</DefaultText>
+      <DefaultText>"Внимательно изучайте символы — мне они непонятны, но я всегда могу распознать магию!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Земля дрожит и светится – смотрит глазами мистика. Смотрит и не моргает".</DefaultText>
+      <DefaultText>"Земля дрожит и светится — смотрит глазами мистика. Смотрит и не моргает".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

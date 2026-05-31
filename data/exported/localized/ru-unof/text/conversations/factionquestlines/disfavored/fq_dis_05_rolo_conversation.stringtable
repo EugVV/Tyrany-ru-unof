@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Вот что я тебе скажу – выложи 1000 колец, и мы уйдем. Что ты об этом думаешь?"</DefaultText>
+      <DefaultText>"Вот что я тебе скажу — выложи 1000 колец, и мы уйдем. Что ты об этом думаешь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Я принес твои кольца. Я заплачу – ты уйдешь".</DefaultText>
-      <FemaleText>"Я принесла твои кольца. Я заплачу – ты уйдешь".</FemaleText>
+      <DefaultText>"Я принес твои кольца. Я заплачу — ты уйдешь".</DefaultText>
+      <FemaleText>"Я принесла твои кольца. Я заплачу — ты уйдешь".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
