@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не охочусь на человека... пока что..."</DefaultText>
+      <DefaultText>"Не охочусь на человека… пока что…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Старый человек... СЪЕЛ светлогриб?"</DefaultText>
+      <DefaultText>"Старый человек… СЪЕЛ светлогриб?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

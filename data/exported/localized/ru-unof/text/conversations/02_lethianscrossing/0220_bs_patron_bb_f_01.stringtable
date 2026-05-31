@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"А формы, формы эти ты видишь? Нет, до Шейлы далеко, конечно, но все-таки..."</DefaultText>
+      <DefaultText>"А формы, формы эти ты видишь? Нет, до Шейлы далеко, конечно, но все-таки…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Лапуля, если уверенности не хватает – тогда это точно не для тебя..."</DefaultText>
+      <DefaultText>"Лапуля, если уверенности не хватает – тогда это точно не для тебя…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

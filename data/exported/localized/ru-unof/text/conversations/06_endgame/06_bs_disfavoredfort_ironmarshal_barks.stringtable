@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Генерал... Генерал! Что они с вами сделали?"</DefaultText>
+      <DefaultText>"Генерал… Генерал! Что они с вами сделали?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я смогу... это выдержать".</DefaultText>
+      <DefaultText>"Я смогу… это выдержать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Аше... если бы вы могли нам помочь..."</DefaultText>
+      <DefaultText>"Аше… если бы вы могли нам помочь…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

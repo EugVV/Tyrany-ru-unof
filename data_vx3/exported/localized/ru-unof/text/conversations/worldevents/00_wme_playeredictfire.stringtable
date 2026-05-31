@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

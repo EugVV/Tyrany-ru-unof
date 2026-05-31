@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Внезапно налетевшая буря застает вас в пути и заставляет искать укрытия в дорожной гостинице под гигантским каменным навесом. Здесь собрались путешественники со всех Ярусов. Они молча и с опаской косятся друг на друга, пока наконец жидкая похлебка и разбавленный эль не развязывают им языки...</DefaultText>
+      <DefaultText>Внезапно налетевшая буря застает вас в пути и заставляет искать укрытия в дорожной гостинице под гигантским каменным навесом. Здесь собрались путешественники со всех Ярусов. Они молча и с опаской косятся друг на друга, пока наконец жидкая похлебка и разбавленный эль не развязывают им языки…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,52 +147,52 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

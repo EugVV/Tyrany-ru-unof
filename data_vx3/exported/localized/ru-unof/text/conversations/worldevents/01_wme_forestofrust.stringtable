@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Вы подтягиваетесь и отважно бросаетесь вперед, рассчитывая ухватиться за верхние ветки. Когда вы правой рукой цепляетесь за сук, слышится хруст... к счастью, ломается лишь одна ветка. Какое-то время вы болтаетесь в пустоте, но затем находите зацепку и для второй руки, а потом и выступ для ног. Теперь вы в безопасности.</DefaultText>
+      <DefaultText>Вы подтягиваетесь и отважно бросаетесь вперед, рассчитывая ухватиться за верхние ветки. Когда вы правой рукой цепляетесь за сук, слышится хруст… к счастью, ломается лишь одна ветка. Какое-то время вы болтаетесь в пустоте, но затем находите зацепку и для второй руки, а потом и выступ для ног. Теперь вы в безопасности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,27 +110,27 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

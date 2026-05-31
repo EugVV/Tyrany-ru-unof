@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

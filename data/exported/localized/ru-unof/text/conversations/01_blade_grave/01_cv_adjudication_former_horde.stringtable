@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Этот... боец говорит от имени ватаги Алого Хора. Как вы там себя называете?"</DefaultText>
+      <DefaultText>"Этот… боец говорит от имени ватаги Алого Хора. Как вы там себя называете?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Сострадание... Милосердие. Они едва ли его заслуживают, но я все равно рад".</DefaultText>
+      <DefaultText>"Сострадание… Милосердие. Они едва ли его заслуживают, но я все равно рад".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

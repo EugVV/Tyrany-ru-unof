@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]... и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
+      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Со стороны Гребня шло огромное свечение, которое заполнило все небо. Интересно, что это было..."</DefaultText>
+      <DefaultText>"Со стороны Гребня шло огромное свечение, которое заполнило все небо. Интересно, что это было…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

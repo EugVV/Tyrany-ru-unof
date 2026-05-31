@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Дети выслушивают вас недоверчиво. Кто-то кивает, полный надежды, но остальные молчат: они явно не знают, как на это ответить. Неясно, послушают ли они вашего совета, хотя это было бы им во благо... здесь, в одиночку, оставаться куда опаснее.</DefaultText>
+      <DefaultText>Дети выслушивают вас недоверчиво. Кто-то кивает, полный надежды, но остальные молчат: они явно не знают, как на это ответить. Неясно, послушают ли они вашего совета, хотя это было бы им во благо… здесь, в одиночку, оставаться куда опаснее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,52 +151,52 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

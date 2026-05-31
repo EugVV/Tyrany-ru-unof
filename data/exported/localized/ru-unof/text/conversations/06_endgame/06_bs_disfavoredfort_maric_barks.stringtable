@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что... что мы будем делать без генерала?"</DefaultText>
+      <DefaultText>"Что… что мы будем делать без генерала?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Защита генерала исчезает, и я чувствую себя... слабее".</DefaultText>
+      <DefaultText>"Защита генерала исчезает, и я чувствую себя… слабее".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мне... больно. Что со мной происходит?"</DefaultText>
+      <DefaultText>"Мне… больно. Что со мной происходит?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

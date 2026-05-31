@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне не важно, чья эта будет кровь – твоя или моя. Один из нас выживет... или мы оба умрем".</DefaultText>
+      <DefaultText>"Мне не важно, чья эта будет кровь – твоя или моя. Один из нас выживет… или мы оба умрем".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Свет... ослепляет..."</DefaultText>
+      <DefaultText>"Свет… ослепляет…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Главное – продолжать выкручивать... пока не услышишь треск".</DefaultText>
+      <DefaultText>"Главное – продолжать выкручивать… пока не услышишь треск".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Неплохо..."</DefaultText>
+      <DefaultText>"Неплохо…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

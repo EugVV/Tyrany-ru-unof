@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Интересно, куда это ведет..."</DefaultText>
+      <DefaultText>"Интересно, куда это ведет…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"В этой комнате я вижу много такого, что хотел бы зарисовать... но нам нужно двигаться дальше".</DefaultText>
+      <DefaultText>"В этой комнате я вижу много такого, что хотел бы зарисовать… но нам нужно двигаться дальше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

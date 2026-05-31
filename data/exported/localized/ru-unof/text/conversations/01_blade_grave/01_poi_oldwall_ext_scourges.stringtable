@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я не вижу ни шей, ни глаз... куда мне целиться?"</DefaultText>
+      <DefaultText>"Я не вижу ни шей, ни глаз… куда мне целиться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Бичеватели! Вечно нам не везет..."</DefaultText>
+      <DefaultText>"Бичеватели! Вечно нам не везет…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Погибели у Старых Стен! Дело плохо..."</DefaultText>
+      <DefaultText>"Погибели у Старых Стен! Дело плохо…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

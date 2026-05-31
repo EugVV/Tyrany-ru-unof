@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ключ-камень действительно подходит... что теперь может пойти не так?"</DefaultText>
+      <DefaultText>"Ключ-камень действительно подходит… что теперь может пойти не так?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Люди обтесывают камни, чтобы они влезали в другие камни... Это странно".</DefaultText>
+      <DefaultText>"Люди обтесывают камни, чтобы они влезали в другие камни… Это странно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

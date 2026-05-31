@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Я подвел тебя, Архонт..."</DefaultText>
+      <DefaultText>"Я подвел тебя, Архонт…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Чтобы умереть в клетке..."</DefaultText>
+      <DefaultText>"Чтобы умереть в клетке…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Конец его историям..."</DefaultText>
+      <DefaultText>"Конец его историям…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,12 +216,12 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Зверолюдку затравили..."</DefaultText>
+      <DefaultText>"Зверолюдку затравили…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Хотел бы я еще раз услышать ее голос..."</DefaultText>
+      <DefaultText>"Хотел бы я еще раз услышать ее голос…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Не могу... пошевелиться..."</DefaultText>
+      <DefaultText>"Не могу… пошевелиться…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

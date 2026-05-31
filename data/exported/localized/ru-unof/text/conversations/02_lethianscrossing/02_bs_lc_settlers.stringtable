@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Сегодня такой чудесный день... если не вспоминать об армиях за горизонтом да погибелях в Старых Стенах".</DefaultText>
+      <DefaultText>"Сегодня такой чудесный день… если не вспоминать об армиях за горизонтом да погибелях в Старых Стенах".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]... и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
+      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Никаких больше солдат... это что, набору конец?"</DefaultText>
+      <DefaultText>"Никаких больше солдат… это что, набору конец?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Целая армия Орды исчезла в один миг... Как вообще такое возможно?"</DefaultText>
+      <DefaultText>"Целая армия Орды исчезла в один миг… Как вообще такое возможно?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

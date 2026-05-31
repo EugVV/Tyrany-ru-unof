@@ -41,8 +41,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Архонт хмурится, когда вы требуете от нее ответа. "Я не совсем уверена. Но они мне кажутся знакомыми. Я ощущаю в них... свою мелодию". Она скрещивает руки на груди. "Сходи и сам спроси, кто они такие".</DefaultText>
-      <FemaleText>Архонт хмурится, когда вы требуете от нее ответа. "Я не совсем уверена. Но они мне кажутся знакомыми. Я ощущаю в них... свою мелодию". Она скрещивает руки на груди. "Сходи и сама спроси, кто они такие".</FemaleText>
+      <DefaultText>Архонт хмурится, когда вы требуете от нее ответа. "Я не совсем уверена. Но они мне кажутся знакомыми. Я ощущаю в них… свою мелодию". Она скрещивает руки на груди. "Сходи и сам спроси, кто они такие".</DefaultText>
+      <FemaleText>Архонт хмурится, когда вы требуете от нее ответа. "Я не совсем уверена. Но они мне кажутся знакомыми. Я ощущаю в них… свою мелодию". Она скрещивает руки на груди. "Сходи и сама спроси, кто они такие".</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Один из крестьян постарше подслеповато моргает. "Прошу прощения... а ты кто?"</DefaultText>
+      <DefaultText>Один из крестьян постарше подслеповато моргает. "Прошу прощения… а ты кто?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,7 +227,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Вы сообщаете крестьянам, что отныне они будут состоять в Алом Хоре... те, кто выживут, конечно. Сирин с ненавистью смотрит на вас, ведь это ее бывших последователей вы отправляете в Какофонию, где их ждет Архонт Тайн.</DefaultText>
+      <DefaultText>Вы сообщаете крестьянам, что отныне они будут состоять в Алом Хоре… те, кто выживут, конечно. Сирин с ненавистью смотрит на вас, ведь это ее бывших последователей вы отправляете в Какофонию, где их ждет Архонт Тайн.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Вы вонзаете кинжал в живот еще одному крестьянину, но Сирин перехватывает вашу руку. "Прошу, позволь мне..."</DefaultText>
+      <DefaultText>Вы вонзаете кинжал в живот еще одному крестьянину, но Сирин перехватывает вашу руку. "Прошу, позволь мне…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,37 +332,37 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

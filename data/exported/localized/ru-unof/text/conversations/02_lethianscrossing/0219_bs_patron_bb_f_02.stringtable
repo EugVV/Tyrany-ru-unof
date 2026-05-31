@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Хочешь... снять кого-нибудь, чтобы вмеште ее... того?"</DefaultText>
+      <DefaultText>"Хочешь… снять кого-нибудь, чтобы вмеште ее… того?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Эй! Это шо такое еще? Думаешь... ты тут круче вшех?"</DefaultText>
+      <DefaultText>"Эй! Это шо такое еще? Думаешь… ты тут круче вшех?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Все равно что с собой разговаривать... Где та блондинка? Может, хоть она со мной поговорит?"</DefaultText>
+      <DefaultText>"Все равно что с собой разговаривать… Где та блондинка? Может, хоть она со мной поговорит?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Сплошные Эдикты, куда ни плюнь... Новый Владыка... Может, лучше в отдельную комнату забраться и забыть обо всем?"</DefaultText>
+      <DefaultText>"Сплошные Эдикты, куда ни плюнь… Новый Владыка… Может, лучше в отдельную комнату забраться и забыть обо всем?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Наверное, надо... держаться от этой воды подальше".</DefaultText>
+      <DefaultText>"Наверное, надо… держаться от этой воды подальше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Вода пахнет источниками, горными реками, но здесь... пахнет мертвой пустотой, лишь крупицы живого".</DefaultText>
+      <DefaultText>"Вода пахнет источниками, горными реками, но здесь… пахнет мертвой пустотой, лишь крупицы живого".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Эта вода звучит... немного глухо, тебе не кажется?"</DefaultText>
+      <DefaultText>"Эта вода звучит… немного глухо, тебе не кажется?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

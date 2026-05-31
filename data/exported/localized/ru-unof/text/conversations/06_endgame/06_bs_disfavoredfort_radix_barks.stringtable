@@ -11,23 +11,23 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Аше погиб? Нет... этого не может быть".</DefaultText>
+      <DefaultText>"Аше погиб? Нет… этого не может быть".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Север будет всегда вас помнить, Аше..."</DefaultText>
+      <DefaultText>"Север будет всегда вас помнить, Аше…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Генерал... мы вас подвели".</DefaultText>
+      <DefaultText>"Генерал… мы вас подвели".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Вершитель... прошу прощения, Архонт".</DefaultText>
-      <FemaleText>"Вершительница... прошу прощения, Архонт".</FemaleText>
+      <DefaultText>"Вершитель… прошу прощения, Архонт".</DefaultText>
+      <FemaleText>"Вершительница… прошу прощения, Архонт".</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мне... не очень хорошо".</DefaultText>
+      <DefaultText>"Мне… не очень хорошо".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"В этом форте стало ужасно жарко..."</DefaultText>
+      <DefaultText>"В этом форте стало ужасно жарко…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мои глаза... мне больно даже смотреть на свет".</DefaultText>
+      <DefaultText>"Мои глаза… мне больно даже смотреть на свет".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

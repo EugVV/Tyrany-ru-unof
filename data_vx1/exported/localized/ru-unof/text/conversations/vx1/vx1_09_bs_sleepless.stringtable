@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Спой нам колыбельную... нашу любимую, чтобы заснуть покрепче..."</DefaultText>
+      <DefaultText>"Спой нам колыбельную… нашу любимую, чтобы заснуть покрепче…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я слышу ее пение... как луна над морем..."</DefaultText>
+      <DefaultText>"Я слышу ее пение… как луна над морем…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Погибели... не такие уж они и плохие. Может... приручить их получится..."</DefaultText>
+      <DefaultText>"Погибели… не такие уж они и плохие. Может… приручить их получится…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я... очаг растопила к обеду? ...нет, неправильно... Рана, да. В Ране".</DefaultText>
+      <DefaultText>"Я… очаг растопила к обеду? …нет, неправильно… Рана, да. В Ране".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

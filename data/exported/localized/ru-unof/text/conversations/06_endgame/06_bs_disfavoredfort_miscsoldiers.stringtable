@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Север потерял своего любимого сына..."</DefaultText>
+      <DefaultText>"Север потерял своего любимого сына…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,12 +296,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ты... что ты наделал?"</DefaultText>
-      <FemaleText>"Ты... что ты наделала?"</FemaleText>
+      <DefaultText>"Ты… что ты наделал?"</DefaultText>
+      <FemaleText>"Ты… что ты наделала?"</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Великий генерал погиб! Мы... не знаем, что делать".</DefaultText>
+      <DefaultText>"Великий генерал погиб! Мы… не знаем, что делать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Как... как такое могло случиться?"</DefaultText>
+      <DefaultText>"Как… как такое могло случиться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Что-то мне... нехорошо".</DefaultText>
+      <DefaultText>"Что-то мне… нехорошо".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Я чувствую... усталость. Истощение. Это только у меня такое?"</DefaultText>
+      <DefaultText>"Я чувствую… усталость. Истощение. Это только у меня такое?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,12 +411,12 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Все болит... мне раньше никогда не было так больно".</DefaultText>
+      <DefaultText>"Все болит… мне раньше никогда не было так больно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Что это... я истекаю кровью?"</DefaultText>
+      <DefaultText>"Что это… я истекаю кровью?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Мои старые шрамы стали ужасно чесаться..."</DefaultText>
+      <DefaultText>"Мои старые шрамы стали ужасно чесаться…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

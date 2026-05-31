@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Странно! Неправильно! Человек пахнет только наполовину отвратительно. Не хватает запахов..."</DefaultText>
+      <DefaultText>"Странно! Неправильно! Человек пахнет только наполовину отвратительно. Не хватает запахов…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Этот человек... с ним что-то не так. Он почти... безмолвный".</DefaultText>
+      <DefaultText>"Этот человек… с ним что-то не так. Он почти… безмолвный".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

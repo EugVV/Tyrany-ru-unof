@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Тебе не показалось, что Голоса какой-то... слегка не такой? Может, чужих мозгов переел?"</DefaultText>
+      <DefaultText>"Тебе не показалось, что Голоса какой-то… слегка не такой? Может, чужих мозгов переел?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"[url=glossary:бледен марк]Бледен Марк[/url] был жутким ублюдком. Хорошо, что больше не нужно бояться теней..."</DefaultText>
+      <DefaultText>"[url=glossary:бледен марк]Бледен Марк[/url] был жутким ублюдком. Хорошо, что больше не нужно бояться теней…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Спокойно подняв руки, вы начинаете говорить самым рассудительным тоном, какой вам доступен. Вы пытаетесь их урезонить: Каирна погубил [url=glossary:эдикт]Эдикт[/url] Владыки, а не ваши действия. Радикс все равно не продержался бы против Хора и Камнепытов, даже если бы вы не вмешались...</DefaultText>
+      <DefaultText>Спокойно подняв руки, вы начинаете говорить самым рассудительным тоном, какой вам доступен. Вы пытаетесь их урезонить: Каирна погубил [url=glossary:эдикт]Эдикт[/url] Владыки, а не ваши действия. Радикс все равно не продержался бы против Хора и Камнепытов, даже если бы вы не вмешались…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@
 
 "Рано или поздно все помирают". Один из Опальных поднимает железный клинок и смотрит на вас. "Все, кроме Владыки. Может, нынче пришел наш день. А может, и твой".
 
-Слова союзника подбадривают их, и Скаловержцы принимаются чертить в воздухе сигилы. Земля содрогается...</DefaultText>
+Слова союзника подбадривают их, и Скаловержцы принимаются чертить в воздухе сигилы. Земля содрогается…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,27 +203,27 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

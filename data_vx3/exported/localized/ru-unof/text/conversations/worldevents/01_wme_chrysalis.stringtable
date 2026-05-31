@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Вы окидываете взглядом своих спутников и думаете, кто вам лучше ответит...</DefaultText>
+      <DefaultText>Вы окидываете взглядом своих спутников и думаете, кто вам лучше ответит…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,13 +60,13 @@
       <ID>11</ID>
       <DefaultText>Сперва вам кажется, что это громадная погибель – магическое злобное создание, бесформенное и беспощадное, – но затем вы осознаете, что существ там больше одного. Вы перебираете все, что вам известно о фауне Ярусов, и вспоминаете о роевых крылатых насекомых, именуемых хризалидами. Это древоточцы, откладывающие яйца в коре деревьев, корабельной обшивке, в стенах домов.
 
-Если вспомнить, что осталось от лесов Оплота после Эдикта Бурь, трудно сказать, чем мог питаться этот рой до сего дня...</DefaultText>
+Если вспомнить, что осталось от лесов Оплота после Эдикта Бурь, трудно сказать, чем мог питаться этот рой до сего дня…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Это хризалиды, Вершитель". Голос Барика звучит почти благоговейно. "Я ни единого роя не встречал... да, считай, с самого Эдикта Бурь. Они вредители, но, в общем, безобидные. Кору грызут, деревянные доски. Хотя таких здоровенных роев я ни разу не видел... может, спрячемся от греха?"</DefaultText>
-      <FemaleText>"Это хризалиды, Вершительница". Голос Барика звучит почти благоговейно. "Я ни единого роя не встречал... да, считай, с самого Эдикта Бурь. Они вредители, но, в общем, безобидные. Кору грызут, деревянные доски. Хотя таких здоровенных роев я ни разу не видел... может, спрячемся от греха?"</FemaleText>
+      <DefaultText>"Это хризалиды, Вершитель". Голос Барика звучит почти благоговейно. "Я ни единого роя не встречал… да, считай, с самого Эдикта Бурь. Они вредители, но, в общем, безобидные. Кору грызут, деревянные доски. Хотя таких здоровенных роев я ни разу не видел… может, спрячемся от греха?"</DefaultText>
+      <FemaleText>"Это хризалиды, Вершительница". Голос Барика звучит почти благоговейно. "Я ни единого роя не встречал… да, считай, с самого Эдикта Бурь. Они вредители, но, в общем, безобидные. Кору грызут, деревянные доски. Хотя таких здоровенных роев я ни разу не видел… может, спрячемся от греха?"</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -77,7 +77,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Хризалиды". Атли выплевывает это название, как что-то непристойное. "Омерзительные твари, пожирают мебель. А когда влажной древесины не остается, то не брезгуют и мясом... особенно когда роятся... вот как сейчас, например".</DefaultText>
+      <DefaultText>"Хризалиды". Атли выплевывает это название, как что-то непристойное. "Омерзительные твари, пожирают мебель. А когда влажной древесины не остается, то не брезгуют и мясом… особенно когда роятся… вот как сейчас, например".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,97 +248,97 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Вы не знаете, что это за облако, но вид у него опасный... и, кажется, оно приближается...</DefaultText>
+      <DefaultText>Вы не знаете, что это за облако, но вид у него опасный… и, кажется, оно приближается…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

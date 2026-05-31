@@ -61,8 +61,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Не будет больше больно ходячему трупу... альфа милосерден".</DefaultText>
-      <FemaleText>"Не будет больше больно ходячему трупу... альфа милосердна".</FemaleText>
+      <DefaultText>"Не будет больше больно ходячему трупу… альфа милосерден".</DefaultText>
+      <FemaleText>"Не будет больше больно ходячему трупу… альфа милосердна".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Уже больше 400 лет...</DefaultText>
+      <DefaultText>Уже больше 400 лет…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Даже Архонты – мужчины и женщины невероятных способностей – были вынуждены преклонить колени...</DefaultText>
+      <DefaultText>Даже Архонты – мужчины и женщины невероятных способностей – были вынуждены преклонить колени…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>...и покориться воле Владыки.</DefaultText>
+      <DefaultText>…и покориться воле Владыки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Теперь завоеватели Кайроса пришли и в наши земли...</DefaultText>
+      <DefaultText>Теперь завоеватели Кайроса пришли и в наши земли…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Две армии Владыки схлестнулись между собой за честь захватить нашу родину...</DefaultText>
+      <DefaultText>Две армии Владыки схлестнулись между собой за честь захватить нашу родину…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Элитные войска Опальных...</DefaultText>
+      <DefaultText>Элитные войска Опальных…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Тогда мы еще не знали, что участь бесчисленных тысяч людей...</DefaultText>
+      <DefaultText>Тогда мы еще не знали, что участь бесчисленных тысяч людей…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>...окажется у тебя в руках.</DefaultText>
+      <DefaultText>…окажется у тебя в руках.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

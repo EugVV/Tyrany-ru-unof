@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Интересно, почему эта тварь не пытается нас убить. Хотя... давайте не задерживаться, чтобы это выяснить".</DefaultText>
+      <DefaultText>"Интересно, почему эта тварь не пытается нас убить. Хотя… давайте не задерживаться, чтобы это выяснить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Почему... не... убить?"</DefaultText>
+      <DefaultText>"Почему… не… убить?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ух ты. Красотища... Я бы предложила взять ее с собой, но даже думать не хочу, чем ее кормить придется".</DefaultText>
+      <DefaultText>"Ух ты. Красотища… Я бы предложила взять ее с собой, но даже думать не хочу, чем ее кормить придется".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

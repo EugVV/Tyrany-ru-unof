@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Либо ты нас отсюда выведешь, либо присоединишься к своему другу... и нашему бесстрашному лидеру!"</DefaultText>
+      <DefaultText>"Либо ты нас отсюда выведешь, либо присоединишься к своему другу… и нашему бесстрашному лидеру!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Похоже, тебя нужно еще немного... поубеждать".</DefaultText>
+      <DefaultText>"Похоже, тебя нужно еще немного… поубеждать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

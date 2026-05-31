@@ -70,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Приказать Смерти-из-Тени перебить их... в тени.</DefaultText>
+      <DefaultText>Приказать Смерти-из-Тени перебить их… в тени.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,27 +117,27 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Вы качаете головой: какой нынче преступник тупой пошел... Они что, не узнали вас? Не понимают, что это ВАША тьма? Вы Архонт Горного Шпиля, а они – букашки, которых надо давить сапогом.</DefaultText>
+      <DefaultText>Вы качаете головой: какой нынче преступник тупой пошел… Они что, не узнали вас? Не понимают, что это ВАША тьма? Вы Архонт Горного Шпиля, а они – букашки, которых надо давить сапогом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +177,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,7 +187,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,7 +197,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

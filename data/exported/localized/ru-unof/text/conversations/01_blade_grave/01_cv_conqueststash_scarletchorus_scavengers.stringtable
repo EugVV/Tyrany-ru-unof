@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Какого дерьмового..." Орда замолкает сразу, как замечает вас. "Вершитель [Player Name]!"</DefaultText>
-      <FemaleText>"Какого дерьмового..." Орда замолкает сразу, как замечает вас. "Вершительница [Player Name]!"</FemaleText>
+      <DefaultText>"Какого дерьмового…" Орда замолкает сразу, как замечает вас. "Вершитель [Player Name]!"</DefaultText>
+      <FemaleText>"Какого дерьмового…" Орда замолкает сразу, как замечает вас. "Вершительница [Player Name]!"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>

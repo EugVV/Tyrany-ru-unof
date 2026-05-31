@@ -46,8 +46,8 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ох... ого! Дерьмо! Н-неужели он только что?.."</DefaultText>
-      <FemaleText>"Ох... ого! Дерьмо! Н-неужели она только что?.."</FemaleText>
+      <DefaultText>"Ох… ого! Дерьмо! Н-неужели он только что?.."</DefaultText>
+      <FemaleText>"Ох… ого! Дерьмо! Н-неужели она только что?.."</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>

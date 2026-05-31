@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Если мы возьмем хороший разбег, то сможем... оставить продолговатое пятно крови внизу".</DefaultText>
+      <DefaultText>"Если мы возьмем хороший разбег, то сможем… оставить продолговатое пятно крови внизу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ну... пытаться перепрыгнуть я не собираюсь".</DefaultText>
+      <DefaultText>"Ну… пытаться перепрыгнуть я не собираюсь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Может зверолюдке нужно... перекинуть альфу на ту сторону?"</DefaultText>
+      <DefaultText>"Может зверолюдке нужно… перекинуть альфу на ту сторону?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Мне следовало этого ожидать..."</DefaultText>
+      <DefaultText>"Мне следовало этого ожидать…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

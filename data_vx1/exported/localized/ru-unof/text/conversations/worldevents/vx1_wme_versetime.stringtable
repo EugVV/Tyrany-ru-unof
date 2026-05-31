@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Я даже написать могу, если дашь мне минутку... эти руки кое-что умеют".</DefaultText>
+      <DefaultText>"Я даже написать могу, если дашь мне минутку… эти руки кое-что умеют".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Шепчущие теплые губы почти касаются вашего уха. "Ну-ка посмотрим, как нам это уединение, которое я нам выгрызла..."</DefaultText>
+      <DefaultText>Шепчущие теплые губы почти касаются вашего уха. "Ну-ка посмотрим, как нам это уединение, которое я нам выгрызла…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Просто... я такого не ожидала". Она быстро моргает.</DefaultText>
+      <DefaultText>"Просто… я такого не ожидала". Она быстро моргает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,12 +231,12 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ясно. Веди, неутомимый лидер. Давненько мы никого под ребро не пыряли..."</DefaultText>
+      <DefaultText>"Ясно. Веди, неутомимый лидер. Давненько мы никого под ребро не пыряли…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ага..."</DefaultText>
+      <DefaultText>"Ага…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,12 +346,12 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Повсюду в ночи горят костры: какой-то сельский праздник, который наверняка скоро запретят... Вдалеке вы различаете очертания Города-Бастарда, огни которого подсвечивают небо.</DefaultText>
+      <DefaultText>Повсюду в ночи горят костры: какой-то сельский праздник, который наверняка скоро запретят… Вдалеке вы различаете очертания Города-Бастарда, огни которого подсвечивают небо.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,7 +418,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

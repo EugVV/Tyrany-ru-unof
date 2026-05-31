@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Прошу тебя... внутри мои дети. Если ты хочешь убить меня, сделай это здесь, чтобы они не видели".</DefaultText>
+      <DefaultText>"Прошу тебя… внутри мои дети. Если ты хочешь убить меня, сделай это здесь, чтобы они не видели".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Как война может принести мир? Я не понимаю..."</DefaultText>
+      <DefaultText>"Как война может принести мир? Я не понимаю…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

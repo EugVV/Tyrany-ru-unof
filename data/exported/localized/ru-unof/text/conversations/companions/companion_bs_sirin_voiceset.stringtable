@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Мне недолго осталось..."</DefaultText>
+      <DefaultText>"Мне недолго осталось…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Если я должна..."</DefaultText>
+      <DefaultText>"Если я должна…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>"Очень просто..."</DefaultText>
+      <DefaultText>"Очень просто…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>[хватая ртом воздух] Нет...</DefaultText>
+      <DefaultText>[хватая ртом воздух] Нет…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Атака не удалась..."</DefaultText>
+      <DefaultText>"Атака не удалась…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Мы можем сделать... что-то еще?"</DefaultText>
+      <DefaultText>"Мы можем сделать… что-то еще?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Полагаю, Фуга не настолько сильна, как думает..."</DefaultText>
+      <DefaultText>"Полагаю, Фуга не настолько сильна, как думает…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>"Интересно..."</DefaultText>
+      <DefaultText>"Интересно…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>"Как-то мне нехорошо..."</DefaultText>
+      <DefaultText>"Как-то мне нехорошо…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>"В следующий раз закрывай ушки..."</DefaultText>
+      <DefaultText>"В следующий раз закрывай ушки…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>"Давай-ка споем им что-нибудь..."</DefaultText>
+      <DefaultText>"Давай-ка споем им что-нибудь…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

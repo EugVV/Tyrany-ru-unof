@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Да на всех Ярусах не хватит колец, чтоб меня к Опальным снова заманить. Черт... сдохну я тут, кажется".</DefaultText>
+      <DefaultText>"Да на всех Ярусах не хватит колец, чтоб меня к Опальным снова заманить. Черт… сдохну я тут, кажется".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Хр-р-р... ух-х..."</DefaultText>
+      <DefaultText>"Хр-р-р… ух-х…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

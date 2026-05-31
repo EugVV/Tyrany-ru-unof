@@ -161,8 +161,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ну... э-э... вы – Вершитель судеб, а я – гражданин Империи. Разве вам не положено меня защищать?"</DefaultText>
-      <FemaleText>"Ну... э-э... вы – Вершительница судеб, а я – гражданин Империи. Разве вам не положено меня защищать?"</FemaleText>
+      <DefaultText>"Ну… э-э… вы – Вершитель судеб, а я – гражданин Империи. Разве вам не положено меня защищать?"</DefaultText>
+      <FemaleText>"Ну… э-э… вы – Вершительница судеб, а я – гражданин Империи. Разве вам не положено меня защищать?"</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -335,7 +335,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Удвоить? Но это же... вполне меня устроит. По два кольца каждому. Если вы доберетесь до Братьев вовремя!"</DefaultText>
+      <DefaultText>"Удвоить? Но это же… вполне меня устроит. По два кольца каждому. Если вы доберетесь до Братьев вовремя!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -447,32 +447,32 @@
       <ID>89</ID>
       <DefaultText>Оба зверолюда смотрят на вас, обнажив клыки. Ближайший зверь прыгает в вашу сторону, и вы с трудом отбиваете его атаку, вынуждая того отступить. Второй пользуется возможностью и хлещет когтями наискосок по вашей руке, сдирая с нее плоть.
 
-Капли крови падают в траву; зверолюды медленно кружат вокруг вас...</DefaultText>
+Капли крови падают в траву; зверолюды медленно кружат вокруг вас…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

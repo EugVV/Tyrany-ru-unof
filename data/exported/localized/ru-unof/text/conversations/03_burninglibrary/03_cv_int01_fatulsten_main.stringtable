@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Я бы мог для ровного счета и тебя убить тоже..."</DefaultText>
-      <FemaleText>"Я бы могла для ровного счета и тебя убить тоже..."</FemaleText>
+      <DefaultText>"Я бы мог для ровного счета и тебя убить тоже…"</DefaultText>
+      <FemaleText>"Я бы могла для ровного счета и тебя убить тоже…"</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Атаковать] "Вот и помогай после этого людям..."</DefaultText>
+      <DefaultText>[Атаковать] "Вот и помогай после этого людям…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

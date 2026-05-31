@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Тихо... пахнет трупами... и теперь только твари-бичеватели рыскают по древним коридорам".</DefaultText>
+      <DefaultText>"Тихо… пахнет трупами… и теперь только твари-бичеватели рыскают по древним коридорам".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Теперь они все мертвы. Как-то... бессмысленно получилось".</DefaultText>
+      <DefaultText>"Теперь они все мертвы. Как-то… бессмысленно получилось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

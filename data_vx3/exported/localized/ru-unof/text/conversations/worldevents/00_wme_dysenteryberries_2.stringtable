@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Вы решаете проявить осторожность и насыпаете полные карманы ягод, но в рот отправляете всего одну гроздь. Плоды на вкус оказываются сладко-пряными, на удивление сочными для своего размера, и вам немедленно хочется съесть еще... но вы сдерживаетесь. Пройдя дальше по берегу ручья, вы минуете лесные заросли и наконец выбираетесь на проезжую дорогу.</DefaultText>
+      <DefaultText>Вы решаете проявить осторожность и насыпаете полные карманы ягод, но в рот отправляете всего одну гроздь. Плоды на вкус оказываются сладко-пряными, на удивление сочными для своего размера, и вам немедленно хочется съесть еще… но вы сдерживаетесь. Пройдя дальше по берегу ручья, вы минуете лесные заросли и наконец выбираетесь на проезжую дорогу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,27 +98,27 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Продолжить...</DefaultText>
+      <DefaultText>Продолжить…</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

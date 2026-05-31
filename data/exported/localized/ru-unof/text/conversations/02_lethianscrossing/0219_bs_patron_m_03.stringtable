@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ты погляди, какая она красавица... Я с ней на трезвую голову и говорить не могу!"</DefaultText>
+      <DefaultText>"Ты погляди, какая она красавица… Я с ней на трезвую голову и говорить не могу!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что? Нет! Я просто... А... ладно..."</DefaultText>
+      <DefaultText>"Что? Нет! Я просто… А… ладно…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,22 +51,22 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ты... ты вообще понимаешь, что я каждое твое слово слышу? Я же рядом с тобой стою".</DefaultText>
+      <DefaultText>"Ты… ты вообще понимаешь, что я каждое твое слово слышу? Я же рядом с тобой стою".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ну что... завтра может конец света настать. Сплошные Эдикты повсюду... Правда же, она не скажет нет?"</DefaultText>
+      <DefaultText>"Ну что… завтра может конец света настать. Сплошные Эдикты повсюду… Правда же, она не скажет нет?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Выпить немного, для храбрости... Угроза Эдиктов, чтобы подстегнуть... И она обязательно скажет да!"</DefaultText>
+      <DefaultText>"Выпить немного, для храбрости… Угроза Эдиктов, чтобы подстегнуть… И она обязательно скажет да!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"И ведь можно было бы, правда? Но... нет".</DefaultText>
+      <DefaultText>"И ведь можно было бы, правда? Но… нет".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

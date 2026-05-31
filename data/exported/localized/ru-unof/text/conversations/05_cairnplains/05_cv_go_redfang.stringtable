@@ -177,7 +177,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Я... разорву их на части... чтобы преподать достойный урок?"</DefaultText>
+      <DefaultText>"Я… разорву их на части… чтобы преподать достойный урок?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ваш спор с Скаловержцами... Можем разрешить его мирно – или пролить кровь".</DefaultText>
+      <DefaultText>"Ваш спор с Скаловержцами… Можем разрешить его мирно – или пролить кровь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,7 +523,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ну... я, э-э, я убил их..."</DefaultText>
+      <DefaultText>"Ну… я, э-э, я убил их…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -648,7 +648,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Хм, похоже, этот обряд довольно опасный..."</DefaultText>
+      <DefaultText>"Хм, похоже, этот обряд довольно опасный…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

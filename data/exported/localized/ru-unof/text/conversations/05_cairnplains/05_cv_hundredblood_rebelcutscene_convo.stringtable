@@ -69,7 +69,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Да, это так. Ты пойдешь в [url=glossary:зал вознесения]Зал Вознесения[/url] или будешь... упрямиться?"</DefaultText>
+      <DefaultText>"Да, это так. Ты пойдешь в [url=glossary:зал вознесения]Зал Вознесения[/url] или будешь… упрямиться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

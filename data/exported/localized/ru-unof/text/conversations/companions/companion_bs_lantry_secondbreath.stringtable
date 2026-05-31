@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Должно сработать..."</DefaultText>
+      <DefaultText>"Должно сработать…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не спеши снова сделать себе больно... хотя чего это я беспокоюсь?"</DefaultText>
+      <DefaultText>"Не спеши снова сделать себе больно… хотя чего это я беспокоюсь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Как новенький... ну, относительно".</DefaultText>
+      <DefaultText>"Как новенький… ну, относительно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Проще было бы не травмироваться впереди всех... больные дети..."</DefaultText>
+      <DefaultText>"Проще было бы не травмироваться впереди всех… больные дети…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

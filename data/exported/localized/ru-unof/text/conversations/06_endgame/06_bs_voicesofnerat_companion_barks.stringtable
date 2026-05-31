@@ -16,13 +16,13 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Да... подчинись".</DefaultText>
+      <DefaultText>"Да… подчинись".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что... ты со мной сделал?"</DefaultText>
-      <FemaleText>"Что... ты со мной сделала?"</FemaleText>
+      <DefaultText>"Что… ты со мной сделал?"</DefaultText>
+      <FemaleText>"Что… ты со мной сделала?"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Да... подчинись".</DefaultText>
+      <DefaultText>"Да… подчинись".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
