@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>803</ID>
-      <DefaultText>"Нам нужно завоевать для Кайроса королевство. С чего начнем?"</DefaultText>
+      <DefaultText>«Нам нужно завоевать для Кайроса королевство. С чего начнем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>"Слава Владыке!" Он кричит, и [url=glossary:опальные]Опальные[/url] вокруг с лязгом и грохотом отдают честь.</DefaultText>
+      <DefaultText>«Слава Владыке!» Он кричит, и [url=glossary:опальные]Опальные[/url] вокруг с лязгом и грохотом отдают честь.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
