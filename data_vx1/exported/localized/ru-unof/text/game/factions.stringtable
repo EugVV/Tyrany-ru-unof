@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\factions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Круговой Аргумент</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Полумесяц Эдикта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Колотушка Эдикта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Жалобный Шепот</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>«Гребень волны»</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Рана Бастарда</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Яспос</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Махальник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Бессонные</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Подранки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Насыщенные тени</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Бис Певчей Птички</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Полутень</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Этот боевой молот изготовлен Лоарой из Скованных Горном из материалов, собранных в Могиле Клинков. Он призывает могущество Эдикта Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Этот топор изготовила из собранных в Могиле Клинков материалов волшебница-кузнец, отступница Лицентия. Он способен призвать [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Эти ощетинившиеся клинками наручи когда-то очень любила названая сестра Фуги по имени Три Шепота. Теперь же наручи режут ваших врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Говорят, что клинок этого кинжала наполнен сущностью погибели, и поэтому оружие возвращается к владельцу после броска во врага. Лантри скептически относится к этой легенде, но оценил то, что теперь не нужно самостоятельно подбирать кинжалы в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Оружие, которое подарил вам Заклинатель Приливов Махальник. Оно магическим образом изготовлено из жидкой, текущей воды и обрушивает на врагов мощь волн, бьющихся о берег.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Это скорее не артефакт, а эволюция первобытных сверхъестественных сил Смерти-из-Тени. Ее страсть к охоте позволила зверолюдке вобрать в себя сущность той самой тьмы, укрывшись которой, она крадется к добыче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Головной убор Сирин, усиленный ее могуществом и пониманием учения, переданного ей Архонтом Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Древний меч неизвестного происхождения, который вы нашли в Старых Стенах в Ране Бастарда. Там он принадлежал зверолюдке по имени Золотая Лапа. От бронзового клинка исходит тусклое фиолетовое свечение, и тени вокруг него пляшут, извиваются и рассыпаются на части.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

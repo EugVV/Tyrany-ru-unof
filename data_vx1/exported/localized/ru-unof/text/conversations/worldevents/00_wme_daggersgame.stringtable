@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_daggersgame</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Внезапно налетевшая буря застает вас в пути и заставляет искать укрытия в дорожной гостинице под гигантским каменным навесом. Здесь собрались путешественники со всех Ярусов. Они молча и с опаской косятся друг на друга, пока наконец жидкая похлебка и разбавленный эль не развязывают им языки...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Играть честно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Выбрать Лантри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Сжульничать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отказаться играть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Предложить сыграть спутнику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы поднимаетесь и подходите к женщине, кладете напротив нее перевязанную бечевкой стопку колец в знак того, что вызов принят. Женщина улыбается, поворачивается и метает первый нож, начиная игру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы поднимаетесь и подходите к женщине, кладете напротив нее перевязанную бечевкой стопку колец в знак того, что вызов принят. Женщина улыбается, поворачивается и метает первый нож, начиная игру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы отказываетесь принять вызов и приятно проводите время, наблюдя за тем, как она собирает дань с других игроков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Темноволосая путешественница окидывает взглядом ваших спутников и с насмешкой интересуется, кто из них, по-вашему, может принять вызов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы поднимаетесь и подходите к женщине, кладете напротив нее перевязанную бечевкой стопку колец в знак того, что вызов принят. Женщина улыбается, поворачивается и метает первый нож, начиная игру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы поднимаетесь и подходите к женщине, кладете напротив нее перевязанную бечевкой стопку колец в знак того, что вызов принят. Женщина улыбается, поворачивается и метает первый нож, начиная игру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Выбрать Фугу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Окинув старика взглядом, женщина хмыкает. Она сгибается от хохота вдвое, когда Лантри без усилий берет над ней верх, загнав три кинжала в самый центр горлянки. Она хлопает Книгочея по спине, отдает выигрыш и угощает вас обоих выпивкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Фуга потягивается, хрустя шеей, а женщина опасливо наблюдает за тем, как Алая Фурия подходит к месту броска. Первый кинжал Фуга бросает с пронзительным воплем, от которого закладывает уши. Лезвие пробивает горлянку насквозь, и ошметки летят на грязный пол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Жилистая женщина с кожей цвета ночи ставит крупную тыкву-горлянку на камень у дальней стены пещеры. Она бросает вам вызов, предлагая сыграть в ножички. Суть игры в том, чтобы метать одинаковые ножи по мишени. Кто трижды попадет ближе к центру – выигрывает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ставка – двадцать медных колец, заявляет она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ставка – двадцать бронзовых колец, заявляет она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ставка – железное кольцо, заявляет она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Она неплохо метает ножи, но два ваших кинжала впиваются в мишень еще ближе к центру. Впечатленная вашими успехами, она отдает выигрыш и угощает вас выпивкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Она оценивающе наблюдает за тем, как вы метаете ножи, а затем с легкостью укладывает два своих кинжала еще ближе к центру. Радостно смеясь, она забирает ваши кольца, но предлагает угостить вас выпивкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>На вид она неплохо управляется с метательными ножами, поэтому, когда она ненадолго отвлекается на звук упавшей глиняной кружки, вы незаметно перетыкаете один из своих кинжалов ближе к центру горлянки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>На вид она неплохо управляется с метательными ножами, поэтому, когда она ненадолго отвлекается на звук упавшей глиняной кружки, вы незаметно перетыкаете один из своих кинжалов ближе к центру горлянки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ваша ловкость рук не привлекает лишнего внимания. Закончив броски, женщина отдает вам кольца и предлагает угостить выпивкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Когда вы поворачиваетесь обратно, она угрюмо смотрит на вас, уперев руки в бока.
+
+Игру она отменяет и уходит в свой угол пить, бросая на вас злобные взгляды и бормоча проклятия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>После этого они вдвоем с Лантри ненадолго исчезают куда-то в недра заведения.
+
+Он возвращается с улыбкой на губах, раскрасневшийся и слегка взмокший.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Фуга поворачивается к вам с женщиной, пожимает плечами и возвращается за стол доедать.
+
+Напуганная метательница кинжалов с вами больше не разговаривает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

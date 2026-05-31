@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_ceveus_court</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Всяко лучше, чем затянувшаяся осада, верно, Вершитель? Получай удовольствие от войны, пока она еще не закончилась".</DefaultText>
+      <FemaleText>"Всяко лучше, чем затянувшаяся осада, верно, Вершительница? Получай удовольствие от войны, пока она еще не закончилась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мой долг обязывает меня сохранять вежливость перед лицом суда, но я ничего не забыл... Предатель".</DefaultText>
+      <FemaleText>"Мой долг обязывает меня сохранять вежливость перед лицом суда, но я ничего не забыл... Предательница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Говорят, что ты больше не Вершитель судеб... Но мне все равно, как тебя называют, пока ты хранишь верность Аше".</DefaultText>
+      <FemaleText>"Говорят, что ты больше не Вершительница судеб... Но мне все равно, как тебя называют, пока ты хранишь верность Аше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мой генерал... Что же нам делать без тебя?" Цевеус качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Аше уверен, что ты приведешь нас к победе. Я доверяю мудрости нашего генерала".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

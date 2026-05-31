@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>364</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Лишь изорванное знамя Оплота слегка колышется на ветру там, где когда-то, во время оглашения Эдикта Бурь, умер его владелец.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Хоть армия старого Оплота и была уничтожена магией Эдикта Кайроса, множество их боевых штандартов остались нетронутыми, словно памятники героическому сопротивлению местных солдат в борьбе с легионом Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Тут и там между камней можно найти останки солдат, убитых Эдиктом Кайроса. Волшебные ветры иссушили и развеяли их плоть, оставив оружие и доспехи ржаветь и покрываться пылью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Из ощерившейся кольями ямы, в которой тут держат пленников, разносится невыносимая вонь тел, тонущих в собственных нечистотах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Для обустройства лагеря искатели активно использовали детали окружающего ландшафта. Этот шатер – всего лишь старое лоскутное одеяло, растянутое на торчащих из земли каменных шипах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Здесь, среди камней, можно найти и ржавые кирасы Опальных, и растрескавшиеся доспехи Несломленных. Эдикты Кайроса убивают всех, не делая различий между врагами и союзниками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>От пепелища несет ржавчиной и горелыми волосами. Кто бы ни выложил этот очаг, он явно страдал от нехватки хвороста в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ловушка на стене</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ловушка на полу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Покрытая пылью каменная плита выглядит безжизненной, однако, судя по выдолбленным письменам, ее магию можно разбудить вновь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Под разливающейся слабым светом поверхностью этого предмета вы замечаете едва заметное движение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Назначение этого древнего алтаря остается загадкой. Каменное изваяние держит в руках чашу с явно выраженным почтением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Из труб выливается солоноватая, дурно пахнущая вода и исчезает в темноте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Тут и там по равнине разбросаны выходы скальной породы, но и они не могут дать достойного укрытия от дующих здесь ветров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Из огромных размеров входа в Старые Стены выбиваются лучи света, одновременно успокаивая и вынуждая остановиться и смотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Яма кажется бездонной, и лишь далекое эхо завываний доносится из ее черных глубин. Вытянув шею, вы едва-едва различаете силуэты копошащихся в темноте погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Лабиринт, которым оказались Старые Стены, кажется нескончаемым. Насколько хватает глаз стены покрывают канделябры и ниши, а затем коридоры просто растворяются в темноте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Сложно понять, была эта ловушка уничтожена Несломленным, пытавшимся пробраться внутрь, или же погибелью, стремившейся наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Вы подносите светоключ ближе к кристаллу в маяке, и тот начинает мягко светиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>На страже покоя Старых Стен стоит огромная дверь, запечатанная от вторжений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Ловушка в Старых Стенах</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Вы замечаете небольшую панель, утопленную в камень. Судя по всему, в этой выемке раньше находился некий предмет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Перед вами возвышается огромная дверь. Похоже, это вход в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Разбойники разбили в этой глуши временный лагерь. Они готовы сняться с места в любой момент – здесь нет ни одной долговременной постройки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Разбойники утащили большую часть груза, брошенного на обочине, и оставили следующим искателям приключений несколько ловушек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Стены этой цитадели выщерблены и разбиты как бурей, так и ожесточенными схватками Опальных с Несломленными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Где-то здесь в землю может быть вмурован Шлем Первого регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Здесь встали лагерем подкрепления для армии Кайроса, готовые прийти на помощь в любое время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Огромная дверь, запертая и неприступная, нависает над вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>От пепелища несет ржавчиной и горелыми волосами. Кто бы ни выложил этот очаг, он явно страдал от нехватки хвороста в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Над реками нависает величественная стена, простираясь вверх насколько хватает взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Выплеск магмы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Вместе с пылью ветер яростно швыряет осколки камней и металла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Ров, некогда окружавший Твердыню Часовых, давно сдался на милость природы. Островки мокрой грязи среди стоячей воды – вот и все, что от него осталось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Трудно сказать, было ли здесь так всегда, или эти разрушения – результат недавней битвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Некогда донжон Твердыни Часовых гордо возвышался над этой местностью. Теперь он – лишь тень своей былой славы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Невидимая сила</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Земляная ловушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>В наследство от бушевавших здесь некогда бурь остались лишь каменные шипы, расколовшие стены крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Огненная ловушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Лавка Пентибора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Судя по всему, эта группа зверолюдов не оказывала сопротивления – их поставили на колени и закололи ударами в спину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Оружие в этой повозке, судя по всему, сделано из железа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>В этом месте стена разрушена. Выступающие камни образуют участок, прекрасно подходящий для того, чтобы подняться наверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Несколько секций главной двери выглядят порядком изношенными. Если по ним хорошенько ударить, возможно, дверь получится выбить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>В стене образовалась огромная трещина. Если Скаловержцы сосредоточат силы на этом участке, они могут обрушить стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Интендант</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Лавка Сниглера Дагоса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Пути назад нет. Магия Кайроса запечатала долину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>На деревянном колу висит гниющий труп в боевой раскраске Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Похоже, что насаженное на кол тело принадлежит Сниглеру Дагосу. Судя по всему, умер он недавно – мухи только-только начали кружить над трупом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Бочка наполнена мутной красноватой водой. Под жирной пленкой этого "супа" плавают оторванные конечности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Это измазанная кровью карта области Колодца Вендриенов. Несколько стрелок указывают на Крапивные Дебри, окружающие долину с внешней стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Эти планы сражения были набросаны в каком-то безумном исступлении. Все стрелки указывают на реку Матани, делая большой круг, который опоясывает Переправу Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>На измазанной кровью карте Ярусов набросаны планы сражений. Стрелки указывают на внутреннее кольцо долины Колодца Вендриенов, вокруг цитадели нарисованы маленькие кружки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Лавка Алиции</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Древняя статуя Плачущей Матери – дань уважения Королеве Ликарии, первой этого имени. Некогда эта статуя источала воду, но после того, как в 429 году армии Кайроса атаковали [url=glossary:колодец вендриенов]Колодец Вендриенов[/url], она начала плакать кровью, что продолжается и по сей день.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Чистая вода слез королевы Ликарии обернулась кровью в момент вторжения армий Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Вдоль Дороги Победы, ведущей к Колодцу Вендриенов, выставлены иссушенные трупы, напоминающие о судьбе всякого, кто воспротивится воле Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Вдоль Дороги Победы к Колодцу Вендриенов тянутся остовы истлевших тел. Эта демонстрация силы устроена по велению Кайроса, однако вы решили, что на нее пойдут лишь тела солдат Гвардии Вендриенов, поднявших оружие против войск Владыки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Вдоль Дороги Победы, ведущей к Колодцу Вендриенов, можно видеть изувеченные тела мужчин, женщин и детей. По вашему приказу войска Кайроса пресекли родословные пленных солдат, вырезав их семьи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Однажды жители этой долины уже сдались. Не желая дожидаться следующей капитуляции, солдаты Кайроса сделали из этих клятвопреступников устрашающий пример для всех остальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Эти фрагменты стены – часть оригинальной кладки Форта Эджеринг. Большая его часть обрушилась в ущелье, когда два года назад на форт напал [url=glossary:каирн]Каирн[/url], Архонт Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>В повозке в кучу свалены оружие и доспехи. Каждый клинок трачен ржавчиной, а доспехам явно требуется починка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>На изорванной ткани палатки кровью намалеван символ Алого Хора. Залатать зияющие дыры никто даже и не пытался.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>В этой телеге аккуратно сложены оружие и доспехи. Каждое копье заточено, смазано и готово к бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[url=glossary:кайрос]Кайрос[/url] приказал стереть из людской памяти изначальный символ легиона Опальных. Уже более века [url=glossary:опальные]Опальные[/url] с гордостью носят свой старый знак, изображая его перечеркнутым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>На изорванном знамени изображен перечеркнутый знак Опальных. Их оригинальный символ утрачен, а [url=glossary:грэйвен аше]Грэйвен Аше[/url] никогда не искал ему замены, предпочитая этот проклятый знак всем другим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>На пики насажено несколько обглоданных падальщиками и выбеленных солнцем черепов. Это – единственный герб, который нужен Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Пустой кол ждет свою жертву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Ловушка могильного cвета</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Электрическая ловушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Лавка Опальных</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Лавка рекрутеров Орды</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Лавка рекрутеров Книгочеев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Лавка Алого Хора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Возле костра вы видите металлическую стружку и пару клещей Скованных Горном. Кто бы тут ни был, похоже, он собирался в спешке, раз оставил их. Следы неподалеку ведут ко входу в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Это место слияния двух водопадов, которые низвергаются со Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Эта река служит торговым путем для купцов, что везут товары к Распутью Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Ясным утром западный водопад, отражая восходящее солнце, переливается всеми цветами радуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Это восточный водопад. Хотя оба водопада спадают со стен по отдельности, кое-кто из местных полагает, что они берут начало от одного источника выше Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Шатры торговцев – обычное зрелище для Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Частые набеги привели к тому, что все мосты и пандусы Распутья Летианы можно поднять в любой момент, чтобы обезопасить жителей поселения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>В этом месте река, вытекающая из Распутья Летианы, разделяется два рукава, известные как Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Теневая ловушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Хотя из разлома идет поток очень сильного жара, нижний этаж каким-то образом остается целым. Непонятно, почему лава еще не поглотила библиотеку полностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Когда вы наклоняетесь, чтобы рассмотреть озеро лавы, на вас накатывают волны жара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Путь преграждает большой валун. Он вклинен намертво – сдвинуть его не удастся, что с ним ни делай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Эти свитки пусты. Похоже, их здесь хранили вместе с инструментами и сырьем для производства чернил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Камень мерцает и оплавляется под волнами жара, накатывающего с озера лавы. Температура здесь почти невыносима.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Кажется, под лавой есть какой-то пандус, но воспользоваться им, не сгорев, судя по всему, невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Под вашим взором раскинулся великолепный вид на стеллажи главной библиотеки. Вопреки всему некоторые из них уцелели, а свитки продолжают противиться чудовищному жару.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Посреди озера лавы возвышается небольшой островок уцелевшего пола. Если бы лава поднялась чуть выше, он бы погрузился в нее полностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Пол возле входа тонет в лаве. Жар, поднимающийся от расплавленной породы, практически невыносим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Зияющая дыра в полу преграждает путь к сотням свитков, хранящихся на полках у дальней стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Эти свисающие канаты были последней отчаянной попыткой сохранить дома после обрушения, однако толчки оказались слишком сильны – импровизированные опоры не выдержали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Эти свисающие канаты были последней отчаянной попыткой сохранить дома после обрушения, однако толчки оказались слишком сильны – импровизированные опоры не выдержали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Дом развален землетрясением, сокрушившим Степные Врата. У большей части построек не было ни единого шанса устоять при подземных толчках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Скала возвышается над обрывом, уходящим вниз, в глубины Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Гигантская дыра в этом доме в Степных Вратах образовалась во время страшных землетрясений, превративших Лазурь в [url=glossary:каменное море]Каменное Море[/url]. Впрочем, в сравнении с другими поселениями в Степных Вратах все еще очень неплохо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Степные Врата – небольшое поселение на дорожной развязке Каменного Моря. Оно выживает за счет прибыли от снабжения путешественников продуктами первой необходимости и сырьем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Эти красивые группы фиолетовых кристаллов – обычное зрелище для Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Внизу простирается [url=glossary:каменное море]Каменное Море[/url]. Старые Стены Зияния – часть прежнего пейзажа, от которого после множества землетрясений остались лишь Шпили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>В эти районы Каменного Моря нередко наведываются кладоискатели в надежде найти редкие артефакты и забытые тайники с драгоценностями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Добро с этих повозок почти полностью растащено мародерами и ворами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Старые доски и гнилые канаты – вот и все, на что могут опереться путешественники, перебирающиеся через пропасти Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Эта тележка просто ломится от свежих продуктов и полезных вещей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Эти стрелы тщательно и аккуратно оперены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Этот тренировочный манекен несет на себе следы длительного использования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Знак Опальных жестоко изуродован.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Большую часть вони поглощает свежая солома в углу камеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Этот проход преграждает магическое поле. Неизвестно, каким способом его можно снять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Этот выступ отделен от окружающей среды и, похоже, взбираться по нему будет небезопасно. Можно увидеть, что вдоль вершины тянется странный скалистый гребень, вероятно, магической природы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Этот камень прохладен, будто бы текущая по нему лава его не касается. Когда вы притрагиваетесь к камню, лава ярко вспыхивает. Какое-то мгновение вы видите лишь свет и замысловатые очертания сигила. Вскоре свет гаснет, но эти очертания остаются впечатанными в ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Дерево испещрено выбоинами и следами ожогов. Вероятно, его использовали для возведения укреплений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Эти копья все как одно высокого качества.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>В огромном медном котле кипит варево из небольших кусочков дичи. Аромат специй с трудом маскирует запах существа, которое тут решили приготовить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Большая часть провизии заплесневела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Среди тлеющих углей видны почерневшие осколки костей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>У этих расколотых стрел пестрое оперение. Похоже, их вынули из трупов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Эти ржавые копья очень хрупкие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Эти истертые шатры несут на себе и своих составных частях следы долгого использования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Доступные водопады, подобные этому, – редкость для Каменного Моря, и каждый из них на счету. Стекающая вниз вода наполняет один из главных подземных потоков, который позволяет местному населению выживать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Кристаллы, подобные этому, стали появляться в Каменном Море вскоре после того, как Лазурь была уничтожена Эдиктом Кайроса. Неизвестно, являются ли они следствием магии Владыки или результатом экспериментов Каирна, которые он тут проводил во время войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Похоже, именно в этом отгороженном помещении зверолюды прятали детенышей от опасности. Судя по всему, не так давно его использовали для содержания пленников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Некогда в Лазури были тысячи подобных зданий. Те из них, которые не поглотила земля, до сих пор стоят в заброшенных городах словно напоминание о славном прошлом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Вокруг уцелевшего островка пола течет река лавы. Похоже, в этой части библиотеки разрушения наиболее велики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Огненный хаос, уничтоживший остальную библиотеку, по какой-то загадочной причине не тронул эту комнату. Свитки лежат на неповрежденных стеллажах и выглядят совершенно нетронутыми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Боевой штандарт</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Железный Шип</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Кажется, это тело принадлежит плохо замаскированному бойцу Орды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Сомнительные товары Трупоглаза"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Магический паноптикум Эйрины"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Кузница Темерина"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Арсенал Воры"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Необыкновенные товары Рагуса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Арсенал Виллы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Товары для разведчиков от Приксоса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Алхимические товары Арасто"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Лучшие зелья Гелы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Решатели проблем от Нереуса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>На земле перед вами лежит обезглавленное тело. Судя по одежде, разодранной когтями, это был последователь Нуновала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>На земле перед вами лежит обезглавленное тело. Судя по одежде, разодранной когтями, это был последователь Калио.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>На земле перед вами лежит обезглавленное тело. Судя по одежде, разодранной когтями, это был последователь Нуновала. Кроме того, вы замечаете сигил Вершителя судеб, похожий на тот, что был найден на трофее Рвущего Пса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Глаз жизни</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Жизнь в Каменном Море сурова и беспощадна. Пустынные растения – вот, пожалуй, и все, что может здесь уцелеть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Интендант Алого Хора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Лавка Базилы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Лавка Хелины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Лавка Праксуса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Лавка Гвардии Вендриенов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Товары Арасона"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Товары Ирен"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Качественные товары Шариз"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Кузница Лоары"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Товары Болтока"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Лавка Тикуса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Кованое оружие и доспехи"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Лучшие вещи Арчианда"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Лавка Книгочеев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Лавка Опальных</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Торговец Несломленных</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Лавка Твердыни Часовых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Торговец Сумеречного Бастиона</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Погруженный в лаву Книгочей кричит от боли. Похоже, что лава обжигает его, однако кожа остается неповрежденной. Он корчится в муках, а глаза его молят вас о помощи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>На стене вы видите истертую и выцветшую руну. Понять, что это за руна, не представляется возможным.
+(Чтобы изучить ее, требуется талант Лантри "Голос прошлого").</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>В торке множество маленьких выемок. В остальном он выглядит совершенно обычно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Лавка Стерлинга Хэгнона</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Вода серьезно повредила эти пустые ящики. В левом верхнем углу каждой коробки можно увидеть несколько зарубок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Лавка интенданта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Большие деревянные ворота прочно заперты изнутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Похоже, в этом маяке нет кристалла. При ближайшем рассмотрении становится понятно, что причиной тому был, скорее всего, опустошитель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Здесь лежит связанный и обездвиженный зверолюд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Здесь лежит связанный и обездвиженный зверолюд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Похоже, это труп того самого избранного Несломленных, которого вы ищете. Но "Бесстрашного" нигде не видно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Большую часть обзора во время бури перекрывают комья грязи и заржавленного железа. Вы едва можете различить силуэт вдали – он не может быть ничем иным, кроме как внутренней цитаделью Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Это донесение о битве у Переправы Отголоска возлагает ответственность за неудачную атаку деревни на [url=glossary:алый хор]Алый Хор[/url]. Похоже, их разведчики не сообщили важные сведения о составе вражеских войск.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>На прилавке, аккуратно подписанные и тщательно рассортированные, лежат вынесенные с поля боя трофеи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>В этих донесениях указаны все известные заставы и форпосты Алого Хора, а также расположение их войск. Можно быть уверенным в том, что у Грэйвена Аше есть глаза и уши во вражеском стане.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Производство новых зелий не поспевает за спросом. Многие из этих бутылей пусты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Позади трона Голосов Нерата гордо выставлены тела командиров Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Куда ни посмотри – везде хаотично громоздятся шатры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Пол шатра усеян объедками и прочим мусором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Знамя Кайроса равно впечатляет как завоеванных, так и непокоренных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Изображение над троном напоминает маску Тунона. Где бы вы ни находились, кажется, что оно всегда смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Любые просители, вызвавшие недовольство Тунона, встретят свою судьбу в ямах под судом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Каменный трон покрыт внушительным слоем пыли. Никто не восседал на нем уже очень долгое время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Сложность архитектуры предполагает уровень мастерства, который значительно превышает то, что можно было бы ждать от обычного ярусника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Все, что осталось на блюдах и в кубках – заплесневелые куски хлеба и тухлая вода. Эта комната давно не видела достойной пищи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Здесь лежат оружие и доспехи Гвардии Вендриенов. Выщербленные, покрытые царапинами и вмятинами, они подтверждали свои прочность и надежность в бесчисленном множестве боев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Целебный Нож</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Из-за двери доносится слабый детский плач. Не похоже, чтобы кто-то спешил на помощь ребенку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Огонь в обеденном зале все еще горит, а блюда и столовое серебро оплавляются на столы. Несколько поколений этот зал не видел боя. После этого сражения [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] уже никогда не будет прежней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Здесь хранятся запасы провианта Гвардии Вендриенов. Большую их часть составляют овощи, выращенные в землях Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Течение реки Матани не представляет особой угрозы даже утлым лодчонкам, что уж говорить о мостах, подобных этому. Разрушившее его волшебство должно было быть могущественным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Большинство домов на южном берегу реки заброшены – прямо как этот. Почти никто из жителей Гребня уже не считает, что поднятие синего флага окажет на солдат Кайроса хоть какое-то влияние.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Река Матани – природная граница центрального кольца Гребня. Она сильно сужается в районе Отголоска, делая его одной из самых уязвимых точек долины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Свитки, разложенные на этом столе, украшены магическими глифами. Судя по манере начертания, их писал Книгочей, хотя надписи сделаны по невыделанному пергаменту, произведенному в долине – уникальный пример сотрудничества обычно разрозненных групп повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Под деревом все еще тлеют угли – воистину, [url=glossary:алый хор]Алый Хор[/url] приложил все усилия, чтобы сделать эту землю бесплодной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Похоже, в этом фургоне укрывались от стрел. Судя по ведущим от него кровавым следам, особым успехом эта попытка не увенчалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Тело солдата покрыто множеством ран. Поблизости лежат остывшие трупы двух немолодых крестьян, которых он так и не смог спасти от смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Путь блокируют скрученные в одну линию колючие заграждения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Ветер пронизывает заброшенный лагерь, и в воздухе пляшут тлеющие угольки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Насекомые роятся вокруг нескольких подгнивших плодов, лежащих среди остальных продуктов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>На столе разложены самые разнообразные лекарственные травы. Похоже, их выдачу тщательно нормируют.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>С ветки свисает тщательно освежеванная дичь. Похоже, при жизни она болела и скверно питалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Вы видите, как жизнь вокруг шатров замирает, ее скрывает дым от лагерных костров. Солдаты, которых вы можете разглядеть, погружены в мрачное безмолвие – это похоже на затишье перед бурей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>В отдалении слышен типичный гул военного лагеря – лязг стали на тренировочных площадках, топот и приглушенный шум из закрытых шатров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Дерево этих брустверов чисто, и срезы его ровны. Эти стены пока еще не видели сражений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Перед вами – скромная могила. Ее венчает сломанный меч, на железе которого выгравирован инициал – литера "Б".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Эта древняя ткань выглядит одновременно и очень старой, и прекрасно сохранившейся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Дно пропасти глубже, чем можно разглядеть. Снизу доносится слабый гул низвергающейся воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>На старой, измятой бумаге написан список предметов. Основные вещи, нужные для ремесла и починки, вычеркнуты, а вот большинство пунктов с наименованиями продуктов – нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Лавины камня и ржавой стали принесли этой земле лишь смерть и разрушение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Старые Стены простираются от бесплодных земель до Южного моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>На берегу большой реки притулилось маленькое селение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Даже с этой высоты видно, сколь широка и могуча река Портускор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Над обрывом поросшего кристаллами каньона притулилась маленькая деревушка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Всю эту местность – насколько хватает глаз – покрывают огромные скалы и глубокие расщелины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Куда ни взгляни – кристаллы покрывают то, что осталось в этих краях от земли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Несколько строений прилепились к относительно чистому утесу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Из этого шатра разит мочой и дерьмом – его явно используют не для отдыха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Этот труп испещрен маленькими мишенями, отмечающими некоторые части тела, как более трудные для попадания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Схематично обозначенные на карте пути снабжения вьются по искореженным землям, бывшим некогда королевством Оплот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Даже во время разрушительных ржавых бурь [url=glossary:несломленные]Несломленные[/url] на удивление хорошо стреляли из луков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Бочки и ящики покрыты слоем ржавой пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Этот дом был разделен напополам магией Скаловержцев. Видимо, Антио приказал своим магам сделать это, чтобы запугать местных жителей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Похоже, деревня Отголосок неплохо снабжается. Судя по всему, местные жители оказывают поддержку повстанцам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Изнутри доносятся приглушенные голоса и испуганные вскрики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Луга простираются по всем землям Ярусов. Большая их часть все еще необитаема, и ни одна фракция не заявила на них права.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>На дне пруда вы можете разглядеть еле заметные очертания руки солдата, павшего в одном из сражений, что случались в этой области.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Этот старый тренировочный манекен выглядит так, словно его уже много раз чинили и переделывали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Доспехи в этой повозке стары, покрыты вмятинами и кажутся не слишком пригодными для боя; не лучше выглядит и оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>На дне пруда вы можете разглядеть еле заметные очертания руки солдата, павшего в одном из сражений, что случались в этой области.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Эти ящики выглядят так, словно их поставили сюда и забыли об их существовании. От них исходит резкий запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Кажется, кто-то пытался забросать этот походный костер грязью, но слишком торопился и пропустил большую часть кострища.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Колесная ось телеги сломана – видимо, это и стало причиной, по которой ее оставили здесь. Самые нижние ее части уже начали зарастать травой и грязью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Это копье надтреснуто, изломано и, возможно, скоро сломается окончательно. Несмотря на это, его, похоже, недавно использовали в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Кристаллы лазурелита можно найти во всем Каменном Море. Скаловержцы очень их ценят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Постоянные попытки раздобыть кристаллы лазурелита настроили Камнепытов против любого человека, приходящего в [url=glossary:каменное море]Каменное Море[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Эти развалины относятся ко временам начала завоевания Ярусов Владыкой. Одно из немногих свидетельств попытки восстановления Гвардией Вендриенов своих укреплений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Центральный Шпиль пронзает облака, простираясь ввысь на расстояние, которое трудно даже вообразить. Отсюда он кажется совершенно неприступным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>История Молодых Королевств полна попыток штурма этих стен. [url=glossary:стойкость]Стойкость[/url] цитадели Колодца Вендриенов вошла в легенды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Это кострище полно тлеющих углей, источающих неземное сияние. Вы смотрите на пламя и видите в его отблесках искаженные лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>На западе виден сияющий Шпиль Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>На востоке виднеется низкое облако пепла вокруг Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Скальные пики Могилы Клинков обеспечивают укрытие как для солдат, так и для зверолюдов, делая это место прекрасной позицией для засады на неосторожных путников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Все указывает на то, что хористы заманили этот караван в засаду, перебили сопровождение и украли товары.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Главную лесную дорогу перекрыли зверолюды. Они – прекрасные охотники и следопыты, и знают, как загнать добычу в угол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Эта ловушка от погибелей давно сломана. Учитывая состояние других подобных ловушек в этих Старых Стенах, похоже, что тот, кто ее сломал, вошел в комнату не с южного входа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Похоже, эта ловушка на погибелей развалилась от старости. Это бы объяснило, почему сейчас неподалеку шляется несколько тварей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Товары Джино"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Хозяйка Летианы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Меч и Ножны"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Буря все еще бушует, так что прохода по этой дороге нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Там, где бушевала буря невероятной силы, из земли выступают огромные каменные шипы. Сорванные с тел солдат оружие и доспехи ныне впаяны в камень – наглядный пример гнева Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Товары Алагана"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>С этого трона в течение пяти прошедших веков регенты правили землями Оплота, а их родословная не прерывалась и сохранялась на протяжении множества поколений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Эта детская кроватка аккуратно убрана и абсолютно чиста – в то время, как все остальное в зале покрыто пылью и железной крошкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Щиты и броня укрывают этот импровизированный шатер, давая ему дополнительную защиту от суровой и жестокой местной природы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Вокруг разбросаны доспехи и провиант, явно принадлежавшие Несломленным. Трудно сказать, что окрасило их алым – кровь или боевая раскраска хористов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Эти тюки и ящики с припасами слишком аккуратно уложены, чтобы принадлежать какой-либо ватаге Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Похоже, эти каменные шипы появились настолько внезапно и резко, что пронзили насквозь и оружие, и броню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Этот покрытый ржавой пылью импровизированный шатер выглядит не слишком удобным, однако, вне всякий сомнений, сумеет защитить от скверной погоды Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Каким-то образом этот кристалл сумел прорасти сквозь основание Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Эту часть стены покрывают загадочные руны, простирающиеся вверх насколько хватает взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Яркие огни отбрасывают на стены изумрудный отсвет. Как они обрели такой оттенок и почему не сгорают – остается тайной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Оружие и броня лежат под водой, большинство из них проржавели настолько, что не подлежат восстановлению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Это знамя эпохи давних сражений покрыто кровью и ржавчиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Когда вы открываете один из мешков, наружу вырывается ужасающая вонь. Заглянув внутрь, вы видите остатки сгнивших фруктов и зерна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Дверь не сдвинулась ни на дюйм. Похоже, она забаррикадирована с той стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Вся вода, льющаяся из желобов, уходит в маленькое отверстие на дне ямы. Иногда то закрывается, и вода оттекает в какие-то неведомые места.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Этот символ с удивительным постоянством повторяется в этом месте буквально повсюду. Так как изучение Старых Стен под запретом, вероятно, его древний смысл затерялся в глубинах истории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Врагов, не заслуживших свой кол, хористы оставляют висеть на скалах, пока смерть не придет за ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Плакальщик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Гнилушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Хризанта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Похоже, "великодушие" Нерата распространялось только на дочь Амелии, а не на саму Амелию. Голоса специально выставил ее труп напоказ – военный трофей, сравниться с которым может разве что бездыханное тело ее отца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>После того как секреты Безмолвного Архива были раскрыты, у Цензора не осталось другого применения, кроме как быть вместилищем его знаний. Ее подперли несколькими пиками в наглядном напоминании о пределах личностного роста в рядах Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Тело Элдиана усеяно маленькими колотыми ранами, его руки изуродованы и покрыты засохшей кровью. Похоже, над стариком издевались перед смертью, но он сражался до последнего.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Пелокса насадили на кол через зад, сделав из него унизительное зрелище, предназначенное для того, чтобы деморализовать выживших бойцов Гвардии Вендиренов, до которых могут дойти слухи о его судьбе. Толстые, высохшие струйки слизи стекают по его доспеху – дар, который постоянно преподносят солдаты Орды с горькими воспоминаниями о походе на Гребень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Некогда гордая глава племени Камнепытов лежит на земле, превратившись в подобие декоративного животного. Вы замечаете знакомые, но необычные следы, которые ведут от тела Стокровки, отчего у вас возникает отчетливое ощущение, что Нерат использовал ее в качестве сидения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Маттиас "Бурое Гузно" продолжает оправдывать свое прозвище – он ужасно обделался в последние мгновения жизни. Голова лидера Несломленных запрокинута вверх, что придает ему несколько горделивый вид, несмотря на мух, которые роятся вокруг его зада.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Тело Жденьи сложно опознать. Это мешанина колотых ран, порезов, пыли и засохшей крови. Известная своей непокорностью Мастер Горна явно отказывалась принять свою судьбу без отчаянного сопротивления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Даже после смерти взгляд застывших глаз Раэтоммона выражает маниакальное отчаяние. Как и в жизни, он словно заглядывает за край бездны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Железное Копье</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Проницательное Око</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Множество коридоров и комнат остаются в пределах видимости, но явно вне досягаемости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Каменная кладка пола была разбита совсем недавно. Металлические осколки неподалеку заставляют предположить, что это – результат нерадивости солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Похоже, с этой стороны дверь не открыть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Из глубины этой ямы исходит страшный жар неизвестной природы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Тренировочная площадка покрыта пятнами крови. Здесь курсанты Гвардии Вендриенов тренируются, оттачивая боевое мастерство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>После завоевания в Ярусах стало значительно хуже с провизией. Гвардии Вендриенов приходится довольствоваться малым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Эти крошечные казармы слишком малы, чтобы [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] могла расположиться в них с удобством, достаточным для нормального сна. Солдаты спят посменно, занимая кровати по очереди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Посреди озера лавы, в окружении ритуальных жаровен, стоит алтарь. Вокруг постамента лежат тела Книгочеев, отдавших жизни в попытке остановить разрушение библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>На пики наколоты тела Книгочеев. Их кожа почернела от жара лавы, извергающейся из ближайших расщелин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Похоже, эти три сосуда помещены на алтарь в нарочитом порядке. Надписи на них похожи на сигилы светоключа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Табличка заляпана грязью и исцарапана, и большую часть написанного на ней вы прочесть не можете. Однако там упоминается "новая техника переплетения", а также "искусство магии сохранения свитков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Огонь, исходящий от дерева, отбрасывает длинные тени, падающие на опаленную землю. Если внимательно приглядеться, можно заметить, что тени пульсируют так, словно живут собственной жизнью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Теперь огонь, исходящий от дерева, отбрасывает тени неподвижные и безжизненные.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Большинство жителей Каэдо бежало от приближающихся войск Хора. Этот дом брошен, как и многие другие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Эти солдаты Орды мертвы меньше дня. Скованные Клятвой, исследующие долину, были заняты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Внизу можно заметить остатки старого города Лазури, выступающие из скал и почти невидимые во тьме расщелины. Лишь искатели и ученые иногда отваживаются исследовать эти коварные недра в поисках сокровищ некогда могущественного королевства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Горячий – лучше не трогать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Это старое железное оружие выглядит так, словно его недавно подлатали и приготовили к отправке обратно на фронт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Эти доспехи изготовлены Скованными Горном совсем недавно. Они еще теплые на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Задняя стена этого дома давно разрушена, и сквозь нее можно разглядеть Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Похоже, что эта стена была разрушена годы назад и так с тех пор как следует и не ремонтировалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Ящики наполнены испорченной провизией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Казненные солдаты Братства уложены в одну линию вместе со своими снаряжением, сумками и кольцами. Судя по всему, убили их совсем недавно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Ни одно из этих тел не подходит под описание, данное шпионом. Сумка, из которой вы извлекли донесение, слегка сырая на ощупь – в отличие от прочего лежащего на земле снаряжения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Это может быть оружие, упомянутое в письме, хотя поблизости не видно ничего значимого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Судя по проколотому носу мертвеца и шрамам на его лице, перед вами – шпион Братства. Его шею пересекает глубокая рана, напоминая о рисках, сопровождающих данную профессию. Записи, найденные в его одежде, намокли, но в потайном кармане вы видите несколько неповрежденных магических свитков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Разведчики Опальных – не редкость на Переходе Беглеца. Эти двое, похоже, наблюдали за лагерем Братства, расположенным чуть ниже, и получили в награду несколько стрел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Братство редко стоит лагерем в одном месте дольше нескольких недель, чтобы не стать легкой добычей для войск Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Стол держится на нескольких хлипких досках. Удивительно, что он все еще стоит, учитывая, как трясет здешнюю землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Шатер выкрашен так, чтобы сливаться с местностью, и не похоже, что он брошен. Неподалеку лежит связка дров, а в кожаном мешке вы находите несколько кусков вяленой крольчатины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Скаловержцы легко сдвинули этот валун. Магия такой силы может оказаться крайне важна для успешного штурма Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Здесь лежит [url=glossary:каирн]Каирн[/url], рассыпавшийся в груду лазурелита и булыжников. Странствующий Архонт был уничтожен силой Эдикта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Кристаллы лазурелита – источник сил Скаловержцев. Собранная сущность кристаллов используется магами для поддержания магических способностей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Скаловержцы защищают место погребения Каирна. Солдатам в лагере регулярно присылают оружие, припасы и прочие ресурсы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Это обычный лагерь исследователей Каменного Моря. Множество путешественников со всех концов Ярусов стекаются сюда в поисках забытых сокровищ сгинувшего королевства Лазурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Мало кто может с такой легкостью разбить солдат Бронзового Братства. Похоже, эти люди умерли совсем недавно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Эта повозка обчищена мародерами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Когда скалы обрушились, эти здания и все их содержимое сгинули в пропасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Эту стену снесли в спешке, и внутри не осталось ничего. Неясно, чьих это рук дело – беженцев или грабителей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Это десятинное ведро уже почти заполнено вещами и кольцами для Сирин. Похоже, она преуспевает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Ключ-камень не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Судя по всему, несколько Скаловержцев пытались убежать от разразившегося конфликта. Ко всему прочему, искореженные фигуры внизу по тропе рисуют мрачную картину происходящего.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>[url=glossary:каирн]Каирн[/url], великий Архонт, мертв. Неизвестно, как это произошло, но похоже, что Хор напал на форт именно ради этой цели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Мертвых Опальных куда больше, чем тел солдат Орды, валяющихся на земле. Кажется, никто из легионеров не пережил этой битвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Шпиль выстоял в землетрясениях, сотрясавших [url=glossary:каменное море]Каменное Море[/url]. Он простирается высоко в небо, и скалистые отроги по сравнению с ним кажутся крошечными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>На телах нет видимых признаков разложения. Что бы здесь ни произошло – случилось оно недавно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>В ранце Скаловержца вы находите несколько кристаллов – таких же, какие вы видели в скалах. Похоже, это была экспедиция по сбору, и пошла она явно не так, как планировалось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Этот Шпиль, возвышающийся над северным горизонтом Каменного Моря, виден бесчисленному количеству путешественников. И хотя эта картина привычна всем, лишь немногие в состоянии успешно дойти до его местоположения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Поднявшаяся в сражении пыль опадает, столкнувшись с этим магическим барьером. Не похоже, чтобы тут можно было пройти, пока Книгочеи его поддерживают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Огненные сигилы сияют в этих могущественных сферах, подпитываемых силой Певчих Крови. Одного взгляда на них достаточно, чтобы прийти в неописуемый ужас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Хотя вдоль этой стены змеится большая трещина, сила магического барьера гарантирует, что ей никто не воспользуется. Сначала придется заставить замолчать поддерживающих его Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Скаловержцы сосредоточились на подготовке заклинания, которое должно разрушить каменную стену Цитадели. Их усилиям противостоит поддерживаемый Книгочеями магический барьер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Кузница заперта. Похоже, [url=glossary:скованные горном]Скованные Горном[/url] ушли из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Кристалл в маяке не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Кристалл в маяке не отвечает на светоключи из этих Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Это строение разрушено землетрясениями, а затем обчищено мародерами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Путь поднимается вверх по склону и выходит из руин, но он навсегда завален вулканическим камнем. Книгочеи не получили предупреждения об Эдикте Кайроса и не смогли защитить входы в библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>[url=glossary:эдикт]Эдикт[/url] Кайроса превратил пол в расплавленное озеро лавы. Если бы у Книгочеев было больше времени на подготовку, им бы удалось спасти более крупные части библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Лава застыла в опасной близости от края пола. Еще пядь – и она перелилась бы через край и залила землю у ваших ног.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Эти борозды в полу выложены бледным светящимся материалом, который мерцает при ближайшем рассмотрении. Они пересекаются под разными углами, образуя несметное число возможных фигур, похожих на оттиск, который вы нашли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Эти борозды в полу выложены бледным светящимся материалом, который мерцает при ближайшем рассмотрении. Они пересекаются под разными углами, образуя несметное число возможных фигур. Можно предположить, что в архитектуре комнаты заложены подсказки по узору, который в ней когда-то находился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Землю усеивают тела солдат Несломленных и рекрутов Алого Хора. Вороны уже расправились с глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Судя по качеству доспеха и тому, как другие трупы окружают его, скорее всего, это лидер Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>В левом верхнем углу каждой коробки можно увидеть несколько зарубок. Судя по следам на земле, их притащили из дома неподалеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Сибил, уже бывшая защитница Переправы Отголоска, лежит перед вами. Из-за покрывающих ее слоев крови сложно сказать, где заканчиваются ее ярко-рыжие волосы, а где начинаются раны. Похоже, что среди всех заметных на ней ранений значительная их часть нанесена уже после смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Дверь нельзя сдвинуть рукой, и она легко сопротивляется любым попыткам ее открыть. Вы замечаете маленькое отверстие, вырезанное в одной из панелей, украшающих эту дверь, но в зале вокруг не видно ничего, что могло бы туда войти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Дверь почти вплотную прилегает к окружающим стенам. На ее поверхности вы видите несколько сколов и небольших вмятин от неудачных попыток открыть ее силой. На дверных панелях нет ничего, с чем можно взаимодействовать, и вы предполагаете, что с этой стороны она открываться не должна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Далеко внизу вы видите огромный камень, зависший над обрывом, уходящим в беспросветную тьму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Лавка Федра</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Волнистые спирали светящейся энергии наверху платформы выглядят удивительно спокойно для погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

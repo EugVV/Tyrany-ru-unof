@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_gamblersruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Разорение игрока</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Расспросить Мелла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вернуться к Ростому Ленку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Получить информацию у Телесофии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти мертвых Подранков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться к Меллу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Поговорить начистоту с Тонвисом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поговорить начистоту с Меллом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Встретиться с Тонвисом в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Поговорить начистоту с Меллом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Поговорить с Аргеном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Встретиться с Аргеном в Разрушенной крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вернуться к Телесофии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ростом Ленк полагает, что Мелл, букмекер Раны, жульничает. Он попросил вас с этим разобраться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ростом считает, что проще всего начать с того, что напрямую расспросить Мелла. Он писец, а значит, должен признавать власть Вершителя судеб и подчиняться вам.</DefaultText>
+      <FemaleText>Ростом считает, что проще всего начать с того, что напрямую расспросить Мелла. Он писец, а значит, должен признавать власть Вершительницы судеб и подчиняться вам.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Теперь, когда проблема со ставками решена, возвращайтесь к Ростому Ленку и расскажите обо всем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Мелл упомянул, что это Телесофия определяла вероятность гибели и выживания Подранков на охоте. Возможно, она объяснит, как она связана с этими пари.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Мелл говорит, что можно выяснить, в чем замешан Тонвис, если осмотреть недавно погибшего зверолюда. По его словам, труп вы отыщете, воспользовавшись южным телепортом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Поговорив с Телесофией и получив от нее новые сведения, вернитесь с этим к Меллу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы обнаружили свидетельства того, что ответственность за гибель зверолюдов несет кузнец Скованных Горном. Сведения, уличающие Тонвиса, сообщил вам Мелл.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Тонвис признал, что он убивал зверолюдов, но утверждал при этом, что Мелл шантажировал его и велел убивать самых сильных и здоровых. Этого достаточно, чтобы прийти к Меллу с обвинениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Тонвис сбежал в Старые Стены, опасаясь последствий вашего разговора с Меллом. Сообщите ему о вашем вердикте в отношении азартных игр и убийства зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Разобравшись с Тонвисом, обвините Мелла в том, что он замешан в убийствах Подранков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Телесофия попросила вас убить Аргена. Сперва поговорите с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Арген предложил вам встретиться на утесе, к западу от Разрушенной крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вы устранили Аргена, и теперь Телесофия должна поделиться с вами информацией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы положили конец азартным играм в Ране Бастарда, заявив, что это противоречит законам Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убрали Тонвиса из Раны Бастарда. Теперь смертность Подранков войдет в норму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы прикрыли тотализатор Мелла и заставили Тонвиса прекратить убийства Подранков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы заставили Мелла прекратить шантажировать Тонвиса, чтобы тот больше не убивал Подранков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Не увидев необходимости вмешиваться в происходящее, вы оставили все как есть.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

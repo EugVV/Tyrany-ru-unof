@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act3_kill_nerat_fallthrough</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Штурм Какофонии</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Одержать победу над ордой Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Одолеть [url=glossary:голоса нерата]Голоса Нерата[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Архонт Тайн укрылся в своей крепости в Какофонии. Если вы хотите пережить декрет Кайроса, вам придется заставить [url=glossary:голоса нерата]Голоса Нерата[/url] умолкнуть раз и навсегда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Дать бой Алому Хору и отправиться в Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Между вам и Голосами Нерата – бесчисленное множество солдат Алого Хора. Пробейтесь через них и отыщите Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы победили солдат Алого Хора, их трупы устилают ваш путь. И вот [url=glossary:голоса нерата]Голоса Нерата[/url] перед вами. Покончите с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] мертв, и [url=glossary:алый хор]Алый Хор[/url] рискует впасть в сумятицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

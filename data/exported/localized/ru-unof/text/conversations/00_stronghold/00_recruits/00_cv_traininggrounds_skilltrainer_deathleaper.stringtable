@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_deathleaper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель пахнет хорошо. Пахнет кровью и ужасом".</DefaultText>
+      <FemaleText>"Вершительница пахнет хорошо. Пахнет кровью и ужасом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Вершитель! Альфа пришел обучаться со зверолюдкой, да?" Ее челюсть широко раскрывается в улыбке, обнажая ряд острых клыков.</DefaultText>
+      <FemaleText>"Вершительница! Альфа пришла обучаться со зверолюдкой, да?" Ее челюсть широко раскрывается в улыбке, обнажая ряд острых клыков.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
+      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Скачущая Смерть научит Вершителя". Она издает низкий рокочущий рык.</DefaultText>
+      <FemaleText>"Скачущая Смерть научит Вершительницу". Она издает низкий рокочущий рык.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Вершитель хочет тренироваться? Хочет драться-играть – грызть и рвать Скачущую Смерть? Это весело".</DefaultText>
+      <FemaleText>"Вершительница хочет тренироваться? Хочет драться-играть – грызть и рвать Скачущую Смерть? Это весело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Думаешь, человек может порвать Скачущую Смерть такими тупыми когтями? Давай! Играй. Пробуй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Она ворчит и фыркает, дышит жадно и глубоко, порыкивая, как дикий зверь, которому не терпится вступить в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Человек пришел драться-играть со зверолюдкой?"</DefaultText>
+      <FemaleText>"Человек пришла драться-играть со зверолюдкой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Темно-серые губы растягиваются в недоброй ухмылке, она бдительно следит за вами. "Пора драться? Зверолюдка будет рвать когтями!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вершитель – хороший боец. Почти все время теперь умеет сбежать от когтей Скачущей Смерти".</DefaultText>
+      <FemaleText>"Вершительница – хороший боец. Почти все время теперь умеет сбежать от когтей Скачущей Смерти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Думаешь, человек может порвать Скачущую Смерть такими тупыми когтями? Давай! Играй. Пробуй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Чую, дикий человек идет". Она склоняет здоровенную голову, не глядя вам в глаза, даже когда вы подходите ближе. "Вершитель хочет драться со зверолюдкой?"</DefaultText>
+      <FemaleText>"Чую, дикий человек идет". Она склоняет здоровенную голову, не глядя вам в глаза, даже когда вы подходите ближе. "Вершительница хочет драться со зверолюдкой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Дерись со зверолюдкой! Узнаем, кто лучший охотник – а кто добыча!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Она ворчит и фыркает, дышит жадно и глубоко, порыкивая, как дикий зверь, которому не терпится вступить в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Она ворчит и фыркает, дышит жадно и глубоко, порыкивая, как дикий зверь, которому не терпится вступить в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Вершитель хочет тренироваться? Хочет драться-играть – грызть и рвать Скачущую Смерть? Это весело".</DefaultText>
+      <FemaleText>"Вершительница хочет тренироваться? Хочет драться-играть – грызть и рвать Скачущую Смерть? Это весело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она воет. Перевитые, напряженные мышцы плеч подрагивают. Когда вы подходите ближе, вой сменяется рычанием, она скалит клыки, и густая слюна капает на подбородок, стекает по шее.
+
+"Драться сейчас! Победа или смерть! Человека загрызет, порвет на куски. Покажет человеку, как бить, как кровью течь, как убегать-вопить-скулить".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

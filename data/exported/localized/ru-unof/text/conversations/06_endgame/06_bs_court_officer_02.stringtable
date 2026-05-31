@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_court_officer_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вельможи днями ждут в очереди, чтобы озвучить свои проблемы. Ума не приложу, почему мы их вообще выслушиваем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отдайте приказ, и я сброшу любого из этих напыщенных вельмож в ту яму".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Никто из этих размалеванных подхалимов не понял значения закона Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Похоже, Адъюдикатор чем-то раздражен. Будь осторожен".</DefaultText>
+      <FemaleText>"Похоже, Адъюдикатор чем-то раздражен. Будь осторожна".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

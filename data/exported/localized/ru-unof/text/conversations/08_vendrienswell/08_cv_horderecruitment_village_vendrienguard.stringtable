@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_horderecruitment_village_vendrienguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы выходите на середину деревни с таким ощущением, точно за вами наблюдают со всех сторон. Где-то вдали слышны отголоски шагов, хотя небольшое поселение выглядит совершенно безлюдным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я Вершитель судеб [Player Name]. Я пришел, чтобы обсудить вашу вербовку в Хор. Окажите содействие, и вы будете жить".</DefaultText>
+      <FemaleText>"Я Вершительница судеб [Player Name]. Я пришла, чтобы обсудить вашу вербовку в Хор. Окажите содействие, и вы будете жить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Выходите. Чем дольше вы заставляете меня ждать, тем мучительнее будет ваша смерть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>К северу от вас деревянные перекрытия крыши поскрипывают под чьим-то весом. За спиной шелестит листвой дерево.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Если будете прятаться по домам, я с удовольствием спалю всю деревню дотла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я пришел предложить вам искупление в рядах Алого Хора. Я искренне пытаюсь спасти вам жизнь... Помогите мне в этом хоть немного".</DefaultText>
+      <FemaleText>"Я пришла предложить вам искупление в рядах Алого Хора. Я искренне пытаюсь спасти вам жизнь... Помогите мне в этом хоть немного".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>С крыши доносится надтреснутый голос. "Убирайся к своему Владыке!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Прости, друг, но живым ты отсюда не уйдешь. Мы отправим твою голову на Север – пусть твои родичи полюбуются, что будет с теми, кто пришел захватить наши земли".</DefaultText>
+      <FemaleText>"Прости, подруга, но живой ты отсюда не уйдешь. Мы отправим твою голову на Север – пусть твои родичи полюбуются, что будет с теми, кто пришел захватить наши земли".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Нет нужды прятаться. Я пришел не убивать – а говорить".</DefaultText>
+      <FemaleText>"Нет нужды прятаться. Я пришла не убивать – а говорить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Хранить молчание.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

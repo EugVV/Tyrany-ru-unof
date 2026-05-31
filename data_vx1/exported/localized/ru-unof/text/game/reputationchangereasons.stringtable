@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\reputationchangereasons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Вы выслушали рассказ Фуги о сестре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>Вы пощадили Эссу на Речном Изломе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Вы убили Эссу на Речном Изломе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Вы заставили Фугу убить Эссу на Речном Изломе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>Фугу позабавило ваше замечание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>Вы позволили Фуге самой решить судьбу Эссы на Речном Изломе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>Вместе с Каториусом вы спланировали побег из форта Растрата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Вы напали на Каториуса в форте Растрата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>Вы согласились заступиться за Барика перед Тyноном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Вы отказались заступаться за Барика перед Тyноном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Вы проявили сочувствие к Барику во время осмотра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Вы не проявили сочувствия по отношению к Барику во время осмотра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>992</ID>
+      <DefaultText>Кассандра разозлилась за то, что вы заставили ее отдать ценные инструменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>Вы убили беззащитную Мелитту, и это сильно напугало поселенцев Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Вы наотрез отказались от предложения Случайной Искры продать Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Вы притворились, будто готовы продать Барика, чтобы прикончить Случайную Искру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Вы убили Лицентию ради куска металла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>Вы предложили убить Грэйвена Аше, чтобы избавить Барика от доспеха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Вы предложили Барику уйти из Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>Вы исключили Барика из Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>Вы оскорбили Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Вы поручили Смерти-из-Тени поговорить с Золотой Лапой и вразумить ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Вы приняли решение убить последователей Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>Вы с Фугой приятно провели время в темноте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>Вы помогли Барику отмыться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>Вы положили конец кошмару наяву, постигшему Бессонных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>Вы защитили Лантри перед Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>Вы намекнули, что, собирая союзников в Ярусах, можете преследовать собственные изменнические цели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>Вы дали Лантри и Лексеме время побыть наедине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>Вы казнили Книгочейку Лексему.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

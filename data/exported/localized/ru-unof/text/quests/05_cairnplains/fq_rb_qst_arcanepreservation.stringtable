@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\fq_rb_qst_arcanepreservation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Волшебное сохранение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Собрать три осколка лазурелита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вернуться к Радиксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Защитить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться к Радиксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Закончить ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Встретиться с Таркис Арри в Зале Вознесения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к Айседоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Защитить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Айседоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Закончить ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Встретиться с Таркис Арри в Зале Вознесения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Перестроить центральную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Перестроить центральную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Перестроить юго-восточную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Перестроить юго-восточную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Перестроить западную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Перестроить западную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вернуться к Базилиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Пришло время подготовить ритуал, чтобы вытянуть сущность Каирна и погасить жизнь в останках Архонта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Соберите три осколка лазурелита в Каменном Море, чтобы Скаловержцы могли провести ритуал над Каирном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы нашли три осколка лазурелита. Отнесите их Радиксу на Воющей Скале, чтобы он мог начать ритуал над Каирном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] нападает на Скаловержцев на Воющей Скале. Отразите атаку, чтобы Скаловержцы могли завершить ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы отразили атаку Алого Хора. Возвращайтесь к Радиксу на Воющей Скале и узнайте, как обстоят дела с Каирном и ритуалом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Убейте Каирна на Воющей Скале, чтобы завершить ритуал и усилить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Радикс согласился присоединиться к вам. Поговорите с Таркис Арри в Зале Вознесения в Колодце Вендриенов и сообщите ей о своем успехе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы нашли три осколка лазурелита. Отнесите их Айседоре на Воющей Скале, чтобы она могла начать ритуал над Каирном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] нападает на Скаловержцев на Воющей Скале. Отразите атаку, чтобы Скаловержцы могли завершить ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы отразили атаку Алого Хора. Возвращайтесь к Айседоре на Воющей Скале и узнайте, как обстоят дела с Каирном и ритуалом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Убейте Каирна на Воющей Скале, чтобы завершить ритуал и усилить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Айседора согласилась присоединиться к вам. Поговорите с Таркис Арри в Зале Вознесения в Колодце Вендриенов и сообщите ей о своем успехе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную центральную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную центральную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную юго-восточную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную юго-восточную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную западную жилу лазурелита, чтобы завершить Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную западную жилу лазурелита, чтобы завершить Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Поговорите с Базилионом в Старых Стенах Зияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Помогая Скаловержцам на Воющей Скале, вы убедили их присоединиться к вашему альянсу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

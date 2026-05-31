@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_hidden_scavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Стой!" Ослабевшие от голода солдаты хватаются за оружие и вытягиваются по струнке перед своим командиром, который делает шаг вперед и обращается к вам. "Я тебя не знаю... Ты из Несломленных?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Солгать] "Да, на пути врагов нет. Можете уходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"На тропе врагов нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я осмотрю местность и дам знать, если в округе еще остались патрули Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Благодарю," – говорит командир. "Мы будем рады объединиться с остальным отрядом".
+
+Его люди подбирают снаряжение и уходят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Атаковать] "Я не знаю, кто вы, но я пришел напоить пересохшую землю".</DefaultText>
+      <FemaleText>[Атаковать] "Я не знаю, кто вы, но я пришла напоить пересохшую землю".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Это не имеет значения. Уходите".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Не говоря ни слова, солдаты бросаются в атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Это приятно слышать". Он заметно расслабляется. "Мы было подумали, вы пришли нас прикончить. Если хотим спастись, нам нужно выбираться из расселины, но пока войска Кайроса не уйдут, мы тут застряли. Неподалеку еще есть враги?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Атаковать] "Я – шторм, который унесет ваши души".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Благодарю!" Он тяжело вздыхает. "Мы давно хотели объединиться с отрядом. Надеюсь, ты выберешься из Ржавых Каньонов в целости, брат мой".</DefaultText>
+      <FemaleText>"Благодарю!" Он тяжело вздыхает. "Мы давно хотели объединиться с отрядом. Надеюсь, ты выберешься из Ржавых Каньонов в целости, сестра".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Солгать] "Да, я пришел вам помочь".</DefaultText>
+      <FemaleText>[Солгать] "Да, я пришла вам помочь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вскоре после того, как мародеры исчезают из виду, до ваших ушей доносится шум боя и крики, но вскоре на смену им приходит тишина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Мой отряд может выбраться отсюда? Кто-нибудь стоит на пути?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Умный капитан не пытается атаковать вражеский флот – вместо этого он ведет корабли врага на рифы и не рискует своей командой". Атли тихо посмеивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Да, мы помогли Элии защитить лагерь. У вас еще есть время, чтобы сбежать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

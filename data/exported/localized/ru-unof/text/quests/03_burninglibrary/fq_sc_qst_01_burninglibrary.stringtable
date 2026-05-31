@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\fq_sc_qst_01_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Безмолвие тайн</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Цензором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Войти в Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти способ преодолеть магический барьер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти другие фрагменты пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти оставшиеся фрагменты пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Найти последний фрагмент пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Использовать пергамент, чтобы попасть в Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Найти способ унести Безмолвный Архив из Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Доложить Нерату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] поручил вам пойти в Горящую Библиотеку и вернуться со сведениями из Безмолвного Архива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Направляйтесь к Горящей Библиотеке и поговорите с Цензором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вам разрешили войти в Горящую Библиотеку, но вам все еще нужно найти способ туда попасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь вглубь руин перегорожен магическим барьером. Чтобы продолжить исследовать Горящую Библиотеку, нужно найти способ отключить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы нашли фрагмент пергамента, который, похоже, важен. Найдите другие части и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы нашли две части пергамента. Найдите остальные и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы нашли три части пергамента. Похоже, достаточно найти еще один, чтобы собрать страницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы нашли достаточно фрагментов пергамента, чтобы расшифровать магическую фразу. После этого используйте ее, чтобы получить доступ к Безмолвному Архиву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы нашли Безмолвный Архив. На самом деле это один магический свиток, который содержит все знания Книгочеев. Найдите способ забрать его из Библиотеки, чтобы закончить [url=glossary:эдикт]Эдикт[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы забрали Безмолвный Архив. Вернитесь в Какофонию и расскажите Голосам Нерата о своем успехе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Поговорить с Семипалой о том, куда идти дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы забрали Безмолвный Архив из Горящей Библиотеки и доставили его Нерату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы пошли против воли Нерата и напали на Цензора, тем самым сделав [url=glossary:алый хор]Алый Хор[/url] своими врагами.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

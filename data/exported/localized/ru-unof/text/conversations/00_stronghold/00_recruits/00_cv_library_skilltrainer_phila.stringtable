@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_phila</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я нечаянно сожгла свиток... прошу прощения. Мне тут слишком мало места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ну что, Вершитель, будем подчинять себе стихии?" Она стискивает руки в нетерпении.</DefaultText>
+      <FemaleText>"Ну что, Вершительница, будем подчинять себе стихии?" Она стискивает руки в нетерпении.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
+      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Пришел тренироваться?" Филия придирчиво осматривает вас. "Есть те, кому это очень не помешает".</DefaultText>
+      <FemaleText>"Пришла тренироваться?" Филия придирчиво осматривает вас. "Есть те, кому это очень не помешает".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Хочешь чему-нибудь обучиться, Вершитель?"</DefaultText>
+      <FemaleText>"Хочешь чему-нибудь обучиться, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Маг с любопытством осматривается в библиотеке. Ваше появление она замечает не сразу. "М-м? Вершитель судеб? Я уж и не надеялась познакомиться с хозяином этого места".</DefaultText>
+      <FemaleText>Маг с любопытством осматривается в библиотеке. Ваше появление она замечает не сразу. "М-м? Вершительница судеб? Я уж и не надеялась познакомиться с хозяйкой этого места".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Она кланяется. "Филия, Скованная Горном. Сейчас ты спросишь, что делает кузнец вдали от кузни... Так вот, я отдыхаю от работы с металлом, и сейчас эта библиотека подходит мне как нельзя лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Как ты тут оказалась?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"И что ты собираешься делать дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она смотрит вдаль, за край Шпиля. "Можешь поверить, мне это далось сложнее, чем тебе. Но я привыкла трудиться без устали, чтобы получать желаемое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мне нужно отдохнуть от войны. Создавать раз за разом одни и те же клинки и шлемы, все свои силы, разум и мастерство тратить на снабжение армии..." Она содрогается. "[url=glossary:скованные горном]Скованные Горном[/url] не просто ремесленники, мы в душе художники. Талант страдает, когда его используют таким образом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я хочу провести какое-то время среди этих книг, вспомнить, чем и почему меня изначально так привлекала магия. Возможно, той же цели я смогу достичь, занимаясь твоим обучением, но это мы проверим, когда приступим к делу".
+
+Она откашливается. "Ну что, начнем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Конечно. Давай поговорим о магии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Уйти] "Мне некогда. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

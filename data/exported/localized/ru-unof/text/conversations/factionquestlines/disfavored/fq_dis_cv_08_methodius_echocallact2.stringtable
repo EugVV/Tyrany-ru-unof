@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_08_methodius_echocallact2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель... Я так надеялся, что мы когда-нибудь встретимся. Я как раз наточил этим утром мой клинок. Какая удача".</DefaultText>
+      <FemaleText>"Вершительница... Я так надеялся, что мы когда-нибудь встретимся. Я как раз наточил этим утром мой клинок. Какая удача".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"А теперь скажи мне, что ты здесь делаешь, пока я не решил лишить тебя головы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я принес сообщение от Грэйвена Аше".</DefaultText>
+      <FemaleText>"Я принесла сообщение от Грэйвена Аше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Неужели? [url=glossary:грэйвен аше]Грэйвен Аше[/url] – последний, от кого мне хотелось бы получить весточку. Ты считаешь, я приму это за хорошую новость?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Тогда не молчи, не будем растягивать эту незначительную минуту... Говори, что он хочет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] желает заключить с вами мир. Мы могли бы забыть о прошлом и шагнуть в будущее, объединив наши силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты проделал весь этот путь, чтобы предложить мир. [url=glossary:грэйвен аше]Грэйвен Аше[/url] считает, что мы развлекаемся? Он считает, что мы так просто бросим оружие и сдадимся? После всего, что он сделал!?"</DefaultText>
+      <FemaleText>"Ты проделала весь этот путь, чтобы предложить мир. [url=glossary:грэйвен аше]Грэйвен Аше[/url] считает, что мы развлекаемся? Он считает, что мы так просто бросим оружие и сдадимся? После всего, что он сделал!?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Вершитель, мне неприятно тебе это говорить... Но ты зря потратил время. Ни при каких обстоятельствах я не приму мира от Опальных. После того, что они сотворили с нами, это уже невозможно".</DefaultText>
+      <FemaleText>"Вершительница, мне неприятно тебе это говорить... Но ты зря потратила время. Ни при каких обстоятельствах я не приму мира от Опальных. После того, что они сотворили с нами, это уже невозможно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Но поскольку ты пришел с предложением о мире, я позволю тебе уйти, сохранив руки и ноги. Не задерживайся, потому что я могу передумать".
+
+"Ступай".</DefaultText>
+      <FemaleText>"Но поскольку ты пришла с предложением о мире, я позволю тебе уйти, сохранив руки и ноги. Не задерживайся, потому что я могу передумать".
+
+"Ступай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мне жаль, что ты остался глух к доводам разума. Я передам твой ответ Грэйвену Аше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Почему ты все еще здесь, Вершитель? Я принял окончательное решение".</DefaultText>
+      <FemaleText>"Почему ты все еще здесь, Вершительница? Я принял окончательное решение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Мы, Вершители судеб, везде найдем, чем заняться. Сегодня здесь, завтра там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ты очень высокого о себе мнения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Вы только посмотрите – Вершитель, который считает, что у него есть чувство юмора. Рассказывай, что привело тебя сюда на самом деле?"</DefaultText>
+      <FemaleText>"Вы только посмотрите – Вершительница, которая считает, что у нее есть чувство юмора. Рассказывай, что привело тебя сюда на самом деле?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ну еще бы. Так что заканчивай тянуть время и выкладывай, зачем ты здесь, пока я не решил преподать тебе урок в назидание остальным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Очень жаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хочет заключить союз. [url=glossary:опальные]Опальные[/url] предлагают вам сотрудничество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Пожать плечами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

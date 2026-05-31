@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critpathspine\cps_qst_act2_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Голос Кайроса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в суд Тунона в Городе-Бастарде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Рассказать обо всем Тунону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить с Туноном наедине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Тунон – это голос Кайроса в Ярусах, и он захочет знать подробности произошедшего в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Тунон ожидает вашего возвращения в суд в Городе-Бастарде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Сейчас идет заседание суда Тунона. Поговорите с ним о том, что произошло в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Тунон вызвал вас на встречу с глазу на глаз. Он ожидает вас на террасе над своим судом в Городе-Бастарде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Тунон недоволен конфликтом между Алым Хором и Опальными. Он считает, что один из Архонтов непригоден для того, чтобы править. Он посоветовал встретиться с одним из них, чтобы прояснить этот вопрос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Тунон был недоволен моими действиями в Колодце Вендриенов и на неопределенный срок уволил меня из своего суда и передал в распоряжение Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вместо того чтобы исполнить указания Тунона и отчитаться перед ним в Городе-Бастарде, вы пришли на тайную встречу с Бледеном Марком в Пепельной Глуши. Сейчас вы в распоряжении Архонта Теней.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

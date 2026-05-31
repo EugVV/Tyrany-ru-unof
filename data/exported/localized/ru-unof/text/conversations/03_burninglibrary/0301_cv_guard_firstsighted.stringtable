@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_cv_guard_firstsighted</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Проходивший мимо солдат замечает вас и тут же тычет в вашу сторону копьем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вершитель! О твоих кровавых подвигах ходят легенды. Цензор будет рада принять тебя".</DefaultText>
+      <FemaleText>"Вершительница! О твоих кровавых подвигах ходят легенды. Цензор будет рада принять тебя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Цензору будет интересно познакомиться с тобой, Вершитель. Она ждет у входа в Библиотеку. Ступай".</DefaultText>
+      <FemaleText>"Цензору будет интересно познакомиться с тобой, Вершительница. Она ждет у входа в Библиотеку. Ступай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Атаковать] "Ты мне не указ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Уйти] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

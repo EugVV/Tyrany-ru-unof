@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_pghg_settler_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Говорят, после окончания Эдикта зверолюдов стало меньше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Землетрясения... они прекратились!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"А вдруг Голоса отомстит?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хор планировал прекратить землетрясения. Что нам теперь делать, Вершитель?"</DefaultText>
+      <FemaleText>"Хор планировал прекратить землетрясения. Что нам теперь делать, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Наконец-то я могу нормально выспаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты – Вершитель судеб, прекративший землетрясение! От всего сердца благодарю тебя!"</DefaultText>
+      <FemaleText>"Ты – Вершительница судеб, прекратившая землетрясение! От всего сердца благодарю тебя!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты ведь тот самый Вершитель судеб, что спас нас от Каирна?"</DefaultText>
+      <FemaleText>"Ты ведь та самая Вершительница судеб, что спасла нас от Каирна?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Вершитель судеб. Ты здесь, чтобы нести правосудие Тyнона?"</DefaultText>
+      <FemaleText>"Вершительница судеб. Ты здесь, чтобы нести правосудие Тyнона?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"У наших торговцев – лучшие ковры по эту сторону Терратуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Вершитель судеб? Ты олицетворяешь правосудие Владыки".</DefaultText>
+      <FemaleText>"Вершительница судеб? Ты олицетворяешь правосудие Владыки".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Когда-то здесь было красиво. Лучше бы [url=glossary:каирн]Каирн[/url] не появлялся тут вовсе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"По ночам тут лучше не бродить. Можно не заметить обрыва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Вершитель судеб. Добро пожаловать в [Plainsgate]".</DefaultText>
+      <FemaleText>"Вершительница судеб. Добро пожаловать в [Plainsgate]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"По крайней мере у солдат Кайроса много колец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Говорят, рядом обитает племя дикарей. Пора на охоту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

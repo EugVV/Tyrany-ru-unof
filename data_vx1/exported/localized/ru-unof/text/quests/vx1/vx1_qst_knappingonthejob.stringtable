@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_knappingonthejob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Дело каменщика боится</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить со Скованными Горном в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с торговцем, который продает вещи Скованных Горном в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с торговка Базилой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отправиться в поселение Южная Гавань.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Кассандрой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Убить Кассандру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поговорить с жителями Южной Гавани.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Украсть инструменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вернуться к Яспосу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Яспосу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Взять инструменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Осмотреться в центре поселения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Украсть инструменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Когда Яспос наткнулся на Рану Бастарда, у него при себе имелись не все инструменты. Самые ценные – те, что были насыщены магией, – остались в [url=glossary:распутье летианы]Распутье Летианы[/url]. Он попросил вас выяснить, у кого из Скованных Горном оказались его вещи, и забрать ценные магические инструменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Яспос оставил свои инструменты в [url=glossary:распутье летианы]Распутье Летианы[/url], когда закончил работу в тамошней кузнице. Поговорите со Скованными Горном и выясните, где они могут быть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Яспос оставил свои инструменты в [url=glossary:распутье летианы]Распутье Летианы[/url], когда закончил работу в тамошней кузнице. Поговорите с торговцем, который продает вещи Скованных Горном, и выясните, где они могут быть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Торговец Сирил не знает, куда могли подеваться инструменты Яспоса, но полагает, что это может быть известно торговке по имени Базила.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Кассандра, Скованная Горном, у которой оказались инструменты Яспоса, проживает сейчас в Южной Гавани.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Главой Скованных Горном в поселении Южная Гавань является мастер Кассандра. Узнайте у нее об инструментах Яспоса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Кассандра отказывается добром отдавать инструменты Яспоса. Заберите их силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Кассандра не хочет, чтобы инструменты достались Яспосу. Если вы не хотите отнимать их силой, поговорите с другими обитателями Южной Гавани. Возможно, узнаете что-то полезное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Под покровом ночи проникните к Скованным Горном и украдите инструменты из мастерской.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вернитесь к Яспосу с его инструментами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы решили не отнимать инструменты у Кассандры. Сообщите Яспосу о своем решении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вы заметили инструменты на столе, у тигельной печи. Как только Кассандра уйдет, их можно забрать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Каптерон согласился украсть инструменты у Кассандры – и не вернулся. Теперь вдалеке вы слышите перебранку сельчан. Сходите и посмотрите, в чем там дело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Кассандра устраивает публичную казнь за попытку кражи инструментов, принадлежащих Скованным Горном. За инструментами сейчас никто не следит, вы можете забрать все, что хотите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ночью Кассандра ни с кем не разговаривает. Найдите кого-то еще, чтобы договориться о ночлеге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Никодимус охраняет лестницу, ведущую к Скованным Горном, и с места двигаться не намерен. Придумайте, как его отвлечь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] понаблюдали за вашими действиями и обеспокоились. Вам больше не рады в Южной Гавани.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы отдали Яспосу инструменты, как он и просил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы отдали инструменты Махальнику, а не Яспосу. Яспос остался недоволен таким решением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы решили не забирать инструменты у Кассандры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы убили Яспоса и теперь не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы не успели забрать инструменты могильного света раньше, чем поселение сгорело дотла.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

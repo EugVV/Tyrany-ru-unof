@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lethians_crossing_end_state</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель, хорошо видеть вас живым и невредимым. Из-за всего этого шума в Старых Стенах Элдиан начал переживать о тебе. Он отправил меня найти вас, если вы вернетесь в [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText>"Вершительница, хорошо видеть вас живой и невредимой. Из-за всего этого шума в Старых Стенах Элдиан начал переживать о тебе. Он отправил меня найти вас, если вы вернетесь в [url=glossary:распутье летианы]Распутье Летианы[/url]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Он пытался убедить каких-то солдат из Опальных, чтобы они зашли в Старые Стены и помогли, но все они отказались. Похоже, в их помощи и не было нужды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Пока вы были в Старых Стенах, здесь расположился отряд Опальных. Лично я буду спать спокойней, зная, что они здесь и готовы нас защитить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Учитывая, что у нас не было гарнизона для защиты, доносящиеся до нас звуки вызывали, мягко говоря, беспокойство. Все, кто здесь живет, смогут спать немного лучше, зная, что вы вернулись к нам в сохранности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[url=glossary:алый хор]Алый Хор[/url] обсуждал возможность отправить кого-то, чтобы проверить источник шума, но, кажется, так никого и не послали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:алый хор]Алый Хор[/url] прибыл недавно. Они объявили, что [url=glossary:распутье летианы]Распутье Летианы[/url] теперь под их контролем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Когда [url=glossary:опальные]Опальные[/url] увидели, что [url=glossary:скованные горном]Скованные Горном[/url] уходят, они ушли вместе с ними. Сказали что-то про то, что поселение не стоит их хлопот, если тут не делают оружие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[url=glossary:скованные горном]Скованные Горном[/url] узнали о том, что вы сделали с Мастером Жденьей, и после этого остановили работу и покинули [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Солдаты из Гвардии Вендриенов прибыли недавно. Матани, их глава, сказала, что привела их сюда для защиты поселения от будущих атак армий Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Когда [url=glossary:алый хор]Алый Хор[/url] увидел, что [url=glossary:скованные горном]Скованные Горном[/url] уходят отсюда, они тоже ушли. Наверное, поселение само по себе для них ничего не стоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Спасибо за информацию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Никакие опасности Старых Стен не помешали бы мне защитить [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Передай старику, чтобы он перестал беспокоиться обо мне и начал беспокоиться о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Всегда пожалуйста". Он делает поклон, а затем убегает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мы благодарны вам за защиту". Он низко кланяется, а затем убегает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Д-да, конечно". Он быстро кланяется, а затем убегает.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

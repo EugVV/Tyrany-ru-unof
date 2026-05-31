@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\fq_ac_qst_act3_anarchistvictory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Последняя охота</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Одержать победу над силами Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Одержать победу над силами Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Дать бой Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Одолеть [url=glossary:голоса нерата]Голоса Нерата[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вернуться к Бледену Марку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Победить Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Поговорить с Бледеном Марком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Победить Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Отправиться в Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Отправиться в Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Встретиться с Бледеном Марком в суде Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>В свете последнего декрета Кайроса ваш путь ясен как никогда: необходимо одолеть Архонтов Войны и Тайн и остаться единственным, кто уцелеет.</DefaultText>
+      <FemaleText>В свете последнего декрета Кайроса ваш путь ясен как никогда: необходимо одолеть Архонтов Войны и Тайн и остаться единственной, кто уцелеет.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправиться в Железный Очаг и атаковать силы Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Отправиться в Какофонию и атаковать силы Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь к Грэйвену Аше преграждает множество Опальных. Пробейтесь с боем через Железный Очаг к самым воротам цитадели Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант – Семипалая. Убейте ее, чтобы расчистить себе путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] ожидает вас в Железном Очаге, во дворе за воротами цитадели. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Архонт Тайн поджидает вас в Какофонии. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Архонтов Войны и Тайн больше нет в живых. Возвращайтесь к Бледену Марку в Пепельную Глушь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] ждет вас для разговора в Пепельной Глуши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы бросили вызов Бледену Марку и должны победить его в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Отправиться в Какофонию и атаковать силы Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Отправиться в Железный Очаг и атаковать силы Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] выразился ясно: ему придется сражаться с вами в суде Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Несмотря на то что [url=glossary:бледен марк]Бледен Марк[/url] был готов уступить, вы сочли необходимым убить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Признавая ваши невероятные достижения в Ярусах, [url=glossary:бледен марк]Бледен Марк[/url] согласился подчиниться вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы одолели последних Архонтов и стали единственным правителем Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

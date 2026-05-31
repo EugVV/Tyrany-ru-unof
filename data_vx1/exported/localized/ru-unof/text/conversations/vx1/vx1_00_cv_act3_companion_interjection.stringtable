@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_00_cv_act3_companion_interjection</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я знаю, что у тебя и так много дел, но если найдешь минутку – буду рада. Птичка нашептала мне кое-что интересное. А мне бы не хотелось идти убивать людей без тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Архонт! Мы должны поговорить, пока ситуация не зашла дальше, чем она уже зашла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мне попалось кое-что любопытное в этих обрывках Хроники. Когда будет время, может, удовлетворишь мое любопытство?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

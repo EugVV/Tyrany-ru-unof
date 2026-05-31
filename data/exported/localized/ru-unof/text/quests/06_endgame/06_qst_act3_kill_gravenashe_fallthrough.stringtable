@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act3_kill_gravenashe_fallthrough</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Штурм Железного Очага</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Голосами Нерата в Какофонии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Одержать победу над силами Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться в Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Сразиться с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Штурмовать Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Архонт Войны все еще прячется в горной крепости Железный Очаг, в Могиле Клинков. Если вы хотите пережить декрет Кайроса, придется уничтожить Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>От Пятого Глаза пришло сообщение, что [url=glossary:голоса нерата]Голоса Нерата[/url] хотел бы поговорить с вами в Какофонии. Он хочет обсудить план, как покончить с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Дать бой Опальным и отправиться в Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь к Грэйвену Аше преграждает множество Опальных. Пробейтесь с боем через Железный Очаг к самым воротам цитадели Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Сообщите о своей победе Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] ожидает вас в Железном Очаге, во дворе за воротами цитадели. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вместо того чтобы и дальше следовать приказам Голосов Нерата, вы решили бросить вызов Архонту Тайн. Используя свою репутацию в Орде, вы сумели настроить Хор против него. Осталось только одолеть Архонта в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] побежден, и [url=glossary:алый хор]Алый Хор[/url] балансирует на грани хаоса и безумия. Единственный способ утвердить свою власть – это одолеть их главного врага, Грэйвена Аше. Отправляйтесь на штурм Железного Очага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] мертв, и без него сопротивление Опальных скоро сойдет на нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы перехитрили [url=glossary:голоса нерата]Голоса Нерата[/url] и взяли над ним верх. Теперь он стал вашим верным слугой, вместе со всем своим Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>После победы над Нератом, чтобы завоевать уважение Алого Хора, вам осталось лишь взять верх над Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы бросили вызов Голосам Нерата, но вам не хватило репутации, чтобы перетянуть Хор на свою сторону. Они отвернулись от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

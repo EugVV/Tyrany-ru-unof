@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_denizens_jaspos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мастер Яспос нас оградит от всех опасностей, какие только есть в Старых Стенах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты правильно сделал, Вершитель судеб, что поставил над всеми мастера Яспоса".</DefaultText>
+      <FemaleText>"Ты правильно сделала, Вершительница судеб, что поставила над всеми мастера Яспоса".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Всегда рады тебя видеть, Вершитель судеб!"</DefaultText>
+      <FemaleText>"Всегда рады тебя видеть, Вершительница судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Надеюсь, у тебя все в порядке, Вершитель судеб!"</DefaultText>
+      <FemaleText>"Надеюсь, у тебя все в порядке, Вершительница судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Страшно подумать, как бы оно тут было без Скованных Горном. Ни инструментов, ни оружия, ни мостов... Да, и про воду забывать не стоит, конечно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мастер Яспос нас пока ни разу не подводил!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Вершитель судеб? Как раз то, чего Ране и не хватало..."</DefaultText>
+      <FemaleText>"Вершительница судеб? Как раз то, чего Ране и не хватало..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Волноваться не о чем. Мастер Яспос знает, что делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Пожалуйста, поговори с мастером Яспосом в кузне, прежде чем... выносить какие-то приговоры..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Зверолюдка во главе Раны? И сколько времени пройдет, пока мы все тут не станем Бессонными?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Обманешь раз – позор тебе, Золотая Лапа. Обманешь два... нет, меня не обманешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Приветствую, Вершитель".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Если ты считаешь, что во главе должен стоять Махальник, я думаю, мы будем его слушать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"До сих пор этот старикан особо не хотел никем в Ране управлять..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Приветствую, Вершитель".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"И что случится с нами, когда Вершитель судеб отправится... вершить судьбы, или чем ты там занимаешься?"</DefaultText>
+      <FemaleText>"И что случится с нами, когда Вершительница судеб отправится... вершить судьбы, или чем ты там занимаешься?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Слава великому и мудрому руководителю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Это значит, что теперь мы подданные Владыки?.. Эм-м, хвала Кайросу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Неужели для Раны это лучшее решение? Ну... наверное, лучше это, чем казнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Когда мосты начнут рушиться, мы пожалеем, что не сделали главным Яспоса".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_farmhands</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вонючая работенка, факт... но все лучше, чем там, наверху, с этой войной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Он мне сказал, что грибов не ест, а я говорю: они сверху, те грибы, что ты не ешь, а он такой: все грибы одинаковые, а я ему: какие ж они одинаковые, они светятся..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Вот меня бы кто спросил, так лучше бы мы растили побольше клубнеплодов и поменьше щелкорней. Но щелкорни растут глубже, видимо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я их поливаю, удобряю, блин, я с ними даже разговариваю. И все равно они не такие зеленые, как мне бы хотелось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Хм... это мне мерещится, или растения и правда стали зеленее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что-то не так с этими свиньями, мне кажется. Какие-то у них глаза остекленевшие..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

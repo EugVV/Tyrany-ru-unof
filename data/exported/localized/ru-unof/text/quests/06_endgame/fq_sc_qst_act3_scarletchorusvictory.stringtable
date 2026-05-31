@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\fq_sc_qst_act3_scarletchorusvictory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Удар по Очагу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Штурмовать Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Одержать победу над силами Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Дать бой Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Штурмовать Железный Очаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Пришло время Алому Хору выступить против Опальных и смять их раз и навсегда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>От Пятого Глаза пришло сообщение, что [url=glossary:голоса нерата]Голоса Нерата[/url] хотел бы поговорить с вами в Какофонии. Он хочет обсудить с вами план, как покончить с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] хочет одолеть подобное подобным, то есть послать одного Архонта – вас – убить другого. Отправляйтесь в Железный Очаг и атакуйте силы Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь к Грэйвену Аше преграждает множество Опальных. Пробейтесь с боем через Железный Очаг к самым воротам цитадели Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Сообщите о своей победе Голосам Нерата в Какофонии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] поджидает вас в Железном Очаге, во дворе за воротами цитадели. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы решили бросить вызов авторитету Архонта Тайн и перетянуть [url=glossary:алый хор]Алый Хор[/url] на свою сторону. Хор признал ваше лидерство. Осталось лишь победить [url=glossary:голоса нерата]Голоса Нерата[/url] в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Закрепите свою власть над Алым Хором, взяв верх над их самым серьезным противником – Опальными. Осадите армию Грэйвена Аше в Железном Очаге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>После смерти Голосов Нерата [url=glossary:алый хор]Алый Хор[/url] подчиняется вам и только вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы побили Нерата на его собственном поле, и теперь вам служит и он сам, и [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы отняли у Нерата власть над Алым Хором и закрепили свое лидерство, одержав победу над Грэйвеном Аше. Теперь вы признанный единоличный лидер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] мертв, но ваша репутация в Алом Хоре оказалась слишком низкой, и ордынцы не захотели следовать за вами. Теперь Хор – ваши враги.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

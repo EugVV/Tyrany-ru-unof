@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_scavenger_merchant_rustcanyon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я думала, что [url=glossary:опальные]Опальные[/url] нас уже в цепи закуют! Хорошо, что вы проходили мимо".
+
+Она подмигивает и звенит тяжелым от колец поясом. "Конечно, никто не проходит по Могиле Клинков просто так. Куда бы вы ни направлялись, вам нужны будут припасы, чтобы попасть туда. Я тут насобирала всяких интересных штуковин..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Торговка доброжелательно улыбается вам. "Приветствую снова. У меня есть товары на продажу, если интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что ты предлагаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Посмотрите сами. Не сомневаюсь, что-нибудь да пробудит ваш интерес".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Опасно работать с Несломленными?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Только если у них плохое снаряжение". Она ухмыляется. "У меня немало причин постараться, чтобы у них был доступ только к самому лучшему оружию и припасам. И на их союзников это тоже распространяется".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

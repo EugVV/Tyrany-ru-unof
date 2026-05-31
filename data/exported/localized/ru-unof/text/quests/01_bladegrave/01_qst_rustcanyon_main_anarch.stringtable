@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Охотник за реликвиями</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти командира Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уничтожить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Защитить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Расчистить путь для Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Догнать Элию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Теодора и его солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ваши поиски Маттиаса и его знаний об артефакте "Бесстрашном" продолжаются в Ржавых Каньонах. Вы слышали о том, что глава повстанцев отправил в этот район солдат Несломленных под командованием Элии. Найдите Элию и узнайте о местонахождении Маттиаса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Чтобы определить местонахождение "Бесстрашного", вам нужно найти лидера, который знаком с этим артефактом. Многие солдаты Несломленных были отправлены в Ржавые Каньоны, так что один из их командиров должен знать больше о клинке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы объявили Несломленным войну, что не оставляет иного выбора, кроме как идти в прямую атаку на их лагерь. Пробейте оборону лагеря в Ржавых Каньонах и победите Элию и всех повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Элии нужна ваша помощь, чтобы отразить атаку войск Опальных. Помогите ей защитить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Атака Опальных отбита, но их подкрепления уже в пути. Уничтожьте остальных солдат в Ржавых Каньонах, чтобы расчистить путь для повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Элия и несколько ее солдат сбежали из лагеря, когда он пал, и пытаются выбраться из Ржавых Каньонов. Следуйте за ними на север и не дайте уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Элия попросила вас силой или угрозами выгнать Теодора и его солдат из Ржавых Каньонов и освободить ее солдат из плена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы убили солдат Теодора и освободили пленников Несломленных. Элии стоит узнать об этом от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вам удалось скрытно попасть в лагерь. Используйте это в свою пользу при атаке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Отстрелите лебедку, которая держит подъемный мост, чтобы добраться до Несломленных на возвышенности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы помогли Элии покинуть Ржавые Каньоны и узнали о последнем известном местонахождении Маттиаса: Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы победили Элию и узнали о последнем известном местонахождении Маттиаса: Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>«Бесстрашный» – это ценное наследие регентов Оплота, и если вы его заполучите, то сможете увеличить свою силу и известность. [url=glossary:бледен марк]Бледен Марк[/url] предположил, что поиски стоит начать в Ржавых Каньонах, где начали собираться солдаты Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

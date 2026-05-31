@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_rebel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>То, что осталось</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Защитить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Расчистить путь для Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Теодора и его солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Маттиас рассказал, что отряд его солдат под командованием Элии сейчас держит оборону в Ржавых Каньонах и может долго не выдержать. Помогите повстанцам покинуть каньоны и отбейте вражеские войска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Маттиас рассказал, что солдаты Несломленных, возглавляемые женщиной по имени Элия, попали в западню в Ржавых Каньонах. Найдите их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Элии нужна ваша помощь, чтобы отразить атаку войск Опальных. Помогите ей защитить лагерь Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Атака Опальных отбита, но их подкрепления уже в пути. Отправьтесь на север от лагеря в Ржавых Каньонах и уничтожьте остальных солдат, чтобы расчистить путь для повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Элия попросила вас мечом или угрозами выгнать Теодора и его солдат из Ржавых Каньонов и освободить ее солдат из плена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы убили солдат Теодора и освободили пленников Несломленных. Элии стоит узнать об этом от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы помогли Элии и Несломленным уйти из Ржавых Каньонов. Маттиас будет доволен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы предали Элию и напали на лагерь, потеряв поддержку Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Задание провалено</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

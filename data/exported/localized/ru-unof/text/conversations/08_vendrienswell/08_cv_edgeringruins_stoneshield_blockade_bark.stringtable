@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_edgeringruins_stoneshield_blockade_bark</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы тебя прикроем, Вершитель. Пока мы защищаем долину, клятвопреступники больше не смогут из нее выбраться!"</DefaultText>
+      <FemaleText>"Мы тебя прикроем, Вершительница. Пока мы защищаем долину, клятвопреступники больше не смогут из нее выбраться!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

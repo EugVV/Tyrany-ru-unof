@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0220_cv_roxana</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Высокая блондинка танцует с восхитительной смуглянкой, но, завидев вас, прерывает танец. "О, услада глаз моих". Она берется за свое платье с боков и натягивает сильнее, чтобы подчеркнуть фигуру, одновременно слегка покачивая бедрами. "Мое имя – Роксана, но ты можешь звать меня Рокси. Чем могу тебе услужить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Чем ты лучше прочих?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Сколько ты стоишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я не люблю говорить о прошлом, душа моя". Она обнимает вас за плечи и приникает ближе. "Меня волнует только то, что здесь и сейчас. А прямо сейчас мне интересно, что у тебя под одеждой". Она игриво подергивает застежки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Лучше бы ты спросил, чего я не предлагаю". Роксана прикусывает нижнюю губу. "Я согласна на все, только скажи. Удача тебе улыбнулась, ты нашел женщину, которая не знает слова «нет». Но, если вправду хочешь, чтобы этот день в [url=glossary:распутье летианы]Распутье Летианы[/url] тебе как следует запомнился, позволь, я покажу «Проход в Старые Стены» Обещаю, у тебя слезы выступят на глазах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Моя цена – 30 за ночь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Заплатить Роксане] "Ты меня заинтриговала. Давай попробуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Позволь сперва спросить тебя кое о чем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Сердце мое, тебя ждет лучшая ночь в твоей жизни. Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Приходи". Роксана манит вас пальчиком. "Я готова в любой момент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Душечка, как пожелаешь. Можем хоть всю ночь проговорить". Она прижимается к вам теснее. "Но лучше не надо. Я скорее из тех девушек, что показывают, а не рассказывают".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

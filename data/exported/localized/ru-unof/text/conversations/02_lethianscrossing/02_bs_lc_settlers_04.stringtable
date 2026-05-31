@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_settlers_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мне никогда не нравился этот Раэтоммон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Эти постоянные сражения вряд ли пойдут на пользу торговле в поселении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"С тех пор, как бури в Оплоте рассеялись, нас навестило немало путешественников".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Поговаривают, что пожар в Спорных Землях начинает затухать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Может, гарнизон и не очень хорошо с нами обращается, но он надежно защищает поселение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Уже давненько не было в наших краях Вершителей. Пришли вершить свое правосудие?"</DefaultText>
+      <FemaleText>"Уже давненько не было в наших краях Вершителей. Пришли вершить свое правосудие?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"С тех пор, как открылся «Меч и ножны», там ошиваются одни развратники и отбросы общества. Вот бы его закрыли!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"«Хозяйка Летианы» привлекает самых разных людей, но в основном сомнительных типов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ходят слухи, что вы издали [url=glossary:эдикт]Эдикт[/url] в Гребне. Интересно, каким Архонтом тогда вас можно назвать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Надеюсь только, что это положит конец постоянному кровопролитию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"[url=glossary:кайрос]Кайрос[/url] не сможет завоевать Ярусы – у него ничего не получится, пока ты дышишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

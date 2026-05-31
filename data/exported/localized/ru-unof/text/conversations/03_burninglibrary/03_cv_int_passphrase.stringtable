@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\03_cv_int_passphrase</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Символы на странице плывут под вашим взглядом, то исчезая, то появляясь вновь. Вы продолжаете сосредоточенно смотреть, пока, наконец, они не складываются в осмысленные фразы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Самое важное – дверь на севере, и для тех лишь она отворится, у кого достанет на то воли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Второй станет страсть, горящая на юге словно вечное пламя, несущая жизненную силу для избранных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Затем придет с запада воплощение решимости и поведает об истинной тяге к знанию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"И напоследок – оглянись на восток и встань против тех, кто возжелает низложить тебя. И да станет сила твоя крепка словно камень".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

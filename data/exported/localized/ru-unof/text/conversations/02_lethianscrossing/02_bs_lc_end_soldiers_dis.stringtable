@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_end_soldiers_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Теперь железо из Распутья Летианы рекой потечет. [url=glossary:опальные]Опальные[/url] там крепко уселись, никто им не помешает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Привет тебе, Вершитель судеб и Защитник Гавани".</DefaultText>
+      <FemaleText>"Привет тебе, Вершительница судеб и Защитница Гавани".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Все ужасы Старых Стен уже не так пугают, как послушаешь рассказов о твоих подвигах... но мочиться с ними рядом я бы все равно не стал. А уж тем паче туда заходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"За безопасность Гавани я могу лишь сказать спасибо... но кто бы мог подумать, что настанет день, и на нас наложит [url=glossary:эдикт]Эдикт[/url] не [url=glossary:кайрос]Кайрос[/url], а кто-то другой". </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] уничтожил почти все живое вокруг поселения. Надеюсь, это не побеспокоит погибелей, таящихся в Старых Стенах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Сила Эдикта беспредельна и непознаваема, мы благодарны, что ты сражаешься на нашей стороне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Рано или поздно [url=glossary:алый хор]Алый Хор[/url] должен был обрушиться под своим весом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Генерал [Player Name], мы к вашим услугам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Суд распущен, и Тунон больше не будет вмешиваться в наши дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Уверен, суды теперь станут чаще придерживаться ценностей Опальных".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

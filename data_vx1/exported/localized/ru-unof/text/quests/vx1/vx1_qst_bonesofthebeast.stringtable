@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_bonesofthebeast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Кости зверя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Забрать ключ-камень у Пресной Клички.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Воспользоваться восточным телепортом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти Золотую Лапу в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убить наемников Махальника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Продолжить поиски Золотой Лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Проложить путь к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отыскать Золотую Лапу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Преследовать Лексему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Победить Колыбельную.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Призвать Лексему к ответу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с Золотой Лапой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вернуться к Яспосу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Пойти следом за Лексемой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вернуться к Бездне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Обыскать труп Пресной Клички и найти ключ-камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Яспосу, чтобы обеспечить водой Рану, требуются кости Золотой Лапы. Он уверен, что, благодаря ее магическим способностям, кости смогут фильтровать воду долгие годы, а не считанные дни. Он попросил вас отыскать ее убежище в недрах Старых Стен и принести ему ее кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>У Пресной Клички имеется ключ-камень, который позволил бы вам зайти глубже в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Используйте телепорт, расположенный на востоке Раны Бастарда, чтобы пройти в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Золотая Лапа исчезла в недрах Старых Стен. Исследуйте древние коридоры, чтобы отыскать ее укрытие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Махальник послал за вами своих наемников, чтобы вы не смогли помочь Яспосу. Перебейте их всех, чтобы продолжить поиски Золотой Лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы избавились от угрозы, которую представляли наемники Махальника. Продолжайте поиски Золотой Лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы отыскали Золотую Лапу, но пока не можете до нее добраться. Отыщите недостающие светоключи, чтобы попасть в убежище Золотой Лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы попали в то место, где в последний раз видели Золотую Лапу. Узнайте, куда она подевалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Лексема сбежала раньше, чем вы успели с ней разобраться. Бегите за ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Лексема науськала на вас опустошителя, которого Бессонные прозвали Колыбельной. Уничтожьте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Решив, что Колыбельная с вами покончила, Лексема вернулась. Призовите ее к ответу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Используйте полученный от Лексемы светоключ, чтобы проложить путь к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Судьба Золотой Лапы решилась. Возвращайтесь к Яспосу и расскажите обо всем, что вы узнали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Лексема говорит, что отведет вас к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вернуться к Бездне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Вы убили Пресную Кличку за то, что она забирала кровь у Подранков. Скорее всего, ключ-камень остался у нее при себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>У Лексемы есть ключ от убежища Золотой Лапы. Обыщите ее труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы убили Пресную Кличку за то, что она забирала кровь у Подранков. Скорее всего, ключ-камень остался у нее при себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Соберите вместе Бессонных и перебейте их всех, чтобы Золотая Лапа перестала терзаться чувством вины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили Золотую Лапу и доставили ее труп, как обещали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убедили Золотую Лапу уйти еще глубже в Старые Стены, чтобы лучше познать самое себя. Это решение очень не понравилось Яспосу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убедили Золотую Лапу вернуться в Рану Бастарда. Махальник с Яспосом этому официально не рады.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы одолели Золотую Лапу в бою и заковали в цепи. Теперь Яспос сможет использовать ее кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

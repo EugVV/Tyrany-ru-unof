@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_treasurehunter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Охота за сокровищами</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Обыскать Каменную Теснину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуть Вечную Чернильницу в [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Решить, кому отдать ценную реликвию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Арасон хочет, чтобы вы отыскали Вечную Чернильницу – реликвию из Лазури, в которой, как говорят, никогда не кончаются чернила. Он считает, что ее можно найти в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Если вы уже знаете путь в Каменную Теснину, ступайте туда и постарайтесь найти Вечную Чернильницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вернитесь в [Plainsgate] и отдайте Вечную Чернильницу Арасону или Хэйгрену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы добыли в Каменном Море бесценную реликвию. Теперь вы можете присвоить ее или вернуться в [Plainsgate] и отыскать того, кто за нее больше заплатит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Хэйгрен предложил вам не продавать Вечную Чернильницу Арасону, а оставить на сохранение в городе [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы решили не отдавать Вечную Чернильницу Хэйгрену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы продали Вечную Чернильницу Арасону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы отдали Вечную Чернильницу Хэйгрену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Задание провалено</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

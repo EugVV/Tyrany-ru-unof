@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_disgeneral_duskwatch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Одно твое присутствие уже вдохновляет нас, Вершитель судеб".</DefaultText>
+      <FemaleText>"Одно твое присутствие уже вдохновляет нас, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Они выжидают, но долго они не продержатся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мы предложили щедрые условия, когда обсуждали участь Каллиаса во время переговоров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Осмиос – справедливый командир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Осмиос – лучший из всех командиров, которые у меня были".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Остерегайся штормов. Я видел ветра, способные отделить плоть от костей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Надеюсь, удача не оставит тебя в Могиле Клинков, Вершитель".</DefaultText>
+      <FemaleText>"Надеюсь, удача не оставит тебя в Могиле Клинков, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что здесь делает Алая Фурия?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Сумеречный Бастион – не лучшая крепость этой страны, но она принадлежит нам по праву".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Здравствуй, Барик". Солдат уважительно кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Держи свою... тварь на коротком поводке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Не доверяй своей водяной ведьме. Она наверняка лжет тебе на каждом шагу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"А-архонт". Солдат глубоко кланяется Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

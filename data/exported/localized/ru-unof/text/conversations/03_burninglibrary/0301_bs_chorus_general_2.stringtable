@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_chorus_general_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы не признаем твою власть, Вершитель судеб".</DefaultText>
+      <FemaleText>"Мы не признаем твою власть, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Думаешь тоже стать частью игры? Подумай еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вершитель! Такой как ты явно бы пригодился нам в игре. Может быть, даже сумел ее закончить".</DefaultText>
+      <FemaleText>"Вершительница! Такая как ты явно бы пригодилась нам в игре. Может быть, даже сумела ее закончить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Круто, Вершитель. Эти руины превратились в пепел, и теперь мы наконец-то можем убраться из этой вонючей дыры".</DefaultText>
+      <FemaleText>"Круто, Вершительница. Эти руины превратились в пепел, и теперь мы наконец-то можем убраться из этой вонючей дыры".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Значит, Безмолвный Архив – это не сказки, да? Думал, Цензор просто дурила нас все это время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Думалось мне, все эти истории о том, что ты останавливаешь Эдикты Владыки, – пустая болтовня. Что ж, теперь я им верю".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

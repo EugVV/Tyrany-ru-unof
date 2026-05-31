@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Жаль только, что у меня не было возможности рассечь Цензора лично. Язва гнойная, а не женщина, она была".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы определенно сделали пример из Книгочеев и Хора. Цитадель превратилась в руины, а земли еще целое поколение не смогут восстановиться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я перед тобой в долгу, Вершитель, но разве мы не должны уничтожить библиотеку? [url=glossary:кайрос]Кайрос[/url] не будет удовлетворен, пока от нее не останется один пепел".</DefaultText>
+      <FemaleText>"Я перед тобой в долгу, Вершительница, но разве мы не должны уничтожить библиотеку? [url=glossary:кайрос]Кайрос[/url] не будет удовлетворен, пока от нее не останется один пепел".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Как... как ты это сделал? Мне еще ни разу не доводилось видеть, чтобы кто-нибудь закончил [url=glossary:эдикт]Эдикт[/url], даже генерал Аше".</DefaultText>
+      <FemaleText>"Как... как ты это сделала? Мне еще ни разу не доводилось видеть, чтобы кто-нибудь закончил [url=glossary:эдикт]Эдикт[/url], даже генерал Аше".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

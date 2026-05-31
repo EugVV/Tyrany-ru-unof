@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_hiddentruths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Скрытая правда</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Разрушенную крепость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти Книгочея, который вас призвал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Разобраться с Алым Хором в Разрушенной крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Обыскать развалины в поисках входа в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Ролесом Мясником.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поговорить с Гвинет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Обыскать развалины в поисках способа разобрать завал на входе в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Забрать океанский огонь у Гвинет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Проникнуть в пещеру при помощи океанского огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Исследовать пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Прочитать послание Книгочея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Забрать океанский огонь у Гвинет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Поговорить с Гвинет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Обыскать развалины в поисках входа в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Книгочейка предложила вам ценные сведения в обмен на сохранность ее исследований и жизнь ее писца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Книгочей направил вас в разрушенное поместье в Бастардовом Ярусе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Изучите развалины поместья и отыщите "Книгочея Л.", который вам писал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] никого не пропускает в поместье. Убедите или заставьте их опустить мост или найдите другой путь через этот район.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Непосредственная угроза устранена, и теперь вы можете продолжить поиски пещеры в разрушенной крепости, о которой говорила Книгочейка Лексема.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Довольный Ролес опустил мост, ведущий в лагерь Алого Хора. Поговорите с Ролесом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы разобрались с Алым Хором, и теперь вам надо спросить у Гвинет, как она собиралась попасть в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вход в пещеру завален камнями – в руинах наверняка должно быть что-то, чтобы расчистить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Гвинет утверждает, что у нее есть некое вещество, которое зовется океанским огнем. Оно якобы может расчистить путь в пещеру. Заберите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Используйте океанский огонь с безопасного расстояния, чтобы расчистить вход в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Отыщите в пещере следы Книгочея, который вам писал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы получили послание, подписанное "Книгочей Л.". Прочитайте его, чтобы узнать больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Гвинет утверждает, что у нее есть некое вещество, которое зовется океанским огнем. Оно якобы может расчистить путь в пещеру. Заберите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вы разобрались с Алым Хором, и теперь вам надо спросить у Гвинет, как она собиралась попасть в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Непосредственная угроза устранена, и теперь вы можете продолжить поиски пещеры в разрушенной крепости, о которой говорила Книгочейка Лексема.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Убейте всех бойцов Алого Хора, которых найдете в Разрушенной крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Гвинет попросила вас помочь избавить Разрушенную крепость от поселившихся в ней хористов. Она говорит, что в обмен на вашу помощь она со своим отрядом будет рада провести вас в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Убейте Певуна и его ватагу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Убейте Ролеса Мясника и его ватагу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Гвинет, беженка, говорила, что знает способ попасть в заваленную пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы встретились с Меллом, учеником Книгочейки Лексемы, и узнали, что Лексема пропала без вести в Старых Стенах Раны Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ну наконец-то! Ты хоть понимаешь, какая это морока – усадить всю ватагу в засаду и заставить ЖДАТЬ? Если этому сброду не давать бузить и драться, они же неуправляемы! Короче, принцесса, с тебя должок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Очередная подружка из Хора?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Атаковать] "А давай сразу перейдем к «прольется кровь»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Следует ли мне спрашивать, откуда вы двое знаете друг друга?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ты приходишь сюда в алом и плачешься о каких-то долгах? Я тебе ничего не должен. А сейчас ты заявилась в то единственное место на Терратусе, которое я считаю своим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Замученица? Какое оскорбление надо было нанести Голосам, чтобы заслужить столь жуткое имя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ну... можно сказать и так. Хадрос Джаневили – прошу любить и жаловать – прославила своими выходками Школу Дикой Ярости еще до того, как..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я полагал, эта безмозглая особь не пережила войну, однако... как я неоднократно убеждаюсь, дерьмо не тонет, а всплывает в Хоре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Это имя не имеет смысла. Я теперь Замученица, верная последовательница Голосов Нерата!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url] полагает, что польза от тебя кончилась. И я с радостью придам твоим старым костям новую форму".
+
+Пронзительным свистом Певчая Крови дает сигнал к атаке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Принцесса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Стоило один раз замаскироваться... потом всю жизнь тебе это поминают". Лантри трясет головой и раздраженно отмахивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Катись колбаской, а то прольется кровь".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

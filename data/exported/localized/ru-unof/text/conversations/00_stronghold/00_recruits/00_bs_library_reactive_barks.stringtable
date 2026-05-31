@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_library_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Регенты правили из Твердыни Часовых столько, сколько я себя помню... Ее падение открывает новую главу в истории Оплота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] закончился, и теперь нас ждут несчетные открытия утраченных знаний, зарытых под ржавчиной, которую подняла буря!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Какое странное и жестокое наказание для последнего бастиона Ярусов, этот [url=glossary:эдикт]Эдикт[/url]..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Когда-нибудь я хотел бы послушать об этом существе, которое вы победили в Старых Стенах... Мне совершенно необходимо записать информацию о нем для своих исследований".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Подумать только, [url=glossary:каирн]Каирн[/url] продержался столько лет... Может, даже к лучшему, что Архонт наконец-то обрел покой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Магия Архонтов никогда не перестанет меня удивлять. Сила Каирна и сейчас остается пульсирующим сердцем Каменного Моря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вершитель судеб собственной персоной? Давайте поговорим".</DefaultText>
+      <FemaleText>"Вершительница судеб собственной персоной? Давайте поговорим".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

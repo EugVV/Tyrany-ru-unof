@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0103_cv_invader_leader_pursuit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Наконец-то мы здесь!" Теодор машет рукой по направлению к регенту. "Давайте двигаться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты? Ха! Думал, Румалан – это все, кого [url=glossary:опальные]Опальные[/url] отправили в этот бой?" Димитрис издевательски усмехается. "Предательство затуманило тебе разум, убийца".</DefaultText>
+      <FemaleText>"Ты? Ха! Думала, Румалан – это все, кого [url=glossary:опальные]Опальные[/url] отправили в этот бой?" Димитрис издевательски усмехается. "Предательство затуманило тебе разум, убийца".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мы загнали регента в угол!" Целебный Нож взмахивает копьем. "Пора вытравить крыс из кладовой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Нам нельзя терять ни минуты!" Маттиас показывает вверх, куда сбежал регент. "Пора продвигаться вперед!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

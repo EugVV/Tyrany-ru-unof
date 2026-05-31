@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\fq_rb_qst_riseoftheearthshakers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Восхождение Скаловержцев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Старые Стены в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Алой Пастью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить всех зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Пройти камнепытский Обряд Дикости и Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Алой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Айседора попросила вас вызволить Скаловержцев из Старых Стен в Зиянии и принести три осколка лазурелита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь в Старые Стены в Зиянии, чтобы найти осколки лазурелита для ритуала Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Поговорите с Базилионом в Старых Стенах в Зиянии и узнайте, как идут дела у Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Пройдите через Зияние к Шпилю Авроры. Встретьтесь в Шпиле со зверолюдкой по имени Алая Пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы напали на зверолюдов и теперь должны убить их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Пройдите камнепытский Обряд Дикости и Камня, чтобы добиться уважения в племени. Встретьтесь со своими соперниками у Старых Стен Зияния, на одном из каменистых плато возле Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вернитесь к Алой Пасти в Шпиле в Старых Стенах в Зиянии и расскажите ей, что заслужили место в племени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Сообщите Базилиону, что [url=glossary:камнепыты]Камнепыты[/url] позволят Скаловержцам спокойно уйти, если они заберут только уже добытые кристаллы и пообещают не возвращаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Поговорите с Базилионом в Старых Стенах в Зиянии и сообщите, что зверолюды больше не представляют угрозы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Сообщите Базилиону, что [url=glossary:камнепыты]Камнепыты[/url] позволят Скаловержцам спокойно уйти, если они заберут только уже добытые кристаллы и пообещают не возвращаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили всех зверолюдов в Старых Стенах в Зиянии и ликвидировали угрозу для Скаловержцев. Теперь они спокойно могут продолжать добывать кристаллы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы мирно разрешили конфликт Скаловержцев и Камнепытов в Старых Стенах в Зиянии, но Скаловержцам теперь нужно покинуть этот район.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

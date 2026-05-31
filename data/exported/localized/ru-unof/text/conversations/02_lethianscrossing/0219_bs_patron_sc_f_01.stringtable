@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_sc_f_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не лучшее, что мне пить доводилось, но сойдет. Все лучше, чем ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Либо это, либо ищи, кого бы тебе убить. Но на это куда меньше сил уходит, и куда веселее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я уже тут, мне тепло, выпивка есть. Думаю, напиться – это самое то, что надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Никак не могу решить: все-таки сделать это – или пойти прибить кого-нибудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Если трахаться не хочешь, больше тут особо заняться нечем. А трахаться мне неохота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что-то я как на иголках. Надо бы успокоиться. Может, драку затеять..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Когда не знаешь, какой новый [url=glossary:эдикт]Эдикт[/url] на голову свалится, самое лучшее – напиться и сидеть как можно тише".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Может, пойти поубивать кого-нибудь, пока очередной [url=glossary:эдикт]Эдикт[/url] не прикончил нас всех".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

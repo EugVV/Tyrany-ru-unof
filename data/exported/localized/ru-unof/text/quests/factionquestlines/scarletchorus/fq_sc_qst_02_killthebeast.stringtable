@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_02_killthebeast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Убить зверя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Каменную Теснину и найти Рвущего Пса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти Рвущего Пса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Октавой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отправиться туда, где скрывается Рвущий Пес, и сразиться с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Рассказать Невзгоде, что со Рвущим Псом покончено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Обыскать тело Рвущего Пса, чтобы получить подтверждение его гибели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Подождать послания Октавы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Невзгода поручила вам выследить Рвущего Пса и убить его, пока он не стал для нее проблемой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Рвущего Пса в последний раз видели в районе Каменной Теснины. Отправьтесь туда и найдите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Рвущий Пес скрывается где-то в Каменной Теснине. Отыщите его и сразитесь с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Рвущий Пес ускользнул от вас и отправился в бега. Возможно, Октава поможет вам его найти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Сразитесь с Рвущим Псом в его убежище.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы разобрались с проблемой, которую для Невзгоды представлял Рвущий Пес. Вернитесь в [Plainsgate] и расскажите ей о том, какая судьба его постигла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Рвущий Пес мертв. Возьмите доказательство своей работы с его тела, чтобы показать Невзгоде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Октава отправляет своих разведчиков на поиски Рвущего Пса. Он сказал, что отправит вам послание, когда найдет местоположение Рвущего Пса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили Рвущего Пса, как того хотела Невзгода. Но когда вас попросили отдать ожерелье убитого в качестве доказательства смерти, вы решили оставить его себе в качестве трофея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убили Рвущего Пса, как того хотела Невзгода, и отдали ожерелье убитого в качестве доказательства смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ослушавшись Невзгоду, вы отпустили Рвущего Пса и забрали его ожерелье. Но когда вас попросили отдать это ожерелье в качестве доказательства смерти, вы решили оставить его себе в качестве трофея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ослушавшись Невзгоду, вы отпустили Рвущего Пса и забрали его ожерелье, которое отдали в качестве доказательства смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

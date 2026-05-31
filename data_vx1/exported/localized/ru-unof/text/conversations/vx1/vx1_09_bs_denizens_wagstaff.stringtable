@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_denizens_wagstaff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Только Махальник сможет защитить Рану".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Надоело уже, что Яспос в Ране командует с таким видом, будто он тут король".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Всегда приятно тебя видеть, Вершитель судеб!"</DefaultText>
+      <FemaleText>"Всегда приятно тебя видеть, Вершительница судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Привет, Вершитель! Доброго дня".</DefaultText>
+      <FemaleText>"Привет, Вершительница! Доброго дня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Махальник тут все построил с нуля".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Заклинатель Приливов мужик нелюдимый, зато свое дело знает отлично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Один из бродячих судей Кайроса... надо же, к нам в Рану его занесло..."</DefaultText>
+      <FemaleText>"Одна из бродячих судей Кайроса... надо же, к нам в Рану ее занесло..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Что, Вершитель судеб снова погонит нас на войну?"</DefaultText>
+      <FemaleText>"Что, Вершительница судеб снова погонит нас на войну?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Махальник все может расчистить, Вершитель судеб, честное слово".</DefaultText>
+      <FemaleText>"Махальник все может расчистить, Вершительница судеб, честное слово".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Золотая Лапа вернулась... Думаю, от воды стоит держаться подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Надеюсь, ты сделал верный выбор, Вершитель судеб".</DefaultText>
+      <FemaleText>"Надеюсь, ты сделала верный выбор, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Приветствую, Вершитель судеб".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Придется привыкать, выходит, Яспоса мастером называть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Надеюсь, ты сделал верный выбор, Вершитель судеб".</DefaultText>
+      <FemaleText>"Надеюсь, ты сделала верный выбор, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Приветствую, Вершитель судеб".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"И что случится с нами, когда Вершитель судеб отправится... вершить судьбы, или чем ты там занимаешься?"</DefaultText>
+      <FemaleText>"И что случится с нами, когда Вершительница судеб отправится... вершить судьбы, или чем ты там занимаешься?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Слава великому и мудрому руководителю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Это значит, что теперь мы подданные Владыки?.. Эм-м, хвала Кайросу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Неужели для Раны это лучшее решение? Ну... наверное, лучше это, чем казнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Как мы будем очищать воду без магии Махальника?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

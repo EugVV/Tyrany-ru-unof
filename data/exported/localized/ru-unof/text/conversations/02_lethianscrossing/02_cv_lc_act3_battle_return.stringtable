@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lc_act3_battle_return</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Через все поселение раздается несколько громких, пронзительных свистков. Они доносятся оттуда, куда доставляют раненых из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"На рынке что-то происходит. Надо проверить – и быть готовыми ко всему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Это с рынка. Либо там какие-то неприятности, либо кто-то очень странный устроил аукцион. На всякий случай лучше предположить первый вариант".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Слышу вопли смерти с места торга. Чую свежую, горячую кровь. Идем-идем, скорее в бой! Драться, рвать и резать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это с рынка или его окрестностей! Там явно что-то неладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Это на рынке! Если там что-то происходит, надо разобраться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Похоже, это какой-то сигнал. Надо отправиться на рынок и разобраться, что происходит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Похоже, это звуки с рынка. Надо поскорее отправиться туда! Что, если кто-то решил взять штурмом бордель? Прекрасным дамам нужна наша помощь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

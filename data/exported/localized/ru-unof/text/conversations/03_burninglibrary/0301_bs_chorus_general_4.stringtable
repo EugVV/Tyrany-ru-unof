@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_chorus_general_4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мой клинок еще не пробовал крови на этой неделе. Хочешь исправить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Цензор правит кораблем железной хваткой. Смотри, как бы тебе не оказаться за бортом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"С нашими парнями держи ухо востро. Они тебя, конечно, уважают, но ради победы и тебе кишки выпустят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Кто ж знал, что ты собирался уничтожить всю эту долбаную Библиотеку целиком. Хотя мне все равно... читать я не люблю".</DefaultText>
+      <FemaleText>"Кто ж знал, что ты собиралась уничтожить всю эту долбаную Библиотеку целиком. Хотя мне все равно... читать я не люблю".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Молодец, что закопал Черствого, Костереза и остальных. Они были говнюками, даже по стандартам Хора".</DefaultText>
+      <FemaleText>"Молодец, что закопала Черствого, Костереза и остальных. Они были говнюками, даже по стандартам Хора".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Лава уже охлаждается... мы и не думали, что увидим такое. Жаль, что ты не пришел на прошлой неделе, до того, как мне пальцы на ногах опалило!"</DefaultText>
+      <FemaleText>"Лава уже охлаждается... мы и не думали, что увидим такое. Жаль, что ты не пришла на прошлой неделе, до того, как мне пальцы на ногах опалило!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

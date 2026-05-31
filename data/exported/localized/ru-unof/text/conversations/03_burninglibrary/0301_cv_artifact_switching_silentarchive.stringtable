@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_cv_artifact_switching_silentarchive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Положить артефакт на пьедестал. [Нельзя выбрать снаряженный артефакт.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Положить на пьедестал «Молот Раскола».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Положить на пьедестал «Знамя Ардента».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Положить на пьедестал «Бесстрашный».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Положить на пьедестал «Весы Милосердия».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Положить на пьедестал «Перчатки Алхимика».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Положить на пьедестал «Робы Иерархов».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Положить на пьедестал «Нагрудник Командира».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Положить на пьедестал «Грозу погибелей».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Положить на пьедестал «Ботинки Ночного Ходока».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Положить на пьедестал «Кровь Сердца».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Положить на пьедестал «Посох Каирна».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Положить на пьедестал «Снежный Клык».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Положить на пьедестал «Смертоносец».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Положить на пьедестал «Смертоносец».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Положить на пьедестал «Ураган».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Положить на пьедестал «Солнечное Копье».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Положить на пьедестал «Могильный Лук».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Положить на пьедестал «Оковы Теней».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Положить на пьедестал «Оковы Теней».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Положить на пьедестал «Последний Крик».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Положить на пьедестал «Миротворец».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Положить на пьедестал «Лик Правосудия».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Положить на пьедестал «Посох Часов».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Положить на пьедестал «Лазурный Щит».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Положить на пьедестал «Шлем Магоборца».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Положить на пьедестал «Шлем Первого регента».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Положить на пьедестал «Инсигнию Непоколебимости».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Положить на пьедестал «Посох Атли».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Уйти] Вернуться, когда на руках будет подходящий артефакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Сомневаюсь, что тебе удастся отыскать что-то подходящее для подмены... в общем, подумай как следует, прежде чем жертвовать артефактом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Предположим худшее – что бы ты ни поместил на это возвышение, скорее всего, этому предмету придется занять место Безмолвного Архива и оставаться там на веки вечные. Так что не торопись и сделай правильный выбор".</DefaultText>
+      <FemaleText>"Предположим худшее – что бы ты ни поместила на это возвышение, скорее всего, этому предмету придется занять место Безмолвного Архива и оставаться там на веки вечные. Так что не торопись и сделай правильный выбор".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Уничтожит реликвию, что называют артефактом. Альфа уверен?"</DefaultText>
+      <FemaleText>"Уничтожит реликвию, что называют артефактом. Альфа уверена?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Думаю, ты можешь забрать Безмолвный Архив и заменить его на что-то примерно равное по магической силе. Но ты должен быть точно уверен, что этот предмет тебе не понадобится впоследствии".</DefaultText>
+      <FemaleText>"Думаю, ты можешь забрать Безмолвный Архив и заменить его на что-то примерно равное по магической силе. Но ты должна быть точно уверена, что этот предмет тебе не понадобится впоследствии".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Если ты поместишь на возвышение какой-то предмет, скорее всего, он там и останется. Так что будь осторожен!"</DefaultText>
+      <FemaleText>"Если ты поместишь на возвышение какой-то предмет, скорее всего, он там и останется. Так что будь осторожна!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Спроси себя: стоит ли этот артефакт Архива? Ты лишишься предмета, который положишь на возвышение".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

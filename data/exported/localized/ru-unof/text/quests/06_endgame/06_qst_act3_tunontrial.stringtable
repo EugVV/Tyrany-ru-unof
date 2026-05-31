@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act3_tunontrial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Последний суд</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Пепельную Глушь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Предстать перед судом Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Победить Тунона и Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Победить Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Победить Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Принять от Тунона присягу на верность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Доставить Исполнительный лист Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Доставить Исполнительный лист Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Поговорить с Туноном в его суде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Принять от Тунона присягу на верность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Тунон вызвал вас на суд, чтобы призвать к ответу за ваши действия в Ярусах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправиться на суд Тунона, в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вам удалось обманом заставить Бледена Марка бросить вам вызов в одиночку. Он предложил встретиться в Пепельной Глуши – ничейной земле к югу от Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Предстаньте перед судом Тунона в Городе-Бастарде и отчитайтесь о своих действиях в Ярусах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Тунон приговорил вас к смерти за ваши действия в Ярусах. Вам придется одолеть в бою его и Бледена Марка, чтобы установить свою власть над Ярусами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Тунон приговорил вас к смерти за ваши действия в Ярусах. Вам придется одолеть его в бою, чтобы установить свою власть над Ярусами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] отказался признавать вас правителем Ярусов. Тунон согласился, чтобы вы и [url=glossary:бледен марк]Бледен Марк[/url] разрешили свои разногласия путем испытания боем в его суде. Победите Бледена Марка, чтобы разрешить претензию в глазах Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Тунон попросил поговорить с ним у его трона – он готов присягнуть вам на верность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Обсудив дело против Голосов Нерата, Тунон решил, что Архонта Тайн нужно казнить. Вы решили исполнить казнь лично. Отправьтесь в Какофонию и вручите Исполнительный лист.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Обсудив дело против Грэйвена Аше, Тунон решил, что Архонта Войны нужно казнить. Вы решили исполнить казнь лично. Отправьтесь в Железный Очаг и вручите Исполнительный лист.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы доставили Исполнительный лист, и Архонт теперь мертв. Вернитесь к Тунону в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Тунон попросил поговорить с ним у его трона – он готов присягнуть вам на верность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ваш союз все еще погружен в конфликт на [url=glossary:распутье летианы]Распутье Летианы[/url]. Они не смогут расчистить путь к Какофонии, пока вы им не поможете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ваш союз все еще погружен в конфликт на [url=glossary:распутье летианы]Распутье Летианы[/url]. Они не смогут расчистить путь к Железному Очагу, пока вы им не поможете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы успешно отчитались о своих действиях. Благодаря вам как Вершителю судеб в Ярусах восстановлен порядок, и Тунон пришел к выводу, что только вы достойны править этой землей.</DefaultText>
+      <FemaleText>Вы успешно отчитались о своих действиях. Благодаря вам как Вершительнице судеб в Ярусах восстановлен порядок, и Тунон пришел к выводу, что только вы достойны править этой землей.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Тунон счел, что вы как Вершитель судеб недостойно служили Кайросу, и приговорил вас к смерти от своей руки. Однако в бою вы проявили себя более смертоносным, чем Тунон.</DefaultText>
+      <FemaleText>Тунон счел, что вы как Вершительница судеб недостойно служили Кайросу, и приговорил вас к смерти от своей руки. Однако в бою вы проявили себя более смертоносной, чем Тунон.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Тунон счел, что вы как Вершитель судеб недостойно служили Кайросу, и приговорил вас к смерти от своей руки. Однако в бою вы проявили себя более смертоносным, чем Тунон с Бледеном Марком.</DefaultText>
+      <FemaleText>Тунон счел, что вы как Вершительница судеб недостойно служили Кайросу, и приговорил вас к смерти от своей руки. Однако в бою вы проявили себя более смертоносной, чем Тунон с Бледеном Марком.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

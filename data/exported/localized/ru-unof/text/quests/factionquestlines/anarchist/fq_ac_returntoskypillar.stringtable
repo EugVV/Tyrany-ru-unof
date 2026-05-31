@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\factionquestlines\anarchist\fq_ac_returntoskypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Возвращение в Колодец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Пепельную Глушь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Собраться у Горного Шпиля в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Теперь, когда вы стали врагами со своими единственными союзниками в Ярусах, вам нужно отправиться в Горный Шпиль и обдумать свои дальнейшие действия по завоеванию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>После возвращения в свой Шпиль вы получили сообщение от Бледена Марка. Он хочет встретиться с вами в Пепельной Глуши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы поссорились с единственными оставшимися в Рядах союзниками. Похоже, единственный вариант сейчас – это вернуться в свою крепость в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Вы получили загадочное послание от Бледена Марка, Архонта Теней. Узнав, что он хочет сказать, вы сможете понять, какие варианты действий у вас остались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы нашли себе нового союзника в Ярусах – Бледена Марка, Архонта Теней. Возможно, со временем станут понятны его настоящие мотивы.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

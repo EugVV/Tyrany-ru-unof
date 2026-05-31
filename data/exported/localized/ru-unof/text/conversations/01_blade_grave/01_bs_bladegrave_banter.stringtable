@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_bladegrave_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Твердыня Часовых наконец пала... Я не могу в это поверить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отдаю должное силе духа Несломленных. Кровосмешение и плохая подготовка, вот настоящие причины их слабости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Крепость из мусора? Спорю на что угодно, ветер подует – она развалится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Когда [url=glossary:алый хор]Алый Хор[/url] видит возможность пополнить ряды своей армии, его не остановить. [url=glossary:несломленные]Несломленные[/url] держались гораздо дольше всех прочих".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"В этот пролом можно загнать целую армию. Это будет армия самоубийц, но все же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Затхлый воздух, древние барельефы... Зря мы сюда пришли. [url=glossary:кайрос]Кайрос[/url] не простит нам такого самоуправства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Эти барельефы напоены силой. Лучше к ним даже не подходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Символы на этом алтаре... Предупреждение или приглашение? Хм-м. Я мог бы расшифровать их, будь у нас хоть немного времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Кровь земли бьется громко. Стучит в ушах. Стая не слышит песню бегущей крови?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я не суеверна, но каждый волосок у меня вот-вот встанет дыбом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я рискну. После того как позаимствую пару-другую колец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Их настойчивость раздражает. Что ж, даже кусок дерьма может разрушить башню, если бросить его с достаточной силой. Скажи, Хор когда-нибудь признавал свое поражение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Только после того, как терял столько рук и ног, что способных драться бойцов больше не оставалось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я ничего не слышу, зверолюдка. Мой слух уже не так хорош, как прежде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Успокойся. Просто откуда-то потянуло сквозняком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Нет, здесь есть что-то еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Как они смогли так долго противостоять вашему Северному легиону? Если верить тебе, все они давно были должны упокоиться в братских могилах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Спроси об этом Кайроса. Не я разбудил эту бурю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Решил переложить груз ответственности на чужие плечи? Я не стану тебе мешать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

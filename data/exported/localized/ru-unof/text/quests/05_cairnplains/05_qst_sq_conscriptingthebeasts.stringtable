@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_sq_conscriptingthebeasts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Вербовка зверолюдов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Заручиться милостью Стокровки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Октаве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Похитить детенышей Черной Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться к Октаве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы согласились набрать зверолюдов из племени Камнепытов в ряды Алого Хора, чтобы усилить его армию в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Поговорите со Стокровкой, предводительницей племени зверолюдов Каменной Теснины, и попросите направить несколько Камнепытов в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Стокровка не желает отпускать зверолюдов из Каменной Теснины в [url=glossary:алый хор]Алый Хор[/url]. Она может передумать, если вы ей как-то поможете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Сообщите Октаве, что Стокровка выделила Алому Хору двух зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Октава советует вам подманить детенышей Камнепытов от логова зверолюдов в Каменной Теснине. Их можно вырастить для службы в Алом Хоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вернитесь к Октаве в Каменной Теснине и убедитесь, что он получил детенышей Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Теперь вы можете поговорить с Костяной Лапой в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Детенышей зверолюдов можно подманить только человеческим мясом. Поговорите с Октавой и обсудите, где достать приманку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Заберите человеческое мясо у Двупорочного, мертвого бойца орды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вернитесь к детенышам с приманкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Конфликт в Зиянии разрешен, и Стокровка с готовностью согласится расстаться с несколькими зверолюдами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Стокровка выделила Алому Хору двух зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы приманили несколько детенышей зверолюдов, и [url=glossary:алый хор]Алый Хор[/url] вырастит и надрессирует их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы отправили Стокровку к Голосам Нерата, не спросив у нее о вербовке Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы не смогли завербовать ни одного зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ватага Октавы направляется к Воющей Скале. Вам придется продолжать со зверолюдами, которых вы уже завербовали.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

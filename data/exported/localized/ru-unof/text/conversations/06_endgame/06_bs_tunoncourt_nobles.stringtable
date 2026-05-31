@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_tunoncourt_nobles</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если я поклянусь в верности Тунону, он примет мою дочь Вершительницей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Принимать Кайроса было... непросто. Но нам так будет лучше. Верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мне не доводилось видеть Север уже несколько лет. Думаю, и тебе тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Конечно, Тунон меня пугает, но к кому мне еще обращаться за справедливостью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не припоминаю, чтобы Тунон менял свою маску, но все же маска... меняется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Нет смысла сомневаться в суждении Тунона. Он знает закон Кайроса так хорошо, как нам не знать никогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Говорят, Тунон видел Владыку. Сложно даже представить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Адъюдикатор мудр не по годам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Мне стыдно, что моя семья сопротивлялась пришествию Кайроса. Теперь, когда мы осознали свою ошибку, я здесь, чтобы предложить свою жизнь Адъюдикатору".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Хористы ворвались в мой дом во время завоевания. Я больше никогда не увижу свою дочь, но Тунон сказал, что возместит ущерб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Тунон отправил моего мальчика в трудовой лагерь на Севере. Я здесь, чтобы подать апелляцию по его делу... чтобы умолять, откровенно говоря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Моя семья выжила при разграблении Города-Бастарда. Надеюсь, мы выдержим суд Тунона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Говорят, Тунон рассмотрит мое дело следующим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Должно быть, большая честь быть в доверительных отношениях с Адъюдикатором".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты... ты же Вершитель, да?"</DefaultText>
+      <FemaleText>"Ты... ты же Вершительница, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Такое впечатление, что Тунон никогда не касается земли. Интересно, где он спит... если он спит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Тунон правит не только Городом-Бастардом. Он еще заинтересован в [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"[url=glossary:опальные]Опальные[/url] разграбили и сожгли караван, который направлялся в мое имение. Я добиваюсь компенсации с 429 года".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Это ты приказал ватагам Хора разграбить фермы в 428 году? Мой брат погиб в тот день".</DefaultText>
+      <FemaleText>"Это ты приказала ватагам Хора разграбить фермы в 428 году? Мой брат погиб в тот день".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Суд изменился. Когда-то горы денег переходили из рук в руки, а теперь людей казнят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Говорят, только Архонт может полностью понять закон Кайроса. Я в это верю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Когда-то у нас было хорошее торговое соглашение с Севером. Немало колец зарабатывали на стороне. А теперь мы подчиненные Империи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Это ты провозгласил [url=glossary:эдикт]Эдикт[/url] Бурь? Кто бы мог подумать, что один-единственный человек может поставить гордый Оплот на колени".</DefaultText>
+      <FemaleText>"Это ты провозгласила [url=glossary:эдикт]Эдикт[/url] Бурь? Кто бы мог подумать, что один-единственный человек может поставить гордый Оплот на колени".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Не вини себя из-за Лазури. Сомневаюсь, что кто-то мог бы помешать Каирну уничтожить Степные Врата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Говорят, ты помог Лазури во время войны. Жаль, что не все служители Кайроса такие милосердные".</DefaultText>
+      <FemaleText>"Говорят, ты помогла Лазури во время войны. Жаль, что не все служители Кайроса такие милосердные".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Если на то, чтобы сжечь Веленевую Цитадель, понадобился [url=glossary:эдикт]Эдикт[/url], то у Книгочеев там должно было быть что-то стоящее. Наверное, мы так никогда и не узнаем точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Восстановил Горящую Библиотеку, да? Надеюсь, ты нашел то, что искал".</DefaultText>
+      <FemaleText>"Восстановила Горящую Библиотеку, да? Надеюсь, ты нашла то, что искала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Тунон очень к тебе благосклонен. Постарайся не разочаровать его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Тебе не нужно ждать аудиенции Адъюдикатора? В этом месяце я хожу в суд каждый день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Мир Кайроса добрее к тем, кто преклонил колени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Не понимаю, почему Архонт Войны нас так ненавидит. Только потому, что мы родились не под правлением Кайроса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Тунон самый уравновешенный из Архонтов. Остальные слишком... слишком бесшабашные для этой должности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я втайне надеюсь, что [url=glossary:кайрос]Кайрос[/url] не пригласит еще каких-нибудь Архонтов в Ярусы. Несмотря на всю их мудрость, они могут сильно нам навредить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Мне в жизни ни разу не встречался Архонт, пока не появился Тунон. Они все такие же, как он?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Вне сомнения, есть какая-то важная причина, по которой Тунон носит маску. Хотя спрашивать об этом у него я не рискну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Будь вежливым при разговоре с Адъюдикатором. Вчера он вынес приговор, по которому мужчине должны содрать кожу заживо на городской площади".</DefaultText>
+      <FemaleText>"Будь вежливой при разговоре с Адъюдикатором. Вчера он вынес приговор, по которому мужчине должны содрать кожу заживо на городской площади".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Тунон возлагает на своих подчиненных высокие ожидания. У него к тебе большие требования".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ковры здесь раньше не были красными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Мне хотелось задать вопросы о законе Кайроса. А теперь, когда я здесь, боюсь спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я не могу найти никаких противоречий в законе Кайроса, но это не значит, что их не существует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"У большинства Архонтов есть последователи, но не у Бледена Марка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Тунон смотрит на меня? Никогда нельзя понять точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Слава Кайросу. Я... я все лучше запоминаю, что нужно так говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Север месяцами готовился к завоеванию... так почему мы не подготовились получше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Пожалуйста, не бей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Война бушует за стенами города, но, по крайней мере, у нас есть Мир Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я учусь читать, чтобы понимать закон Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Мой кузен сражался в Оплоте. Может, ты... видел его? Неизвестность – это хуже всего".</DefaultText>
+      <FemaleText>"Мой кузен сражался в Оплоте. Может, ты... видела его? Неизвестность – это хуже всего".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я знаю многих, кто сражался на войне. Что, я? Конечно же нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Патрули Алого Хора задерживаются у моего дома каждую ночь. Я боюсь идти спать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"[url=glossary:опальные]Опальные[/url] повесили мою племянницу за то, что она пела песенку про Грэйвена Аше. Они... они очень ревностно защищают своего Архонта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Когда-то мне казалось, что считать кольца полезнее, чем учиться читать. А теперь я уж и не знаю..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Мой отец попытался подкупить Адъюдикатора. Суд отправил его носить припасы в тылу армии. С тех пор от него известий не было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Говорят, ты провозгласил собственный [url=glossary:эдикт]Эдикт[/url]... неужели это правда?"</DefaultText>
+      <FemaleText>"Говорят, ты провозгласила собственный [url=glossary:эдикт]Эдикт[/url]... неужели это правда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Тунон в последнее время в особенно плохом настроении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"А эти слухи правда? Что [url=glossary:голоса нерата]Голоса Нерата[/url] мертв?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Архонт Войны мертв? Кто бы мог подумать, что воевода падет на моем веку..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Уже даже не знаю, хочу ли я, чтобы Тунон рассматривал мое обращение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Твое дело против Аше будет записано и изучено".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Похоже, Архонт Войны больше предан своим солдатам, чем Империи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Не сомневаюсь, что ты потерял друзей на Севере за то, что предал суду Аше".</DefaultText>
+      <FemaleText>"Не сомневаюсь, что ты потеряла друзей на Севере за то, что предал суду Аше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Наверное, Архонт Войны был плохим генералом, раз Тунон признал его виновным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Никогда бы не подумал, что [url=glossary:голоса нерата]Голоса Нерата[/url] будет предан суду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Обхитрил Архонта Тайн, да?"</DefaultText>
+      <FemaleText>"Обхитрила Архонта Тайн, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Если ты доказал вину Голосов, то не сомневаюсь, что сможешь засудить кого угодно".</DefaultText>
+      <FemaleText>"Если ты доказала вину Голосов, то не сомневаюсь, что сможешь засудить кого угодно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Похоже, Голоса наконец-то поплатился за свои хитроумные планы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Тунон – строгий критик. Ни для кого не стало сюрпризом, что твое дело против Архонта провалилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Похоже, Тунон очень хотел отклонить твои претензии к Архонту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Не впечатлил суд, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Казалось бы, Вершитель представил бы более убедительные аргументы".</DefaultText>
+      <FemaleText>"Казалось бы, Вершительница представила бы более убедительные аргументы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ты убедительно доказал свою невиновность, Вершитель".</DefaultText>
+      <FemaleText>"Ты убедительно доказала свою невиновность, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Тунон зря тебя обвинял".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Подумать только – тот самый Суд, который тебя взрастил, признал тебя виновным..."</DefaultText>
+      <FemaleText>"Подумать только – тот самый Суд, который тебя взрастил, признал тебя виновной..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Мало кто из тех, кого Тунон считает виновными, живет достаточно долго, чтобы успеть об этом пожалеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Если Адъюдикатор подчинился твоей власти, получается, теперь этот Суд принадлежит тебе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Не могу поверить, что Тунон предал Кайроса ради тебя..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Если Адъюдикатор мертв, то кто рассудит все эти дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Тунон был старейшим из Архонтов, а ты его убил. Интересно, кем тебя теперь считать".</DefaultText>
+      <FemaleText>"Тунон был старейшим из Архонтов, а ты его убила. Интересно, кем тебя теперь считать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Значит, это ты приструнил Голоса".</DefaultText>
+      <FemaleText>"Значит, это ты приструнила Голоса".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Не советую доверять Голосам, даже если он будет вести себя послушно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Хорошо, что мы избавились от Голосов. Рад, что могу теперь это сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Надеюсь, Хор распадется без своего Архонта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Кто бы мог подумать, что Аше сможет покориться во второй раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Аше – опасный противник. А еще он может быть опасным другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Займет ли место Аше новый Архонт?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Север будет скорбеть о кончине Грэйвена Аше".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

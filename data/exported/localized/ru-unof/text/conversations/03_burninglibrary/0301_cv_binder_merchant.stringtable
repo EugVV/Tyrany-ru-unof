@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_cv_binder_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Молодой Книгочей полностью погружен в изучение свитка длиной в половину его роста и далеко не сразу замечает, что вы долгое время стоите рядом и ждете. 
+
+"Вершитель судеб! П-прости, что заставил тебя ждать!" Он быстро сворачивает свиток и кланяется. "Рената назначила меня интендантом Библиотеки – теперь, когда мы вернули ее себе. Если тебе что-то нужно – обращайся в любое время!"</DefaultText>
+      <FemaleText>Молодой Книгочей полностью погружен в изучение свитка длиной в половину его роста и далеко не сразу замечает, что вы долгое время стоите рядом и ждете. 
+
+"Вершительница судеб! П-прости, что заставил тебя ждать!" Он быстро сворачивает свиток и кланяется. "Рената назначила меня интендантом Библиотеки – теперь, когда мы вернули ее себе. Если тебе что-то нужно – обращайся в любое время!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Давай посмотрим, что у тебя есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Нужно что-нибудь еще, Вершитель судеб?"</DefaultText>
+      <FemaleText>"Нужно что-нибудь еще, Вершительница судеб?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Разве ты не считаешь, что за возвращение Веленевой Цитадели Книгочеям мне полагается какая-то награда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Книгочей прижимает свиток к груди. "Я... я определенно могу организовать скидку какого-то рода. Не хотел проявить неуважение".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

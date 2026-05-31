@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\0607_bs_kypera</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы будем дежурить здесь, Вершитель. Ему вряд ли есть куда еще бежать".</DefaultText>
+      <FemaleText>"Мы будем дежурить здесь, Вершительница. Ему вряд ли есть куда еще бежать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я слышала вопли даже отсюда. Спасибо, Вершитель".</DefaultText>
+      <FemaleText>"Я слышала вопли даже отсюда. Спасибо, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

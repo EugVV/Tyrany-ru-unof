@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_beastwoman_mage_cc_spellsigilgiver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Зверолюдка может убить-задавить человека и украсть священные мистические знаки. Но не может понять странные каракули человека – не может вдохнуть в такую магию жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Поэтому зверолюдка позволит человеку, которого называют Вершителем, оставить себе мистические знаки. Пока что". Она насмешливо улыбается.</DefaultText>
+      <FemaleText>"Поэтому зверолюдка позволит человеку, которого называют Вершительницей, оставить себе мистические знаки. Пока что". Она насмешливо улыбается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Зверолюдка может задавить и рвать-терзать человека на кусочки. Поэтому не подходи, Вершитель".</DefaultText>
+      <FemaleText>"Зверолюдка может задавить и рвать-терзать человека на кусочки. Поэтому не подходи, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

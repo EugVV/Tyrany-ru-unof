@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_bs_stoneseafallout</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Готовьтесь к бою! И помните, что Вершитель – опасный враг!"</DefaultText>
+      <FemaleText>"Готовьтесь к бою! И помните, что Вершительница – опасный враг!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"За Грэйвена Аше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:камнепыты]Камнепыты[/url] отомстят за приму! Покажут силу племени!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Рви-грызи-кусай! Кровь Вершителя проливай!"</DefaultText>
+      <FemaleText>"Рви-грызи-кусай! Кровь Вершительницы проливай!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

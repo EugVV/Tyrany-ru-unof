@@ -1,0 +1,3588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\reputationchangereasons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>716</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В битве за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вы встали на сторону Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>В битве за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вы встали на сторону Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>В битве за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] вы встали на сторону Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы напали на наши войска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы спасли наших солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы спасли наших магов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы убили Ренату, лишив Книгочеев последнего лидера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Властью Вершителя судеб Тунона вы вынесли решение в нашу пользу.</DefaultText>
+      <FemaleText>Властью Вершительницы судеб Тунона вы вынесли решение в нашу пользу.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы решили, что в поражении виновны [url=glossary:опальные]Опальные[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы решили, что в поражении виновен [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы убили королеву Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>На второй год завоевания вы убедили Гвардию Вендриенов сложить оружие и подписать капитуляцию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы сразились с лидером Заклинателей Приливов в честном поединке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вы помогли доставить старейшин Школы Приливов прямиком в руки Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Вы передали контроль над Распутьем Летианы легиону Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Вы передали контроль над Распутьем Летианы Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Вы предали Опальных и объединились с Гвардией Вендриенов в сражении за цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Вы предали [url=glossary:алый хор]Алый Хор[/url] и объединились с Гвардией Вендриенов в сражении за цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Вы победили войска Кайроса в битве за цитадель Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Вы разбили войска Таркис Арри и Гвардию Вендриенов в битве за цитадель Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Грегос и [url=glossary:несломленные]Несломленные[/url] пали от вашей руки у бреши в Старых Стенах в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Вы напали на Мирона и Несломленных внутри Старых Стен в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Вы отдали Иерониму Камни Толкования, найденные в Старых Стенах в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Вы убили изверга в Старых Стенах в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Вы решили объединиться с Гвардией Вендриенов и поднять оружие против войск Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Адъюдикатору Тунону доложили, что вы с честью и мужеством представляете интересы его Суда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Вы разобрались с бичевателями, угрожавшими Распутью Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>После рейда в [url=glossary:распутье летианы]Распутье Летианы[/url] вы передали контроль над поселением Бронзовому Братству.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>После рейда в [url=glossary:распутье летианы]Распутье Летианы[/url] вы передали контроль над поселением Опальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>После рейда в [url=glossary:распутье летианы]Распутье Летианы[/url] вы передали контроль над поселением Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>После рейда в [url=glossary:распутье летианы]Распутье Летианы[/url] вы оставили контроль над поселением себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Вы помогли Келлиону найти сестру и уговорили ее вернуться домой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Вы убедили [url=glossary:бронзовое братство]Бронзовое Братство[/url] принять Калию в свои ряды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Вы нашли пропавшую партию оружия и вернули ее Скованным Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Вы нашли пропавшую партию оружия, но отдали ее Бронзовому Братству.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Вы помогли Дее, отомстив за смерть ее супруги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Вы казнили Дею по обвинению в убийстве супруги. К сожалению, у вас не нашлось времени, чтобы поведать людям о ее преступлении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Вы согласились пощадить жителей Переправы Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Вы согласились дать жителям Переправы Отголоска время на то, чтобы уйти из деревни до начала сражения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Вы решили убить всех оставшихся жителей Переправы Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Вы решили не оказывать милости Матани Сибил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Вы решили оказать милость Матани Сибил и приняли ее капитуляцию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Вы пообещали Роне доставить ее послание повстанцам на Переправе Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Вы сделали так, чтобы партия провизии оказалась у Джени, тайного бойца повстанцев на Переправе Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Вы решили убить Джени – шпиона повстанцев, которая хотела переправить партию провизии своим соратникам на Переправу Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Вы приказали Джени покинуть Отголосок. Тем самым вы решили проблему поставки продовольствия в поселение извне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Вы вынудили Варию убить своих бывших соратников, чтобы доказать преданность Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Вы вынудили Варию вступить в Хор в качестве солдата Орды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Вы отправили Варию шпионом обратно в Гвардию Вендриенов. Пусть приносит пользу и дальше подрывает деятельность повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Вы напали на Лоару, Мастера по Закалке, у Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Вы спасти Гаррика, подмастерье Скованных Горном, из Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Вы передали пропавшую партию оружия Скованных Горном Бронзовому Братству.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Вы позволили Фуге ударить солдата Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Вы напали на Уэлби и солдат Бронзового Братства в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Вы напали на Ферриса-Плоскостопа и солдат Бронзового Братства в Старых Стенах Двуречья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Вы убили Раэтоммона в Старых Стенах в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Вы убили опустошителя в Старых Стенах в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Вы помогли рекрутировать зверолюдов в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Вы напали на Октаву и солдат Алого Хора в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Вы выманили детенышей зверолюдов от их родителей – прямиком в руки ловцов Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Вы напали на Стокровку, вождя зверолюдского племени Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Вы помогли Стокровке, убив Опальных в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Вы убили Камнепытов в Зиянии и поведали об этом Стокровке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Вы солгали Стокровке о том, кто на самом деле убил Камнепытов в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Вы продемонстрировали свою силу перед Стокровкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Вы заняли место альфы племени Камнепытов, победив Стокровку в бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Вы освободили искателей, которых удерживали в плену [url=glossary:камнепыты]Камнепыты[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Вы помогли Скаловержцам сохранить сущность Каирна и остановили [url=glossary:эдикт]Эдикт[/url] в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Вы убили Каирна и остановили [url=glossary:эдикт]Эдикт[/url] в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Вы собрали кристаллы, необходимые для ритуала, который поддерживает жизнь Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Вы подчинились приказу Грэйвена Аше и вынудили Скаловержцев покинуть Воющую Скалу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Вы помогли Алому Хору подготовиться к нападению на лагерь Скаловержцев на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Вы убили Маттиаса у Авгитовых Ключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Вы схватили Маттиаса у Авгитовых Ключей и передали его Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Вы лишили Хор ценного пленника, убив Маттиаса до того, как тот попал в руки хористов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Вы помогли Маттиасу сбежать из Авгитовых Ключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Вы помогли Несломленным отбить Сумеречный Бастион у легиона Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Вы помогли Опальным защитить Сумеречный Бастион от Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Вы отказались исполнить волю Тунона и явиться в Суд, когда сам [url=glossary:бледен марк]Бледен Марк[/url] выступил против вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Вы убили Бледена Марка, Архонта Теней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Вы искупили вину перед Алым Хором, пленив командира Гвардии Вендриенов и передав его Нерату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Вы искупили вину перед Опальными, убив командира Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Вы захватили в плен командира Гвардии Вендриенов и отправили его на суд Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Вы уничтожили Скаловержцев в Старых Стенах у Зияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Вы уничтожили зверолюдов в Старых Стенах у Зияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Вы с доблестью прошли зверолюдский Обряд Дикости и Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Тунон доволен вашими способностями к ведению расследований.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Тунон считает, что вы недостаточно хорошо справляетесь с расследованиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Вы спасли пропавших искателей из зверолюдского плена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Вы нашли и вернули пропавшие сокровища Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Вы пощадили жизнь Марика у Пепельного форта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Вы казнили Марика у Пепельного форта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Ваши переговоры с Маттиасом провалились.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Ваши переговоры с Ренатой прошли успешно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Ваши переговоры с Ренатой провалились.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Ваши переговоры с Методиусом провалились.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Ваши переговоры с Камнепытами прошли успешно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Ваши переговоры с Камнепытами провалились.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Вы передали Твердыню Часовых легиону Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Вы поддержали стремление Скаловержцев провести ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Вы вынудили наемников расторгнуть контракт со Скаловержцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Вы сопроводили Скаловержцев обратно в цитадель Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Вы нашли инструменты Гаррика в Старых Стенах и вернули их владельцу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Вы убили Первого брата Раэтоммона во имя Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Вы убили Стокровку во имя Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Вы убили Ренату во имя Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] присягнул вам на верность. Теперь вы – главнокомандующий легиона Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] знают, что вы встали на их сторону в конфликте с людьми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] узнал, что вы отпустили пленных солдат Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] узнали, что вы освободили пленников в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Вы заслужили доверие Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>В Гвардии Вендриенов считают вас предателем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] благодарны вам за услугу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] считают вас жалким и мелочным.</DefaultText>
+      <FemaleText>[url=glossary:скованные горном]Скованные Горном[/url] считают вас жалкой и мелочной.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Вы считаете Скованных Горном настоящими творцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>В Гвардии Вендриенов теперь знают, что вы – на стороне их врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Вы добыли для Ренаты Око Писаря и тем самым вернули стабильность в орден Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Вы помогли Несломленным защитить свой лагерь у Могилы Клинков, отбив атаку Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Вы передали Пелокса Флориана Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Вы дали Пелоксу Флориану и его команде сбежать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Вы убили Пелокса Флориана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Вы выполнили первое задание Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Вы выполнили задание Аше по проведению переговоров с командирами повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Вы выполнили последние задания Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Фуге претит ваша демонстрация своей слабости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Фуге нравится то, как безжалостно вы проявили свой авторитет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Бойцам Алого Хора нравятся ваши непочтительность и высокомерие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Ваше понимание верности оставляет желать лучшего.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Барику по душе то, как вы себя держите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Вы предали войска Кайроса в бою за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Вы победили Гвардию Вендриенов в бою за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Барик сомневается в вашей верности Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Ваши поступки говорят о верности слову и уверенности в себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Вы сожгли Переправу Отголоска вместе со всеми жителями в качестве напоминания о том, как слуги Кайроса обращаются с повстанцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Вы сожгли Переправу Отголоска, но разрешили жителям покинуть поселение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Вы убили солдата Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Вы убили солдата Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Вы убили солдата Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Вы убили солдата Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Вы убили солдата Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Вы убили Книгочея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Вы убили одного из Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Вы убили воина Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Вы убили лейтенанта Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Вы убили лейтенанта Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Вы убили поселенца Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Вы убили поселенца [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Вы убили врага критическим попаданием!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Вы победили сильного врага!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Вы использовали силу артефакта!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Барику нравятся хорошие шутки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Барик ценит вашу верность легиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Вы снарядили могущественный артефакт!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Вы воодушевили Барика, сказав, что пощадите Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Вы разбили надежды Барика, сказав, что убьете Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Вы позволили Сирин околдовать Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Вы не позволили Сирин околдовать Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Вы передали наилучшие пожелания из центра власти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Вы покрасовались собственной властью перед Лантри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Вы уважаете мнение Лантри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Вы прекратили осаду Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Вы оказали милость Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Вы оказали милость легиону Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Вы оспорили авторитет командира в Алом Хоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Вы предоставили доказательства того, что убили Рвущего Пса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Вы пролили кровь, чтобы доказать свое превосходство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Вы разобрались с Культяпым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Вы разобрались с Кусакой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Вы разобрались с Кровопийцей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Вы решили предать всех без исключения в Зале Вознесения и захватить Горный Шпиль для себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Вы уделили Голосам Нерата все ваше внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Вы оказались не самым лучшим собеседником для Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Ваша реакция понравилась Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Ваша реакция не понравилась Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Вы истребили Опальных в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Вы истребили Камнепытов в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Вы рассказали Алой Пасти о то, что одолели Стокровку. Это решило конфликт в Зиянии мирным путем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Вы прошли Обряд Дикости и Камня и поведали о своей победе Алой пасти. Это решило конфликт в Зиянии мирным путем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Вы освободили плененного Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Вы рекрутировали Левого Когтя в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Вы казнили Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Вы решили помочь Алому Хору в святилище Зубастой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Вы решили помочь Опальным в святилище Зубастой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Вы исключили Фугу из своего отряда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Вы воспользовались хитроумием Фуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Вы напали на Элию и Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Вы напали на Агатона и Несломленных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Вы напали на Несломленных на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Вы заняли сторону Фуги, когда та нелестно высказалась об Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Вы высказались в защиту Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Вы выказали огромное неуважение Архонту Войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Вы решили перебить хористов у Спуска Мертвеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Вы пощадили зверолюдов у Спуска Мертвеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Вы решили перебить зверолюдов у Спуска Мертвеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Вы пощадили хористов у Спуска Мертвеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Вы ошеломили Барика проявлением собственного авторитета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Барик встревожен вашей недостаточной верностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Вы заняли сторону Фуги в ее споре с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Вы заняли сторону Барика в его споре с Фугой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Честные ответы ценятся везде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Редко кто осмеливается критиковать [url=glossary:голоса нерата]Голоса Нерата[/url] прямо в лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Вы проигнорировали синий флаг перемирия – серьезное преступление как для жителей Ярусов, так и для слуг Владыки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] с презрением смотрит на вас и ваше нежелание пройти испытание боем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] уважает ваше желание пройти испытание боем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Оценив оказанную услугу, Пятый Глаз согласился замолвить за вас словечко в Хоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Матани Сибил помнит о том, что вы выказали уважение местным традициям и сохранили перемирие на время праздника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Матани Сибил помнит о том, что вы не выказали уважение местным традициям и нарушили перемирие во время праздника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Вы тайно встретились с Таркис Арри и согласились помочь повстанцам в войне с армией Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Вы расценили встречу с Таркис Арри как возможность ее устранить. Арри в итоге скрылась, но в любом случае, это стало хорошим посланием Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Вы убедили Грэйвена Аше в том, что население Ярусов не такое дикое, как он изначально считал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Теперь для Барика вы Великий генерал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Вы внаглую напали на отряд Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Вы напали на Теодора в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Вы позволили Маттиасу убить Стрейдуса Иродина, последнего регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Разведчики Опальных по достоинству оценили то, как вы пробрались в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Убийство королевы Гребня вынудило Гвардию Вендриенов сложить оружие и сохранило жизни множества Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Элия с благосклонностью вспомнила о том, что вы предупредили жителей Оплота об Эдикте Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Элия запомнила, что вы провозгласили [url=glossary:эдикт]Эдикт[/url] Кайроса без предупреждения, сгубив тем самым множество жителей Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>Теодор запомнил, что вы не дали хористам рекрутировать пленников Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Вы убили Элию и уничтожили силы Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Вы убили Джакома и уничтожили войска Опальных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Вы напали на Теодора в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Вы помогли Несломленным уйти из Ржавых Каньонов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Вы помогли Опальным захватить Ржавые Каньоны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Вы завершили [url=glossary:эдикт]Эдикт[/url] Бурь Кайроса, прекратив уничтожение Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Вы захватили Твердыню Часовых и передали ее Опальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Вы захватили Твердыню Часовых, передали ее Алому Хору и не стали прерывать действие Эдикта Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Вы захватили Твердыню Часовых и передали ее Несломленным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Вы захватили Твердыню Часовых и оставили ее себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Вы уговорили Амелию отправиться к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>Вы убили Амелию и ее дочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Вы вынудили Барика убить внучку Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Кровогной поблагодарил вас за передачу Алому Хору контроля над Распутьем Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Вы уничтожили гарнизон Бронзового Братства, контролировавший [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Вы уничтожили гарнизон Опальных, контролировавший [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Вы уничтожили гарнизон Алого Хора, контролировавший [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Барик помнит, как вы защитили честь легиона в землях Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Барик помнит, как вы отвернулись от легиона в землях Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Альбетронас поблагодарила вас за передачу Опальным контроля над Распутьем Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Вы запугали Элию и Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Вы приказали Румалан и ее Опальным прекратить боевые действия в Твердыне Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Вы помогли солдатам Бронзового Братства в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Вы напали на солдат Бронзового Братства в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Вы запугали Ферриса-Плоскостопа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Вы убедили Ферриса помочь вам, не прибегая к насилию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Вы привели Барика к Могиле Клинков, где каждый камень вызывает в нем воспоминания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Вы пригласили Скованных Горном присоединиться к вашей борьбе против сил Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Вы пригласили [url=glossary:бронзовое братство]Бронзовое Братство[/url] присоединиться к вашей борьбе против сил Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Вы убили Жденью, Мастера Горна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Вы освободили Жденью, Мастера Горна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Вы объявили о намерении сформировать коалицию против Северной Империи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Вы убедили Барика в том, что коалиция – не более, чем полезный инструмент.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Вы объявили о намерении позвать зверолюдов в коалицию против Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Вы заглушили протесты Барика во время заседания вашей коалиции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Вы объявили себя новым Владыкой на заседании коалиции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Когда Сирин выразила свое несогласие с захватом Амелии и ее ребенка, вы приказали ей не вмешиваться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Расспрашивая Грэйвена Аше, вы зашли слишком далеко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Вы мирно уладили конфликт между Локком и Миреком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Вы помогли Локку победить упрямого Мирека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Вы напали на Локка и Мирека в Переходе Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Вы убили Марика несмотря на возражения Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Когда маги Хора поработили зверолюдов, вы встали на сторону Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Вы доставили регента на допрос Голосам Нерата. Больше ее никто и никогда не видел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Вы предупредили жителей Оплота о грядущем Эдикте Бурь лишь потому, что [url=glossary:кайрос]Кайрос[/url] не желал править кладбищем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Вы помогли Каэлусу отбиться от погибелей в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Вы напали на Каэлуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Вы помогли Уэлби одолеть погибелей в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Вы убили Уэлби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Вы спасли Базилиона и его Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Вы "вступили" в "ватагу" Фуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Вы защитили [url=glossary:распутье летианы]Распутье Летианы[/url] от атаки Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы послали беженцев Скованных Горном помочь с поставками железа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы отказались брать взятки Опальных и Алого Хора и менять график поставок от Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы убедили Скованных Горном поставлять Опальным дополнительное вооружение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы убедили Скованных Горном поставлять Алому Хору дополнительное вооружение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы заставили [url=glossary:бронзовое братство]Бронзовое Братство[/url] перенести свой лагерь как можно дальше от Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы позволили Алому Хору пригласить [url=glossary:бронзовое братство]Бронзовое Братство[/url] в свой лагерь для турнирных боев и соревнований в мастерстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы отдали беглого Скованного Горном Опальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Во время захвата Распутья Летианы [url=glossary:алый хор]Алый Хор[/url] стер память пытавшемуся присоединиться к ним Скованному Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы приказали Алому Хору защитить поселение от вторжения погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы приказали Опальным защитить поселение от вторжения погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Изотанис признал помощь, которую вы оказали Опальным, передав им рабов во время завоевания Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] разочарованы в ваших жестоких деяниях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] встревожены вашими жестокими деяниями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] оскорблены вашими жестокими деяниями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] оценили ваши доблестные деяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Опальным нравятся ваши благородные деяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] уважают ваши величественные деяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Когда [url=glossary:каирн]Каирн[/url], Архонт Камня, разрушил Форт Эджеринг, вы поздравили Опальных и отказали Алому Хору в призыве рекрутов из числа Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Во время завоевания Оплота вы запретили Алому Хору рекрутировать пленников Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Когда [url=glossary:каирн]Каирн[/url], Архонт Камня, разрушил Форт Эджеринг, вы разрешили Алому Хору рекрутировать самых молодых Опальных в качестве компенсации за невозможность набрать солдат среди врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Когда [url=glossary:опальные]Опальные[/url] сложили костер из книг Веленевой Цитадели, вы приказали отдать половину Алому Хору как законную добычу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] разочарован в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] раздражен вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] рассержен вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] оценил ваши действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>Алому Хору нравятся ваши решительные действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] впечатлен вашими свирепыми действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Фуга впечатлена тем, что [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] называет вас Убийцей Королев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] встревожена вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] потрясена вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] оценила ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>Гвардии Вендриенов нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Вы убили [url=glossary:голоса нерата]Голоса Нерата[/url] в Какофонии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Из-за Опальных вы отослали Джино из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Вы помогли Джино вернуть его доброе имя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Вы убедили Раэтоммона отправиться к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Вы послали Элдиана к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Вы не оказали Опальным достаточной поддержки. [url=glossary:грэйвен аше]Грэйвен Аше[/url] разочарован.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Вы не оказали Опальным достаточной поддержки. [url=glossary:грэйвен аше]Грэйвен Аше[/url] встревожен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Вы не оказали Опальным достаточной поддержки. [url=glossary:грэйвен аше]Грэйвен Аше[/url] потрясен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] оценил ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Грэйвену Аше нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] впечатлен вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] раздражен вашими надменными словами и действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] рассержен вашими надменными словами и действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] взбешен вашими надменными словами и действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] оценил ваши жестокие, провоцирующие слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Голосам Нерата нравятся ваши жестокие, провоцирующие слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] в восторге от ваших жестоких, провоцирующих слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>По просьбе Опальных вы огласили [url=glossary:эдикт]Эдикт[/url] Бурь, не предупредив людей Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>По просьбе Алого Хора вы предупредили людей Оплота, перед тем как огласить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>По просьбе Опальных вы огласили [url=glossary:эдикт]Эдикт[/url] Огня, не предупредив Книгочеев Веленевой Цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>По просьбе Алого Хора вы встретились с Книгочеями Веленевой Цитадели и дали им время подготовиться к Эдикту Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>В 428 году ИИ вы помогли Опальным получить контроль над Городом-Бастардом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>В 428 году ИИ вы помогли Алому Хору получить контроль над Городом-Бастардом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Вы помогли Изотанису найти и вернуть потерянный груз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Вы солгали Изотанису о том, что нашли утерянную посылку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Вы не смогли помочь Изотанису вернуть потерянный груз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] помнит милосердие, которые вы проявили к их капитану.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] помнит, как жестоко вы казнили их капитана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Казнь Каирна стала возможной благодаря вашему решению пожертвовать армией Алого Хора в Степных Вратах, что выиграло время для провозглашения Эдикта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Провозгласив [url=glossary:эдикт]Эдикт[/url] Камня, вы выполнили приказ Кайроса покарать Каирна, Архонта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Когда люди Вендриенов попытались провести мирный праздник, вы возглавили кровавую резню, учиненную Опальными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Барик разочарован в ваших варварских словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>Барик встревожен вашими варварскими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>Барик потрясен вашими варварскими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Барик оценил ваши благородные деяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Барику нравятся ваши благородные деяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Барик в восторге от ваших благородных деяний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Вы уговорили Стокровку отправиться к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Увидев Атли, заклинательницу приливов, вы и Барик схватились за оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Фуга разочарована в вашем дисциплинированном поведении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Фуга встревожена вашим дисциплинированным поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Фуга потрясена вашим дисциплинированным поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Фуга оценила ваши вздорные, хаотичные метания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Фуге нравятся ваши вздорные, хаотичные метания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Фуга в восторге от ваших вздорных, хаотичных метаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>В Колодце Вендриенов вы спасли оказавшееся в затруднительном положении подкрепление Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>Атли разочарована в вашем требовательном и жестком поведении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>Атли встревожена вашим требовательным и жестким поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Атли потрясена вашим требовательным и жестким поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Атли оценила ваши умелые действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Атли нравятся ваши умелые действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Атли в восторге от ваших умелых действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Во время первого завоевания Колодца Вендриенов Фуга была одной из солдат Алого Хора, которых вы отправили принять участие в мирном празднике ярусников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Когда боец Алого Хора, известная вам теперь как Фуга, обвинила племя зверолюдов в том, что они задрали ее ватагу по приказу Каирна, вы отклонили ее обвинение и казнили зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Когда боец Алого Хора, известная вам теперь как Фуга, обвинила племя зверолюдов в том, что они задрали ее ватагу по приказу Каирна, вы позволили Алому Хору захватить и допросить зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>[url=glossary:тyнон]Тyнон[/url] оценил ваше честное, дисциплинированное поведение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Тyнону нравится ваше честное, дисциплинированное поведение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>[url=glossary:тyнон]Тyнон[/url] впечатлен вашим честным, дисциплинированным поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Тунон разочарован в вашем бесчестном, жестоком поведении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Тунон встревожен вашим бесчестным, жестоким поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Тунон потрясен вашим бесчестным, жестоким поведением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Запретные знания сгорели в костре Опальных вопреки просьбам Алого Хора и во славу закона Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Вы позволили Опальным конфисковать еду и фураж во время завоевания Города-Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Вы приказали казнить командующего Несломленных и выставить его тело напоказ для устрашения врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] не понес наказания за неумышленное отравление солдат Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Вы сбросили Таркис Арри со Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Фуга огорчена вашим решением скормить Барика Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Барик огорчен вашим решением скормить Фугу Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Вы заставили Сирин умертвить ребенка Амелии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Вы уничтожили солдат Хора, наводнивших Горящую Библиотеку и позволили Книгочеям спокойно забрать оттуда источники знаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Вы без предупреждения напали на Алую Пасть, спровоцировав все племя Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>Вместо того чтобы сотрудничать с Алой Пастью, вы решили отобрать у нее Лазурный Щит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>Смерть-из-Тени огорчена вашим решением уничтожить Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>Вы решили убить Стокровку и Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Камнепытов разозлила ваша попытка мирно провести Опальных через их земли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] вне себя от радости от того, что вы освободили Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Вы похвастались Стокровке, что уничтожили зверолюдов в Зиянии, чем привели Камнепытов в ярость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Вы доверились Фуге во время конфликта с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Не доверяя Фуге, вы попытались отдать ее Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Вы сделали из Смерти-из-Тени квази-человека, и теперь она считает, что вы отняли у нее надежду возродить Охотников Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Вы отдали Безмолвный Архив Голосам Нерата, предоставив ему доступ к тайным знаниям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Вы сказали Смерти-из-Тени, что либо она будет выполнять ваши приказы, либо пусть пеняет на себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Вы решили не трогать рекрутированных Сирин культистов, чтобы подчеркнуть результативность ее действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>Вы заставили Сирин прекратить вербовку и позволить Опальным убить ее последователей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Вы надели на магов, зачарованных Сирин, железные намордники, чтобы те не могли поделиться запретными знаниями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Вы передали нескольких Опальных Сирин в телохранители, чтобы наказать их за казнь зачарованных магов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>Сочувствуя ее боли, вы сказали Сирин, что больше никогда не спросите о смерти ее матери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Вы пренебрегли чувствами Сирин и вынудили девушку рассказать о смерти ее матери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Вы помогли Фуге по-новому взглянуть на ситуацию, которая привела к смерти ее сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Вы попытались заставить Барика выбирать – сражаться за вас или за Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>Вы сбросили Железного Маршала Эрениос со Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>Вы без колебаний приняли Атли на службу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] обрадовался тому, что вы отдали Голосам Нерата пленного командующего Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Лантри нравятся ваши действия во время завоевания Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Вы проигнорировали опасения Сирин в связи со взятием Алым Хором Безмолвного Архива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Сирин не одобрила ваше решение принять участие в состязании Цензора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>Вы послали хористов искать разведчиков Опальных, пропавших в горах возле Веленевой Цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Вы отказались посылать хористов на поиски пропавших разведчиков Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>Вы провозгласили [url=glossary:эдикт]Эдикт[/url] Огня в Веленевой Цитадели, не предупредив магов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>Вы предупредили магов Веленевой Цитадели, прежде чем провозгласить [url=glossary:эдикт]Эдикт[/url] Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>Вы решили погубить [url=glossary:каменное море]Каменное Море[/url], игнорируя опасения Фуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>Люди Степных Врат высоко ценят ваше решение восстановить фермерские земли, разрушенные Каирном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>Вы убили Скаловержца Базилиона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>Вы решили помочь Камнепытам по просьбе Смерти-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>Вы знали о прошлом Сирин, но все равно заставили ее убить внучку Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>Смерть-из-Тени разгневана вашим решением казнить Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Когда Смерть-из-Тени отказалась уходить без Левого Когтя, вы ударили ее кулаком в нос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>Из-за того, что вас воспитали зверолюды, [url=glossary:камнепыты]Камнепыты[/url] вас уважают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Смерть-из-Тени огорчена вашим решением напасть на Стокровку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Вы стали первым человеком, пережившим камнепытский Обряд Дикости и Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Люди [Plainsgate] разочарованы вашим решением освободить Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Вы приказали казнить Искандера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Вы сохранили сущность Каирна для Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Вы победили Стокровку в Обряде Крови и забрали у нее титул [url=glossary:примы]примы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Когда [url=glossary:бледен марк]Бледен Марк[/url] спросил, почему вы решили рекрутировать клятвопреступников, вы отказались объяснять ему мотивы своих действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] впечатлен вашим благоразумием в Суде Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] впечатлен вашими дерзкими речами в Суде Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Вы сумели развеять опасения Смерти-из-Тени, убедив ее, что вы не на стороне Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Вы проигнорировали опасения Смерти-из-Тени, что вы на стороне Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Вы отдали лидеров повстанцев Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Вы сорвали поставки продовольствия Опальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Вы проверили верность лейтенантов Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Сирин расстроена вашим решением казнить детеныша зверолюда за дезертирство из Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Смерть-из-Тени расстроена вашим решением казнить детеныша зверолюда за дезертирство из Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Сирин гордится вашим решением пощадить детеныша зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Тунону нравится ваш интерес к закону Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Тунону нравится ваш интерес к закону Кайроса и претворению его в жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Вы слишком настаивали на том, чтобы Тунон показал вам свою истинную внешность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Вы смогли установить личность убийцы Вершителя, чей труп нашли в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Вы проигнорировали власть Суда Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Смерть-из-Тени высоко вас ценит, но она все еще расстроена видом своего тела после того, как ее скормили Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Вы попытались заставить [url=glossary:голоса нерата]Голоса Нерата[/url] ответить на ваши вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Вы сказали Смерти-из-Тени, что если Стокровка не пойдет к Голосам Нерата добровольно, вы заставите ее это сделать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Вы сказали Смерти-из-Тени, что сможете убедить Стокровку добровольно вступить в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Вы вступились за Фугу, когда [url=glossary:грэйвен аше]Грэйвен Аше[/url] возразил против ее присутствия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>Когда [url=glossary:грэйвен аше]Грэйвен Аше[/url] возразил против присутствия Фуги, вы сказали, что она нужна вам лишь для развлечения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Вы пытались заставить Грэйвена Аше ответить на ваши вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Вы не стали принимать отказ Грэйвена Аше от его дочери и внучки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Вы вызвали королеву Гребня на поединок и победили ее, приведя в ярость Гвардию Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>Вы приняли решение встретиться с Таркис Арри, командиром Гвардии Вендриенов, под синим флагом переговоров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Вы не только сражались вместе с Опальными у Врат Суждения, но еще и выполнили их просьбу, провозглашая [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Вы исполнились просьбу Опальных, когда провозглашали [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Вы приказали Опальным прикрыть отступление Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>Вы приказали Хору прикрыть отступление Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Вы вызвали королеву Гребня на дуэль и победили ее, порадовав [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Барик встревожен вашим решением убить Притворщика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>У Врат Суждения вы сражались вместе с Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Вы сражались вместе с Опальными у Врат Суждения и продолжали оказывать им поддержку вплоть до разгрома Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Чтобы разрушить Школу Дикой Ярости, вы обманом вынудили ее старейшин встретиться с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Вы позволили Матани Сибил и ее солдатам сбежать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>В разговоре с Бариком вы обвинили Опальных в неспособности предотвратить восстание в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>В разговоре с Бариком вы обвинили Хор в неспособности предотвратить восстание в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Вы разрешили Атли изучить конструкцию на вершине Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Вы не разрешили Атли изучить сооружение над Колодцем Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Вы упрекнули Барика за угрозы в адрес Атли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Смерть-из-Тени уважает вас за то, что вы вызвали ее на еще один поединок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Смерть-из-Тени уважает вас за то, что вы вызвали ее на поединок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Смерть-из-Тени восхищена тем, что вы имеете власть над Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Вы сказали Смерти-из-Тени, что не желаете ее смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Вы сказали Смерти-из-Тени, что вас не волнует, жива она или мертва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Вы ударили Смерть-из-Тени за ее насмешки над вашей поддержкой ярусников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>Смерть-из-Тени разочарована тем, что вы не показали своей власти над Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Вы заявили Лантри, что Шпиль предназначен для вас и только для вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>Поколебавшись, вы все же заставили Сирин рассказать о том, что произошло с ее матерью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Сирин рада, что вы отправили в Хор ее первую паству, которую она считала "категорически неприятной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Вы поблагодарили Сирин за то, что она рассказала вам историю смерти своей матери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Вы вели себя черство по отношению к Сирин после того, как она рассказала вам историю смерти своей матери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Сирин поблагодарила вас за разрешение сохранить Право на Вызов, когда она привела Хор в Веленевую Цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>Вы поддразнили Сирин за то, что она колебалась с убийством ребенка Амелии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Вы высоко оценили жертву, которую принесла мать Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Сирин рассердилась, когда вы позволили Опальным убить ее первых последователей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>Вы отругали Барика за то, что он не поддерживает вашу цель объединения Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Вы ударили Стокровку кулаком и сказали ей, что она не будет драться без вашего дозволения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>Вы убедили Стокровку отпустить Ренату, не причинив той вреда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Вы решили не мешать Стокровке напасть на Ренату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Получив послание из Суда Тунона с вопросом, почему вы брали взятки, вы попросили Суд пойти в задницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>Вы пригрозили Алой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Когда [url=glossary:грэйвен аше]Грэйвен Аше[/url] обеспокоился тем, что Фуга так долго находится рядом с вами, вы сказали, что она под защитой Суда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>Вы спросили у своих спутников, есть ли у них какие-либо пожелания относительно Эдикта. Лантри обругал вас за такие вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>Вы довольно быстро научились вслушиваться в болтовню Лантри и понимать, чему он учит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Вы сказали Лантри, что не разрешаете упоминать ваше имя в его записях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Лантри впечатлен вашим выводом относительно того, что реакция Зала Вознесения на вас не могла быть случайностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>Лантри в восторге от вашей храброй решимости попробовать его чернила.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Вы сказали Лантри, что не удивились, узнав, что некогда он был агентом Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>Вы поблагодарили Лантри за признание в том, что он был агентом Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Лантри одобрил тот факт, что вы предупредили Книгочеев перед провозглашением Эдикта Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Вы проигнорировали замечания Лантри и попросили его просто молчать и вести летопись ваших свершений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Смерть-из-Тени в восторге от ваших прямых и жестких действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Смерти-из-Тени нравятся ваши прямые и жесткие действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Смерть-из-Тени оценила ваши прямые и жесткие действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>Смерть-из-Тени потрясена вашими бесчестными поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>Смерть-из-Тени встревожена вашими бесчестными поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Смерть-из-Тени разочарована в ваших бесчестных поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Лантри разочарован в ваших грубых, хвастливых действиях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Лантри встревожен вашими грубыми, хвастливыми действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>Лантри потрясен вашими грубыми, хвастливыми действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Лантри оценил ваш уровень интеллекта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Лантри нравится ваш уровень интеллекта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Лантри в восторге от вашего уровня интеллекта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Сирин разочарована в ваших жестоких словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Сирин встревожена вашими жестокими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Сирин потрясена вашими жестокими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>Сирин оценила ваши добрые, доверительные действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Сирин нравятся ваши добрые, доверительные действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>Сирин в восторге от ваших добрых, доверительных действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] разочарован в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] встревожен вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] потрясен вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] оценил ваши проницательные действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Бледену Марку нравятся ваши хитроумные действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] впечатлен вашими изобретательными действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>Несломленным нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] оценили вашу силу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>Камнепытам нравится ваша сила.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url] впечатлены вашей силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>Книгочеи разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>Книгочеи встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>Книгочеи потрясены вашим невежеством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>Книгочей оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>Книгочеям нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>Книгочеи уважают вашу мудрость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>Скованным Горном нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>Жители Города-Бастарда разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>Жители Города-Бастарда встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>Жители Города-Бастарда потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>Жители Города-Бастарда оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>Жителям Города-Бастарда нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>Жители Города-Бастарда в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>Жители Распутья Летианы разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>Жители Распутья Летианы встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>Жители Распутья Летианы потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>Жители Распутья Летианы оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Жителям Распутья Летианы нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Жители Распутья Летианы в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Жители [Plainsgate] разочарованы в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>Жители [Plainsgate] встревожены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Жители [Plainsgate] потрясены вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Жители [Plainsgate] оценили ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Жителям [Plainsgate] нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Жители [Plainsgate] в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] разочаровано в ваших словах и поступках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] встревожено вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] потрясено вашими словами и поступками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] оценило ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Бронзовому Братству нравятся ваши слова и поступки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] в восторге от ваших слов и поступков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>Стокровка взбешена словами и действиями Смерти-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>Смерть-из-Тени рада, что вы поддержали ее высказывания против Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>Тунон был недоволен, что вы привели Смерть-из-Тени на встречу с Вершителем Нуновалом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>Смерть-из-Тени была довольна, что вы взяли ее с собой на встречу с Вершителем Нуновалом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>Атли была рада – возможно, даже слишком – вашему решению передать силу Каирна Скаловержцам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>Смерть-из-Тени была рада, что Скаловержцы выступили против Кайроса вместе с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>Лантри был доволен, что вы закончили [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>Сирин очень не понравилось ваше решение устроить неурожай в Каменном Море после завершения Эдикта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>Фуге не понравилось ваше решение устроить неурожай в Каменном Море после завершения Эдикта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>К негодованию Атли вы решили устроить неурожай в Каменном Море после завершения Эдикта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>Для Сирин было большим облегчением, что вы закончили [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>Фуга была рада, что вы закончили [url=glossary:эдикт]Эдикт[/url] Камня, остановив землетрясения на территории Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>Атли одобрила ваши действия, которыми вы закончили [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>Барик был рад, что вы закончили [url=glossary:эдикт]Эдикт[/url] Камня и дали Лазури шанс восстановиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>Смерти-из-Тени понравилось, что вы завершили [url=glossary:эдикт]Эдикт[/url] Камня и вернули жизнь в [url=glossary:каменное море]Каменное Море[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>Смерть-из-Тени почувствовала, что вы завершили [url=glossary:эдикт]Эдикт[/url] Камня и устроили мор в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>Барик был рад, что вы закончили [url=glossary:эдикт]Эдикт[/url] Камня и убили Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>Вы вынудили Опальных поделиться пайками с Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>Вы запретили умирающим от голода хористам забрать часть припасов Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>Из-за вашего приказа прикрыть отступление Хора [url=glossary:опальные]Опальные[/url] понесли потери, но при этом вы встали на сторону легиона и выступили против Права на Вызов, которое отстаивала Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>Вы признали Право на Вызов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>Барик помнит ваше безжалостное отношение к Школе Дикой Ярости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] хорошо помнят, как вы предоставили им первоочередное право на получение железного оружия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] помнят, как вы наказали голодных воров Хора во время кампании в Оплоте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>Маттиас помнит, как вы убили "шпионов" Алого Хора, которые сражались с армией Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>Вы отправили регента Оплота к Голосам Нерата на допрос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>Вы неожиданно напали на Таркис Арри при встрече под синим флагом перемирия, заслужив одобрение Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>Вы неожиданно напали на Таркис Арри при встрече под синим флагом перемирия, заслужив уважение Фуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>Вы решили не становиться на сторону Опальных, что привело Барика в ярость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>Лантри был недоволен вашим решением проигнорировать синий флаг перемирия и напасть на Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>Вы втянули Лантри в ситуацию, в которую он не хотел бы вмешиваться, заставив его написать ваше заявление о вступлении во владение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Атли была в восторге, что вы пощадили Таркис Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Вы приказали Атли убить ребенка Амелии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Суд Тунона благосклонно воспринял ваши действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>Суд Тунона огорчен вашими действиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Суд Тунона отметил ваше соблюдение законов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>Суд Тунона отметил ваш несправедливый поступок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>Решение помочь ярусникам прибавило вам уважения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Решение помочь ярусникам вызвало страх и недоверие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Ваше чувство справедливости высоко ценится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Вас осуждают за недостаточное чувство справедливости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>Вас уважают за поддержку Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Вас уважают за поддержку Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>Ваши новые способности вызывают у других беспокойство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>Ваши новые способности поразили и восхитили многих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>После провозглашения Эдикта к вам относятся с трепетом и восхищением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>Провозглашение Эдикта навело на окружающих страх и ужас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>Ваши бывшие союзники глубоко оскорблены вашим предательством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Вы напали на подмастерье Скованных Горном Гаррика в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>Вы убили Лоару, Мастера Горна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Вы послали Жденью, Мастера Горна, к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Во время захвата Распутья Летианы вы поставили одну из армий Кайроса во главе поселения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>Смерть-из-Тени обеспокоена тем, что вы оказали поддержку Опальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] наблюдал...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Защитив Каирна, вы заслужили уважение Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>Смерти-из-Тени понравился разминочный поединок с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>Вы поставили Юлантиса во главу Скованных Горном, чтобы Хор мог пользоваться их оружием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>Вы узнали больше об артефакте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Ваш спутник получил контроль над Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] был доволен, что вы завершили [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>Вы дали Раэтоммону уйти из Распутья Летианы живым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>Вы сказали Раэтоммону, что позволите ему покинуть [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>Лантри остро осознает, что его спасли для того, чтобы он служил определенной цели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Лантри благодарен вам за заботу и уважение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Ваше неподчинение вызвало у Тунона сомнения в вашем желании служить суду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>Вы позволили одному из ваших спутников ударить солдата Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>Вы ударили солдата Бронзового Братства на Железной Тропе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Вы убили Фоланта во время пыток, и это разозлило Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Книгочеи были недовольны, что вы решили бросить Безмолвный Архив в лаву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Вы обрушили Горящую Библиотеку, уничтожив все в ней и оставив Книгочеев в смятении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Вы убили детенышей зверолюдов из племени Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>Ваша безжалостность вызывает обеспокоенность и осторожное уважение у Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>Смерть-из-Тени боялась за собственное выживание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] уважает ваш честный совет в военных вопросах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Вы напомнили Аше, что у него нет права убивать Каирна, и Архонт Войны теперь не сомневается, что вы очень строги в законных вопросах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Ваша склонность уходить от прямых вопросов вызывает беспокойство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>Вы привели Амелию и ее ребенка обратно к Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Смерть-из-Тени разочарована вашей слабостью и сентиментальностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>Вы отправили наши армии на верную смерть, чтобы задержать Каирна, пока провозглашали [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Сирин нравится то, что вы делаете в ущерб Алому Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Смерть-из-Тени одобряет ваши действия против Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>Вы отдали Элдиану шлем Магоборца, чтобы защитить [url=glossary:распутье летианы]Распутье Летианы[/url] от погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Вы решили оставить шлем Магоборца себе, к разочарованию Элдиана и прочих жителей Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>Ваша готовность лично казнить Архонта произвела впечатление на Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Вы сделали так, чтобы Амелия Аше встала на сторону Несломленных. [url=glossary:опальные]Опальные[/url] вам этого не простят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Вы посмеялись над неспособностью Опальных вернуть Инсигнию Непоколебимости. Такое оскорбление они забудут не скоро.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] оскорбился до глубины души, когда вы посмеялись над усилиями его солдат вернуть Инсигнию Непоколебимости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Вы измывались над Радиксом, демонстрируя ему отрубленную голову брата. Барика оскорбила такая грубость и неуважение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Вы нашли применение талантам Сирин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Смерть-из-Тени возмутилась, когда вы не стали наказывать Витуса, солдата, убившего зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Вы уничтожили гарнизон Опальных на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>Барик одобрил вашу готовность его выслушать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Фуга была потрясена вашим решением скормить Барика Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Барик с пониманием отнесся к вашему решению помиловать солдат Стрейдуса Иродина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Атли пришла в восторг, когда вы предали Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Вы проявили сочувствие к Барику во время осмотра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Вы не проявили сочувствия по отношению к Барику во время осмотра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>Вы избежали неведомой опасности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>Вы выманили погибелей из Колодца Вендриенов к Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Вы выманили погибелей из Колодца Вендриенов к Старым Стенам Зияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Вы выманили погибелей из Колодца Вендриенов в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>Вы выманили погибелей из Колодца Вендриенов в Могилу Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>Вы выиграли партию в ножички.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Вы проиграли партию в ножички.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>Вас поймали на жульничестве при игре в ножички.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>Вы позволили Фуге поохотиться на нелетней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>Вы встретили группу аристократов-беженцев и перебили их охрану.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>Вы встретили группу аристократов-беженцев и перебили их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Вы встретили группу аристократов-беженцев и сопроводили их в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Стокровку впечатлила ваша победа над Алой Пастью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>Говорящая-за-Землю признала вас примой Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Смерть-из-Тени не забыла, что вы были готовы перебить всю ее стаю во время Завоевания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>Вы нанесли Теодору удар в спину и предали Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>Барик потрясен тем, что вы предали Теодора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>Барик возмущен тем, что вы убили дозорного Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>Вы пощадили дозорного Опальных в Сумеречном Бастионе, Барик благодарен вам за это.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>Барик пришел в ужас, когда вы предали Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>Барика восхитила ваша отвага в столкновении со Стрейдусом Иродином.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>Лантри не понравилось то, как вы обошлись с пленным Книгочеем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>Вы отказались помочь оборонять Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>Лантри в восторге от того, что вы позволили ему наблюдать за переносом сущности Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>Фуга оценила вашу ярость и кровожадность в стычке с Теодором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>Во время Завоевания вы сошлись в поединке со Смертью-из-Тени, поспорив, кто будет возглавлять ее стаю, и заслужили ее уважение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>Смерть-из-Тени не забыла, что вы отравили ее стаю во время Завоевания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>Смерть-из-Тени всей душой одобряет то, что вас вскормили зверолюды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>Вы сражались со Смертью-из-Тени, и ваша неукротимость произвела на нее впечатление.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>Вы ранили Смерть-из-Тени в ходе поединка, теперь она вас побаивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] был оскорблен до глубины души, когда вы отказались взять его кинжал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] был доволен, когда вы позволили ему проверить, на что годится шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] был раздосадован, когда вы отказались дать ему испытать один из ваших артефактов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>Ваша внезапная атака и небрежное отношение ко всему произвели впечатление на Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>Вы отразили атаки Бледена Марка Лазурным щитом и произвели впечатление на Архонта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>Тунон пришел в ярость, когда вы отмахнулись от порядка судопроизводства и пожелали сразиться с ним в поединке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>Вы обрекли Книгочея на мучительную смерть от огня, приведя в ужас его собратьев по Школе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>Вы добыли для Ренаты Око Писаря и заслужили благодарность Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>Ваша готовность убивать безоружных пленников вызвала у Атли отвращение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Смерти-из-Тени не понравились ваши угрозы ее прикончить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>[url=glossary:тyнон]Тyнон[/url] с презрением отнесся к вашей неспособности выдвинуть обвинение против кого-то из Архонтов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>Алая Пасть признала вас примой Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>Ради Элии вы освободили Несломленных из плена и заслужили благодарность их предводителя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>На Перепутье Зверолова вы освободили людей Маттиаса из плена Хора и заслужили их доверие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Агатон был благодарен за помощь, когда вы дали отпор силам Опальных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] пришли в ярость, когда вы напали на их предводителя Маттиаса на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>Ваша готовность помериться силами с наступающими войсками Кайроса произвела впечатление на Смерть-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Вы помогли торговцу Астеру, когда тягловые зверолюды обратились против него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>Вы не оказали снисхождения Витусу, убившему раба-зверолюда, и заслужили уважение Смерти-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Смерть-из-Тени пришла в ужас, когда вы перебили окружение Ренаты, в котором были и зверолюды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Вы напали на зверолюдку, охранявшую логово Камнепытов, и этим разъярили Смерть-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>Смерть-из-Тени пришла в восторг от враждебности, проявленной вами к Каэдису.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Смерть-из-Тени была очень рада, что вы вернули [url=glossary:каменное море]Каменное Море[/url] Камнепытам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>На Смерть-из-Тени произвела впечатление ваша кровожадность, когда вы решили сражаться и с Каэдисом, и с Кривоногом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>Вы приказали Смерти-из-Тени оторвать голову Каэдису, и она пришла в полный восторг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>Вы отказали Сирин в возможности изучить пергамент из Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

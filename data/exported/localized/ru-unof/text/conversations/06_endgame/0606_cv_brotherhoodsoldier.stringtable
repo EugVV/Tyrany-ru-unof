@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\0606_cv_brotherhoodsoldier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"К чертовой матери это все. Надоело!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты скверно выглядишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"За хорошую цену могу и помочь. Ну, или обчищу потом твой труп".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти] "Это меня не касается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"М-да". Он кашляет надрывно, сотрясаясь всем телом. На губах выступает кровавая пена. "Кровь и дерьмо во рту, ничего больше. Хреново это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Разве что тебе сапоги нужны, перемазанные кровищей. А так у меня больше ничего нет". Он утирает кровь костяшками пальцев, покрытых синяками и ссадинами. "Помоги мне. Братство заплатит. Кайросом клянусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я тебе помогу, но за это ты вступишь в ряды Алого Хора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Думаю, я брошу тебя на произвол судьбы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Между Братством и Алым Хором есть только одна разница: Хор не платит. А я деньги люблю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Смерть тебе нравится больше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я теряю терпение. Так да или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Рано или поздно мы все помрем. И уж лучше я с этим покончу здесь и сейчас, чем свяжусь с каким-то сраным Архонтом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Тебе когда-нибудь говорили, что с Вершителями спорить – себе дороже?" Он ухмыляется. "Подлатай меня и прикончи этих Опальных ублюдков. Тогда я вступлю в Хор. И кольцами тебя не обделю". </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Хр-р-р... ух-х..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Он смотрит молча, с непроницаемым выражением. Наконец на губах мелькает тень усмешки, взгляд слегка туманится. "Удача – сучка капризная". Он кашляет, сплевывает кровь. "Узнала наверное... что я ей изменял..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Да на всех Ярусах не хватит колец, чтоб меня к Опальным снова заманить. Черт... сдохну я тут, кажется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Принеси клятву верности Алому Хору, и я тебе помогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Вступай в Хор или готовься к смерти без сожалений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Напоследок можно было и выпивкой угостить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я любой сучьей матери любую клятву дам, если это поможет. Вытащи меня, и все будет. Все, что захочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Извини, сожалеть – не в моих привычках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"[url=glossary:опальные]Опальные[/url] нас хорошо покромсали. Но ты вряд ли собираешься им за это мстить? Или, еще лучше, нас спасать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"И о какой сумме мы ведем речь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ни о какой, мать твою, если я тут сдохну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Отлично. В качестве платы тебе придется вступить в [url=glossary:алый хор]Алый Хор[/url]. А Братство будет мне должно 200 колец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Пока идет война за Ярусы, грабить можно сколько угодно. Думаю, это с лихвой покроет твой прежний контракт".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Уйти] "Я не стану тебе помогать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Тебе когда-нибудь говорили, что с Вершителями спорить – себе дороже?" Он ухмыляется. "Подлатай меня и прикончи этих Опальных ублюдков. Тогда я вступлю в твой Хор". </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Помоги мне или проваливай. Умирать – и без того штука гнусная, чтоб тут еще на морду твою любоваться". Он пытается ухмыльнутся и морщится, показывая перемазанные кровью зубы. "Сколько бы мне там ни осталось – плевать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Еще не поздно. Принеси клятву верности Алому Хору, и ты будешь жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Он презрительно хмыкает, но видно, что решимость его поколеблена. Наконец он кивает, не сводя отчаянных глаз с вашего мешка с припасами. "Даю слово. А теперь помоги мне, скорее. Я отправлюсь в Какофонию, как только ты прорубишься через Опальных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Точно не передумаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"А что тут думать? Можете удавиться своим завоеванием, вместе с Голосами. Я никому, кроме себя, служить не стану".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Уйти] "Твое упрямство тебя и погубит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"В жизни не тратил время на то, чтобы о чем-то жалеть. А теперь уж тем более поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Лучше сдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Твою ж мать. Значит, вот так оно все и закончится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Стой! Не бросай меня так, Вершитель!"</DefaultText>
+      <FemaleText>"Стой! Не бросай меня так, Вершительница!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Помощь нужна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Угу". Он кашляет надрывно, сотрясаясь всем телом. На губах выступает кровавая пена. "Не помешает. Кровь и дерьмо во рту, ничего больше. Хреново это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"[url=glossary:опальные]Опальные[/url] нас хорошо покромсали. Но ты вряд ли собираешься им за это мстить? Или, еще лучше, нас спасать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Принеси клятву верности Алому Хору, и ты будешь жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Я теряю терпение. Вступай в Хор или готовься к смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Даю слово. А теперь подлатай меня. Быстро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Доверишься слову наемника? Я тебе что хочешь пообещаю, если только ты меня подштопаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

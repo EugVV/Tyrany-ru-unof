@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_traininggrounds_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не побояться бурь Могилы Клинков – это одно дело, а забраться в самое ее сердце и взять Твердыню Часовых – совсем другое. Я впечатлен, Вершитель".</DefaultText>
+      <FemaleText>"Не побояться бурь Могилы Клинков – это одно дело, а забраться в самое ее сердце и взять Твердыню Часовых – совсем другое. Я впечатлен, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ржавые бури утихли, и теперь у вас нет оправдания, что это из-за них вы мажете мимо чучел!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Было довольно сложно получать учебное оружие, когда под нами гремел [url=glossary:эдикт]Эдикт[/url], но мы справимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Жаль, что погибели больше не угрожают округе – на них хорошо было тренироваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Жаль, что земля больше не дрожит – для наших лучников было полезно тренироваться на целях, которые время от времени перемещались".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не знаю, чему еще я могу научить воина, который одолел самого сильного зверолюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Здесь Вершитель, давайте живее!"</DefaultText>
+      <FemaleText>"Здесь Вершительница, давайте живее!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

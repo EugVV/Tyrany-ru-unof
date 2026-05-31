@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\factionquestlines\rebel\fq_rb_qst_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Раскаленные слова</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Встретиться с Ренатой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Уничтожить [url=glossary:алый хор]Алый Хор[/url] в Горящей Библиотеке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти способ преодолеть магический барьер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти другие куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти оставшиеся куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Найти последний кусок пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Использовать пергамент, чтобы попасть в Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Цензора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Забрать Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Отправиться в Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вернуться к Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вернуться к Ренате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Арри связалась с Книгочеями, которые сражались в восстании в Колодце Вендриенов. Они могут представить вас своему лидеру, Ренате, в Чучеле на окраинах Горящей Библиотеки. Вам нужно будет помочь ей, чтобы закрепить союз с Книгочеями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Встретьтесь с Ренатой и Книгочеями в Чучеле, чтобы попросить их поддержки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Рената вступит в союз с вами, если вы уничтожите [url=glossary:алый хор]Алый Хор[/url], занявший Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь вглубь руин перегорожен магическим барьером. Чтобы продолжить исследовать Горящую Библиотеку, нужно найти способ отключить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы нашли часть пергамента, который, похоже, важен. Найдите другие части и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы нашли две части пергамента. Найдите остальные и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы нашли три части пергамента. Похоже, достаточно найти еще один, чтобы собрать страницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы нашли достаточно частей пергамента, чтобы расшифровать магическую фразу. После этого используйте ее, чтобы получить доступ к Безмолвному Архиву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Убейте Цензора и окончательно избавьте Горящую Библиотеку от присутствия Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы узнали, что Безмолвный Архив – это на самом деле один магический свиток, который содержит всю совокупность знаний Книгочеев. Найдите способ забрать его из Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вы знаете достаточно, чтобы обойти патрули Алого Хора и добраться до Горящей Библиотеки. Отправляйтесь туда и войдите в руины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Вы заручились поддержкой Ренаты и Книгочеев. Отправляйтесь в [url=glossary:зал вознесения]Зал Вознесения[/url] и обсудите следующий шаг с Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Теперь, когда вы очистили Горящую Библиотеку от представителей Алого Хора и забрали Безмолвный Архив, пора узнать, готова ли Рената выполнить свою сторону соглашения и вступить в ваш союз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы вернули контроль над Горящей Библиотекой обратно Книгочеям, которые, в свою очередь, вступили в ваш союз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы выступили против повстанцев и тем самым оттолкнули от себя другие группы бунтовщиков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

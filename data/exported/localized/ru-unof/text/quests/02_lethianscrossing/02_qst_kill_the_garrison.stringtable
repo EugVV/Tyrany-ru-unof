@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_kill_the_garrison</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Резня на Переходе</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Защитить гарнизон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:распутье летианы]Распутье Летианы[/url] захватили вражеские силы. Убейте их и напомните всем, что не стоит вставать на пути у Вершителя судеб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Убейте всех солдат и их командира в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы опустошили гарнизон в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

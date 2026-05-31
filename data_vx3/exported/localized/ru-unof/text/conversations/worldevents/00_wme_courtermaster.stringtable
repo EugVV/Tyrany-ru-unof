@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_courtermaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>На дороге впереди вы различаете несколько фигур. Проблески стали и бронзы говорят о том, что они неплохо вооружены и защищены. Двое плечистых тягловых зверолюдов влекут тяжело груженную повозку. Когда они приближаются, вы опознаете герб на штандарте, развевающемся над повозкой: это знак Адъюдикатора Тунона, Архонта Правосудия. Вас окликают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы узнаете женщину во главе процессии: она состоит у Тунона на службе, мелкая чиновница по имени Альма. На ней традиционное одеяние судейских – черно-красное с золотом. Светло-русые волосы заплетены в тугую косу, уложенную на затылке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Продолжить путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы минуете процессию и продолжаете свой путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вершитель судеб [Player Name]!" Она приветствует вас поклоном. "Я путешествую по поручению Архонта. Повозка у меня за спиной нагружена припасами. Желаете ли, чтобы я поделилась с вами – по разумной цене?"</DefaultText>
+      <FemaleText>"Вершительница судеб [Player Name]!" Она приветствует вас поклоном. "Я путешествую по поручению Архонта. Повозка у меня за спиной нагружена припасами. Желаете ли, чтобы я поделилась с вами – по разумной цене?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Посмотреть припасы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Альма улыбается. "Конечно! Давайте, я покажу, что у меня есть". Она широким жестом сдергивает полог с повозки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Альма отвешивает вам поклон. "Тогда счастливого пути, Вершитель судеб. Слава Кайросу!"</DefaultText>
+      <FemaleText>Альма отвешивает вам поклон. "Тогда счастливого пути, Вершительница судеб. Слава Кайросу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Впереди на дороге вы замечаете повозку Альмы, которая занимается снабжением суда Тyнона. Повозку везут два зверолюда, ее сопровождает охрана. Альма приветствует вас, когда вы оказываетесь рядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Вершитель судеб [Player Name]! Видеть вас – всегда большая радость". Альма отвешивает низкий поклон. "Моя повозка до краев полна товарами. Желаете взглянуть?"</DefaultText>
+      <FemaleText>"Вершительница судеб [Player Name]! Видеть вас – всегда большая радость". Альма отвешивает низкий поклон. "Моя повозка до краев полна товарами. Желаете взглянуть?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

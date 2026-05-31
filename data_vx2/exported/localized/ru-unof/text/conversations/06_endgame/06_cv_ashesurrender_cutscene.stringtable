@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_ashesurrender_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Я не хочу воевать с Кайросом. Как мне закончить это миром?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Что, мира будешь просить? Тогда тебе остается лишь один путь: преклони колена, как поступил я сам много лет назад. Сделай это... немедленно, без колебаний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Может, Владыка и согласится и даст тебе власть над Ярусами. Но, зная твою силу и мое прошлое, мне трудно представить, чтобы [url=glossary:кайрос]Кайрос[/url] стал терпеть нас обоих".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Сдайся, и весь Терратус будет един под волей Владыки. А кому нужны вояки вроде нас в мирное время?" Он негромко вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Чтобы положить конец войне, я сделаю все, чтобы у Владыки не осталось сомнений в моей преданности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Тогда поступай, как считаешь нужным, Архонт, но поторопись. Возвращайся в свой Горный Шпиль, пока не поздно. Не упусти момент".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

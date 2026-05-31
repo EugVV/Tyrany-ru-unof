@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_oldwall_bane_escape_bark</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Все это ничего доброго не предвещает. А бывает хоть что-то хорошее с теми, кто заходит в Старые Стены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Спорим, мы растревожили погибелей? Кто сколько ставит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Воздух горький, неправильный. Покусывает основание языка зверолюдки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"У меня было предчувствие, что я умру в Старых Стенах... не очень-то хотелось бы, чтобы оно подтвердилось. Не сегодня, уж точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Если Старые Стены начинают трястись, то это верный знак, что нужно уходить..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Чья это была идея – полезть сюда? От Старых Стен добра не жди, это всем известно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Держитесь, погибели близко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Погибели приближаются, готовьтесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Не хорошо. Погибели выскользнули из ловушек. Подбираются ближе, быстро-быстро-быстро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Берегись, погибели на свободе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Осторожно – ловушки не удержались! Нам нужно уничтожить этих погибелей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Погибели вырвались!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вот так оно всегда и бывает, когда шлемам доверяют солдатскую работу. Надо Жденью предупредить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"У меня уже есть замечания по поводу названия «Шлем Магоборца». Думаю, лучше предупредить Жденью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Магический шлем слаб. Не побеждает погибель, как обещал человек по имени Жденья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Не могу точно сказать, чего я ожидал от шлема с названием «Магоборец», но явно чего-то не такого. Стоит предупредить Жденью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Похоже, глава Скованных Горном не такой уж умелый мастер, как она думает. Давай сообщим Жденье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Это был бесполезный эксперимент. Жду не дождусь, когда смогу сказать это Жденье напрямую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я ощущаю спокойствие, по крайней мере, сейчас. Надо присматривать за этими ловушками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Проверь пока ловушки. А мне надо, хм... успокоить нервы... так, где моя фляжка с граппой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Кажется, здесь все в порядке, но давай осмотримся. Нам нужно убедиться, что ловушки установлены надежно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

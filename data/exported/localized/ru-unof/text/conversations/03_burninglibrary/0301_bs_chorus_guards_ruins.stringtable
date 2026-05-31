@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_chorus_guards_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Никто не войдет в руины без разрешения Цензора!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Игра – штука опасная. Лучше подожди снаружи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Иди, Вершитель, и будь осторожен. Следи за собой".</DefaultText>
+      <FemaleText>"Иди, Вершительница, и будь осторожна. Следи за собой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Иди. Твоя могила ждет тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Марик привел сюда поисковую группу. Говорят, они плохо кончили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Книгочеи – твари хитрые. Никогда не задерживаются надолго на одном месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что скажешь, Вершитель? Цеплять на Книгочеев намордники или ошейников хватит?"</DefaultText>
+      <FemaleText>"Что скажешь, Вершительница? Цеплять на Книгочеев намордники или ошейников хватит?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

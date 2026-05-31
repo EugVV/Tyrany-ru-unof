@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_rescue_radix</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Подкрепления от Скаловержцев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться на Северную Поляну.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Осмотреться в поисках Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернуться к Цевеусу в лагерь Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Радикс, глава Скаловержцев, был вызван из Каменного Моря на помощь тем Скаловержцам, что находятся в долине. Однако с тех пор, как долина оказалась запечатана, никто о них ничего не слышал. Вы согласились отправиться туда, откуда должно было подойти подкрепление, и выяснить, что с ним случилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь на Северную Поляну в поисках Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы прибыли на поляну неподалеку от Северо-Восточного Перевала. Исследуйте местность в поисках пропавших Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы спасли Скаловержцев от Гвардии Вендриенов, однако Радикса среди них не оказалось. Как выяснилось, он не пожелал отвлечься от своих увлекательных исследований в Каменном Море и прислал всего горстку помощников. Цевеусу стоит узнать об этом как можно скорее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы спасли Скаловержцев от повстанцев, однако Радикса среди них не оказалось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вам не удалось установить местонахождение пропавших Скаловержцев до начала атаки на Цитадель Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

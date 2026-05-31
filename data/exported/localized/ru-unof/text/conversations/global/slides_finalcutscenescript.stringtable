@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\slides_finalcutscenescript</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ярусы наконец-то завоеваны и объединены под единым стягом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Весть о твоей победы доносится до Кайроса...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Твой [url=glossary:эдикт]Эдикт[/url] несет опустошение и разруху Северной Империи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Кто-то считает, что этот [url=glossary:эдикт]Эдикт[/url] был провозглашен Кайросом, другие надеются или опасаются того, что зазвучал новый голос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>...Как и твое заверение в преданности и покорности Владыке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Силы Кайроса, надвигавшиеся на Ярусы, теперь отступают: твой [url=glossary:эдикт]Эдикт[/url] привел их в смятение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Узнав о том, что ты сдался, армии Кайроса прекратили наступление на Ярусы и вернулись в свои гарнизоны.</DefaultText>
+      <FemaleText>Узнав о том, что ты сдалась, армии Кайроса прекратили наступление на Ярусы и вернулись в свои гарнизоны.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ярусники, объединенные под Алым стягом, становятся твоими преданными слугами. Их привязывает к тебе страх, а также ваша общая победа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ты принес на Ярусы порядок и объединил разрозненные земли, опираясь на остатки легиона Опальных.</DefaultText>
+      <FemaleText>Ты принесла на Ярусы порядок и объединила разрозненные земли, опираясь на остатки легиона Опальных.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Почти все Ярусы объединились под твоими знаменами, старая вражда позабыта... на время...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>На Ярусах больше некому бросить тебе вызов. Разоренные войной земли покоряются твоей власти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Завоевание мира, которое вел Владыка, на время приостановилось, и по всем землям поползли слухи о том, что кто-то посмел бросить вызов власти Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Терратус оказался целиком во власти Кайроса. Завоевание наконец-то завершено.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

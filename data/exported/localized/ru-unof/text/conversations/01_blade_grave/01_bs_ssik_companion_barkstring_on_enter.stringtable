@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_ssik_companion_barkstring_on_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Тебе не кажется любопытным, что этот артефакт оставил открытой тропу позади нас? Теперь по нашим следам смогут пройти другие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Тропа у нас за спиной остается открытой. Пройти по ней могут не только друзья, но и враги. Твердыня Часовых еще никогда была так уязвима".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Тропа остается открытой. За нами наверняка последуют и другие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не могу поверить, что эти ветра нас пропустили. Тропа все еще открыта. Я уверена, что проследовать за нами сможет кто угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Стая взяла артефакт и проложила путь через бурю. Раздвинула ветер, как борозда раздвигает землю. Теперь по тропе смогут пройти и другие. Когда стая пойдет вперед, ей лучше держаться в тени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы гнули спины, чтобы проложить путь через бурю, а потом он остался открытым? Вот так всегда. Ты ведь понимаешь, что за нами пойдут другие, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Инсигния Непоколебимости позволила вам преодолеть бурю Кайроса, но похоже, однажды проложенный путь останется открытым для всех. Если учесть, какой славой пользуется Твердыня Часовых, то можно не сомневаться, что скоро за вами пойдут другие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

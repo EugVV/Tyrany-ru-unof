@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_mercenaries_wagstaff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Все, что зверолюды не добьют, – Махальник прогонит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отличный выбор, Вершитель судеб. Теперь мы построим в Ране жизнь – всем на зависть".</DefaultText>
+      <FemaleText>"Отличный выбор, Вершительница судеб. Теперь мы построим в Ране жизнь – всем на зависть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"О! Да это же наш друг, Вершитель судеб!"</DefaultText>
+      <FemaleText>"О! Да это же наша подруга, Вершительница судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вершитель, привет".</DefaultText>
+      <FemaleText>"Вершительница, привет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ну да, он старик, и что? Зато у Махальника было время набраться опыта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"На вид, конечно, это место не ахти – но тут лучше, чем наемником быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Сюда взгляд Кайроса не проникает, Вершитель".</DefaultText>
+      <FemaleText>"Сюда взгляд Кайроса не проникает, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Видишь, сколько тут воды? Подумай об этом – и не зли Заклинателя Приливов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Тебе мало там, наверху, войны? Надо было ее и сюда притащить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Как думаешь, Золотая Лапа будет зверей поперед людей ставить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Кто знает, как оно теперь все обернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Боец коротко кивает вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Яспоса главным сделали – все, хана нам теперь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Кто знает, как оно теперь все обернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Боец коротко кивает вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

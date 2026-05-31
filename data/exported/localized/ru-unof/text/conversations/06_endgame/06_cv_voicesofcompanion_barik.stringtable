@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_voicesofcompanion_barik</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приходится напоминать себе, что все могло быть хуже. Я бы мог до сих пор торчать в своем доспехе. Мог бы следовать за тобой в очередной безнадежный бой. А вместо этого я остаюсь здесь и играюсь в Архонта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты точно сейчас в порядке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как тебе руководить Алым Хором?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Уже насадил кого-нибудь на кол?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Не все так прекрасно. Раньше я весил как тележка с припасами, а теперь состою из зеленого пламени. Ходить сложно". 
+
+"Все же, приходилось привыкать и к худшему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это прямая противоположность всего того, к чему я стремился в жизни. Не знаю, почему бы воющей орде просто не найти нового лидера".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Очень смешно. Продолжай в том же духе, и можешь стать первым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Надеюсь, ты на меня не в обиде за такую судьбу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Не каждый день мой командир приносит меня в жертву ради призрачной надежды, что я завладею Архонтом и буду управлять его телом".
+
+"Из всех случаев, когда это происходило, этот – самый худший".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Пойми... я выполняю приказы. Мне не должно нравиться то, что ты делаешь, и когда-нибудь у тебя может появиться проблема, если я стану таким же чокнутым, как старый Голоса".
+
+"А так, я не обижаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты вернулся. Какофония воняет сильнее всех Ярусов, но, по крайней мере, у меня нет носа, чтобы это почувствовать".</DefaultText>
+      <FemaleText>"Ты вернулась. Какофония воняет сильнее всех Ярусов, но, по крайней мере, у меня нет носа, чтобы это почувствовать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Мне не хотелось привлекать внимание ухмыляющихся Багровых Копий и Алых Фурий. Теперь, когда я избавился от своего доспеха, я обрету покой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Не может же быть все так плохо? Ну, я могу придумать новые обидные прозвища. «Измазанная дерьмом железка» теперь плохо подходит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Фуга... очень приятно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Главное, чтобы этого не услышали твои новые офицеры. А то они могут помочь тебе обрести покой с помощью ножа в спине".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

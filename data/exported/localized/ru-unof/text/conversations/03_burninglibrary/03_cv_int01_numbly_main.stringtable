@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\03_cv_int01_numbly_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Черствый улыбается при вашем приближении. Его широкая грудь запачкана кровью. "Твоя уловка сработала! Теперь об одной из групп можно не беспокоиться".
+
+Он скрещивает руки на груди. "А теперь... насчет тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Серьезно? После всего этого? Ты действительно хочешь так поступить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Раз уж ты помог мне, то я помогу тебе".
+
+"У тебя два варианта: можешь уйти из библиотеки прямо сейчас – или умереть. Потому что тебе не сделать ни шага вперед, пока я жив".</DefaultText>
+      <FemaleText>"Раз уж ты помогла мне, то я помогу тебе".
+
+"У тебя два варианта: можешь уйти из библиотеки прямо сейчас – или умереть. Потому что тебе не сделать ни шага вперед, пока я жив".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Атаковать] "Какая жалость, что пришло время умирать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

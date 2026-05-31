@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_execution_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Проходит несколько часов – гораздо больше, чем требовалось бы Каптерону для выполнения задачи. И хотя [url=glossary:скованные горном]Скованные Горном[/url] продолжают работать, вы замечаете, что Кассандры среди них нет. Из центра деревни до вас доносится нарастающий гул злых голосов и топот сапог. Сквозь гомон толпы вы можете различить громкий голос мастера Скованных Горном, обращающейся к местным жителям.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

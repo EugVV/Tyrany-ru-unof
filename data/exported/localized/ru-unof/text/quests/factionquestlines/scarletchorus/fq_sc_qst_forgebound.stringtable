@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_forgebound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Секретные договоры</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Лоарой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти Скованного Горном, который согласится помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убить Лоару.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Доложить Семипалой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] хотел бы подчинить Скованных Горном себе – по крайней мере, настолько, насколько это возможно под наблюдением Тунона. После гибели Мастера Скованных Горном Жденьи эта должность перешла Лоаре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Теперь, встав во главе Скованных Горном, Лоара может согласиться исполнять требования Голосов Нерата. Поговорите с ней в кузне в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>В кузне в [url=glossary:распутье летианы]Распутье Летианы[/url] должен найтись кто-то, кто согласится работать на Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Юлантис говорит, что будет работать на Нерата, если вы лишите полномочий Лоару из Скованных Горном. Убейте ее в кузне в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Расскажите Семипалой в Какофонии, что [url=glossary:скованные горном]Скованные Горном[/url] будут подчиняться приказам Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Похоже, Юлантис готов помочь вам, но не без своих условий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Теперь у Скованных Горном новый лидер, который будет слушаться Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

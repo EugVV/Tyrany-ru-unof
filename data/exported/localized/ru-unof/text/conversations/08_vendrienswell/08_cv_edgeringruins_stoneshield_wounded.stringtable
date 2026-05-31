@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_edgeringruins_stoneshield_wounded</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не тратьте на меня время! Идите дальше по дороге. Драстус..."
+
+Солдат хватается за живот и морщится. Из-под его пальцев выглядывают внутренности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты ранен, причем серьезно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мне некогда этим заниматься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Он смеется сквозь сжатые зубы. "Это? Царапина! Я десяток раз видел в два раза хуже".
+
+Он сгибается от боли, трясясь и кашляя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ид... Идите. [url=glossary:грэйвен аше]Грэйвен Аше[/url] со мной..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если позволишь мне помочь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я сказал, что в порядке!" Солдат со стоном качает головой. "[url=lore:edgering_asheaegis]Грэйвен Аше хранит[/url]. А вы идите дальше и помогите другим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Тогда следи, чтобы кишки не вывалились. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он отнимает руку от своих ран, чтобы отдать вымученное воинское приветствие. "Слава Кайросу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Идите... Оставьте меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я же говорил, что выкарабкаюсь. [url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

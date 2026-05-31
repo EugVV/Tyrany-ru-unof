@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_poi_sleeplesscomments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Это что, иллюзия? Я думал, что внизу могут выжить лишь охотники да вооруженные до зубов исследователи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как здесь, внизу, мог выжить кто-то, кроме закаленных воинов и могучих колдунов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Берегись, Вершитель судеб. На вид этот человек опасным не кажется, но погибели его не тронули почему-то".</DefaultText>
+      <FemaleText>"Берегись, Вершительница судеб. На вид этот человек опасным не кажется, но погибели его не тронули почему-то".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Странно! Неправильно! Человек пахнет только наполовину отвратительно. Не хватает запахов..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не каждый день видишь, чтобы кто-то слонялся по Старым Стенам, как по деревенскому рынку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Этот человек... с ним что-то не так. Он почти... безмолвный".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_sc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>То, что осталось</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уничтожить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Защитить лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Расчистить путь для Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Догнать Элию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Победить Теодора и его солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] ищут в Ржавых Каньонах могущественные артефакты Оплота. Эти артефакты могут защитить от Эдикта Бурь и обеспечить проход в Твердыню Часовых. Найдите повстанцев и узнайте, нашли ли они способ проникнуть в крепость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Маттиас рассказал, что солдаты Несломленных, возглавляемые женщиной по имени Элия, были отправлены в Ржавые Каньоны. Найдите их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы решили напасть на лагерь Несломленных в Ржавых Каньонах. Убейте Элию и всех повстанцев в этом лагере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Элии нужна ваша помощь, чтобы отразить атаку войск Опальных. Помогите ей защитить лагерь Несломленных в Ржавых Каньонах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Атака Опальных на Ржавые Каньоны отбита, но их подкрепления уже в пути. Отправьтесь на север от лагеря и уничтожьте остальных солдат, чтобы расчистить путь для повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Элия и несколько ее солдат сбежали из лагеря, когда он пал, и пытаются добраться до Ржавых Каньонов. Следуйте за ними на север и не дайте им уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Элия попросила вас силой или угрозами выгнать Теодора и его солдат из Ржавых Каньонов и освободить ее солдат из плена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы убили солдат Теодора и освободили пленников Несломленных. Элии стоит узнать об этом от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вам удалось скрытно попасть в лагерь. Используйте это в свою пользу при атаке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Отстрелите лебедку, которая держит подъемный мост, чтобы добраться до Несломленных на возвышенности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы помогли Элии и Несломленным уйти из Ржавых Каньонов, узнав о поиске Инсигнии Непоколебимости внутри бреши в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы победили Элию и Несломленных в Ржавых Каньонах и узнали о поиске Инсигнии Непоколебимости внутри бреши в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

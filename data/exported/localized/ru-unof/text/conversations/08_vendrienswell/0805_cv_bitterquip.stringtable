@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\0805_cv_bitterquip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Превосходно! Пока ты заигрывал с клятвопреступниками, мы тут натянули веревку вдоль обвалившегося моста. Фуриям не терпится пойти с тобой в бой!"</DefaultText>
+      <FemaleText>"Превосходно! Пока ты заигрывала с клятвопреступниками, мы тут натянули веревку вдоль обвалившегося моста. Фуриям не терпится пойти с тобой в бой!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"И каков наш план?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Молодцы, твоя ватага спасла нас от разгрома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Главное сейчас – опустить этот мост. Мои воины в доспехах плавать не могут. Те, кто полегче", – он тычет в вас пальцем, – "могут перебраться на тот берег по веревке и опустить мост. Встретимся на той стороне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Не надо благодарности за то, что мы подхватили бремя, которое Опальным явно не по силам. Чего уж там, мы привычные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"В кои-то веки я согласен с Антио!" Желчная Язва тревожно указывает на другую сторону. "Моих людей заметили, так что давайте скорее, а то их там перебьют!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я дам своим людям сигнал. Давай быстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Скорее, Вершитель, а то моих воинов там поубивают, и переправы у нас не станет".</DefaultText>
+      <FemaleText>"Скорее, Вершительница, а то моих воинов там поубивают, и переправы у нас не станет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Спасибо, конечно, но если бы ты раньше послушал Антио, может, без этого бы обошлось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Певчий Крови холодно меряет вас взглядом. "Мне казалось, желчные ремарки – это мой конек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"По веревке переходим, да?" Барик откашливается и переступает с ноги на ногу. "Тогда я, наверное, пойду последним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Это позор! Должно быть, клятвопреступники над нами смеются".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

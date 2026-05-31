@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_03_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Бури в Могиле Клинков утихли благодаря вам. Может, [url=glossary:кайрос]Кайрос[/url] постепенно теряет контроль над Ярусами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Это вы забрали себе замок в Могиле Клинков? Если немного прибраться, там должно стать уютно, не?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Теперь, когда [url=glossary:опальные]Опальные[/url] вернули свой дом, может, торговля с Оплотом возобновится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Солдаты в гарнизоне в последнее время ужасно довольны собой. Наверное, потому, что наконец-то выиграли свою кампанию в Могиле Клинков".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

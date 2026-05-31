@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_tree_arris_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>У нее на губах мелькает улыбка – и тут же пропадает. "Спору нет, это было рисково. Остается проверить, стоила ли игра свеч".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Она растягивает губы в улыбке. "Ну что, пока все идет неплохо, верно? Будем продолжать в том же духе, и, возможно, нам удастся построить будущее, где [url=glossary:кайрос]Кайрос[/url] и культура Ярусов смогут сосуществовать мирно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

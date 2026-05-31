@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_lantry_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Никакие новообретенные способности не меняют того факта, что я верен Кайросу. Но меня, вероятно, все равно сочтут опасным".</DefaultText>
+      <FemaleText>"Никакие новообретенные способности не меняют того факта, что я верна Кайросу. Но меня, вероятно, все равно сочтут опасной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"Если это правда, тогда Владыке стоило бы обращаться с тобой получше. Ведь эта сила делает тебя бесценным проводником его воли. Но... боюсь, что [url=glossary:кайрос]Кайрос[/url] конкурентов не терпит. И я скорее поверю, что Владыка не захочет рисковать и прикончит тебя при первой возможности".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

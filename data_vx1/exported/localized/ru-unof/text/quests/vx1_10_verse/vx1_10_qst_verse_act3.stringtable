@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Третья степень</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вернуться в Речной Излом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Исследовать сгоревший дом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отправиться в форт Растрата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Бежать из форта Растрата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Бросить вызов Голосам Нерата вместе с Фугой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Поговорить с Фугой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Поговорить с Фугой в Горном Шпиле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с Фугой в Горном Шпиле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Поговорить с Фугой в Горном Шпиле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>В своем стремлении к возмездию Фуга узнала кое-что новое об убийцах своих сестер. Изучите улики, чтобы помочь Фуге добиться желаемого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Соглядатай Фуги заметил, что к Эссе в Речной Излом заходил какой-то подозрительный тип. Возвращайтесь туда вместе с Фугой и разберитесь, что произошло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Фуга подозревает, что поджигатель оставил улики, которые помогут вам отследить, куда он подевался из Речного Излома. Поройтесь на развалинах в поисках следов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы выяснили, что дом Эссы был сожжен Книгочеем, который работал на [url=glossary:алый хор]Алый Хор[/url]. Отправляйтесь с Фугой в форт Растрата, чтобы его найти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Внезапно появившиеся силы Алого Хора мешают вам покинуть форт. Перебейте их всех и уходите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] подстроил гибель сестер Фуги для достижения своих извращенных целей. Отправляйтесь в Какофонию вместе с Фугой и бросьте вызов Архонту Тайн.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Фуга хотела бы обсудить с вами кое-что. Поговорите с ней и выясните, в чем дело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы с Фугой разобрались с исполнителями, участвовавшими в убийстве ее сестер, но в живых остался [url=glossary:голоса нерата]Голоса Нерата[/url] – чудовище, которое всеми манипулировало в этой кровавой истории. Поговорите с Фугой в Горном Шпиле в Колодце Вендриенов и обсудите все, что вам известно, прежде чем бросить вызов Архонту Тайн.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вы с Фугой разобрались с исполнителями, участвовавшими в убийстве ее сестер, и уничтожили [url=glossary:голоса нерата]Голоса Нерата[/url] – чудовище, которое всеми манипулировало в этой кровавой истории. Поговорите с Фугой в Горном Шпиле в Колодце Вендриенов и обсудите случившееся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Вы с Фугой разобрались с исполнителями, участвовавшими в убийстве ее сестер, и уничтожили [url=glossary:голоса нерата]Голоса Нерата[/url] – чудовище, которое всеми манипулировало в этой кровавой истории. Поговорите с Фугой в Горном Шпиле в Колодце Вендриенов и обсудите случившееся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы нашли улики, указывающие, кто спалил дом Эссы. Продолжайте поиски в надежде отыскать еще что-то полезное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] отказывается мирно обсуждать с вами участь сестер Фуги, пока вы не покончили с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Фуга погибла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Фуга покинула отряд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Расправившись с Голосами Нерата – и раскрыв перед вами душу, – Фуга обрела успокоение после гибели своих сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Воля Фуги оказалась сильнее, она одержала победу над Голосами Нерата и стала предводителем Алого Хора. Отныне ее имя – Голоса Фуги. Она отомстила за сестер, обзавелась армией и оставила прошлое позади. Теперь ее будущее – в ее руках.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

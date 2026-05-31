@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_arrival_soldiers_sc_beastmen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Зачем стая Хора явилась в логово? Чтобы жиреть без дела, как ленивые коровы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он ворчит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Людям легко пустить кровь. Нужно просто сжать когти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Охотники-братья хорошо сражались. Но с клыками зверолюдов им все равно не тягаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Стая Хора сильнее стаи Братьев. Потому что в стае Хора есть зверолюдки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Человек-вершитель пахнет норой – Старыми Стенами. Пахнет погибелью, пахнет победой".</DefaultText>
+      <FemaleText>"Человек-вершительница пахнет норой – Старыми Стенами. Пахнет погибелью, пахнет победой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Люди в Гавани сильнее, чем показалось зверолюду. Но все равно добыча".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Может, теперь стая Хора уберется из Гавани. Может, уже скоро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Человек-Вершитель укусил Гавань волшебными словами. Пахнет альфой. Зверолюд до сих пор слышит, как скулят люди".</DefaultText>
+      <FemaleText>"Человек-вершительница укусила Гавань волшебными словами. Пахнет альфой. Зверолюд до сих пор слышит, как скулят люди".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она обнюхивает вас и фыркает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Людям легко пустить кровь. Нужно просто сжать когти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Охотники-братья хорошо сражались. Но с рвущими когтями зверолюдок им все равно не тягаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Человек-Вершитель укусил Гавань волшебными словами. Пахнет альфой. Зверолюдка до сих пор слышит, как скулят люди".</DefaultText>
+      <FemaleText>"Человек-вершительница укусила Гавань волшебными словами. Пахнет альфой. Зверолюдка до сих пор слышит, как скулят люди".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Люди в Гавани сильнее, чем показалось зверолюдке. Но все равно добыча".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

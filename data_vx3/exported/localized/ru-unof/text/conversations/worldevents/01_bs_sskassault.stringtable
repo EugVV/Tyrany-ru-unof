@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\01_bs_sskassault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель судеб? Я тебя прикончу, и Твердыня Часовых будет наша!"</DefaultText>
+      <FemaleText>"Вершительница судеб? Я тебя прикончу, и Твердыня Часовых будет наша!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"На этой железной швали мы просто размялись. Давай, не сдувайся, мы еще захватим этот клятый замок!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ну, кому добавки? Связку колец тому, кто первым проткнет шавку Аше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Подкрепления! К оружию!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Сзади! Бей Вершителя судеб!"</DefaultText>
+      <FemaleText>"Сзади! Бей Вершительницу судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Последний труп валится наземь, и вы видите, что нападавшие рассеяны, они бегут с поля боя. Да, вам удалось дать решительный отпор попытке захвата крепости. Отныне Твердыня Часовых принадлежит вам и только вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Молодцы, воины! Этот сброд нас не одолеет, покуда генерал Аше бдит над нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Всем приготовиться! Мы должны захватить Твердыню Часовых, пока сила на нашей стороне. За Грэйвена Аше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

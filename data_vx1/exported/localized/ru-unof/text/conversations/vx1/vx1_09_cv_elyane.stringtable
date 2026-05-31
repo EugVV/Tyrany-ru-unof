@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_elyane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Еще одна? Но ты кажешься такой отдохнувшей..." На невыразительно-спокойном лице женщины появляется вымученная улыбка. "Со временем привыкнешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Еще такая полная жизни! Со временем ты станешь такой же, как мы... не бойся, пустота – это не так уж плохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Она молча смотрит на вас широко распахнутыми глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что ты можешь рассказать о Лексеме?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты можешь собрать здесь остальных?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Тебе был слышен зов? Мы ищем Золотую Лапу". Она смотрит в пол. "Она не хочет, чтобы ее нашли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Лексема? Лексема? Это имя... как из забытого сна... Прости, я знала когда-то, но... теперь все так далеко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Уйти] "Я пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она несколько раз кивает в подтверждение. "Я позову, если повезет, остальные услышат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Оставайся здесь, я соберу остальных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Все собрались". Она кивает с едва заметной довольной улыбкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Атаковать] "Сожалею, но ради блага Раны я должен вас убить".</DefaultText>
+      <FemaleText>[Атаковать] "Сожалею, но ради блага Раны я должна вас убить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Атаковать] "Наконец-то я вас всех тут собрал..."</DefaultText>
+      <FemaleText>[Атаковать] "Наконец-то я вас всех тут собрала..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Что ты можешь рассказать мне о Золотой Лапе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Она сделала это с нами". Ее голос звучит совершенно спокойно, без осуждения. "Во благо ли это было? Или нас подвергли выбраковке? Мы просто хотели бы получить ответ. Возможно, тогда мы сможем заснуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Они беспомощно вскидывают руки, пытаясь защититься.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

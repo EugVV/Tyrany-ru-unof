@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_cairnsfollowers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Последователи Каирна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отыскать тело Каирна на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Осмотреть форт Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Заполучить осколок чистого лазурелита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить со Стокровкой, чтобы приготовиться к атаке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Атаковать Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Осмотреть Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Встретиться со Стокровкой в Зале Вознесения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Прервать ритуал Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Чтобы защитить Каирна, Стокровка попросила вас истребить Скаловержцев в их форте на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь на Воющую Скалу и отыщите место, где лежат останки Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Каирна окружают колдуны из гильдии Скаловержцев. Осмотрите их форт, чтобы найти путь внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы узнали, что у высокопоставленного Скаловержца в Старых Стенах в Зиянии есть особый осколок лазурелита. Этот осколок нужен, чтобы проникнуть в форт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>С осколком чистого лазурелита вы можете начинать штурм форта Скаловержцев на Воющей Скале. Дайте сигнал Стокровке, что вы готовы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Воспользуйтесь осколком чистого лазурелита, чтобы проникнуть в форт Скаловержцев на Воющей Скале и перебить всех его обитателей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Скаловержцы больше не представляют угрозы. Осмотрите останки Каирна на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Поговорите со Стокровкой на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Встретьтесь со Стокровкой в Зале Вознесения в Колодце Вендриенов, чтобы обсудить, что делать дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Поговорите со Стокровкой на Воющей Скале, чтобы оценить ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Скаловержцы проводят ритуал. Прервите его, сломав посохи, вставленные в лазурелитовые жилы Воющей Скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Расскажите Стокровке об осколке чистого лазурелита, с помощью которого можно попасть в форт Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Осмотрите Каирна, чтобы убедиться, что он все еще жив и будет и дальше придавать силы Камнепытам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы защитили Каирна на Воющей Скале и заручились помощью Стокровки и ее племени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Убив Каирна, вы предали повстанцев. Они больше не считают вас союзником.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

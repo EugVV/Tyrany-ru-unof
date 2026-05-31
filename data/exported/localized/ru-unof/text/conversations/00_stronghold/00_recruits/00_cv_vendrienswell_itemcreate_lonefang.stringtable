@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_vendrienswell_itemcreate_lonefang</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Альфа по имени Вершитель судеб – самый любимый человек Одинокого Клыка. Зверолюдке нравится, как он пахнет. Спариванием и свежей кровью".</DefaultText>
+      <FemaleText>"Альфа по имени Вершительница судеб – самый любимый человек Одинокого Клыка. Зверолюдке нравится, как она пахнет. Спариванием и свежей кровью".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Почему человек наступает и воет на Одинокого Клыка?" Она издает низкое рычание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"У тебя есть для меня что-то интересное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Человек". Она раздувает ноздри, впитывая ваш запах. "Что человек, пахнущий грязью-железом-кровью, хочет от Одинокого Клыка?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Да, да. Покажет человеку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Нет. Сначала надо поохотиться еще. Вершитель, приходи позже".</DefaultText>
+      <FemaleText>"Нет. Сначала надо поохотиться еще. Вершительница, приходи позже".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Зверолюдка надеется, что Вершитель найдет хорошую-длинную охоту под горячим солнцем".</DefaultText>
+      <FemaleText>"Зверолюдка надеется, что Вершительница найдет хорошую-длинную охоту под горячим солнцем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"В последнее время случалась добрая охота, человек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"В последнее время случалась добрая охота, человек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Не обижай зверолюдку! Одинокий Клык поможет человеку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>При вашем приближении она начинает скулить и прижимается к земле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Она настороженно следит за вашим приближением. В ее янтарных глазах тенью скользит первобытный голод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Она настороженно следит за вашим приближением. В ее янтарных глазах тенью скользит первобытный голод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Да, человек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Вершитель вернулся с запахом испуганной добычи". Она издает визгливый смешок. "Было свежее убийство, да?"</DefaultText>
+      <FemaleText>"Вершительница вернулась с запахом испуганной добычи". Она издает визгливый смешок. "Было свежее убийство, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Вершитель вернулся с запахом испуганной добычи". Она издает визгливый смешок. "Было свежее убийство, да?"</DefaultText>
+      <FemaleText>"Вершительница вернулась с запахом испуганной добычи". Она издает визгливый смешок. "Было свежее убийство, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Зверолюдка и боится, и хочет своего человеческого альфу. Странно".</DefaultText>
+      <FemaleText>"Зверолюдка и боится, и хочет свою человеческую альфу. Странно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Человек принес свежее мясо для Одинокого Клыка? Зверолюдке нравятся ломти и вырезки из свежей добычи".</DefaultText>
+      <FemaleText>"Человек принесла свежее мясо для Одинокого Клыка? Зверолюдке нравятся ломти и вырезки из свежей добычи".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

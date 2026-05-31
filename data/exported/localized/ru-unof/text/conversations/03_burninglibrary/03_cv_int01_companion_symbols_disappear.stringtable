@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\03_cv_int01_companion_symbols_disappear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сдается мне, эта преграда – лишь одна из многих, и следующие будут посложнее. Книгочеям явно нравилось все усложнять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Выходит, надо коснуться символа – и преграда исчезает? Как-то все слишком просто, я начинаю подозревать, что где-то скрыта ловушка... или, может, мы задели охранные чары где-то еще? Ненавижу это место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Чувствую тепло от меток. Коснуться, чтобы разбить магическую ограду. Но, может, метки не сработают для других ловушек на пути".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Видишь? В кои-то веки все получается проще, чем я опасался. Хотя сомневаюсь, что преодолеть следующие преграды будет так же легко".
+
+"Я думаю, мы на верном пути: если бы они НЕ обеспечили безопасность Безмолвного Архива, им бы не было нужды оставлять шифр для Книгочеев, которые могут сюда вернуться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что ж, тут все ясно и понятно. Коснись этого символа и узнай, что произойдет!"
+
+"Хотя я уверена, что если есть еще одна преграда, то так просто уже не получится. Давай поищем еще книги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Значит, нам надо прикасаться к символам, чтобы убирать барьеры? Не могу понять, у Книгочеев была страсть к красивым жестам – или им попросту забыли объяснить, что на свете бывают обычные двери".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

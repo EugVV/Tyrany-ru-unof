@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\fq_dis_qst_02_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Тушение пожара</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Чучело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Спасти Марика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Попасть в руины Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти способ преодолеть магический барьер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти другие куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Найти оставшиеся куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Найти последний кусок пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Использовать куски пергамента, чтобы попасть в Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Уничтожить Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Доложить Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] хочет, чтобы вы завершили то, что было начато Кайросом в ходе завоевания Ярусов, и уничтожили Горящую Библиотеку раз и навсегда, не позволив Алому Хору заполучить запретные знания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Марик возглавляет группу Скованных Клятвой Опальных в Горящей Библиотеке. Возможно, ему удастся помочь вам, хотя Аше потерял с ним связь несколько недель назад. Отправляйтесь к последнему известному местонахождению Марика в Чучеле, чтобы заручиться его поддержкой, если получится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы прибыли в Чучело, и теперь вам нужно найти и освободить пленного Скованного Клятвой по имени Марик. У него есть сведения, которые помогут вам уничтожить Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Войдите в руины Горящей Библиотеки, чтобы уничтожить Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Путь вглубь руин перегорожен магическим барьером. Чтобы продолжить исследовать Горящую Библиотеку, нужно найти способ отключить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы нашли часть пергамента, который, похоже, важен. Найдите другие части и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы нашли еще одну часть пергамента. Найдите остальные и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы нашли три фрагмента пергамента. Похоже, еще один – и страница будет собрана. Найдите эту часть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы нашли достаточно частей пергамента, чтобы расшифровать магическую фразу. После этого используйте ее, чтобы получить доступ к Безмолвному Архиву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Теперь, когда вы нашли Безмолвный Архив, вам нужно уничтожить Горящую Библиотеку и выполнить задание, которое дал вам [url=glossary:грэйвен аше]Грэйвен Аше[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вернитесь к Грэйвену Аше в Железный Очаг и сообщите ему, что Горящей Библиотеки больше нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы уничтожили Горящую Библиотеку для Опальных, как и приказал [url=glossary:грэйвен аше]Грэйвен Аше[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы ослушались приказов Грэйвена Аше, убив Марика, и тем самым сделали армию Опальных своими врагами.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_poi_muralcomments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Картины? В этом Кайросом забытом месте? Если глаза меня не обманывают, мы нашли нечто по-настоящему древнее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Гляди, впереди! Вряд ли это нарисовали беженцы. Эта штука... старше всех нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Похоже, самоселы, которые сюда забрели, пытались украшать Старые Стены. Поразительное святотатство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Впереди! Разукрашенная стена со старыми отпечатками. Внизу. Скорее-скорее, надо посмотреть ближе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что это там за муть на стенах намалевана? Я ставлю на то, что это порнуха – еще докайросовских времен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вершитель, гляди! Похоже, что это искусство Старых Стен. Надо посмотреть поближе. Ну, знаешь... для потомков".</DefaultText>
+      <FemaleText>"Вершительница, гляди! Похоже, что это искусство Старых Стен. Надо посмотреть поближе. Ну, знаешь... для потомков".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Гляди, впереди! Вряд ли это нарисовали беженцы. Эта штука... старше всех нас. Даже Лантри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

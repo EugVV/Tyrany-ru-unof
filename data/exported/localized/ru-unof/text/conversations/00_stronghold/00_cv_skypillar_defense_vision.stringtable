@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_skypillar_defense_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда враги приближаются к стенам цитадели, вы ощущаете силу, исходящую от всех и каждого из них. Горячая вспышка пламени, а потом внезапный холод – кованый клинок, погруженный в чан с ледяной водой. Страх и злость в их сердцах направлены на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Внезапно вы оказываетесь там, где стояли. Земля под вами снова грохочет, а Шпиль содрогается от энергии. Вспышка бледно-белого света исходит из башни за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Снаружи, где армии ведут жестокий бой, доносится лязг оружия, боевые кличи и гул уверенных голосов. Армия слишком велика, чтобы сражаться с ней в одиночку, но вы почему-то не сомневаетесь, что над вами находится превосходящая сила.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>От резонатора над вами исходит сияние энергии, которое пронизывает облака. Он ждет вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

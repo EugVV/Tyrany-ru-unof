@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_disfavoredcamp_crescentrunner_ceveus_earthshaker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"От командира Железнора не было вестей? Что это значит? Мы отправили ему сообщение уже локоть назад!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Последнее, что мы слышали, – это то, что мастер Радикс приказал присматривать за северо-восточным перевалом. Вроде как он должен там пройти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:кайрос]Кайрос[/url] бы его побрал! У нас нет солдат, чтобы посылать их искать среди деревьев наших же Скаловержцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

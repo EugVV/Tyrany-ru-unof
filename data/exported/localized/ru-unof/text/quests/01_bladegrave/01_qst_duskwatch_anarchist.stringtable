@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_duskwatch_anarchist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Неустрашимый</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Встретиться с Агатоном в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Укрепить Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Защитить форт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убить всех Несломленных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Поговорить с Каллиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Убить Осмиоса и Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Поговорить с капитаном Агатоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Поговорить с Каллиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Исследовать Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Поговорить с разведчиком Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Добраться до Сумеречного Бастиона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Бывшее королевство Оплот усеяно несчетным количеством испорченного оружия, которое разбросано по его разоренным полям. Где-то в ржавых пустошах Могилы Клинков лежит "Бесстрашный", легендарный меч Несломленных. [url=glossary:бледен марк]Бледен Марк[/url] сказал, что если вы сможете его найти, то будете вселять ужас в сердца всех, кто встанет у вас на пути.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] хотят защитить свой форт, а [url=glossary:опальные]Опальные[/url] хотят забрать его себе. Поговорите с капитаном Агатоном из Несломленных, чтобы предложить им свою помощь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Несломленным нужно помочь укрепить поврежденные части стен форта. Помогите им привести его в боевой порядок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] пошли в наступление на Сумеречный Бастион. Защитите его от всех нападающих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы напали на Сумеречный Бастион. Уничтожьте всех Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>У Каллиаса, пленника в Сумеречном Бастионе, может быть нужная вам информация о деятельности Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Осмиос и группа солдат из Опальных вернулись вызволить Каллиаса. Вам нельзя этого допустить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Вы успешно отбили атаку Опальных. Поговорите с капитаном Агатоном в хлеву для пленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Теперь, когда [url=glossary:опальные]Опальные[/url] больше не представляют угрозы, можно без помех поговорить с Каллиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>"Бесстрашного" в последний раз видели в Твердыне Часовых. Отправьтесь туда и попробуйте напасть на след артефакта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Разведчик Несломленных наблюдал за вашим сражением с погибелями у Твердыни Часовых. Поговорите с ним и узнайте, сможет ли он чем-то помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Янош считает, что глава Несломленных, Маттиас, занимался поисками "Бесстрашного". Отправьтесь в крепость Несломленных, Сумеречный Бастион, и поговорите с Агатоном, исполняющим обязанности командира, чтобы узнать больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы решили не сотрудничать с Агатоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы решили не сотрудничать с Осмиосом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли Несломленным защитить их базу, Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>С вашей помощью [url=glossary:опальные]Опальные[/url] захватили Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Убив всех солдат Несломленных и Опальных в Сумеречном Бастионе, вы не нашли "Бесстрашного", но узнали, что Маттиас отправил солдат Несломленных в Ржавые Каньоны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы убили все силы Несломленных и Опальных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Вы решили взять Сумеречный Бастион по своим причинам. Уберите тех, кто стоит у вас на пути, и решите, что делать дальше в вашем путешествии.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

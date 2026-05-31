@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[url=glossary:ключ надзирателя]Ключ Надзирателя[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[url=glossary:ключ надзирателя]Ключ Надзирателя[/url] позволяет активировать переключатели и маячки в Старых Стенах Раны Бастарда с небольшого расстояния. Он используется автоматически, когда вы щелкаете на подходящем объекте в его радиусе действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[Предать союз]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

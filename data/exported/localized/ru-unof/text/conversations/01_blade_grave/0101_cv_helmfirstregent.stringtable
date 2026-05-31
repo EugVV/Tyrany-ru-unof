@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_helmfirstregent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы проводите много часов, откалывая от камня кусок за куском и извлекая на свет множество поврежденных и неинтересных образцов. Наконец вы раскалываете один из шипов возле вершины пласта и достаете теплый на ощупь шлем. Если бы не покрывающая его пыль, вы бы подумали, что он был выкован только что.
+
+Вы нашли Шлем Первого регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы осматриваете пласт, разыскивая нагрудники со знаком Эпистрата. Через несколько минут вы замечаете один из них, выпирающий из шипа у вершины скалистого выступа. Тело регента пронзило насквозь: проследив взглядом за изгибами скалы, вы замечаете у верхушки нечто, похожее на шлем необычной формы. 
+
+Вы нашли Шлем Первого регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

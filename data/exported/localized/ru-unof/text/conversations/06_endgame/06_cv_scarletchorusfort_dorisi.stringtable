@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_dorisi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эй, Вершитель! Я помню тебя по Битве за Эджеринг – ты позаботился, чтобы Хор получил подкрепления после того, как эти идиоты из Опальных не оставили никого из врагов в живых, лишив нас новобранцев".</DefaultText>
+      <FemaleText>"Эй, Вершительница! Я помню тебя по Битве за Эджеринг – ты позаботилась, чтобы Хор получил подкрепления после того, как эти идиоты из Опальных не оставили никого из врагов в живых, лишив нас новобранцев".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да благословит тебя Владыка, Вершитель судеб".</DefaultText>
+      <FemaleText>"Да благословит тебя Владыка, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Если когда-нибудь позарез нужны будут припасы, можешь воспользоваться одним из тайников Хора. Отмечу его на твоей карте. Просто так выражаю благодарность".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

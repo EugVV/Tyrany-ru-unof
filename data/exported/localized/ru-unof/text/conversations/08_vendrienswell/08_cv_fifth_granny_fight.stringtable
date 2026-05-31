@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_fifth_granny_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Прочь с дороги! [url=glossary:зал вознесения]Зал Вознесения[/url] возьмем мы!" Пятый Глаз надтреснуто ревет и широко взмахивает копьем. "Убирайтесь немедленно, пока на вас не обрушились клинки и дубинки Алого Хора!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да скорее червяки одолеют волка!" Командир Опальных делает бойцам Алого Хора знак выйти вперед. "Давайте, я буду убивать вас по пять штук за раз, чтобы все было честно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Так... насчет Эдикта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"С какой же радостью я тебя убью. Надеюсь, Защита Аше сработает, и пытки будут длиться очень долго. Я хочу послушать, как ты вопишь. Хотя Архонт, конечно, НАСТОИТ, чтобы я дал тебе шанс сдаться перед смертью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Когда я с тобой покончу, Нерат даст тебе новое имя – Второй Анус". Она делает замысловатый взмах мечом и бросает своих солдат в атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Разберитесь с ними. Я возьму [url=glossary:зал вознесения]Зал Вознесения[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Командир оглядывается на вас, затем указывает на север. "Мы их задержим, а ты давай во внутреннее святилище!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Разумный план, друг мой, удачной охоты!"</DefaultText>
+      <FemaleText>"Разумный план, подруга, удачной охоты!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Вперед, мы с этими глупцами разберемся! Во славу Нерата!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Время дорого, так что давай быстрее в крепость, а я наконец-то смогу потыкать копьем в Опальных. Надеюсь, [url=glossary:грэйвен аше]Грэйвен Аше[/url] это почувствует!" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

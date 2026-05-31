@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_companion_barksonentercourtyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Вершитель, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!"</DefaultText>
+      <FemaleText>"Вершительница, [url=glossary:опальные]Опальные[/url] уже на стенах! Нужно дать им отпор!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Латники забрались на стены? Пусти меня к ним!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Кто бы мог подумать, что [url=glossary:опальные]Опальные[/url] способны забраться так высоко... они уже на стенах!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Солдаты легиона уже взобрались на стены. Я бы рекомендовал сбросить их оттуда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

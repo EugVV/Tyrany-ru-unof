@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_jacomus_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Вершитель судеб!" Джаком продвигается к вам с убийственным огоньком во взгляде. "Я потерял солдат в этом бою – хороших северян, которые больше не увидят свои семьи!"</DefaultText>
+      <FemaleText>"Вершительница судеб!" Джаком продвигается к вам с убийственным огоньком во взгляде. "Я потерял солдат в этом бою – хороших северян, которые больше не увидят свои семьи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] никогда этого не забудет... суть его злости может постичь только Архонт. Надеюсь, для твоего же блага, что у тебя хватит порядочности умереть здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Он подает сигнал своему отряду. "Атаковать Вершителя!"</DefaultText>
+      <FemaleText>Он подает сигнал своему отряду. "Атаковать Вершительницу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Так отправь их глаза на Север. Что мне до этого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"А уже слишком поздно извиняться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Он кривится. "Тебе наплевать на наши ценности, наши цели, наши жизни. Тунон ошибся, когда дал тебе даже толику власти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Мы – кровь Севера, и мы никогда не забываем злодеяний против нашего народа! Ты совершил преступления против всего, что нам дорого".</DefaultText>
+      <FemaleText>"Мы – кровь Севера, и мы никогда не забываем злодеяний против нашего народа! Ты совершила преступления против всего, что нам дорого".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

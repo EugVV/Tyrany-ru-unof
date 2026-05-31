@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_08_arris_echocallact2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ну что же, Вершитель. Я не ожидала снова увидеть твое лицо. Я неприятно удивлена".</DefaultText>
+      <FemaleText>"Ну что же, Вершительница. Я не ожидала снова увидеть твое лицо. Я неприятно удивлена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Чем [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] заслужила честь тебя привечать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я принес сообщение от Грэйвена Аше".</DefaultText>
+      <FemaleText>"Я принесла сообщение от Грэйвена Аше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"О, а вот это уже интересно. Сперва ко мне прибывает всемогущий Вершитель судеб... А теперь он говорит, что принес сообщение от подонка, которого давно пора насадить на кол и оставить птицам. Чего от меня хочет Аше?"</DefaultText>
+      <FemaleText>"О, а вот это уже интересно. Сперва ко мне прибывает всемогущая Вершительница судеб... А теперь она говорит, что принесла сообщение от подонка, которого давно пора насадить на кол и оставить птицам. Чего от меня хочет Аше?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Скажи, уважаемый Вершитель, какие у тебя вести от Грэйвена Аше? Интересные, должно быть".</DefaultText>
+      <FemaleText>"Скажи, уважаемая Вершительница, какие у тебя вести от Грэйвена Аше? Интересные, должно быть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] предлагает вам союз. Заключите с Опальными пакт, и мы будем сражаться вместе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты хочешь сказать, что после того, что случилось... После кровопролития... Единственный и неповторимый [url=glossary:грэйвен аше]Грэйвен Аше[/url] предлагает мир?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Неужели ты считаешь меня идиоткой, Вершитель? Мир? С Опальными? Мне уже давно не приходилось слышать настолько забавных шуток..."</DefaultText>
+      <FemaleText>"Неужели ты считаешь меня идиоткой, Вершительница? Мир? С Опальными? Мне уже давно не приходилось слышать настолько забавных шуток..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мой ответ – нет, Вершитель. Нет. [url=glossary:опальные]Опальные[/url] убили много моих бойцов, и я чту их память. Мы не станем заключать союза с теми, кто отнял у них жизнь".</DefaultText>
+      <FemaleText>"Мой ответ – нет, Вершительница. Нет. [url=glossary:опальные]Опальные[/url] убили много моих бойцов, и я чту их память. Мы не станем заключать союза с теми, кто отнял у них жизнь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Мирное соглашение поможет сберечь жизни новых солдат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"И может привести нас к самому страшному поражению из всех. Нет, Вершитель. Возвращайся к Грэйвену Аше и скажи ему, что [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] отстоит свою свободу и без его помощи".</DefaultText>
+      <FemaleText>"И может привести нас к самому страшному поражению из всех. Нет, Вершительница. Возвращайся к Грэйвену Аше и скажи ему, что [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] отстоит свою свободу и без его помощи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Вершитель, убирайся, пока ты еще не утомил меня своим присутствием".</DefaultText>
+      <FemaleText>"Вершительница, убирайся, пока ты еще не утомила меня своим присутствием".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Предлагаю вам избежать неминуемого уничтожения и объединить силы с Опальными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] просил передать привет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Она хмыкает. "Конечно, просил. Чего Аше хочет на самом деле?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Умрете – сами будете виноваты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] отстоит свою свободу и без помощи Опальных".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

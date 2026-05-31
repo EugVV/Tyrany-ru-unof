@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_defense_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Клятвопреступники</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Защитить двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Пройти на восток и защитить боковой двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убить солдат Опальных, перебравшихся через стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Проверить главный двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Пройти на восток и помочь защитить стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Пройти на запад и помочь защитить ворота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Убить солдат Алого Хора, прорвавшихся через ворота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Отступить внутрь цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Одолеть нападающих в западной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Одолеть нападающих в восточной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Помочь Гвардии Вендриенов в восточной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Помочь Гвардии Вендриенов в западной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Отступить в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Одержать победу над силами Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вернуться в главный двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вернуться к Таркис Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Обсудить с Арри план обороны цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вернуться в цитадель Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Встретиться с Таркис Арри в условленном месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Посеять раздор между Грэйвеном Аше и Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Отправиться в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Перебить солдат Алого Хора за стенами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Перебить всех солдат Алого Хора за стенами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Перебить Опальных за стенами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Таркис Арри, командир Гвардии Вендриенов, хочет встретиться с вами и обсудить возможный союз. Она знает обо всех случаях, когда вы проявляли милосердие к повстанцам после прибытия в [url=glossary:колодец вендриенов]Колодец Вендриенов[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Защищайте двор цитадели от натиска захватчиков Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Армии Кайроса направляются к восточному двору цитадели. Отправляйтесь туда и одержите победу над противником.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] прорвались через стену. Перебейте их, пока они не закрепились в цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url], прорвавшиеся через стену, мертвы, а с остальными разберутся гвардейцы Вендриенов. Возвращайтесь в главный двор цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Обойдите цитадель с востока и помогите гвардейцам Вендриенов отбить натиск Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Обойдите цитадель с запада и помогите гвардейцам Вендриенов отбить натиск Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Солдаты Алого Хора прорвались через все преграды. Перебейте их, пока они не закрепились в цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Захватчики прорвались в цитадель. Отступите во внутренние помещения и отражайте атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Пройдите по тайному ходу, чтобы застать врасплох нападающих в западной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Пройдите по тайному ходу, чтобы застать врасплох нападающих в восточной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Натиск слишком силен, гвардейцы Вендриенов не могут сдержать врага. Одержите победу в восточной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Натиск слишком силен, гвардейцы Вендриенов не могут сдержать врага. Одержите победу в западной части донжона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Пробейтесь в [url=glossary:зал вознесения]Зал Вознесения[/url] и помогите оборонять его от сил Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Одержите верх над силами Кайроса в Зале Вознесения, пока они не смяли Гвардию Вендриенов, и добейтесь победы в цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] смогли прорваться через подкрепления и направляются к главному двору цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вы уничтожили все войска Кайроса в донжоне. Возвращайтесь к Таркис Арри, вам надо перегруппировать силы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Посоветуйтесь с командиром Гвардии Вендриенов и решите, как организовать оборону цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Скоро армии Кайроса будут готовы пойти на приступ цитадели. Пришло время готовиться к обороне Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Таркис Арри прислала вам сообщение. Она приглашает встретиться и обсудить возможный союз между вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Таркис Арри уверена, что у ее солдат есть шанс отстоять цитадель, если [url=glossary:опальные]Опальные[/url] и [url=glossary:алый хор]Алый Хор[/url] будут слишком заняты грызней друг с другом. Подстройте ссору между Архонтами, когда они будут встречаться в походном шатре Аше в лагере Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Прорвитесь через цитадель в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] скоро вышлет подкрепления на штурм ворот. Помогите Гвардии Вендриенов и убейте как можно больше солдат Алого Хора за стенами цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] готовится к очередному штурму под стенами цитадели. Вступите с ними в бой на месте и сорвите атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] прорываются в цитадель, как только могут. Убивайте их солдат на крепостных стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] скоро пришлет и других солдат, помимо тех, что сейчас штурмуют ворота. Отыщите и убейте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] сумел прорваться через подкрепления и направляется к главному двору цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли Гвардии Вендриенов отстоять цитадель от армий Кайроса и захватили [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы решили предать всех без исключения и захватить Шпиль Колодца Вендриенов для себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы не отвечали на просьбы Гвардии Вендриенов, и они перестали вам доверять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы согласились встретиться с Таркис Арри и попытались ее убить. Она сумела ускользнуть вместе с Атли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы не отвечали на просьбы Гвардии Вендриенов, и они перестали вам доверять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы встретились с Таркис Арри, но решили, что не хотите участвовать в ее плане, и ушли с миром.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

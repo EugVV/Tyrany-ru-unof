@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_stonestalkers_oot_attackinghowlingrock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Земляные колдуны бегут-спасаются от Камнепытов! Теперь умрут, скуля в когтях зверолюдки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Слышу вой Каирна! Архонт гонит Камнепытов в бой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Резать-колоть! Убейте земляных колдунов для Архонта!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Камни жаждут лакать кровь колдунов-злодеев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Помогайте и сражайтесь за Вершителя! Защищайте Каирна зубами и когтями!"</DefaultText>
+      <FemaleText>"Помогайте и сражайтесь за Вершительницу! Защищайте Каирна зубами и когтями!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Помешайте ритуалу колдунов! Охраняйте Каирна, чтобы [url=glossary:камнепыты]Камнепыты[/url] оставались сильны!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Земляные колдуны бегут-спасаются от Камнепытов! Теперь умрут, скуля в когтях зверолюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[url=glossary:камнепыты]Камнепыты[/url] следуют за Вершителем. Всегда будут сражаться за человека, который так же силен, как Каменный Архонт".</DefaultText>
+      <FemaleText>"[url=glossary:камнепыты]Камнепыты[/url] следуют за Вершительницей. Всегда будут сражаться за ту, которая так же сильна, как Каменный Архонт".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Вершитель хороший охотник. Убил много-много колдунов-злодеев. Убивал и проливал кровь, чтобы защитить Каирна".</DefaultText>
+      <FemaleText>"Вершительница хорошая охотница. Убила много-много колдунов-злодеев. Убивала и проливала кровь, чтобы защитить Каирна".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Альфа. Альфа, который сражается за Стокровку и Камнепытов".</DefaultText>
+      <FemaleText>"Альфа. Альфа, которая сражается за Стокровку и Камнепытов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Племя теперь следует за Вершителем, как племя следовало за Каирном".</DefaultText>
+      <FemaleText>"Племя теперь следует за Вершительницей, как племя следовало за Каирном".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"[url=glossary:прима]Прима[/url] Стокровка сражается за человека с именем Вершитель. Поэтому племя тоже будет защищать человека, который теперь в племени".</DefaultText>
+      <FemaleText>"[url=glossary:прима]Прима[/url] Стокровка сражается за человека с именем Вершительница. Поэтому племя тоже будет защищать человека, которая теперь в племени".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

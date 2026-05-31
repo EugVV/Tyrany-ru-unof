@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_lantryshatteredbastionchat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Это здесь? Тут «Книгочей Л.» просил встретиться с ним? Довольно опасное место, как мне кажется... интересно, эти бандиты уже отыскали нашего Книгочея?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Есть идеи, кто бы это мог быть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я полагаю, многие Книгочеи умеют прятаться не хуже тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Если выяснится, что «Книгочей Л.» – это ты, и это все какая-то шуточка, я тебе пальцы поотрезаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"На свете не так много Книгочеев, чье имя начинается с Л: Лонгворд, Лилотес, Лающий Смех, Ласивар, Лексема, Лицентия, Лумоза, я, разумеется; Лисандра... наверное, я еще кого-то забыл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мы обычно не преподавали науку Сокрытия зеленым юнцам, но любой опытный Книгочей, без сомнения, обладает достаточными магическими способностями, чтобы оставаться незамеченным среди развалин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Клянусь, я... почти уверен, что ни разу не напивался до той стадии, чтобы сперва написать тебе, а потом об этом забыть. Да и вообще, разве у меня хватило бы ума для столь изощренного розыгрыша?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Впрочем, что проку слушать мои размышления? Давай лучше осмотримся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Катапульты и тараны не могут нанести такие повреждения. Думаю, тут поработали Скаловержцы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Здесь смердит кровью земли... Тут творили большую магию... больше семи дней назад – но камни кричат до сих пор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Здесь ярусники оказали слабую попытку сопротивления. Железный Маршал предложила использовать Скаловержцев, чтобы разрушить укрепления, но генерал Аше увидел хорошую возможность напомнить, чем грозит сопротивление Каирну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Когда Архонт Камня закончил, ярусникам уже совсем расхотелось сражаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Здесь звучит эхо его голоса. Слабое, но его ни с чем не спутать". Она опускается на колени и поднимает с земли камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Это его работа. Отметка, которую он здесь оставил". Она прижимает камень к груди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Катапульты и тараны не могут нанести такие повреждения. Думаю, тут поработали Скаловержцы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"А люди еще говорят, что в Хоре глупые имена".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

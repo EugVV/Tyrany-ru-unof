@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Жестокая резня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>Калечащее кольцо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2036</ID>
+      <DefaultText>Стремительная быстрота</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Мощная волна отчаянья</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>Сконцентрированная гроза</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2039</ID>
+      <DefaultText>Усиленный ледяной шип</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2040</ID>
+      <DefaultText>Ребролом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Жестокая резня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Закрытый удар</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2043</ID>
+      <DefaultText>Сотрясение Сотни</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Едкий бросок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>Обезоруживающий выпад</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Шквал лезвий</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Разорение хилых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Истязание слабых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2049</ID>
+      <DefaultText>Удар в горло</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2050</ID>
+      <DefaultText>Подбрасывающий удар</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2051</ID>
+      <DefaultText>Опустошение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2052</ID>
+      <DefaultText>Непреклонный клич</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2053</ID>
+      <DefaultText>Вымазать ядом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2054</ID>
+      <DefaultText>Валящий наскок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2055</ID>
+      <DefaultText>Могучий удар</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2056</ID>
+      <DefaultText>Пробивающий натиск</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2057</ID>
+      <DefaultText>Череполом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2058</ID>
+      <DefaultText>Напряжение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2062</ID>
+      <DefaultText>Штрих, добавляющий заклинаниям возможность срикошетить с уменьшенной силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2063</ID>
+      <DefaultText>Увеличенная аура лечения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2064</ID>
+      <DefaultText>Тропа ледяного пламени</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2065</ID>
+      <DefaultText>Дождь хаоса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2066</ID>
+      <DefaultText>Отражающийся электрошок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Отскакивающий клинок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2103</ID>
+      <DefaultText>Вне оков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2104</ID>
+      <DefaultText>Вне оков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2105</ID>
+      <DefaultText>Вне оков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2106</ID>
+      <DefaultText>Вне оков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2107</ID>
+      <DefaultText>Вне оков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2109</ID>
+      <DefaultText>Погружение во тьму</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2111</ID>
+      <DefaultText>Сигил "Сковывающих выстрелов" II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2112</ID>
+      <DefaultText>Сигил "Точного действия" V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2113</ID>
+      <DefaultText>Сигил "Силы" V</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2114</ID>
+      <DefaultText>Сигил циклических энергий IV</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2115</ID>
+      <DefaultText>Вызов подкреплений</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>Вызов подкреплений</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2117</ID>
+      <DefaultText>Вызов подкреплений</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2121</ID>
+      <DefaultText>Бессонный</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2123</ID>
+      <DefaultText>Обман тени</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2124</ID>
+      <DefaultText>Обман тени</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2125</ID>
+      <DefaultText>Темная хватка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2126</ID>
+      <DefaultText>Теневой ожог</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2127</ID>
+      <DefaultText>Теневая ласка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2128</ID>
+      <DefaultText>Погружение во тьму</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2130</ID>
+      <DefaultText>Гулкое крещендо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2132</ID>
+      <DefaultText>Кровавый дар</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2133</ID>
+      <DefaultText>Отскакивающий клинок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2134</ID>
+      <DefaultText>Быстрый и мертвый</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2135</ID>
+      <DefaultText>Быстрый и мертвый</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>Пламя ненависти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2137</ID>
+      <DefaultText>Пламя ненависти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2138</ID>
+      <DefaultText>Оружие продлевает удары владельца, насыщая их такой силой, что часть ее неизменно вырывается вперед в виде разрядов. Эти три удара в ближнем бою могут нанести дополнительный урон электричеством, который увеличивается вместе с известностью артефакта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2139</ID>
+      <DefaultText>Носитель испускает поток смертоносной энергии, пропитанной яростью Фуги по отношению к убийцам ее сестер, который обжигает врагов поблизости и подтачивает их силы, одновременно ускоряя движения владельца перчаток. Эффект возрастает вместе с известностью «Плачущих шепотов».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2140</ID>
+      <DefaultText>Подпитываясь древней магией, кинжал «Круговой Аргумент» без помех прокладывает себе путь, пронзая противников своего владельца, и тем же путем возвращается к нему – вполне возможно, сквозь тех же врагов. Наносимый этой мощью урон растет вместе с известностью Кругового Аргумента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2141</ID>
+      <DefaultText>Взывая одновременно к силам живой воды и мертвящего могильного света, Атли устанавливает приливную связь между своей кровью и кровью жертвы и, медленно выпивая врага до дна, насыщается сама. Количество высосанного здоровья возрастает с известностью Гребня Волны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2142</ID>
+      <DefaultText>Смерть-из-Тени взывает к силам мрака, с которыми чувствует сродство, и тьма окутывает ее, как саван. Она на короткое время повторно входит в режим скрытности. Этот срок возрастает вместе с известностью «Погружения во тьму».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2143</ID>
+      <DefaultText>Сирин исполняет старинную мелодию, выученную в Старых Стенах после кончины Архонта Камня. Ее голос волнами раскатывается по полю боя, ломает кости и сводит врагов с ума. Мощность этих эффектов возрастает вместе с известностью «Гулкого крещендо».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2144</ID>
+      <DefaultText>Древний клинок «Полутень» обращает тени своих жертв против них самих, окутывает их собственной тьмой и ослабляет, делая уязвимыми для эфирного лезвия. Время воздействия этого эффекта на противника растет вместе с известностью «Полумрака».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2145</ID>
+      <DefaultText>Бойся ведьмина подсвинка,
+Щетинистого дружка,
+Плоть и разум разрывает,
+Очень смертоносный хряк</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

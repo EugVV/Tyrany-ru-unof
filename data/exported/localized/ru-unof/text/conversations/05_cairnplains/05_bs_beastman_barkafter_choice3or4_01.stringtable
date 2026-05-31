@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_beastman_barkafter_choice3or4_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Нам это не нравится, Вершитель судеб. Не хотим отдавать Опальным нашу прелесть, Зубы Старейшин".</DefaultText>
+      <FemaleText>"Нам это не нравится, Вершительница судеб. Не хотим отдавать Опальным нашу прелесть, Зубы Старейшин".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_zdenya_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты держался достойно и с честью в Старых Стенах, Вершитель судеб. Мы поступили мудро, доверившись тебе".</DefaultText>
+      <FemaleText>"Ты держалась достойно и с честью в Старых Стенах, Вершительница судеб. Мы поступили мудро, доверившись тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я все еще надеюсь, что мы обретем свободу от Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

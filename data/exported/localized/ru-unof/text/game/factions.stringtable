@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\factions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Лантри</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Барик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Фуга</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Атли</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Смерть-из-Тени</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Сирин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Гильдия Книгочеев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[url=glossary:тyнон]Тyнон[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Благосклонность</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Гнев</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Бесстрашный</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Племя Камнепытов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[url=glossary:распутье летианы]Распутье Летианы[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Жители Каменного Моря</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[url=glossary:город-бастард]Город-Бастард[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Инсигния Непоколебимости</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Гребень волны"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Шлем Первого регента</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Шлем Магоборца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Лазурный щит</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Посох часов"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Лик Правосудия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Миротворец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Последний крик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Оковы теней"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Могильный лук</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Солнечное копье</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Ураган</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Смертоносец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Снежный клык</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Посох Каирна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Кровь сердца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ботинки Ночного Ходока</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Гроза погибелей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Нагрудник Командира</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Одеяние иерархов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Перчатки алхимика</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Весы милосердия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Знамя Ардента</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Молот Раскола</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[url=glossary:каирн]Каирн[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Книгочеи</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Школа Чернил и Пера</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[url=glossary:кайрос]Кайрос[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Королевство Гребень</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Верность</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Страх</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[url=glossary:багровые копья]Багровые Копья[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[url=glossary:железная стража]Железная Стража[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Известность</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Личное войско Голосов Нерата. Самая большая из армий Кайроса в землях Ярусов. Их количество возрастает с каждой новой битвой, и все они верны учениям Голосов, согласно которым каждый заслуживает лишь то, что может завоевать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] – закованные в броню элитные бойцы Кайроса, безгранично верные Грэйвену Аше. Они гордятся своими традициями и принимают в ряды легиона только чистокровных северян.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>До вторжения Кайроса [url=glossary:несломленные]Несломленные[/url] Клинки были лучшими солдатами Ярусов. Обессиленные и разбитые Эдиктом, они влачат жалкое существование на разрушенных бурями землях Могилы Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Лантри – выживший ученый и летописец. Мудрый человек преклонного возраста, но с юной душой. Будучи Книгочеем Школы Чернил и Пера, Лантри хорошо подкован в магических и академических науках. Он знает множество заклинаний и тайн, неведомых обычному яруснику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Когда был провозглашен [url=glossary:эдикт]Эдикт[/url] Бурь, Барик оказался навсегда заключен в собственном оплавленном доспехе, и ныне он – грохочущее олицетворение войны. Барик отчаянно цепляется за верность Грэйвену Аше и благородным традициям своей северной родины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Фуга – закаленная в боях уроженка Ярусов. Она высоко поднялась по карьерной лестнице Алого Хора, для чего ей пришлось убивать вышестоящих, спать в полглаза и никогда дважды не пить из одной фляги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Судя по всему, Атли – последняя из Школы Приливов, гильдии, специализировавшейся на магии лун и морей. До войны она была опытной путешественницей и знатоком магии, а ныне вся ее жизнь посвящена борьбе с оккупационными войсками Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Последняя из Охотников Тени, порожденного тьмой племени зверолюдов. Она безжалостна, дика и готова на все, чтобы выжить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Архонт Песни, Сирин обладает голосом, способным управлять умами и чувствами тысяч людей. Она попала в плен к Владыке еще в детстве и теперь вынуждена служить Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Маги Веленевой Цитадели были хранителями магических знаний и почти все погибли после того, как [url=glossary:эдикт]Эдикт[/url] Кайроса превратил их дом в Горящую Библиотеку. В живых остались немногие, и у них нет ни настоящего лидера, ни цели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Архонт Правосудия и верный слуга Владыки Кайроса. Власти Тунона, лидера Вершителей судеб, боятся все прочие Архонты, хотя ни один из них не может сказать о нем ничего конкретного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Архонт Войны и командующий Опальными – железным легионом Кайроса. По слухам, Аше магически связан со своими солдатами, и лишь смерть способна помешать Опальному восстать и вернуться в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Архонт Тайн, лидер шпионов Кайроса и командующий Алого Хора. Даже его собственная армия боится силы Голосов – и множества разумов, пойманных в ловушку его рассудка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Наемники, в основном базирующиеся в королевстве Гавань. Эти жестокие воины поклоняются погибелям, считая их олицетворением смерти и разрушения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Архонт Теней. По слухам, он – наемный убийца Кайроса, но мало кто добровольно согласится говорить о нем – в поле зрения Бледена Марка лучше не попадать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Почетная гвардия дома Вендриенов, правившего Гребнем до вторжения Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Маги-кузнецы Империи Кайроса, единственные, кто знает, как получать из руды железо и с помощью магии ковать из него оружие и доспехи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Легендарный меч защитников Оплота. Когда [url=glossary:эдикт]Эдикт[/url] Бурь разгромил [url=glossary:несломленные]Несломленные[/url] Клинки, эту реликвию гордого королевства сочли утраченной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Единственное выжившее племя зверолюдов Лазури. Обретя свободу во время вторжения Кайроса, [url=glossary:камнепыты]Камнепыты[/url] прервали всякие контакты с людьми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>До вторжения Кайроса [url=glossary:распутье летианы]Распутье Летианы[/url] было маленьким торговым поселением, но открытие залежей железной руды в соседних горах превратило его в центр торговли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Уцелевшие во время Эдикта Кайроса, которые пытаются выжить в Каменном Море, влача жалкое существование под гнетом магии Владыки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Инсигнию Непоколебимости, откованную в виде боевого штандарта Оплота, носил каждый Первый регент с того момента, как было основано королевство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Гребень волны" – артефакт Школы Приливов, магической гильдии, которая была особенно сильна в королевствах Гавань и Гребень, пока их не сокрушили армии Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Парадный шлем Первых регентов Оплота. Легенды гласят, что пока правитель Оплота носит в бою этот шлем, [url=glossary:несломленные]Несломленные[/url] Клинки не потерпят поражения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Этот железный шлем, созданный Жденьей, Мастером Скованных Горном, исполнен магией, защищающей от погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Во время завоевания Кайроса этот щит, принадлежавший защитнику Лазури, был захвачен зверолюдами племени Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Посохом часов" традиционно владел Архивариус Веленевой Цитадели, смотритель Безмолвного Архива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Железная маска, которую носил Адъюдикатор Тунон до того, как пал от вашей руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Боевая палица, дарованная Грэйвену Аше за покорение Ярусов во имя Кайроса и именем его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Бронзовая булава о двух ликах, ранее принадлежавшая Голосам Нерата. Открытые глаза и кричащие рты мерцают слабым зеленым светом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Долгие годы "Оковы теней" носил [url=glossary:бледен марк]Бледен Марк[/url], безжалостный убийца и Архонт Теней. За это время они впитали часть его способностей по управлению тьмой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>О "Могильном луке", века назад утерянном в Старых Стенах, легенд сложено немного, и все они рассказывают о древнем Архонте, который вышел на бой с погибелями и отогнал их от поселений людей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Солнечное копье" – давно утраченная в Старых Стенах реликвия Дома Вендриенов. Когда погибели вырвались на свободу и напали на Гавань, легендарная королева Гребня пожертвовала своей жизнью, чтобы изгнать их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Этот меч, сделанный из железа, оставшегося от разрушенного молнией Шпиля, бури преследуют повсюду, где бы он ни находился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>О силе "Смертоносца", наполненного магией Скованных Горном и осколками обсидиана из Горящей Библиотеки, еще века будут складывать легенды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[url=glossary:скованные горном]Скованные Горном[/url] вложили в "Снежный клык" силу самых жестоких морозов северных зим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Созданный Скованными Горном при помощи обломков лазурелита, он хранит в себе сущность Каирна, Архонта Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Кровь сердца" создан Скованным Горном и жаждет нести боль и смерть. Владение этим магическим клинком вызывает почти непреодолимую тягу к убийствам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Эти ботинки сделаны из шкуры Рвущего Пса, лейтенанта Алого Хора, и зачарованы магией Скованных Горном. Они наделяют своего владельца невероятной скрытностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Щит создан Скованными Горном и содержит в себе сущность убитой погибели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Внешний вид этого бронзового нагрудника, созданного Скованными Горном, вдохновлен доспехами военачальников Севера, годами противостоявших владычеству Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Эти волшебные одеяния созданы Скованными Горном и символизируют единение всех магических знаний и традиций.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Перчатки алхимика" созданы магией Скованных Горном и содержат в себе целительные силы Повитухи Сирот, Архонта Возрождения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Эти весы символизируют роль Вершителей в Империи Кайроса и представляют собой две чаши, подписанные словами "СПРАВЕДЛИВОСТЬ" и "ПРОТИВОРЕЧИЕ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Этой частью Знамени Мира владел Первый оратор Ардента. Она символизирует мир и единство между всеми племенами Ардента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Город Раскол был взят в 430 году ИИ, во время вторжения в Оплот легиона Опальных. Большинство сходятся во мнении, что если бы "Молот Раскола" не был давным-давно утерян, город никогда бы не пал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Регенты Оплота</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

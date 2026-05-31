@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_fangsandfury</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Клыки и ярость</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Зияние.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Алой Пастью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Выбрать способ разрешить спор в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убить Скаловержцев в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить Камнепытов в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Встретиться со зверолюдами у Круга Дикости в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Рассказать Алой Пасти о поражении Стокровки в обряде Крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поговорить с Алой Пастью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Алой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Поговорить с Базилионом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>У гильдии Скаловержцев возник конфликт со зверолюдским племенем Камнепытов в Зиянии. Стокровка попросила вас разрешить этот спор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь в Зияние, чтобы разрешить спор Скаловержцев с Камнепытами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Поговорите с Алой Пастью в Старых Стенах у подножия Шпиля в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Определитесь с тем, как вы разрешите спор Скаловержцев с Камнепытами, и сообщите об этом Алой Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Убейте Скаловержцев, которые вторглись на земли Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Убейте зверолюдов, мешающих раскопкам Скаловержцев в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Пройдите камнепытский Обряд Дикости и Камня, чтобы добиться уважения в племени. Встретьтесь со своими соперниками у Старых Стен Зияния, на одном из каменистых плато возле Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Сообщите Алой Пасти, что вы стали полноправным вожаком Камнепытов, победив Стокровку в Обряде Крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Поговорите с Алой Пастью в Старых Стенах и расскажите, что убили Скаловержцев, вторгшихся на земли племени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Поговорите с Базилионом и сообщите, что убили мешающих Скаловержцам зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы прошли Обряд Дикости и Камня и стали почетным членом племени. Вернитесь к Алой Пасти и решите, как поступить с Скаловержцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Сообщите Базилиону, что [url=glossary:камнепыты]Камнепыты[/url] позволят Скаловержцам спокойно уйти, если они заберут только уже добытые кристаллы и пообещают не возвращаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Вы помогли племени Камнепытов разрешить ситуацию с Скаловержцами в Зиянии. Возвращайтесь в логово племени в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Возвращайтесь в логово Камнепытов в Каменной Теснине с новостями о конфликте зверолюдов с Скаловержцами в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Сообщите Базилиону, что [url=glossary:камнепыты]Камнепыты[/url] позволят Скаловержцам спокойно уйти, если они заберут только уже добытые кристаллы и пообещают не возвращаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Вы помогли племени Камнепытов разрешить ситуацию с Скаловержцами в Зиянии. Возвращайтесь в логово племени в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вы помогли племени Камнепытов разрешить ситуацию с Скаловержцами в Зиянии. Возвращайтесь в логово племени в Каменной Теснине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили всех Опальных в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убили всех зверолюдов в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы прошли камнепытский Обряд Дикости и Камня и стали полноправным членом племени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Став новым вожаком племени Камнепытов, вы заставили зверолюдов позволить Опальным собирать кристаллы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы отправили Стокровку к Голосам Нерата. Костяная Лапа ничего не знает о предыдущем соглашении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы предали [url=glossary:алый хор]Алый Хор[/url] в Каменном Море и стали им врагом.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

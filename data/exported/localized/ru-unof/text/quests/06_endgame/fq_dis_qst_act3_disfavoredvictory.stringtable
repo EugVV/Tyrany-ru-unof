@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\fq_dis_qst_act3_disfavoredvictory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>К оружию</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Штурмовать Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Одержать победу над силами Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться к Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Бросить вызов Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Одолеть Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Штурмовать Какофонию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] созвал все силы Опальных в Железный Очаг, чтобы перегруппироваться перед последним броском на Какофонию, для победы над Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Хотя вы провозгласили себя Архонтом, [url=glossary:грэйвен аше]Грэйвен Аше[/url] все же призвал вас в Железный Очаг для разговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы согласились помочь Грэйвену Аше и его Опальным справиться с Алым Хором. Отправляйтесь в Какофонию и начните штурм.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант – Семипалая. Убейте ее, чтобы расчистить себе путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы одолели Архонта Тайн. Возвращайтесь к Грэйвену Аше в Железный Очаг и сообщите ему о своей победе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Архонт Тайн поджидает вас в Какофонии. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы бросили вызов авторитету Грэйвена Аше, ссылаясь на то, что он слаб и как руководитель, и как стратег, и армия Опальных перешла на вашу сторону. Однако без боя Аше уступать не намерен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Хотя вы возглавили Опальных, [url=glossary:алый хор]Алый Хор[/url] по-прежнему угрожает вам. Отправляйтесь в Какофонию и осадите цитадель Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы проявили себя лучшим командующим, и [url=glossary:грэйвен аше]Грэйвен Аше[/url] передал вам бразды правления Опальными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы решили устранить Грэйвена Аше и самолично возглавить армию Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] побежден, но [url=glossary:опальные]Опальные[/url] отказались следовать за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>От вашей руки пал и [url=glossary:грэйвен аше]Грэйвен Аше[/url], и [url=glossary:голоса нерата]Голоса Нерата[/url], и вы стали единоличным правителем Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

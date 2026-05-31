@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_scarchorbackupbarks_tripnettlewilderness</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы тебя прикроем. Клятвопреступники поплатятся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы останемся здесь на тот случай, если появятся стражи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Отлично сработано, Вершитель. Мы останемся здесь, пока начальство не прикажет иначе".</DefaultText>
+      <FemaleText>"Отлично сработано, Вершительница. Мы останемся здесь, пока начальство не прикажет иначе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Жаль, что трупов получилось больше, чем новобранцев. Впрочем, ничего не поделаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Резать врагов весело, но ставить их в наши ряды гораздо полезнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если бы мы могли продлить осаду, то к нам присоединилось бы больше клятвопреступников. Но сейчас об этом незачем говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Эта долина превратилась в могилу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Гвардию надо научить уважению и покорности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Хвала Кайросу и Голосам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Мы готовы служить, Вершитель".</DefaultText>
+      <FemaleText>"Мы готовы служить, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

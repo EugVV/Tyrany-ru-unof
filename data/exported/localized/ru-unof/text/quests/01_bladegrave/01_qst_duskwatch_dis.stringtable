@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_duskwatch_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>В сердце бури</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Встретиться с Осмиосом у Сумеречного Бастиона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Укрепить Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Защитить форт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Пробраться в Сумеречный Бастион и освободить Каллиаса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Открыть главные ворота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Победить Агатона и других Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убить всех Несломленных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Поговорить с Каллиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Поговорить с капитаном Агатоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Поговорить с Осмиосом и Каллиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Исследовать Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Поговорить с разведчиком Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Исследовать останки солдата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Доложить Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Встретиться с Грэйвеном Аше в Железном Очаге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Война Архонтов началась. Помогите Грэйвену Аше усмирить Ярусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Член Почетной стражи, Каллиас, попал в плен к Несломленным, которые держат его в Сумеречном Бастионе. Возможно, он знает, жива ли Амелия, и как можно попасть в Твердыню Часовых. Отправьтесь туда, чтобы поговорить с командиром Опальных, Осмиосом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Несломленным нужно помочь укрепить поврежденные части стен форта. Помогите им привести его в боевой порядок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] пошли в наступление на Сумеречный Бастион. Защитите его от всех нападающих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Каллиаса держат в Сумеречном Бастионе. Найдите способ попасть туда скрытно и освободить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Предоставьте Опальным свободный проход в Сумеречный Бастион, открыв главные ворота изнутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Помогите силам Опальных убить капитана Агатона и остальные силы Несломленных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы начали атаку на Сумеречный Бастион. Пройдите внутрь и уничтожьте всех Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>У Каллиаса может быть нужная вам информация о деятельности Несломленных. Поговорите с ним в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Вы успешно отбили атаку Опальных. Поговорите с капитаном Агатоном в хлеву для пленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Вы взяли Сумеречный Бастион. Поговорите с Осмиосом в хлеву для пленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] хочет убить Стрейдуса Иродина и положить конец магическим бурям. Отправьтесь к Твердыне Часовых и узнайте, достаточно ли утихли ветра Кайроса, чтобы туда можно было попасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Разведчик Несломленных наблюдал за вашим сражением с погибелями. Поговорите с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>Янош обыскивал останки Почетного стража Опальных. Стоит тоже исследовать тело и посмотреть, найдется ли на нем что-то полезное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10031</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] захочет услышать от вас о победе в Сумеречном Бастионе. Вернитесь в Железный Очаг и поговорите с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Генерал Опальных собрал свои войска в горной крепости под названием Железный Очаг. Отправляйтесь туда, чтобы обсудить следующий ход Архонта Войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы решили не сотрудничать с Агатоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы решили не сотрудничать с Осмиосом и должны взять форт самостоятельно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли Несломленным защитить их базу, Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>С вашей помощью [url=glossary:опальные]Опальные[/url] захватили Сумеречный Бастион.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убили все силы Несломленных и Опальных в Сумеречном Бастионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы решили выступить против Опальных и захватить форт себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] хочет восстановить порядок в Могиле Клинков и сделать из нее надежный плацдарм. Для этого вы должны найти и убить Стрейдуса Иродина, последнего живущего регента Несломленных, чтобы закончить бури Кайроса. Для начала найдите способ попасть в Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

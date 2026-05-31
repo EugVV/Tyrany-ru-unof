@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_horde_recruitment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Обычай Орды</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Дальнее Селение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убедить поселенцев присоединиться к Хору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Одержать победу над Гвардией Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться к Заупокойной в лагерь Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Орде Алого Хора постоянно нужны рекруты, чтобы пополнить свои ряды. В последнее время им приходится нелегко: пленников почти нет, а раненых много. Алая Фурия Заупокойная придумала новую тактику и хотела бы опробовать ее в деле, если вы согласитесь помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Заупокойная говорит, что одна из ватаг Алого Хора отправилась в удаленный поселок на западной стороне долины. Отправляйтесь туда и найдите отряд Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Заупокойная сказала вам, что жители этой удаленной деревни готовы вступить в ряды Хора. Отыщите поселенцев и убедите их вступить в Хор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Удаленный поселок на деле оказался тайной базой Гвардии Вендриенов, и ваше появление заставило их забыть об осторожности. Одержите победу над нападающими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Отряд Орды с самого начала знал, что вас ждет здесь ловушка Гвардии Вендриенов – но им была нужна наживка. Вернитесь к Заупокойной и поговорите с ней об этом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы обвинили Заупокойную в том, что она использовала вас как наживку против Гвардии Вендриенов в поселке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы не смогли выполнить задачу до начала атаки на цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

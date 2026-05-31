@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_scarchor_oot_attackinghowlingrock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Смотрите под ноги, ребята! Нам нужно проливать только кровь и кишки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сейчас трясется земля или мне просто очень весело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как нам убить Каирна?! Он же здоровенный!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Пора действовать, как зверолюд – вспороть их и трахнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мне нравится, когда они кричат от боли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Интересно, Невзгода повысит нас за убийство Каирна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ломайте посохи и крошите кристаллы на кусочки. Не дайте им закончить ритуал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Если они закончат этот ритуал, то мы будем жрать камни, пока не сдохнем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Твою ж мать! Представляешь, мы убили Архонта! То есть, да, ТЫ убил Каирна. Но с моей помощью... маленькой".</DefaultText>
+      <FemaleText>"Твою ж мать! Представляешь, мы убили Архонта! То есть, да, ТЫ убила Каирна. Но с моей помощью... маленькой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Похоже, дрожь прекратилась. Но у меня руки до сих пор трясутся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Не помню такого, чтобы кто-то прерывал [url=glossary:эдикт]Эдикт[/url]. Ты должен был стать мертвее Каирна, босс. Но выглядишь так же бодро, как и всегда".</DefaultText>
+      <FemaleText>"Не помню такого, чтобы кто-то прерывал [url=glossary:эдикт]Эдикт[/url]. Ты должна была стать мертвее Каирна, босс. Но выглядишь так же бодро, как и всегда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Не дай Невзгоде выдать твои кровь, пот и победу за свои, босс. Ты спас наши шкуры, и Голоса должен об этом узнать".</DefaultText>
+      <FemaleText>"Не дай Невзгоде выдать твои кровь, пот и победу за свои, босс. Ты спасла наши шкуры, и Голоса должен об этом узнать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Мы славно вздрючили Опальных, да, босс? Теперь они хорошенько подумают, прежде чем лезть на нашу территорию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Теперь, когда земля перестала двигаться, мы можем уточнить наши карты и организовать поставки продовольствия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"До того как пришлось вступить в Хор, у меня была ферма. Будет хорошо снова засеять и заселить эту землю".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

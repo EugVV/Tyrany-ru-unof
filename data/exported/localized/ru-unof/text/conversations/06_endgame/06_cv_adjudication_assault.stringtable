@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_adjudication_assault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Обстоятельства предполагали... Ваша честь, это было безумие. Ни от кого нельзя было ждать разумных поступков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты готов выслушать мое дело?"</DefaultText>
+      <FemaleText>"Ты готова выслушать мое дело?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Если б вы только позволили мне объясниться, Ваша честь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Да. Рассказывай с самого начала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Пока еще нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Правда? Наверное, я слишком многого ожидаю от своих слуг, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Н-нет, Ваша честь! Но если вы выслушаете мое дело, я думаю, вы поймете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Вижу, у нас образовался вариант получше. Вершитель судеб, проведешь это дело вместо меня? Мне любопытно, к каким выводам ты придешь".</DefaultText>
+      <FemaleText>"Вижу, у нас образовался вариант получше. Вершительница судеб, проведешь это дело вместо меня? Мне любопытно, к каким выводам ты придешь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я готов выслушать дело".</DefaultText>
+      <FemaleText>"Я готова выслушать дело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Не сейчас. Может, позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Не заставляй меня ждать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Прекрасно. Приступаем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Обстоятельства этого дела весьма деликатны. Я была за городом, инспектировала армейский лагерь. В процессе я увидела, как двое солдат Алого Хора..." 
+
+Она прочищает горло и снова выпрямляет спину.
+
+"...насиловали женщину".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Местную, с Ярусов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Да. И, разумеется, я понимаю, что... в этом роде войск подобное широко распространено, но я не выдержала. Меня учили определенным вещам". 
+
+Она поднимает взгляд на Тyнона. "Меня учили быть лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я вступила в бой с новобранцами. Они пытались дать отпор, но в итоге сказалась моя подготовка. Убив их, я отпустила бедную женщину с миром". 
+
+"Их десятник все видел, но не вмешивался до конца боя. Меня связали и в клетке доставили на суд, где я теперь и нахожусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Что было дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ужас какой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Да. Я тоже так подумала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ответчику предъявляется обвинение в убийстве двух лиц, находившихся под защитой закона [url=glossary:кайрос]Кайрос[/url]". 
+
+"Вершитель судеб, полагаю, ты захочешь провести перекрестный допрос?"</DefaultText>
+      <FemaleText>"Ответчику предъявляется обвинение в убийстве двух лиц, находившихся под защитой закона [url=glossary:кайрос]Кайрос[/url]". 
+
+"Вершительница судеб, полагаю, ты захочешь провести перекрестный допрос?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Десятник не вмешался ни единого раза?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ты говорила с женщиной-ярусницей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ты сожалеешь о своем поступке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я готов вынести приговор".</DefaultText>
+      <FemaleText>"Я готова вынести приговор".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Практически нет. Она поблагодарила меня и убежала. Я не хотела ее задерживать – она и так настрадалась в руках этих... этих солдат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Не говорила ли она что-нибудь на тему поступления на службу в армию?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Я понял. Вернемся к моим вопросам".</DefaultText>
+      <FemaleText>"Я поняла. Вернемся к моим вопросам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Она удивленно смотрит на вас. "В армию? Не то, чтобы я..." 
+
+Она хмурит брови и задумывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Подсказать ответчику] "И уж наверняка она не прибыла в лагерь именно с этой целью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вершительница судеб, наконец, понимает, что вы задумали. Глаза ее расширяются, она кивает. "Верно. Перед тем как уйти, она вскользь упомянула, что пыталась связаться с командованием Алого Хора". 
+
+"Ну, чтобы вступить в их ряды. Именно тогда солдаты на нее и набросились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Не важно. Предлагаю вернуться к делу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Все, что он делал – так это шутил о том, каким беспощадным будет суд. Смеялся всю дорогу до Города-Бастарда. Потеря двух солдат на нем вообще никак не сказалась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Она хмурится, задумываясь над вопросом. "Нет. Если б я оказалась на ее месте, то уж точно бы хотела, чтобы за меня вступились, чтоб закону Кайроса пусто было". 
+
+Она бросает на Тунона тревожный взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Думаю, в будущем мне стоит держаться от Алого Хора подальше. Я не уверена, что сдержу себя, если увижу такое еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Хорошо. Огласи приговор, и мы покончим с этим пренеприятнейшим делом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Если та женщина хотела вступить в [url=glossary:алый хор]Алый Хор[/url], то она была под защитой закона Кайроса. Твой поступок был резонным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Это определенно было преднамеренным убийством. Виновна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Такие драки случаются сплошь и рядом. Помыслы Вершителя судеб были чисты. Она невиновна".</DefaultText>
+      <FemaleText>"Такие драки случаются сплошь и рядом. Помыслы Вершительницы судеб были чисты. Она невиновна".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Она благодарно кивает, все это время смотря вам в глаза. "Спасибо, что выслушал мое дело".</DefaultText>
+      <FemaleText>Она благодарно кивает, все это время смотря вам в глаза. "Спасибо, что выслушала мое дело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Тунону] "Почему мы не рассматриваем показания жертвы насилия?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Она – житель Ярусов. В рамках закона [url=glossary:кайрос]Кайрос[/url] у нее нет никаких прав. Это – обычное дело об убийстве, и ответчик стоит перед тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Вершитель судеб Фурия, вы избежали наказания [url=glossary:кайрос]Кайрос[/url] исключительно за счет юридической тонкости. В будущем старайтесь быть аккуратнее с законом".</DefaultText>
+      <FemaleText>"Вершительница судеб Фурия, вы избежали наказания [url=glossary:кайрос]Кайрос[/url] исключительно за счет юридической тонкости. В будущем старайтесь быть аккуратнее с законом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я... я понимаю твою позицию. Надеюсь, ты никогда не окажешься на моем месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Даже я не смог бы столь строго и четко следовать букве закона. Благодарю за работу над делом. Все свободны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Спасибо... спасибо тебе огромное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Уверен, те двое слуг [url=glossary:кайрос]Кайрос[/url] нашли бы, что возразить в свою защиту, будь они живы. Но так как ты единственный, кто имеет сейчас право выносить приговор, суд принимает твое решение".</DefaultText>
+      <FemaleText>"Уверен, те двое слуг [url=glossary:кайрос]Кайрос[/url] нашли бы, что возразить в свою защиту, будь они живы. Но так как ты единственная, кто имеет сейчас право выносить приговор, суд принимает твое решение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Благодарю тебя за мудрость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Я умру, но останусь правой, что бы там не говорил [url=glossary:кайрос]Кайрос[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Если мои новобранцы не могут выстоять в бою с чиновницей, то и жить они недостойны. Я только рад от них избавиться". 
+
+"В любом случае, я буду рад получить удовлетворение по этому делу. Закон есть закон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Так все и было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Идем! Палач уже заждался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ты был великолепен. Спасибо".</DefaultText>
+      <FemaleText>"Ты была великолепна. Спасибо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Я надеюсь, в этом есть смысл, Вершитель".</DefaultText>
+      <FemaleText>"Я надеюсь, в этом есть смысл, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ты нашел время, чтобы вынести решение?"</DefaultText>
+      <FemaleText>"Ты нашла время, чтобы вынести решение?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Расскажи мне о своем деле еще раз, с самого начала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Советую воздерживаться от переусложнения дела несущественными подробностями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"И в какой чудесной компании прошла твоя поездка". 
+
+Десятник скалит зубы в широкой ухмылке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Твое понимание закона [url=glossary:кайрос]Кайрос[/url] тревожит меня. От него веет излишней самостоятельностью, подхваченной явно вне стен моего суда. И все же таково твое решение. Все свободны".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

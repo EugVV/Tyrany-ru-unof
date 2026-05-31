@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_barik_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>"Я верой и правдой служу Владыке. Несомненно, свой дар я получил в награду за преданность".</DefaultText>
+      <FemaleText>"Я верой и правдой служу Владыке. Несомненно, свой дар я получила в награду за преданность".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Ты посвятил свою жизнь изучению и поддержанию законов Кайроса... Я надеюсь, это дар Кайроса. Потому что если тебе его вручил не сам Владыка, то этот дар может тебя погубить".</DefaultText>
+      <FemaleText>"Ты посвятила свою жизнь изучению и поддержанию законов Кайроса... Я надеюсь, это дар Кайроса. Потому что если тебе его вручил не сам Владыка, то этот дар может тебя погубить".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

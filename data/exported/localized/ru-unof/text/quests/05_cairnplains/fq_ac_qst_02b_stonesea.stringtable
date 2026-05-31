@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\fq_ac_qst_02b_stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Кровавый трофей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Степные Врата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Полуврата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Хэйгреном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Истребить [url=glossary:алый хор]Алый Хор[/url] в городе [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] рассказал вам об артефакте, который называют Лазурным Щитом. Некогда он был знаком отличия в канувшем в лету королевстве Лазурь, а теперь попал в лапы племени Камнепытов в Каменном Море. Если вы получите артефакт, вам будет проще установить свою власть в этих краях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>У Бледена Марка есть в Степных Вратах агент по имени Хэйгрен. Он может рассказать, где искать племя Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>У Бледена Марка есть в Полувратах агент по имени Хэйгрен. Он может рассказать, где искать племя Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] больше не представляет угрозы, и вы можете поговорить с агентом Бледена Марка Хэйгреном в городе [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>На пути к Хэйгрену в [Plainsgate] стоит [url=glossary:алый хор]Алый Хор[/url]. Убейте врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы поговорили с Хэйгреном в городе [Plainsgate], и он отправил вас в Каменную Теснину. Там вы должны найти Стокровку и узнать, что ей известно о Лазурном Щите.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

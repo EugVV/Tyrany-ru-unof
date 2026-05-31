@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0211_cv_mapfound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Карта, найденная у Мирека, сильно потрепана, но разобрать ее можно. На ней отмечено приблизительное местоположение нескольких лагерей на территории Гавани. Судя по количеству вычеркнутых отметок, похоже, что повстанцы часто перемещаются. Вы замечаете лагерь на северо-востоке, расположенный у подножья Старых Стен возле сливающихся водных путей, в которых вы узнаете Двуречье. Вероятно, это укрепление Братства, которое Арчианд Бронз упоминал, и хорошее место для начала поисков Раэтоммона и Жденьи.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

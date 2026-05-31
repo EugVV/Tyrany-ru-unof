@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_sending_raetommon_to_nerat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель судеб". Боец Хора небрежно отдает вам честь. "Мы услышали шум и поймали вот этого наглеца, который бежал со стороны Старых Стен".</DefaultText>
+      <FemaleText>"Вершительница судеб". Боец Хора небрежно отдает вам честь. "Мы услышали шум и поймали вот этого наглеца, который бежал со стороны Старых Стен".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я просто спешил добраться до Какофонии, Вершитель, клянусь!"</DefaultText>
+      <FemaleText>"Я просто спешил добраться до Какофонии, Вершительница, клянусь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Его ждет Нерат – доставьте его туда целым и невредимым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Его ждет Нерат. Если понадобится его покалечить, не стесняйтесь. Главное – доставьте его живым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Будет исполнено, Вершитель судеб". Он толкает Раэтоммона в бок. "Ты слышал слова Вершителя, так что давай пошевеливайся".</DefaultText>
+      <FemaleText>"Будет исполнено, Вершительница судеб". Он толкает Раэтоммона в бок. "Ты слышал слова Вершительницы, так что давай пошевеливайся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"С удовольствием, Вершитель". Он злобно ухмыляется Раэтоммону. "Ты его слышал, тебя ждет Нерат".</DefaultText>
+      <FemaleText>"С удовольствием, Вершительница". Он злобно ухмыляется Раэтоммону. "Ты ее слышал, тебя ждет Нерат".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты предал [url=glossary:голоса нерата]Голоса Нерата[/url], теперь ты умрешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

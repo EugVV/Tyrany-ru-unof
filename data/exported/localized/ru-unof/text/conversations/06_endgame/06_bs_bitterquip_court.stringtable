@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_bitterquip_court</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Поздравляю, тебе удалось выбраться из Колодца Вендриенов живым и здоровым. Должно быть, это нетрудно, если умеешь прятаться внутри Шпилей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он игнорирует вас, сосредоточенно нахмурившись и глядя куда-то вдаль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Архонт, а? Тебе виднее, как себя называть, старшой".</DefaultText>
+      <FemaleText>"Архонт, а? Тебе виднее, как себя называть, командирша".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Разве Хор может существовать без Голосов?" Он едва слышно бормочет что-то себе под нос и качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я не знаю, что ты сотворил с Голосами, но он... изменился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Называй себя так, как тебе заблагорассудится. Хор обернет горьким пеплом все твои победы".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

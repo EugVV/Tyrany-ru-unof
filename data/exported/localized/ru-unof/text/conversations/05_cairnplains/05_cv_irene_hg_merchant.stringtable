@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_irene_hg_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приветствую, господин. Чем могу помочь?"</DefaultText>
+      <FemaleText>"Приветствую, госпожа. Чем могу помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Давай посмотрим, что у тебя есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Спасибо, мне ничего не нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"С возвращением! Хотите взглянуть на мои товары?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что ты можешь рассказать о Шпилях в этом регионе? Насколько я понимаю, ты имеешь дело с путешественниками из тех мест?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не могу сказать, что много знаю о самих Шпилях. Они всегда там возвышаются и, в общем-то, больше ничего не делают – только тени отбрасывают. Но мне иногда встречаются кое-какие интересные вещицы из тех краев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вот, в прошлый День Судьи один мужик продал мне угольный список с рельефа на стене одного из Шпилей. Ну, он так сказал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не видела его с тех пор. Он сказал, что направлялся в Каменную Теснину. Поэтому расспросить его не могу, к сожалению. Но, может быть, стоит изучить это дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Приветствую, Вершитель!" Она делает глубокий поклон. "Вы оказали нам огромную услугу, заставив [url=glossary:алый хор]Алый Хор[/url] оставить нас в покое. Взамен я предлагаю вам специальную цену на все мои товары!"</DefaultText>
+      <FemaleText>"Приветствую, Вершительница!" Она делает глубокий поклон. "Вы оказали нам огромную услугу, заставив [url=glossary:алый хор]Алый Хор[/url] оставить нас в покое. Взамен я предлагаю вам специальную цену на все мои товары!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

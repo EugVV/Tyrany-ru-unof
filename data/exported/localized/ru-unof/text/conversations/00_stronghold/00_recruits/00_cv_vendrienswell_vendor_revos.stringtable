@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_vendrienswell_vendor_revos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мой друг! Видеть тебя – всегда радость для глаз, иссеченных ветром".</DefaultText>
+      <FemaleText>"Моя подруга! Видеть тебя – всегда радость для глаз, иссеченных ветром".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Да? Чего ты от меня хочешь?" Он с раздражением скрещивает руки на груди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Давай посмотрим, что у тебя есть на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти] "Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что-то тебя сегодня заинтересовало, Вершитель?"</DefaultText>
+      <FemaleText>"Что-то тебя сегодня заинтересовало, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Что-то новое для меня появилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Конечно! Иди сюда, я тебе покажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Хм, пока ничего, но заходи еще – и все будет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Вершитель! Иди сюда и взгляни на это!" Перемазанный в грязи уроженец Гребня указывает на потрепанный ящик у своих ног. "У меня тут щенок зверолюда!"</DefaultText>
+      <FemaleText>"Вершительница! Иди сюда и взгляни на это!" Перемазанный в грязи уроженец Гребня указывает на потрепанный ящик у своих ног. "У меня тут щенок зверолюда!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Посмотреть] "Что-то я сомневаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Молча скрестить руки на груди.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы подходите к барышнику и заглядываете в ящик. Там полно барахла, и нет ничего интересного.
+
+Прежде чем вы успеете что-то сказать, краем глаза вы замечаете, что он тянется к связке колец у вас на поясе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Схватить его за руку.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Отвесить ему оплеуху.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Он верещит так громко, что отголоски разносятся по всей долине.
+
+"Я ничего плохого не хотел! Честное слово! Просто думал посмотреть, сколько у тебя колец, чтобы... цены слегка подправить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Это бесчестно. Я посмотрю на твой товар, но не вздумай больше так делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Уйти] "Не имею ни малейшего желания вести с тобой дела. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Он морщится и с виноватым видом отдергивает руку. "Прошу прощения, Вершитель... старые привычки, и все такое".
+
+"Мне просто любопытно стало, сколько у тебя денег. Торговцу надо знать такие вещи, прежде чем назначать подходящую цену, верно?"</DefaultText>
+      <FemaleText>Он морщится и с виноватым видом отдергивает руку. "Прошу прощения, Вершительница... старые привычки, и все такое".
+
+"Мне просто любопытно стало, сколько у тебя денег. Торговцу надо знать такие вещи, прежде чем назначать подходящую цену, верно?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"А-а, ты не из тех, кто покупается на старые трюки, да?" Он машет рукой. Теперь он выглядит чуть менее добродушным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ревос, к твоим услугам. Мне тут достались кое-какие вещицы, которые могут тебя заинтересовать". Он выразительно шевелит бровями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я посмотрю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Это все краденое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Он почти готов выпалить что-то в ответ, но осекается и какое-то время раздумывает.
+
+"М-м, нет. Нет – в смысле, они не краденые, но да – в том смысле, что я как бы не вполне..." Он покашливает в кулак. [url=lore:kyros_quota]"...уполномочен".[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Нет, постой, постой, постой!" Он вскидывает руки. "Прежде чем отправить меня в темницу Тунона или куда похуже – подумай..." Раскинув руки в стороны, он поворачивается кругом.
+
+"Мы же не в Терратусе сейчас. Мы вознеслись над всеми, кто подчиняется законам Владыки, и тут попросту не могут действовать те же правила, что и внизу!" Топнув ногой, он указывает на далекую землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ты не вправе толковать волю Кайроса. И над вопросами законности мне надо поразмыслить. А пока я готов взглянуть на твои товары".</DefaultText>
+      <FemaleText>"Ты не вправе толковать волю Кайроса. И над вопросами законности мне надо поразмыслить. А пока я готова взглянуть на твои товары".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Уйти] "Ты бесчестный жулик. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

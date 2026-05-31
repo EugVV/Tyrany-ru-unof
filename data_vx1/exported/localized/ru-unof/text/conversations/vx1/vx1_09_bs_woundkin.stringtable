@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_woundkin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель – человек-родич для Раны. Подранки за человека Вершителя жизнь отдадут".</DefaultText>
+      <FemaleText>"Вершительница – человек-родич для Раны. Подранки за человека Вершительницу жизнь отдадут".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Золотая Лапа – самая сильная [url=glossary:прима]прима[/url]. Благословит охоту Подранков силой соли с побережья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Подранок радостно сопит, обнюхивая вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Подранки защищают Рану от погибелей, да. Будут даже защищать человека по имени Вершитель".</DefaultText>
+      <FemaleText>"Подранки защищают Рану от погибелей, да. Будут даже защищать человека по имени Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Рвать-грызть-драть погибелей! Так, чтобы шкура светилась!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Человек друг Раны, значит, друг Подранкам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Подранки чуют кровь на человеке. Старую кровь и свежую кровь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Мягко-мягко ступай, человек. Подранки смотрят всегда. Подранки все чуют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Подранки защищают зверолюдок И людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Человек золы и железа теперь альфа? Подранки все равно будут защищать Рану".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Зверолюдки тревожатся за человечьих детенышей с человеком-альфой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Зверолюд вылавливает в густой шкуре блоху, склоняет голову в вашу сторону и отправляет букашку в пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Водяной маг слышит кровь Старых Стен, но он видел уже много смен времен года".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Зверолюдки тревожатся за человечьих детенышей с человеком-альфой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Зверолюд вылавливает в густой шкуре блоху, склоняет голову в вашу сторону и отправляет букашку в пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

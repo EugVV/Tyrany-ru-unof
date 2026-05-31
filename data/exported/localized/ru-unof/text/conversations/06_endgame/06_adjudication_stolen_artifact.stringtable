@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_adjudication_stolen_artifact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ваша честь [url=glossary:тyнон]Тyнон[/url]... молю вас признать меня невиновным в этом деле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Этот вопрос решит суд. [url=glossary:скованные горном]Скованные Горном[/url] – мои подданные, значит, и требования к ним выше. Вы – хранители тайны железа. Забывать об этом нельзя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вершитель судеб, хорошо, что ты сегодня с нами. Я попрошу тебя поучаствовать в этом процессе. Мне интересно, как именно ты несешь людям закон [url=glossary:кайрос]Кайрос[/url]".</DefaultText>
+      <FemaleText>"Вершительница судеб, хорошо, что ты сегодня с нами. Я попрошу тебя поучаствовать в этом процессе. Мне интересно, как именно ты несешь людям закон [url=glossary:кайрос]Кайрос[/url]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"С огромным удовольствием, Ваша честь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я сейчас занят. Может быть, позже".</DefaultText>
+      <FemaleText>"Я сейчас занята. Может быть, позже".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вершитель судеб, вы готовы выслушать мое дело?"</DefaultText>
+      <FemaleText>"Вершительница судеб, вы готовы выслушать мое дело?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Отлично. Тебе слово, кузнец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Скованный Горном прочищает глотку. "В [url=glossary:распутье летианы]Распутье Летианы[/url] я купил у бродячего торговца одну штуковину – камень небывалой силы и красоты. Через некоторое время я сделал из него молоток для измельчения железной руды. У этого камня обнаружились невероятные свойства. Молот бил сильнее, быстрее, я мог работать им без устали. Благодаря нему я повысил выработку железа в десять раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Пока твой мастер не заподозрил неладное и не обратился ко мне. Штуковина, о которой ты говорил, оказалась Краеугольным камнем – артефактом из-за Старых Стен, куда запрещено входить всем". 
+
+"Таким образом, ты обвиняешься в проникновении и краже запретных артефактов. Вершитель судеб, можешь приступать".</DefaultText>
+      <FemaleText>"Пока твой мастер не заподозрил неладное и не обратился ко мне. Штуковина, о которой ты говорил, оказалась Краеугольным камнем – артефактом из-за Старых Стен, куда запрещено входить всем".
+
+"Таким образом, ты обвиняешься в проникновении и краже запретных артефактов. Вершительница судеб, можешь приступать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты понял, откуда взялся Краеугольный камень?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Когда ты узнал, откуда камень, перестал ли ты им пользоваться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Лгал ли ты об этом молоте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я готов вынести приговор".</DefaultText>
+      <FemaleText>"Я готова вынести приговор".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Не сразу. Торговец не выдал поставщика. Но скоро я сложил кусочки мозаики. В конце концов, откуда еще мог взяться артефакт такой силы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Нет... После того, как я это понял, каждый удар молота отзывался во мне чувством стыда. Но я знал, что поступаю правильно и действую по славу Кайроса. Я отправлял его армии лучшее оружие, которое когда-либо создавал. Думал, это снимет с меня грех. Похоже, я ошибался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Нет! Конечно, другие кузнецы интересовались моей работой, но никто из них не додумался проверить инструменты. А раз меня не спрашивали – я и не говорил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Преступное умолчание. Столь же гнусное в глазах [url=glossary:кайрос]Кайрос[/url], что и ложь. Что, если бы орудие нанесло травму тебе или кому-то другому? Как бы это сказалось на производстве железа?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я... я не знаю, Ваша честь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я доверяю твоим инстинктам, Вершитель судеб. Надеюсь, ты оправдаешь мое доверие".</DefaultText>
+      <FemaleText>"Я доверяю твоим инстинктам, Вершительница судеб. Надеюсь, ты оправдаешь мое доверие".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Кузнец не предавал Кайроса. Он может быть свободен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Хранение и использование таких артефактов запрещены законом. Кузнец виновен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Эти знания запретны согласно закону Кайроса, но кузнец об этом не знал. Он свободен и может идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Позвольте задать ему еще несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Вы... вы правда так думаете?" Он берет себя в руки и смотрит на вас во все глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"От твоих слов веет субъективностью и недисциплинированностью, однако таков твой вердикт. Быть посему! Скованный Горном объявляется невиновным и обязан вернуться к работе. Кузнец, впредь постарайся не нарушать закон. Суд помнит все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"О, нет... нет". Он вздрагивает в ожидании приговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Такова воля [url=glossary:кайрос]Кайрос[/url]. Хоть мне и не нравится, что темпы производства железа упадут, я не потерплю таких экспромтов от Скованных Горном. Каково будет наказание, Вершитель судеб? Доверяю тебе определить его степень".</DefaultText>
+      <FemaleText>"Такова воля [url=glossary:кайрос]Кайрос[/url]. Хоть мне и не нравится, что темпы производства железа упадут, я не потерплю таких экспромтов от Скованных Горном. Каково будет наказание, Вершительница судеб? Доверяю тебе определить его степень".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Значит... я могу идти?" Он в страхе переводит взгляд с вас на Тyнона и обратно, не зная, чего ожидать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ловкое толкование закона [url=glossary:кайрос]Кайрос[/url]! Впрочем, не могу отрицать его справедливости. Хорошо. Скованный Горном может вернуться к трудовым обязанностям – и работать только дозволенными инструментами. Тебе ясно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Да, Ваша честь! Я тотчас же вернусь к работе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Хочешь продолжить перекрестный допрос? Разрешаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Да. Рассказывай с самого начала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Пока еще нет. Расскажешь позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Смилуйтесь, Ваша честь [url=glossary:тyнон]Тyнон[/url]! Смилуйтесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Для меня будет честью вернуться в кузницу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"У меня и в мыслях никогда не было нарушать закон Кайроса, и вот я здесь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Не заставляй меня ждать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Мне нужно время, чтобы обдумать ситуацию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Вы готовы расследовать мое... мое преступление?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Напомни мне подробности этого дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Кузнец лишится одной руки – по своему выбору".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Трех дней в колодках будет достаточно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Клеймо на лицо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Разумеется, смерть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"В чем-то это обосновано, согласен. Производство железа замедлится, но закон будет соблюден".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Твое видение правосудия жестоко, но справедливо". Тунон одобрительно кивает. "Да исполнится воля [url=glossary:кайрос]Кайрос[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Стать посмешищем для своих соотечественников? Да, это хороший вариант".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Символ наказания, да. Позорная отметина как напоминание на всю оставшуюся жизнь. Тяжелое бремя в молодости станет с годами уроком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ты непреклонен в своем служении законам [url=glossary:кайрос]Кайрос[/url], как я тебя и учил. Хорошая работа, Вершитель судеб. Объявляю заседание закрытым".</DefaultText>
+      <FemaleText>"Ты непреклонна в своем служении законам [url=glossary:кайрос]Кайрос[/url], как я тебя и учил. Хорошая работа, Вершительница судеб. Объявляю заседание закрытым".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Приговор суровый, однако полностью соответствует ситуации".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Некоторых людей и могила не исправит. Но, по крайней мере, будет урок остальным".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_poi_woundslaughtercomments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Думаю, что это все. Я напишу о их гибели в Хронике".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Воистину, у закона Кайроса длинные руки. Владыка будет доволен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Такова расплата за преступление. Ты исполнил свой долг".</DefaultText>
+      <FemaleText>"Такова расплата за преступление. Ты исполнила свой долг".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Тихо... пахнет трупами... и теперь только твари-бичеватели рыскают по древним коридорам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Теперь они все мертвы. Как-то... бессмысленно получилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Они всего лишь хотели жить, укрывшись от этой проклятой войны, а ты убил их. Надеюсь, ты собой гордишься".</DefaultText>
+      <FemaleText>"Они всего лишь хотели жить, укрывшись от этой проклятой войны, а ты убила их. Надеюсь, ты собой гордишься".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

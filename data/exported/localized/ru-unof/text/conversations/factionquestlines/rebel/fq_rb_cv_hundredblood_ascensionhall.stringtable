@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_hundredblood_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Шпиль-логово воняет хныкающими, визжащими человеками. Стокровка не любит иметь дело с альфами, которые отказываются слушаться великую приму Камнепытов".
+
+Она хрустит шишковатыми, волосатыми костяшками кулака о широкую ладонь другой руки, а затем взмахивает когтями.
+
+"Придется проучить слабых щенков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[url=glossary:камнепыты]Камнепыты[/url] верны Вершителю судеб. Будут сражаться за стаю Вершителя судеб, как за свою. Будут охотиться и убивать и умирать вместе с человеком, если нужно, чтобы все зверолюдки могли выжить".</DefaultText>
+      <FemaleText>"[url=glossary:камнепыты]Камнепыты[/url] верны Вершительнице судеб. Будут сражаться за стаю Вершительницу судеб, как за свою. Будут охотиться и убивать и умирать вместе с человеком, если нужно, чтобы все зверолюдки могли выжить".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

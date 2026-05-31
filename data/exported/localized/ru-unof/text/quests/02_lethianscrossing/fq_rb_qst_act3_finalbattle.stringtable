@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_rb_qst_act3_finalbattle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Защита Гавани</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Спасти Элдиана или Матани Сибил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отразить атаку погибелей или помочь поселенцам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Помочь союзнику или потушить пожар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Остановить Каллисту и ее солдат или спасти Пелокса Флориана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вернуться ко входу в поселение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Победить Железного Стража Антимона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Поговорить с Элдианом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Поговорить с Матани Сибил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Защитить район Лунного Восхода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Защитить район Солнечного Восхода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Из-за провозглашенного вами Эдикта и сообщения, которое [url=glossary:кайрос]Кайрос[/url] передал Архонтам, [url=glossary:опальные]Опальные[/url] пошли на отчаянные меры и вторглись в [url=glossary:распутье летианы]Распутье Летианы[/url]. Вы решили собрать совещание союзников и составить план боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Встреча пройдет в Зале Вознесения Колодца Вендриенов. Отправляйтесь туда и поговорите с Арри, чтобы выработать наилучший план действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Встретьтесь с союзниками в [url=glossary:распутье летианы]Распутье Летианы[/url] и защитите поселение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Элдиана возле его дома схватили [url=glossary:опальные]Опальные[/url], а Матани неподалеку окружена врагами. У вас мало времени, прежде чем [url=glossary:опальные]Опальные[/url] возьмут вверх, и вы успеете помочь только одному из них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Погибели вырвались из Старых Стен. Если их не остановить, они заполонят все [url=glossary:распутье летианы]Распутье Летианы[/url]. Кроме того, [url=glossary:опальные]Опальные[/url] напали на поселение, из-за чего у вас хватит времени только на то, чтобы разобраться с одной из этих угроз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Один из ваших союзников был атакован войсками Опальных, и одновременно с этим загорелось здание, внутри которого заперты поселенцы. У вас хватит времени помочь лишь кому-то одному.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Скованная Клятвой по имени Каллиста собирает войска Опальных, в то время как другая группа солдат гонится за вашими союзниками из Гвардии Вендриенов. Вы успеете помочь только в одном месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>На рынке, где собрались оставшиеся в живых поселенцы, раздался сигнальный свисток. Вернитесь, чтобы выяснить причину сигнала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Железный Страж Антимон прибыл в [url=glossary:распутье летианы]Распутье Летианы[/url] и угрожает убить всех, кто еще жив. Остановите его, прежде чем у него появится возможность причинить кому-либо вред.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Элдиан сейчас вместе с другими выжившими в северной части рынка. Найдите его и дайте знать, что атака Опальных закончилась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Матани сейчас вместе с другими выжившими в северной части рынка. Найдите ее и дайте знать, что атака Опальных закончилась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] крепко удерживают район Лунного Восхода. Помогите своим союзникам их уничтожить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Союзники быстро теряют позиции в районе Солнечного Восхода. Помогите им его вернуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы решили помочь Элдиану. Убейте Опальных, которые его окружили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы решили помочь Матани. Убейте Опальных, которые ее окружили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы решили убить погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы решили помочь поселенцам. Убейте Опальных, которые их удерживают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы решили защитить своих союзников и убить напавших Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы решили помочь поселенцам. Потушите огонь, прежде чем он поглотит дом, а потом проведайте поселенцев внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Вы решили сразиться с Каллистой и ее солдатами. Убейте их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Вы решили помочь своим союзникам из Гвардии Вендриенов. Убейте Опальных, которые им угрожают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Перехватите подступающих с юга Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы уничтожили войска Опальных, пытавшиеся отбить [url=glossary:распутье летианы]Распутье Летианы[/url]. В поселении снова безопасно.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

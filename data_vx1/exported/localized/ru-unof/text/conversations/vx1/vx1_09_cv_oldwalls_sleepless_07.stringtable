@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_sleepless_07</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы приближаетесь к женщине, что стоит и пристально смотрит на метки на стене перед ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты, случайно, ничего не знаешь об этих росписях?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Явно напуганная голосом, она смотрит в вашу сторону, лишь ненадолго оторвавшись от фрески. "О, прости, я тебя не заметила". Она хмурится. "Я еще не отключилась, но уже явно начинаю соскальзывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она продолжает безмолвно смотреть на стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Вонзить лезвие ей между ребер.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Она смотрит на стену так пристально, что вам не составляет труда всадить клинок ей в спину. Рукой вы зажимаете ей рот, чтобы заглушить предсмертные крики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты можешь рассказать мне еще что-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я видела, как иногда сверху спускались зверолюды и глядели на них. Надолго они не задерживаются, и я не думаю, что они понимают больше нашего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Эти фрески – не человеческих рук дело. Вот и все, что я могу тебе о них рассказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

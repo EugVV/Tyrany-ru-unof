@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Тяжесть Защиты</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обратиться к Тунону от имени Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти Скованного Горном, который не связан законом Кайроса и согласится вам помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отправить Барика на осмотр к кузнецу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отправиться в окрестности Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отыскать образец железобронзы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к кузнецу с образцом металла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Поговорить с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Барик хочет выяснить, может ли он как-то освободиться от своей бронированной клетки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Барик хочет кое-что с вами обсудить. Поговорите с ним и узнайте, в чем дело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Барик попросил, чтобы вы от его имени обратились к Адъюдикатору Тунону с прошением о том, чтобы снять с него доспех. Поговорите с Туноном в суде, в Городе-Бастарде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Тунон постановил, что Барик должен оставаться в доспехах, и запретил любому подданному Кайроса помогать ему снять броню. Возможно, вам стоит обсудить это с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Невозможно помочь Барику, не привлекая Скованных Горном. Поищите кузнеца, который не побоится нарушить закон Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы убедили кузнеца исследовать доспех Барика в надежде найти способ, как его снять. Отведите Барика на осмотр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вам нужен образец железобронзы с того места, где Барик угодил под действие Эдикта Бурь в Могиле Клинков. Отправляйтесь вместе с Бариком в окрестности Твердыни Часовых, чтобы его найти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы прибыли в окрестности Твердыни Часовых. Отыщите образец железобронзы с того места, где Барик угодил под действие Эдикта Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Отыскав образец металла, отправляйтесь с ним к кузнецу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы выяснили, что пока Барик остается под Защитой Аше, броня будет являться частью его самого. Поговорите с ним и обсудите эту загвоздку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы узнали, что в Каменном Море имеется маг-кузнец, не соблюдающая законы Кайроса. Возможно, она согласится помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>У вас достаточно денег и влияния, чтобы нанять преданного кузнеца и предоставить ему кузню для работы. Нет лучшего места для этого, чем пробужденный Шпиль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Скованная Горном кузнец Лоара в [url=glossary:распутье летианы]Распутье Летианы[/url], возможно, согласится помочь извлечь Барика из доспеха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Жденья в [url=glossary:распутье летианы]Распутье Летианы[/url], возможно, согласится предоставить вам помощь Скованных Горном кузнецов Кайроса... если вы убедите ее присягнуть вам на верность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Теперь, когда она предана вам всецело, Жденья, возможно, согласится предоставить вам помощь Скованных Горном кузнецов Кайроса. Она перебралась в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы лишились поддержки Скованных Горном – и кузнеца, нанятого для помощи Барику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Барик погиб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Барик покинул отряд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы отказались нарушить вердикт Тунона и согласились, чтобы Барик оставался навеки закован в броню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Преданный вам кузнец определил, что именно Защита Грэйвена Аше не позволяет Барику избавиться от брони. Барик отказывается уйти из Опальных или предать Архонта Войны. Пока не появится иного способа избавить Барика от Защиты, он останется закован в броню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

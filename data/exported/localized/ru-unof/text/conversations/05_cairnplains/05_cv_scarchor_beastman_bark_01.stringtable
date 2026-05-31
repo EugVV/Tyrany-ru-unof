@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_scarchor_beastman_bark_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"А ну-ка все нахер назад отошли! Если кто и освежует эту тварь, так это мы. Ясно вам?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отпустил скотину, да? Жаль. Он бы нам пригодился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Такое хорошее тело просрали, ну. Теперь придется искать рекрутов где-нибудь еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мы проследим, чтобы зверю досталось теплое местечко в авангарде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Доброго дня, Вершитель".</DefaultText>
+      <FemaleText>"Доброго дня, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

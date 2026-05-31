@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\vx1_wme_versetime</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Фуга пристально рассматривает вас, постукивая пальцами по губам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Да будь оно все неладно. Как насчет того, чтобы сегодня вечером уединиться в темноте? Если хочешь, конечно". Ее разноцветные глаза впиваются вам в лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"У меня кровь на лице, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Немножко, раз уж ты спрашиваешь. Но я не о том думала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Почему мне кажется, что ты обдумываешь способ моего убийства?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ха! Все варианты я прикинула еще сто лет назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"На своих сестер ты тоже так смотрела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Только на Шепот, и то редко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"В темноте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Тебе что, по буквам объяснять? П-О-Т-Р-А-Х-А-ТЬ-С-Я". У нее хищная и одновременно голодная улыбка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"А, значит, хоть одно слово ты знаешь по буквам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я несколько знаю! Самых важных". Уголки рта растягиваются в усмешке, она шевелит пальцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я даже написать могу, если дашь мне минутку... эти руки кое-что умеют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я по-прежнему не совсем понимаю, о чем ты просишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Да ну, Вершитель!" Ее раздраженный вздох переходит в хриплый гортанный стон.</DefaultText>
+      <FemaleText>"Да ну, Вершительница!" Ее раздраженный вздох переходит в хриплый гортанный стон.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Не больно-то и хотелось!" Она поворачивается, чтобы уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Фуга, постой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Она останавливается, но не оборачивается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Пусть уходит.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Алая Фурия уходит прочь, не удостоив вас ни единым взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Не откажусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она придвигается ближе, привычную угловатость локтей и коленей сменяет скользящая, змеиная грация. Пальцы сплетаются с вашими, у нее сухие и шершавые ладони, как валуны Каменного Моря. Дыхание неожиданно несет нотки корицы и камфары, ничуть не приглушающие запах кислого вина и жареной козлятины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Шепчущие теплые губы почти касаются вашего уха. "Ну-ка посмотрим, как нам это уединение, которое я нам выгрызла..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Лучше «или как». Давай останемся друзьями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Никаких обид, все в порядке. Чисто по-дружески, чисто профессионально". На губах мелькает тень намека на улыбку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Доброй ночи, Вершитель судеб".</DefaultText>
+      <FemaleText>"Доброй ночи, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Извини".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Извинила. Так ты за или как?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Серьезно, я хочу понять, зачем тебе это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Немного веселой возни в темноте. Потрахушки в Зале Вознесения. Называй, как хочешь. Не напрягайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"А дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Твою ж мать. Дальше, может, мы сдохнем. Дальше, может, [url=glossary:кайрос]Кайрос[/url] утопит Ярусы в море. Не вижу смысла париться о будущем, не с нашей жизнью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Мне этого недостаточно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я уже поняла. Но мне нечего больше дать". Она сжимает побледневшие губы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Хм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Хм?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Просто... я такого не ожидала". Она быстро моргает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"То есть я не жалуюсь! Просто. Ну, ты понял. Хм". Она расплывается в улыбке.</DefaultText>
+      <FemaleText>"То есть я не жалуюсь! Просто. Ну, ты поняла. Хм". Она расплывается в улыбке.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Если повезет меня еще как-нибудь зацепить в хорошем настроении – можем повторить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Да, будет хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Она потягивается самозабвенно, как крупная кошка, касаясь пальцев ног руками, затем распрямляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Договорились. Ну что, пошли разгребать дерьмо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Это было разовое развлечение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ясно. Веди, неутомимый лидер. Давненько мы никого под ребро не пыряли..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ага..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Что, понравилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Из сна, в котором была чистая одежда на вас и изысканный обед перед вами, вас вырывает странное ощущение: загрубелая рука легонько зажимает вам рот. Рядом с вами на коленях стоит Фуга, прижимая палец к губам и призывая к молчанию. Она жестом показывает идущего человека, потом указывает на выход из лагеря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Кивнуть и молча последовать за ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Потребовать разъяснений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Разбудить остальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Заснуть обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Вы бесшумно поднимаетесь и идете за ней, прочь из лагеря. Она выбирает крутой спуск, вынуждая вас осторожно пробираться среди камней, подсвечивая себе путь могильным светом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Вы пытаетесь спросить у нее, в чем дело, но она крепче прижимает ладонь вам ко рту. Вновь поднося палец к губам, она просит не шуметь. Затем опять указывает куда-то во тьму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Вы поднимаетесь и идете будить кого-то из ваших спутников, как вдруг Фуга оказывается между вами. Вскинув руки, она трясет головой, указывая на себя и на вас, а потом подталкивает в темноту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Вы отталкиваете Фугу прочь. С едва слышным раздраженным фырканьем она, скрестив ноги, усаживается на землю рядом с вами. Она тычет вас в плечо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Срочно разбудить остальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Сказать ей, чтобы шла прочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Вы начинаете криком поднимать лагерь. Фуга матерно шипит сквозь зубы, разворачивается и идет к своему месту. Она одаривает вас последним сердитым взглядом и наконец отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"НУ И ПОЖАЛУЙСТА". Прошипев это, она беззвучно поднимается на ноги и уходит прочь, а вы вновь погружаетесь в сладостные объятия сна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я хотела отвести тебя подальше от лагеря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Над головой выгибаются громадные ребра из застывшей грязи вперемешку с железом и бронзой. Они защищают вас от ветра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>На горизонте высится подсвеченная гора – все, что осталось от Веленевой Цитадели. В воздухе висит вездесущий запах сажи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Жабы призывно квакают в темноте, заглушая журчание реки неподалеку. Вдали вздымается Шпиль Заката, его основание подсвечено огнями Распутья Летианы. Двойной водопад на Старых Стенах мерцает во мраке ночи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Вы останавливаетесь у обрывающегося вниз уступа, и Фуга протягивает вам веревку. Вы спускаетесь следом и оказываетесь на широкой площадке, с трех сторон огражденной скальными стенами. В уголке фиолетовый кристалл слегка подсвечивает пейзаж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Воздух неподвижен и пахнет гарью. Вдали на горизонте высятся горы, вершина Горного Шпиля слегка мерцает во тьме. Фуга заводит вас в обгорелые развалины – все, что осталось от придорожной таверны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>На горизонте выгибается дугой горная гряда, вершина Горного Шпиля мерцает во тьме. Фуга ведет вас к окаменевшей роще, но сворачивает, не доходя до нее, и останавливается у растрескавшегося каменного дерева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Насекомые гудят, не обращая на вас ни малейшего внимания, под ногами чавкает жирная грязь. На горизонте выгибается дугой горная гряда, вершина Горного Шпиля теряется в облаках. Фуга ведет вас к небольшой рощице и упирается рукой в ствол дерева, расколотого молнией, прежде чем обернуться к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Повсюду в ночи горят костры: какой-то сельский праздник, который наверняка скоро запретят... Вдалеке вы различаете очертания Города-Бастарда, огни которого подсвечивают небо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Твой призыв к молчанию заставил меня понервничать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Угу. Я же терпеть не могу торчать в лагере, когда пытаюсь поспать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ты наконец объяснишь что-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Теперь можно говорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Извиняюсь, старшой. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно – каждый первый".</DefaultText>
+      <FemaleText>"Извиняюсь, командирша. Но разве ж нам двоим кто-то вздумает мешать? А, блин, точно – каждый первый".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Она хмыкает. "Так тоже бывает. Мы оба это знаем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Возможно. Если будешь хорошо себя вести".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Если очень хочется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Вы пробираетесь обратно в лагерь уже под утро.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Стремительно и хищно ее пальцы впиваются вам в запястья, она грубо заваливает вас наземь. Вы сдираете друг с дружки доспехи, всецело отдаваясь жару и темноте – огню и дыму. Обломанными ногтями она расчерчивает вам спину, зубами жадно оставляет следы на плечах, на шее и на груди. Ее покрытая шрамами кожа кажется вам загрубелой и жесткой.
+
+Ничто вам не мешает. Единственные звуки здесь – это влажные касания скользкой от пота кожи. На эти несколько часов для вас больше нет войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Позже, приводя себя в порядок, вы замечаете, что она стоит и смотрит на вас. Она ухмыляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Изобразить смущение. Пусть уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Я за".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

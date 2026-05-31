@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_waterintoxication</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Отравленная вода</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Собрать свидетельства того, что кто-то портит воду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Рассказать обо всем Тайко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Тайко отвечает за ферму в Ране Бастарда. В последнее время она заметила, что все растет как-то неправильно и кто-то явно портит воду. Она попросила вас разобраться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Кто-то на ферме в Ране Бастарда наверняка что-то видел или слышал о том, что происходит с посевами. Поговорите с людьми на ферме и в окрестностях, чтобы это выяснить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы собрали информацию о том, кто портит воду, идущую на поля. Можете рассказать о своих открытиях Тайко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Клейтос признал, что он помогал Яспосу и поливал грибы водой Скованного Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Лунет признала, что она помогала Махальнику и поливала посевы водой Заклинателя Приливов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Морская [url=glossary:ярость]Ярость[/url] сказала, что видела, где Клейтос и Лунет прячут вещества, с помощью которых они портят воду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы обнаружили обезвоженный мох.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы обнаружили обесцвеченную золу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы собрали достаточно доказательств, чтобы рассказать Тайко, кто портит воду на ферме.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли Тайко разобраться, что происходит с посевами на ферме.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы решили, что не станете разбираться с проблемой посевов на ферме: пусть этим займется Тайко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

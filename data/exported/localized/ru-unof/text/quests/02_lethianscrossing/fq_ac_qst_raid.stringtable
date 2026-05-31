@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_ac_qst_raid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Нападение на Распутье</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Убить командира Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убить солдат Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Проведать Элдиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Догнать Раэтоммона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Спросить Элдиана, куда Раэтоммон мог отвести Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Убить Ярусобора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Убить Винтару.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Убить всех солдат в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] напало на [url=glossary:распутье летианы]Распутье Летианы[/url]. Защитите поселение и победите Братство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Найдите командира Бронзового Братства, который возглавляет нападающих на [url=glossary:распутье летианы]Распутье Летианы[/url], и убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Возле восточного и западного берегов реки Портускор расположились солдаты Бронзового Братства. Убейте их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Скорее всего, Элдиан в безопасности в своем доме в [url=glossary:распутье летианы]Распутье Летианы[/url], но все равно хорошо бы его проведать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Раэтоммон забрал Шлем Магоборца себе. Нельзя допустить, чтобы он покинул [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Раэтоммону удалось сбежать со Жденьей в дикие земли, окружающие [url=glossary:распутье летианы]Распутье Летианы[/url]. Возможно, Элдиан может посоветовать, где искать Раэтоммона с Мастером Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ярусобор возглавляет [url=glossary:алый хор]Алый Хор[/url], обороняющий [url=glossary:распутье летианы]Распутье Летианы[/url]. Найдите его и убейте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Винтара возглавляет Опальных, обороняющих [url=glossary:распутье летианы]Распутье Летианы[/url]. Найдите ее и убейте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Убейте всех солдат, которых найдете в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Элдиан предложил поделиться с вами предположениями о том, куда [url=glossary:бронзовое братство]Бронзовое Братство[/url] могло забрать Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы победили [url=glossary:бронзовое братство]Бронзовое Братство[/url] в [url=glossary:распутье летианы]Распутье Летианы[/url], но их главе Раэтоммону удалось сбежать со Шлемом Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

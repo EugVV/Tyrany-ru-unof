@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_capturedbeastman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>В цепях</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Определить участь пойманного зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с пойманным зверолюдом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Определить участь пойманного зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Казнить Левого Когтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы узнали, что в городе [Plainsgate] держат в плену зверолюда, подозревая, что он убивал людей. Долг Вершителя судеб – исследовать доказательства его виновности и либо приговорить зверолюда к смерти, либо убедить поселенцев отпустить его на волю.</DefaultText>
+      <FemaleText>Вы узнали, что в городе [Plainsgate] держат в плену зверолюда, подозревая, что он убивал людей. Долг Вершительницы судеб – исследовать доказательства его виновности и либо приговорить зверолюда к смерти, либо убедить поселенцев отпустить его на волю.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Судьба Левого Когтя находится в ваших руках. Вынесите решение или поговорите с поселенцами, чтобы узнать больше о ситуации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы выслушали свидетельства поселенцев и убедили их в своей точке зрения. Осталось поговорить с Левым Когтем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Судьба Левого Когтя находится в ваших руках. Вынесите решение или поговорите с поселенцами, чтобы узнать больше о ситуации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы приговорили Левого Когтя к смерти. Приведите приговор в исполнение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы казнили пойманного зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы отпустили пойманного зверолюда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы отправили пойманного зверолюда служить в Алом Хоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

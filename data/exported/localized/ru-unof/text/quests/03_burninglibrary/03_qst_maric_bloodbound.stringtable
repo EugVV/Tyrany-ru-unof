@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\03_qst_maric_bloodbound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Неразрывные узы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Спасти Скованных Клятвой в Горящей Библиотеке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Разобраться с предателем Джеленой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Марику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Найти Марика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Марик верен Скованным Клятвой, что служат под его командованием. Он не сможет успокоиться, пока выжившие члены его отряда не вернутся к нему, а предательница Джелена не будет казнена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Марик знает, что двое из его разведчиков остаются в руинах библиотеки. Найдите их и выведите в безопасное место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Одна из солдат Марика предала свой отряд и помогла Цензору найти его. Марик хочет ее смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы нашли Скованных Клятвой и разобрались с Джеленой. Вернитесь с новостями к Марику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Джелена чувствует, что Марик, скорее всего, находится где-то в Текучей Долине. Найдите его и постарайтесь все уладить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы нашли и убили Джелену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы решили освободить Джелену, которая сказала, что вернется к Марику, чтобы предстать перед его судом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Джелена отказывает бросать своих товарищей, даже будучи в плену. Но она согласна, чтобы ее лично судил Марик, если вы сможете спасти солдат, которых она сдала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Марик благодарен, что его отряд в безопасности, а предательница Джелена убита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Марик благодарен, что его отряд в безопасности, и принял Джелену обратно к себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Марик благодарен, что его отряд в безопасности, но он не смог простить Джелену и решил ее казнить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Один из Скованных Клятвой в Горящей Библиотеке погиб, прежде чем вы успели его спасти. Вам не удалось спасти людей Марика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Марик благодарен, что его отряд в безопасности, но он не смог простить Джелену и решил ее изгнать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы больше не на стороне Опальных, поэтому не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Джелена из Скованных Клятвой попала в плен и переживает о членах своего отряда, которых она поставила под угрозу. Она просит вашей помощи, чтобы найти отряд и его командира, Марика, и обеспечить их безопасность.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

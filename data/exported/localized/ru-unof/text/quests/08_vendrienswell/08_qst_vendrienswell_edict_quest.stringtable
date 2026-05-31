@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_edict_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Воля завоевателя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в лагерь Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Провозгласить [url=glossary:эдикт]Эдикт[/url] Кайроса Архонтам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ознакомить Пятого Глаза с Эдиктом Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ознакомить Железного Маршала с Эдиктом Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:кайрос]Кайрос[/url] требует, чтобы в Колодце Вендриенов была одержана победа. Ваша задача как Вершителя судеб Тунона – доставить [url=glossary:эдикт]Эдикт[/url] Кайроса Архонтам Опальных и Алого Хора. Им придется подавить повстанцев как можно скорее, иначе все в долине – как враги, так и союзники – умрут.</DefaultText>
+      <FemaleText>[url=glossary:кайрос]Кайрос[/url] требует, чтобы в Колодце Вендриенов была одержана победа. Ваша задача как Вершительницы судеб Тунона – доставить [url=glossary:эдикт]Эдикт[/url] Кайроса Архонтам Опальных и Алого Хора. Им придется подавить повстанцев как можно скорее, иначе все в долине – как враги, так и союзники – умрут.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Отправляйтесь на юго-восток через Форт Эджеринг и посетите лагерь Опальных, где [url=glossary:грэйвен аше]Грэйвен Аше[/url] встречается сейчас с Голосами Нерата для обсуждения стратегии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:эдикт]Эдикт[/url] Кайроса должен быть вручен Архонтам лично. Найдите их в лагере Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Теперь [url=glossary:опальные]Опальные[/url] знают о требовании Кайроса. Осталось проинформировать главу Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Теперь [url=glossary:алый хор]Алый Хор[/url] знает о требовании Кайроса. Осталось проинформировать главу Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Сейчас Архонты находятся в шатре Грэйвена Аше, в северной части лагеря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы провозгласили [url=glossary:эдикт]Эдикт[/url] Кайроса Грэйвену Аше и Голосам Нерата, но пока не очевидно, смогут ли они действовать сообща.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

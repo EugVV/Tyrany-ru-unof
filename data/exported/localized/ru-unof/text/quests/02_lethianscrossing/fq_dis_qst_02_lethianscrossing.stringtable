@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_dis_qst_02_lethianscrossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Железные клинки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Дойти до Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Железным Стражем Винтарой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уничтожить гарнизон Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уничтожить гарнизон Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Элдианом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Посетить Кузню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Пронаблюдать, как Жденья устанавливает Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Войти в Старые Стены в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Убить погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Жденье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Найти Элдиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] отправил вас в [url=glossary:распутье летианы]Распутье Летианы[/url], чтобы [url=glossary:скованные горном]Скованные Горном[/url] были под защитой и смогли продолжать изготавливать оружие для Опальных. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Глава Скованных Горном сейчас в [url=glossary:распутье летианы]Распутье Летианы[/url], поселении у основания Шпиля Заката.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Железный Страж Винтара командует гарнизоном Опальных в [url=glossary:распутье летианы]Распутье Летианы[/url]. Сообщите ей о своем прибытии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] контролирует [url=glossary:распутье летианы]Распутье Летианы[/url]. Поскольку их гарнизон не пропустит вас через селение без боя, вам придется его уничтожить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы передали Алому Хору контроль над Распутьем Летианы во время завоевания Кайроса, но вы с Хором стали врагам в ходе недавних событий в Колодце Вендриенов. Их гарнизон не пропустит вас через селение без боя, поэтому вам придется его уничтожить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Поговорите с Элдианом, старостой Распутья Летианы, чтобы узнать больше о Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Жденью можно найти в мастерской Скованных Горном, которая известна просто как Кузня. Она расположена на втором ярусе района Лунный Восход, прямо над нижним уровнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Жденья попросила вас подойти к ней на третий ярус Распутья Летианы, где она установит Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Элдиан попросил вас подтвердить, что Шлем Магоборца действительно работает. Для этого нужно войти в Старые Стены в [url=glossary:распутье летианы]Распутье Летианы[/url] и найти погибелей. Он дал вам ключ-камень, который позволит войти в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Шлем Магоборца не сработал, и погибели из Старых Стен в [url=glossary:распутье летианы]Распутье Летианы[/url] теперь на свободе. Убейте их, прежде чем они доберутся до поселения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вернитесь к Жденье в [url=glossary:распутье летианы]Распутье Летианы[/url] и сообщите ей, что Шлем Магоборца не сработал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Элдиан – староста Распутья Летианы. Поговорите с ним о Жденье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы наткнулись на неожиданную заставу по пути в [url=glossary:распутье летианы]Распутье Летианы[/url]. Поговорите с кем-то, чтобы вас пропустили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Раэтоммон согласился пропустить вас через заставу Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы убили солдат Бронзового Братства, охраняющих мост. Теперь путь к Распутью Летианы свободен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Мастер Скованных Горном Жденья привезла Шлем Магоборца для защиты Распутья Летианы, но и ее, и шлем украл Раэтоммон.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

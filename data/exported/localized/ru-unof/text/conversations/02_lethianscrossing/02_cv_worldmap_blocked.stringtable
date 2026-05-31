@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_worldmap_blocked</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Извини, Вершитель, Но Элдиан сказал всем оставаться в [url=glossary:распутье летианы]Распутье Летианы[/url], пока он не узнает, что произошло с Магоборцем".</DefaultText>
+      <FemaleText>"Извини, Вершительница, Но Элдиан сказал всем оставаться в [url=glossary:распутье летианы]Распутье Летианы[/url], пока он не узнает, что произошло с Магоборцем".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

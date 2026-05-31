@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_historyoftheoldwallsparti</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>История Старых Стен, часть I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Забрать ключ-камень у Пресной Клички.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Воспользоваться восточным телепортом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Проложить путь к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убить наемников Махальника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить наемников Яспоса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернуться к Бездне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Продолжить поиски оставшихся светоключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Возобновить поиски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Отыскать Золотую Лапу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вернуться к Меллу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Обыскать труп Пресной Клички и найти ключ-камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Мелл попросил вас сходить в Старые Стены, чтобы отыскать и вернуть Книгочейку Лексему и Золотую Лапу. Он считает, Лексема сможет привести Золотую Лапу в порядок и наладить мирную жизнь в Ране.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>У Пресной Клички имеется ключ-камень, который позволил бы вам зайти глубже в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Используйте телепорт, расположенный на востоке Раны Бастарда, чтобы пройти в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы отыскали Золотую Лапу, но пока не можете до нее добраться. Вам нужно отыскать недостающие светоключи, чтобы попасть в убежище Золотой Лапы. Она может знать, где искать Лексему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Махальник послал за вами своих наемников, чтобы вы не смогли отыскать Золотую Лапу. Перебейте их всех, чтобы продолжить поиски светоключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Яспос послал за вами своих наемников, чтобы вы не смогли отыскать Золотую Лапу. Перебейте их всех, чтобы продолжить поиски светоключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Собрав все светоключи, возвращайтесь к Бездне, чтобы проложить путь к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Устранив наемников, продолжайте поиски оставшихся светоключей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Продолжайте поиски светоключей, чтобы проложить путь к Золотой Лапе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы попали в то место, где в последний раз видели Золотую Лапу. Узнайте, куда она подевалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Возвращайтесь к Меллу и расскажите ему о том, что случилось с Золотой Лапой и Лексемой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вы убили Пресную Кличку за то, что она забирала кровь у Подранков. Скорее всего, ключ-камень остался у нее при себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы убили Лексему, но Золотая Лапа все еще скрывается в Старых Стенах. Возможно, на трупе Лексемы вы найдете подсказку, где искать Золотую Лапу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы убили Пресную Кличку за то, что она забирала кровь у Подранков. Скорее всего, ключ-камень остался у нее при себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Соберите вместе Бессонных и перебейте их всех, чтобы Золотая Лапа перестала терзаться чувством вины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы отыскали Лексему в недрах Старых Стен и согласились помочь ей с Золотой Лапой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы решили прикончить и Лексему, и Золотую Лапу, положив конец надеждам Мелла о том, чтобы в Рану Бастарда вернулся мир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убедили Золотую Лапу уйти еще глубже в Старые Стены, чтобы лучше познать саму себя. Это положит конец надеждам Мелла о том, чтобы в Рану Бастарда вернулся мир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы убедили Золотую Лапу вернуться в Рану Бастарда. Махальник с Яспосом этому официально не рады.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

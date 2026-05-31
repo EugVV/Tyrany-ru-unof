@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_disfavoredcamp_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Солдат еле заметно вам кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Солдат провожает вас взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Солдат буравит вас злобным взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Кого я вижу! Мясник Отголоска. Полагаю, ты исполняешь собственные приказы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Захватив Отголосок, [url=glossary:опальные]Опальные[/url] смогут переломить ход этой войны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Мы рады сражаться рядом с тобой, Вершитель судеб".</DefaultText>
+      <FemaleText>"Мы рады сражаться рядом с тобой, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Как только солдат замечает Фугу, он отходит на почтительное расстояние. Похоже, что он готов к любому развитию событий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Эта осада не стоит наших усилий. Мы должны оккупировать эти земли, а не сражаться, чтобы вернуть их неизвестно кому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Голоса, Сирин, [url=glossary:каирн]Каирн[/url], а теперь еще и Тунон... Мне начинает казаться, что в одиночку Аше завершил бы войну быстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Хороший клятвопреступник – мертвый клятвопреступник, что бы по этому поводу ни думали в Хоре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Из южан выходят хорошие батраки, но больше они ни на что не годятся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Помни о вежливости, когда будешь говорить с Архонтом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Если ты и впрямь наделен мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] – сборище беспринципных головорезов".</DefaultText>
+      <FemaleText>"Если ты и впрямь наделена мудростью Тунона, то не можешь не знать, что [url=glossary:алый хор]Алый Хор[/url] – сборище беспринципных головорезов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Постарайся вести себя прилично в лагере".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

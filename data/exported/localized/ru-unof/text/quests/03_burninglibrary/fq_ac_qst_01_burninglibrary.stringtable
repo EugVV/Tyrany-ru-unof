@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\fq_ac_qst_01_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Путь к власти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Встретиться с Бледеном Марком в Пепельной Глуши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Горящую Библиотеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Забраться в руины Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти способ преодолеть магический барьер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти другие куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Найти оставшиеся куски пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Найти последний кусок пергамента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Использовать пергамент, чтобы попасть в Безмолвный Архив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Завершить [url=glossary:эдикт]Эдикт[/url] Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Бледену Марку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Прочесть послание Бледена Марка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы решили выступить против всех – Опальных, Алого Хора и Гвардии Вендриенов – и пойти своим путем к власти над Ярусами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Похоже, Архонту Теней понравилась ваша работа в Колодце Вендриенов, и он хочет помочь вам в дальнейшем продвижении по Ярусам. Он хочет поговорить с вами в Пепельной Глуши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Следующий шаг на пути к власти – это Безмолвный Архив в Горящей Библиотеке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Силы Алого Хора заняли руины Горящей Библиотеки. Убейте их и возьмите район под свой контроль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Путь вглубь руин перегорожен магическим барьером. Чтобы продолжить исследовать Горящую Библиотеку, нужно найти способ отключить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы нашли часть пергамента, который, похоже, важен. Найдите другие части и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы нашли две части пергамента. Найдите остальные и составьте их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы нашли три части пергамента. Похоже, осталось найти всего один, чтобы собрать страницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы нашли достаточно частей пергамента, чтобы расшифровать магическую фразу, которая позволит вам получить доступ к Безмолвному Архиву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Теперь, когда вы нашли Безмолвный Архив, возьмите магический свиток, чтобы закончить [url=glossary:эдикт]Эдикт[/url] Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы закончили [url=glossary:эдикт]Эдикт[/url] Огня в Горящей Библиотеке. Сообщите об этом Бледену Марку в Пепельной Глуши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы получили таинственное послание от Бледена Марка, палача Тунона. Это может касаться ваших действий против войск Кайроса в Зале Вознесения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вынести свиток за пределы Горящей Библиотеки, чтобы завершить [url=glossary:эдикт]Эдикт[/url] Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы закончили [url=glossary:эдикт]Эдикт[/url] Огня и усилили свое влияние.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Вы решили, что никому ничего не должны, кроме как самому себе. Таким образом, против вас теперь настроены обе армии Кайроса и повстанческие силы Ярусов.
+
+Вам предстоит очень нелегкий путь, и пройти по нему придется в одиночку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Вы предали своих союзников из Хора, решив следовать по собственному пути к власти, а не по тому, который выбрал для вас Голоса. У вас нет союзников, но вы можете прокладывать собственный курс.
+
+В качестве первого шага вы решили найти и забрать себе артефакт, известный как Безмолвный Архив. Он расположен в недрах Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

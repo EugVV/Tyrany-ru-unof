@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act3_issueedict_endgame</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Армии на Севере</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться к Горному Шпилю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Наложить [url=glossary:эдикт]Эдикт[/url] на Северное Королевство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Встретиться с союзниками в Зале Вознесения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вам стало известно, что империя перешла от угроз к действиям. Армии с севера идут волной, и у них одна цель: стереть Ярусы с лица Терратуса.
+
+К счастью, в Шпиле в Колодце Вендриенов есть резонатор. С его помощью вы можете провозгласить [url=glossary:эдикт]Эдикт[/url] и ввергнуть в хаос Северную Империю. Победа еще может достаться вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Вернитесь в Шпиль в Колодце Вендриенов. Там вы сможете провозгласить [url=glossary:эдикт]Эдикт[/url], чтобы отразить нападение армий Северного Королевства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы прибыли в Шпиль Колодца Вендриенов незадолго до неминуемого вторжения сил Кайроса. Используйте резонатор и дайте свой ответ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Арри прислала сообщение: она видела армии, идущие с Севера. Она боится, что ваш союз распадется перед лицом катастрофы, когда имперские войска Кайроса будут топтать ее родную землю. Она умоляет вас о встрече, чтобы попытаться укрепить союз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Архонты побеждены, но угроза Кайроса нависает над вами. Пора встретиться с союзниками и решить, что делать дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы наложили [url=glossary:эдикт]Эдикт[/url] на Северное Королевство и дали отпор захватчикам Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

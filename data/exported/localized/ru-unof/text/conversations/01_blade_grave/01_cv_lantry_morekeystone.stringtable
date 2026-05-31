@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_lantry_morekeystone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты это почувствовал? Магическая преграда стала гудеть чуть слабее, когда ты поставил на место ключ-камень. Не говори потом, что я не предупреждал..."</DefaultText>
+      <FemaleText>"Ты это почувствовала? Магическая преграда стала гудеть чуть слабее, когда ты поставила на место ключ-камень. Не говори потом, что я не предупреждал..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нам нужно добраться до этого тела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ох, я не предлагаю вернуться назад. Я просто почувствовал необходимость обременить тебя напоминанием, что наши жизни в твоих руках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Он прочищает горло и поправляет воротник.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

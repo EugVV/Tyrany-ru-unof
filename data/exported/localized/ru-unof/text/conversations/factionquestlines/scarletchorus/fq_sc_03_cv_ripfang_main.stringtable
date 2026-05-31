@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\scarletchorus\fq_sc_03_cv_ripfang_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель судеб! Нам нужна твоя помощь!"</DefaultText>
+      <FemaleText>"Вершительница судеб! Нам нужна твоя помощь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мы отказались играть с Цензором в его игру в Библиотеке. Теперь он хочет нас убить и убьет, если ты ничего не сделаешь!" Кусака оборачивается через плечо и вздрагивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Цензор потребовал нашего присутствия. Когда мы сюда добрались, всем уже заправляли Книгочеи, и мы не знаем, что теперь с нами будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вас призвал [url=glossary:голоса нерата]Голоса Нерата[/url]. Все прочие приказы были не так важны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Убить их] "Мне надоели ставшие по недосмотру командирами слабаки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я еще вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Конечно, конечно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Согласен!" Кусака кивает так яростно, что его мокрая от пота прическа приходит в совершеннейший беспорядок. "Но я подумал, что Цензор прислуживает Голосам. Мы и понятия не имели, что нас тут ждет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я вас освобожу. Возвращайтесь к Голосам Нерата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Пленник моргает. "Что? Вершитель судеб... Не надо!"
+
+Вы встаете на колени и поочередно ломаете им шеи. Кусака пытается сопротивляться дольше других, но тщетно.</DefaultText>
+      <FemaleText>Пленник моргает. "Что? Вершительница судеб... Не надо!"
+
+Вы встаете на колени и поочередно ломаете им шеи. Кусака пытается сопротивляться дольше других, но тщетно.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"В чем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Как всегда. Что вы хотите?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Помоги нам, Вершитель!"</DefaultText>
+      <FemaleText>"Помоги нам, Вершительница!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Согласен!" Кусака кивает так яростно, что его мокрая от пота прическа приходит в совершеннейший беспорядок. "Вытащи нас отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

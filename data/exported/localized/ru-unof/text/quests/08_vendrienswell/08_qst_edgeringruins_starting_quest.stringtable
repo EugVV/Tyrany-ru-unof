@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_edgeringruins_starting_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Добро пожаловать в развалины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Помочь Опальным одержать верх над Гвардией Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Разделаться с оставшимися мятежниками в лагере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы прибыли в окрестности Колодца Вендриенов, к развалинам древнего Форта Эджеринг. Пока один из Бегунов Полумесяца вводил вас в курс происходящего, [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] пошла в атаку. Помогите силам Кайроса отбить штурм.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] прорвала оборону форта, они движутся ко входу в долину. Помешайте им и перебейте как можно больше врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы справились с гвардейцами Вендриенов, которые пытались бежать из долины. Уничтожьте оставшиеся силы противника, которые по-прежнему атакуют лагерь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли силам Кайроса защитить лагерь у руин Эджеринга от нападения повстанцев, сумев при этом спасти командира Драстуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы помогли силам Кайроса защитить лагерь у руин Эджеринга от нападения повстанцев, но при этом не смогли спасти командира Драстуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

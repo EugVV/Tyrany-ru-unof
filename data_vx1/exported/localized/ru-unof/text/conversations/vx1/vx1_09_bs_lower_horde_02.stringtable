@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_lower_horde_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Он говорил, что собирает армию, а сам не хочет нас впускать. И в чем смысл?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Спасибо, что прикончил этого ублюдка Ролеса. Его барахло я теперь себе заберу".</DefaultText>
+      <FemaleText>"Спасибо, что прикончила этого ублюдка Ролеса. Его барахло я теперь себе заберу".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

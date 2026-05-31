@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0103_cv_straydus_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Я здесь для того, чтобы завершить завоевание Ярусов по воле Владыки. До сих пор тебе удавалось избегать смерти, к ущербу всего королевства, но я положу этому конец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Я посланец Кайроса. Требую, чтобы мне выдали пленных Опальных".</DefaultText>
+      <FemaleText>"Я послана Кайросом. Требую, чтобы мне выдали пленных Опальных".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

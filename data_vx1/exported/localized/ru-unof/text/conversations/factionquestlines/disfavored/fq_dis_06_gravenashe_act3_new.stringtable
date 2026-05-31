@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_06_gravenashe_act3_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Прежде чем уйти, я хочу попросить тебя об одном: отпусти Барика на службу мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Именно. Теперь, когда я стал Архонтом, Барик мне нужен как мой офицер, никак не связанный с тобой".</DefaultText>
+      <FemaleText>"Именно. Теперь, когда я стала Архонтом, Барик мне нужен как мой офицер, никак не связанный с тобой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Если он будет вынужден повиноваться нам обоим, это вызовет конфликт интересов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Я таскал за собой этот сундук без ручки по всем Ярусам. Отдай мне его уже наконец!"</DefaultText>
+      <FemaleText>"Я таскала за собой этот сундук без ручки по всем Ярусам. Отдай мне его уже наконец!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Ясно. Ну, хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

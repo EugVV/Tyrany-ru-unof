@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_tidetogether</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Совместный прилив</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Мелиттой в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти Фойби в деревне Флогистон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Перебить хористов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Грымзой Каллией о Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Поговорить с Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вернуться к Махальнику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поговорить с Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вернуться к Махальнику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Поговорить с хористами об азартных играх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вернуться к Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Поговорить с Грымзой Каллией об азартных играх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Найти трактат об акваметаллургии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Обыскать область.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вернуться к Махальнику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Заклинатели Приливов и Книгочеи дрались друг с другом столько, сколько себя помнит каждая из сторон. Очевидно, у Махальника есть как минимум один смертельный враг. Он попросил вас убить Книгочейку по имени Фойби и в качестве доказательства принести все ее пожитки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Махальник говорил о женщине по имени Мелитта – она может знать, где скрывалась Фойби с тех пор, как Веленевую Цитадель уничтожил [url=glossary:эдикт]Эдикт[/url] Огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Последнее место, где видели Фойби – то, что осталось от деревни под названием Флогистон. Она находится в Спорных Землях, недалеко от Горящей Библиотеки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Путь к Книгочейке преграждает ватага хористов. Истребите врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] взял Книгочейку, которую вы искали, в плен. Быть может, вы сможете убедить главаря хористов дать вам с ней поговорить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] разрешил вам поговорить с Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Возьмите пожитки Фойби и отнесите Махальнику в качестве доказательства ее смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы перебили хористов, стоявших между вами и Фойби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы решили не убивать Фойби и не забирать ее вещи. Вернитесь к Махальнику и сообщите ему о решении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Фойби рассказала вам, что члены ватаги начали делать ставки на то, кто найдет Безмолвный Архив. Используйте эти сведения, чтобы убедить их отпустить Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Дайте Фойби знать о том, как прошло столкновение с Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вы разрешили проблему с азартными играми среди хористов. Используйте это как один из аргументов, чтобы убедить Грымзу Каллию отпустить Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Где-то неподалеку Фойби спрятала трактат об акваметаллургии. Отыщите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Смерть-из-Тени заметила, что рядом спрятано что-то, принадлежавшее Фойби. Отыщите это.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Возьмите пожитки Фойби и отнесите Махальнику в качестве доказательства ее смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы обвинили Грымзу Каллию в том, что в ее отряде процветают азартные игры, но это не помогло вам освободить Книгочеев. Поговорите с теми из Орды, кто делает ставки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы наказали бойцов Орды, отправив их в Рану Бастарда. Без их поддержки вы сможете попробовать убедить Грымзу Каллию освободить Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Острый Палец посоветовал поговорить о наказании за азартные игры со Шкуродером.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Желтуха посоветовала поговорить о наказании за азартные игры со Шкуродером.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Вы обвинили Грымзу Каллию в том, что в ее отряде процветают азартные игры, но это не помогло вам освободить Книгочеев. Стоит поговорить со Шкуродером: может быть, это что-то даст.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили Фойби и принесли Махальнику трактат об акваметаллургии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы отдали трактат об акваметаллургии Махальнику, но Книгочейку Фойби отпустили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы принесли вещи Фойби Махальнику, как он и просил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы отдали трактат об акваметаллургии Яспосу. Махальник был недоволен этим решением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы убили Махальника и теперь не можете выполнить его задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы оставили Фойби в живых и не принесли ее вещи Махальнику, как тот просил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

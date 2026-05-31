@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_sd_beastmen_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Исчезни! Иначе зверолюдки сочтут человека добычей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Нам не о чем говорить с человеком. Говори с примой, со Стокровкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Уважай обычаи Камнепытов, человек, иначе племя начнет охоту за Вершителем судеб".</DefaultText>
+      <FemaleText>"Уважай обычаи Камнепытов, человек, иначе племя начнет охоту за Вершительницей судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Алые охотники прячутся неподалеку. Лежат в засаде, плохо пахнут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"У людей нет кожи из камня, как у племени. Мягкопузые. Носят железо словно панцирь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Каменные земли принадлежат племени. Всегда принадлежали и будут принадлежать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"У Вершителя судеб нет когтей, но он охотится, как [url=glossary:камнепыт]Камнепыт[/url]. Дерется словно один из нас".</DefaultText>
+      <FemaleText>"У Вершительницы судеб нет когтей, но он охотится, как [url=glossary:камнепыт]Камнепыт[/url]. Дерется словно одна из нас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Опальных видели глубоко в Каменных землях. Вторглись в угодья стаи. Хочется убивать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Хороший охотник знает, когда нужно бить, когда – ждать. Сейчас племя ждет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Алые охотники крадут детенышей племени. Не забудем. Не простим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Стокровка говорит не убивать Вершителя судеб – племя повинуется. Но [url=glossary:камнепыты]Камнепыты[/url] смотрят за Вершителем. Смотрят и слушают".</DefaultText>
+      <FemaleText>"Стокровка говорит не убивать Вершительницу судеб – племя повинуется. Но [url=glossary:камнепыты]Камнепыты[/url] смотрят за Вершительницей. Смотрят и слушают".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Вершителю судеб достаточно лишь отдать приказ. Племя послушается".</DefaultText>
+      <FemaleText>"Вершительнице судеб достаточно лишь отдать приказ. Племя послушается".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Вершитель судеб правит племенем силой и кровью. Зверолюдки пойдут за ним".</DefaultText>
+      <FemaleText>"Вершительница судеб правит племенем силой и кровью. Зверолюдки пойдут за ним".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Стокровка была сильной, но теперь она не [url=glossary:прима]прима[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Что [url=glossary:опальные]Опальные[/url], что Алые – все страдают от землетрясений. Племя должно нанести удар сейчас, отбить свою землю и Зубы Старейшин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Алые охотники украли детенышей Черной Пасти. Убивать за детенышей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Людям здесь не рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Нет. Стая не вступит в [url=glossary:алый хор]Алый Хор[/url]. Чувствует запах болезни и гнилого мяса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Снова были толчки до заката... Будет ли земля трястись и зимой? А летом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Вершитель – сильный член стаи. Первый человек, ставший Камнепытом".</DefaultText>
+      <FemaleText>"Вершительница – сильный член стаи. Первая из людей, ставшая Камнепытом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Вершитель пережил Обряд Отбора племени? Значит, он сильнейший из колдунов. Как колдун по имени [url=glossary:каирн]Каирн[/url]".</DefaultText>
+      <FemaleText>"Вершительница пережила Обряд Отбора племени? Значит, она сильнейшая из колдунов. Как колдун по имени [url=glossary:каирн]Каирн[/url]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Вершитель заточил волшебные клыки и волшебные когти. Получил право на Зубы Старейшин из танца отбора племени".</DefaultText>
+      <FemaleText>"Вершительница заточила волшебные клыки и волшебные когти. Получила право на Зубы Старейшин из танца отбора племени".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

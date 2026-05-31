@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_beastmen_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Хотел прикончить человека, которого зовут Цензором, но чувствую по запаху, что Вершитель судеб уже совершил убийство".</DefaultText>
+      <FemaleText>"Хотел прикончить человека, которого зовут Цензором, но чувствую по запаху, что Вершительница судеб уже совершила убийство".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Видел и чуял много мертвых солдат. Жажда крови у Вершителя судеб поистине велика. Впечатляет".</DefaultText>
+      <FemaleText>"Видел и чуял много мертвых солдат. Жажда крови у Вершительницы судеб поистине велика. Впечатляет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Книгочеи-мистики говорят, что в словах заключена большая сила. Вершитель судеб тоже верит, что каракули на гнилодревых свитках имеют силу?"</DefaultText>
+      <FemaleText>"Книгочеи-мистики говорят, что в словах заключена большая сила. Вершительница судеб тоже верит, что каракули на гнилодревых свитках имеют силу?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Стая Хора играла в жестокие, кровавые игры в месте с горящими книгами. Я бы с радостью принял в них участие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Люди в гнилой стае слабые. Бесхребетные. Лучше добыче гнить мертвой в грязи, чем вечно бояться и страдать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

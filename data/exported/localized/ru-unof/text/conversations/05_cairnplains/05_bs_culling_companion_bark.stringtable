@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_culling_companion_bark</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Их привлекают кристаллы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Погибели подбираются ближе, готовятся напасть. Не могут устоять перед соблазном Зубов Старейшин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Засада. Эти кристаллы – приманка для погибелей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кристаллы их очень беспокоят и раздражают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Кристаллы привлекают погибелей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Этим долбаным погибелям лучше держаться подальше от наших кристаллов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Должен гордиться тем, что прошел Обряд Отбора. Такое испытание отделяет лидеров от щенков".</DefaultText>
+      <FemaleText>"Должна гордиться тем, что прошла Обряд Отбора. Такое испытание отделяет лидеров от щенков".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\missives\msv_eb_rebel_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вершитель судеб!
+
+Ты продажная шкура. Ты предал Кайроса, потом предал Гвардию Вендриенов... из тебя когда-нибудь получится замечательный Архонт Лжи.
+
+Клянусь своей честью, если я когда-нибудь найду что-то, что ты любишь и чем дорожишь, я подружусь с этим, а потом уничтожу.
+
+– Атли</DefaultText>
+      <FemaleText>Вершительница судеб!
+
+Ты продажная шкура. Ты предала Кайроса, потом предала Гвардию Вендриенов... из тебя когда-нибудь получится замечательный Архонт Лжи.
+
+Клянусь своей честью, если я когда-нибудь найду что-то, что ты любишь и чем дорожишь, я подружусь с этим, а потом уничтожу.
+
+– Атли</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

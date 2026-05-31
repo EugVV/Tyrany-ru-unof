@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_carttrap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>На обочине дороги вы замечаете брошенную повозку. Одно колесо слетело с оси. Какие-то ящики и мешки еще виднеются внутри, пара коробок стоит на траве неподалеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Приблизившись, вы обнаруживаете, что это четырехколесная повозка (точнее, была таковой, пока не лишилась четвертого колеса), с длинной кожаной сбруей для зверолюда. Один из ящиков, упавших наземь, треснул, и фрукты оттуда высыпались на траву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Подойти к повозке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Не трогать повозку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы обходите повозку и осторожно продолжаете свой путь, готовясь к любой опасности. Вскоре повозка остается далеко позади.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ограбить повозку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Осмотреть повозку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Не трогать повозку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Забравшись в повозку, вы принимаетесь взламывать ящики, перебирая содержимое и запихивая в свой мешок свежие плоды и зерно. Вы даже обнаруживаете кувшин свежего пива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы сразу замечаете, что тягловая сбруя порезана... видимо, острым клинком. Колесо также сломано, скорее всего, не случайно, кто-то здесь хорошо постарался. Засохшие капли крови на досках окончательно утверждают вас в мысли, что на повозку напали.
+
+Однако товары остались нетронуты...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы обходите повозку и осторожно продолжаете свой путь, готовясь к любой опасности. Вскоре повозка остается далеко позади.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Приготовиться к нападению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы обнажаете оружие и приседаете в защитной стойке, подозрительно глядя в сторону деревьев, где может таиться засада. Там, в кустах, явно что-то шевелится.
+
+Однако инициатива остается за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Устроить засаду нападающим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ускользнуть, избегая нападения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Оставив повозку за спиной, вы вламываетесь в кусты и атакуете ярусников в потрепанных кожаных доспехах, с разномастным бронзовым оружием, которые имели глупость решить, что застанут вас врасплох...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вы торопливо продвигаетесь вдоль дороги, в любой миг ожидая нападения – но ничего не происходит. Вы быстро оставляете повозку далеко позади и, оказавшись на безопасном расстоянии, возобновляете свой путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Оставив повозку за спиной, вы вламываетесь в кусты и атакуете плохо одетых и разномастно вооруженных ярусников, которые успевают вовремя спохватиться. Стрелы и дротики свистят в воздухе...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы торопливо продвигаетесь вдоль дороги, но разбойники оказываются быстрее. В вас летят стрелы и дротики, и вскоре вы обнаруживаете, что окружены...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Внезапно в ближайший ящик ударяет стрела, и на поляну устремляются мужчины и женщины в потрепанных кожаных доспехах, с разномастным бронзовым оружием...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

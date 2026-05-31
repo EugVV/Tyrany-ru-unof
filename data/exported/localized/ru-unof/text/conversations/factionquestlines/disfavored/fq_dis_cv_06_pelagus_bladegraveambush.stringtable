@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_06_pelagus_bladegraveambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель! Тебе стоит на это взглянуть".</DefaultText>
+      <FemaleText>"Вершительница! Тебе стоит на это взглянуть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Что у нас тут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Этому Опальному не повезло. Кажется, он не дышит".
+
+"Странно – обычно войска Грэйвена Аше так просто не умирают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Отлично сработано, Вершитель. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее".</DefaultText>
+      <FemaleText>"Отлично сработано, Вершительница. Чтобы помешать нам добраться до цели, понадобится что-то куда серьезнее".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"У нас нет времени. Не будем мешкать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Обыкновенно я бы согласился с тобой, но похоже, это важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

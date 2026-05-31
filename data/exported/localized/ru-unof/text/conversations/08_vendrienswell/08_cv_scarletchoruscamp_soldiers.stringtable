@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_scarletchoruscamp_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Будь осторожен, Вершитель".</DefaultText>
+      <FemaleText>"Будь осторожна, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Солдат вам кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Говорят, ты знатно посшибал головы в Крапивных Дебрях. Слава Голосам!"</DefaultText>
+      <FemaleText>"Говорят, ты знатно посшибала головы в Крапивных Дебрях. Слава Голосам!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"На чьей ты стороне, Вершитель?"</DefaultText>
+      <FemaleText>"На чьей ты стороне, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Повстанцы бежали из Отголоска. Долина – наша!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Пшел вон, ты, шавка Опальных!"</DefaultText>
+      <FemaleText>"Пшла вон, ты, шавка Опальных!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Время битвы все ближе. Хорошо драться рядом с тобой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Скоро начнется бой, Вершитель... надеюсь, ты не сбежишь".</DefaultText>
+      <FemaleText>"Скоро начнется бой, Вершительница... надеюсь, ты не сбежишь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Интересно, как он бросает палку, если всегда в броне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Держи свои мысли при себе, алая мразь".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

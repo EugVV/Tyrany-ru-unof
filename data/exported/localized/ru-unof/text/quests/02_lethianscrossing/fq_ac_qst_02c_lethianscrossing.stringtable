@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_ac_qst_02c_lethianscrossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Трофей мастера кузни</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Дойти до Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Уничтожить гарнизон Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уничтожить гарнизон Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уничтожить гарнизон Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Элдианом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Посетить кузню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Осмотреть Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Найти Элдиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Забрать "Магоборца" из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вернуться к Бледену Марку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Забрать "Магоборца" из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] рассказал вам о Шлеме Магоборца, артефакте, созданным Жденьей, Мастером Скованных Горном. Она недавно прибыла в [url=glossary:распутье летианы]Распутье Летианы[/url], и если вам удастся заполучить Шлем, то вы будете вселять страх в сердца тех, кто называет [url=glossary:распутье летианы]Распутье Летианы[/url] своим домом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Глава Скованных Горном сейчас в [url=glossary:распутье летианы]Распутье Летианы[/url], поселении у основания Шпиля Заката.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] контролирует [url=glossary:распутье летианы]Распутье Летианы[/url]. Их гарнизон не пропустит вас через селение без боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы передали Опальным контроль над Распутьем Летианы, но выступили против них в Колодце Вендриенов. Их гарнизон в [url=glossary:распутье летианы]Распутье Летианы[/url] не пропустит вас через селение без боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы передали Алому Хору контроль над Распутьем Летианы, но выступили против него в Колодце Вендриенов. Гарнизон Хора в [url=glossary:распутье летианы]Распутье Летианы[/url] не пропустит вас через селение без боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Поговорите с Элдианом, старостой Распутья Летианы, о Шлеме Магоборца. Элидан живет в одном из домов в Распутье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Жденью можно найти в мастерской Скованных Горном, которая известна просто как Кузня. Она расположена на первом ярусе района Лунный Восход, прямо над нижним уровнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Возможно, существует способ взять Шлем Магоборца из Распутья Летианы. Исследуйте шлем на третьем ярусе Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Элдиан – староста Распутья Летианы. Найдите его и поговорите о Шлеме Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вернуться в [url=glossary:распутье летианы]Распутье Летианы[/url] и поговорить с Элдианом о том, чтобы взять Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вернуться к Бледену Марку с Шлемом Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Вернуться в [url=glossary:распутье летианы]Распутье Летианы[/url], чтобы забрать Шлем Магоборца. В отсутствие Элдиана вы сможете поговорить о Шлеме со Скованными Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы наткнулись на неожиданную заставу по пути в [url=glossary:распутье летианы]Распутье Летианы[/url]. Поговорите с кем-то, чтобы вас пропустили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Раэтоммон согласился пропустить вас через заставу Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы убили солдат Бронзового Братства, охраняющих мост. Теперь путь к Распутью Летианы свободен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] устроило набег на [url=glossary:распутье летианы]Распутье Летианы[/url], и верхние уровни отсечены для защиты поселенцев. Защитите [url=glossary:распутье летианы]Распутье Летианы[/url] от Бронзового Братства, прежде чем исследовать Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Лоара отказывается отдать вам шлем. Найдите Скованных Горном, которые вам помогут.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Жденья, Мастер Скованных Горном, привезла Шлем Магоборца для защиты Распутья Летианы, но и ее, и шлем украл Раэтоммон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы вернулись в [url=glossary:распутье летианы]Распутье Летианы[/url] и забрали у Элдиана Шлем Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] велел вам забрать Шлем Магоборца из Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

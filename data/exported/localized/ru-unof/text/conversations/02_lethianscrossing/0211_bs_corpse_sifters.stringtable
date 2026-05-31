@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0211_bs_corpse_sifters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Предатели. По крайней мере, так говорит Раэтоммон. Я предпочитаю не задавать лишних вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Кольца в носах? Один из этих трусов попытался бежать, когда мы их окружили. Он успел доскакать вон до того пруда, прежде чем я перерезал ему глотку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Только что сюда прибыл Мирек со своим отрядом. Думаю, тебе стоило бы держаться от них подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Будь осторожен, Вершитель".</DefaultText>
+      <FemaleText>"Будь осторожна, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

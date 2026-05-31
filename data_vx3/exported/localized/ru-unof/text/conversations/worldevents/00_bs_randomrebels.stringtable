@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_bs_randomrebels</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Пощады не будет, Вершитель судеб. Ты за все поплатишься!"</DefaultText>
+      <FemaleText>"Пощады не будет, Вершительница судеб. Ты за все поплатишься!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"За королеву!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Твоя жизнь заканчивается здесь, Вершитель судеб. История о тебе и не вспомнит".</DefaultText>
+      <FemaleText>"Твоя жизнь заканчивается здесь, Вершительница судеб. История о тебе и не вспомнит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Пусть отправляется в пустоту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

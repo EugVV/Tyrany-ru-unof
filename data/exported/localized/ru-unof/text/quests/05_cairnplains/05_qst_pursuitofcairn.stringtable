@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_pursuitofcairn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Погоня за Каирном</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться на Воющую Скалу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Добыть осколок лазурелита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Поговорить с Октавой, чтобы подготовить атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Осмотреть форт Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Атаковать Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Убить Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Поговорить с Нератом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Сообщить Нерату об уничтожении Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Поговорить с Октавой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Прервать ритуал Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Путь к Каирну открыт, и [url=glossary:алый хор]Алый Хор[/url] может отправляться на Воющую Скалу. Там Каирна можно уничтожить и навсегда прекратить [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь на Воющую Скалу, чтобы найти тело Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>В Зиянии можно найти командира Опальных, у которого есть осколок лазурелита, позволяющий попасть в форт Скаловержцев на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>С осколком чистого лазурелита вы можете начинать штурм форта Скаловержцев на Воющей Скале. Дайте сигнал Октаве, что вы готовы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Скаловержцы построили форт у останков Каирна. Изучите форт на Воющей Скале, чтобы найти путь внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Воспользуйтесь осколком лазурелита, чтобы попасть в форт Скаловержцев на Воющей Скале и перебить всех его обитателей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Все Скаловержцы мертвы. Осталось только прикончить Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Отправляйтесь в Какофонию и сообщите Голосам Нерата, что можно начинать атаку на Воющую Скалу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Вернитесь к Голосам Нерата в Какофонию и расскажите, что вы убили Каирна и остановили [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Встретьтесь с Октавой на Воющей Скале и обсудите ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Скаловержцы проводят ритуал. Прервите его, сломав посохи, вставленные в лазурелитовые жилы Воющей Скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Расскажите Октаве о собранных сведениях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Возьмите кусок Каирна, чтобы стать сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы уничтожили Каирна на Воющей Скале для Алого Хора. [url=glossary:голоса нерата]Голоса Нерата[/url] будет доволен вашим успехом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы не смогли открыть проход к Воющей Скале для себя и для Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Путь к Каирну открыт, и вы можете отправляться на Воющую Скалу. Там Каирна можно уничтожить и навсегда разрешить [url=glossary:эдикт]Эдикт[/url] Камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

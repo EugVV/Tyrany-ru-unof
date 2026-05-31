@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_artifact_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Руки прочь от артефакта. Смотри, но не трогай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я ничем не могу тебе помочь, Вершитель судеб".</DefaultText>
+      <FemaleText>"Я ничем не могу тебе помочь, Вершительница судеб".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_05_rolo_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приветствую, Вершитель судеб. Не знаю, что привело тебя на Воющую Скалу, но если твое дело хоть сколько-нибудь интересней тех, которыми заняты эти камнепоклонники, то тебе повезло".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница судеб. Не знаю, что привело тебя на Воющую Скалу, но если твое дело хоть сколько-нибудь интересней тех, которыми заняты эти камнепоклонники, то тебе повезло".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вы должны покинуть Воющую Скалу немедленно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Скаловержцы отлично мне платят, чтобы никто не прерывал их уединения. Прости, но я не хочу потерять из-за тебя кольца, которыми они меня осыпали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я не могу тебе заплатить, но тебе и твоим наемникам придется немедленно оставить Воющую Скалу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Парни, собираемся! Мы оставляем каменных колдунов, пусть изучают своего застывшего друга, сколько им влезет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Не могу сейчас разговаривать, Вершитель".</DefaultText>
+      <FemaleText>"Не могу сейчас разговаривать, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я вернусь, когда у меня будут кольца. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Вот что я тебе скажу – выложи 1000 колец, и мы уйдем. Что ты об этом думаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Зачем вернулся, Вершитель?"</DefaultText>
+      <FemaleText>"Зачем вернулась, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Пока".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Схватить его за горло] "Тебе стоит взять уже заработанное и убраться с Воющей Скалы, пока я тебя не прикончил".</DefaultText>
+      <FemaleText>[Схватить его за горло] "Тебе стоит взять уже заработанное и убраться с Воющей Скалы, пока я тебя не прикончила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Его глаза расширяются. "Хорошо, хорошо! Просто попробовал немного подзаработать, что в этом плохого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я принес твои кольца. Я заплачу – ты уйдешь".</DefaultText>
+      <FemaleText>"Я принесла твои кольца. Я заплачу – ты уйдешь".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

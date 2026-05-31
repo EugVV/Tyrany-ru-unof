@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_takecontrolofhowlingrock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Завоевание Воющей Скалы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Осмотреть форт Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Заполучить осколок лазурелита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться на Воющую Скалу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Атаковать Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Скаловержцы не пускают вас в свой форт на Воющей Скале. Вы должны найти способ проникнуть внутрь и отбить форт у Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Скаловержцы построили форт у останков Каирна. Изучите форт на Воющей Скале, чтобы найти путь внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>В Зиянии можно найти командира Опальных, у которого есть осколок лазурелита, позволяющий попасть в форт Скаловержцев на Воющей Скале. Добудьте этот осколок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Осколок лазурелита у вас, а [url=glossary:опальные]Опальные[/url] в Зубастой Пасти мертвы. Вы можете начинать штурм форта Скаловержцев на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Воспользуйтесь осколком чистого лазурелита в качестве фокусирующего камня, чтобы переместить камни и пересечь по ним пропасть, а затем нападите на укрепление Скаловержцев на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] на Воющей Скале мертвы. Осталось лишь убить Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Напав на форт, вы застали Скаловержцев во время проведения ритуала. Прервите ритуал гильдии, расколов лазурелитовые жилы на территории лагеря, или не мешайте перекачке энергии, чтобы не нарушить неустойчивое состояние Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Возьмите кусок Каирна, чтобы стать сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы захватили Воющую Скалу и уничтожили Скаловержцев и Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы захватили Воющую Скалу и уничтожили и Опальных, и Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

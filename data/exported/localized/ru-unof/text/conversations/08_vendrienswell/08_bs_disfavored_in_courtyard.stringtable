@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_disfavored_in_courtyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!"</DefaultText>
+      <FemaleText>"Вершительница! [url=glossary:опальные]Опальные[/url] пробили внешнюю стену!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Бегом в Цитадель, пока Вершителя отвлекли!"</DefaultText>
+      <FemaleText>"Бегом в Цитадель, пока Вершительницы отвлекли!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вершитель! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!"</DefaultText>
+      <FemaleText>"Вершительница! [url=glossary:алый хор]Алый Хор[/url] пробил главные ворота!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Внутрь! Живо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вершитель, иди на запад, на главный двор. Я за тобой!"</DefaultText>
+      <FemaleText>"Вершительница, иди на запад, на главный двор. Я за тобой!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вперед, немедленно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

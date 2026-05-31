@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\0805_cv_matani_retreat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Все назад!" Капитан Матани дает сигнал своим солдатам, и те устремляются к деревне неподалеку. "Их слишком много, они перешли реку – отступаем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Солдаты Гвардии Вендриенов бросаются вперед и сбиваются в кулак, прикрывая отступление капитана Матани. Все вместе они укрываются в близлежащем селении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Грозно вскинуть оружие] "Поднимите руку, кто оставит после себя сирот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Один из солдат ударяется в панику и выбегает из строя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Погоди! Я хочу просто поговорить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Атаковать] "Умрите, клятвопреступники!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>На вас никто не обращает внимания, гвардейцы Вендриенов продолжают наступать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я убил Пелокса Флориана! Говорят, он был ваш лучший боец. Хотите сдохнуть, недомерки, подходите!"</DefaultText>
+      <FemaleText>"Я убила Пелокса Флориана! Говорят, он был ваш лучший боец. Хотите сдохнуть, недомерки, подходите!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Солгать] "Я убил Пелокса Флориана! Говорят, он был ваш лучший боец. Хотите сдохнуть, недомерки, подходите!"</DefaultText>
+      <FemaleText>[Солгать] "Я убила Пелокса Флориана! Говорят, он был ваш лучший боец. Хотите сдохнуть, недомерки, подходите!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

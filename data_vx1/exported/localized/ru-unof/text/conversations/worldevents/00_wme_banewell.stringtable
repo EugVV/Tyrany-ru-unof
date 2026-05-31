@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_banewell</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[url=glossary:камнепыты]Камнепыты[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Свое послание вы адресуете Арри, поскольку сомневаетесь, что Стокровка умеет читать. Вы пишете, что ей придется убедить Камнепытов всем племенем перебраться из Каменного Моря в Колодец, чтобы сражаться с магической нечистью, которая там кишит.
+
+Вы не сомневаетесь, что [url=glossary:камнепыты]Камнепыты[/url] будут рады помериться силами с погибелями, но подозреваете, что благодарность жителей Гребня за избавление от угрозы рискует быть окрашена недовольством от необходимости допустить на свои земли зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_poi_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Нужно опустить мост – где-нибудь есть другой путь наверх?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если мы найдем место, откуда можно будет достать стрелой до ворота или лебедки, можно будет опустить мост".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Если мы сможем забраться выше, то найдем способ уничтожить эту проклятую лебедку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Смерть-из-Тени может взобраться на скалы, но как за ней последует альфа? Нужно подобраться ближе и сломать замок, который поднимает мост, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Отсюда нам до лебедки не дотянуться никак, но если мы взберемся наверх, мы сможем ее сломать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я предлагаю взобраться выше и сломать эту лебедку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Взобраться по отвесным скалам у вас вряд ли получится, однако мост можно опустить, если вы взберетесь достаточно высоко, чтобы подстрелить удерживающую его лебедку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

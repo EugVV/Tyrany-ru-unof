@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_end_soldiers_vg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Гавань долго не могла избавиться от блюстителей законов Кайроса. Так выпьем же за доброе начало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Селение, не затронутое завоеванием, – это в наши дни большая редкость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мне раньше описывали, какие Старые Стены огромные. Но в действительности они даже больше, чем мне представлялось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"На Гавань обрушился первый [url=glossary:эдикт]Эдикт[/url]. Будем надеяться, что и последний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"У Старых Стен мне слышалось всякое странное. Боюсь, что [url=glossary:эдикт]Эдикт[/url] растревожил ту жуть, которая до сих пор таится где-то внутри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Эдикты всегда были страшной, громадной силой, которая нам всем усложняла жизнь. И это очень странно теперь, когда такая мощь на нашей стороне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Генерал Опальных побежден, и теперь им никак не организовать еще одну атаку на поселение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"До нас дошли донесения, что [url=glossary:алый хор]Алый Хор[/url] отступает со своих территорий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Может, теперь, когда Тунон больше не влияет на ситуацию, у нас появится настоящее правосудие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"В Гавани снова безопасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

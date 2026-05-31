@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_fatulsten_overheard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"...и как именно ты собираешься отсюда выбраться?" – спрашивает раздраженный голос. – "Цензор прямо за дверью, и другого выхода из этой гребаной печи нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"А теперь двигайте свои никчемные задницы, пока я сам не сказал Цензору! А если и я попаду в кандалы, то это будет того стоить, чтобы увидеть, как вас всех крутят на вертеле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Эй, ты! Иди сюда. Хочу с тобой поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

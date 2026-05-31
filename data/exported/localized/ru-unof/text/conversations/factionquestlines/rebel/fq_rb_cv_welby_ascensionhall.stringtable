@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_welby_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Рада тебя видеть, Вершитель судеб".</DefaultText>
+      <FemaleText>"Рада тебя видеть, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Перед нами нелегкий путь, но [url=glossary:бронзовое братство]Бронзовое Братство[/url] готово к испытаниям – можешь на это рассчитывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мы готовы проливать кровь за тебя, Вершитель судеб".</DefaultText>
+      <FemaleText>"Мы готовы проливать кровь за тебя, Вершительница судеб".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

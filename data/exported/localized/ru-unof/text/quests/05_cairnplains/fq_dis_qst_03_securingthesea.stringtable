@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\fq_dis_qst_03_securingthesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Захват Моря</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вернуться к Радиксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Встретиться со Скаловержцами в Старых Стенах в Зиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убить Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Собрать три осколка лазурелита в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуть осколки лазурелита Радиксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Защитить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Завершить ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Перестроить центральную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Перестроить западную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Перестроить юго-восточную лазурелитовую жилу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вернуться к Базилиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Поговорить с Радиксом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] одобрил план Каэдиса и Радикса: уничтожить земли Каменного Моря, чтобы люди Нерата не могли заниматься земледелием и снабжать продовольствием армию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Радикс ждет вас на Воющей Скале. Встретьтесь с ним и приступайте к исполнению плана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Каэдис и Радикс рассказали вам о пропавшем отряде Скаловержцев. Отправляйтесь в Старые Стены в Зиянии и узнайте, что с ними случилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы прибыли в Старые Стены в Зиянии и узнали, что у Скаловержцев возник конфликт со зверолюдами из племени Камнепытов. Помогите Скаловержцам и убейте зверолюдов в Зиянии и внутри Шпиля Зияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Для ритуала на Воющей Скале нужно три осколка лазурелита. Эти осколки можно найти в Каменном Море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Принесите осколки лазурелита Радиксу на Воющей Скале, чтобы начать подготовку к ритуалу для Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] нападает на Скаловержцев на Воющей Скале, пытаясь остановить ритуал. Защищайте Скаловержцев от Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Завершите ритуал на Воющей Скале, забрав частицу Каирна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы использовали всю магическую энергию Каирна, чтобы навеки умертвить [url=glossary:каменное море]Каменное Море[/url], тем самым нанеся сокрушающий удар армии Нерата. Вернитесь к Грэйвену Аше в Железном Очаге и расскажите об успехе своей операции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную центральную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную западную жилу лазурелита, чтобы завершить Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вставьте фокусирующий посох Скаловержца в заряженную юго-восточную жилу лазурелита, чтобы стабилизировать Ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Поговорите с Базилионом в Старых Стенах Зияния и сообщите ему, что вы нашли кристаллы и убили всех зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Поговорить с Радиксом на Воющей Скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Поговорите с Алой Пастью в Шпиле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Возьмите кусок Каирна, чтобы стать сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили Каирна и лишили [url=glossary:алый хор]Алый Хор[/url] всякой надежды выращивать в Каменном Море урожай для своей армии.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

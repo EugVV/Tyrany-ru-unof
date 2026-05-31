@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_f_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Как же меня утомляет вся эта лесть исподтишка... Там есть и другие люди. Иди, поговори лучше с ними".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Честное слово, такое впечатление, будто он и не помнит, что я рядом и слышу все, что он говорит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Неважно, куда я иду – он все время ходит за мной. Еще немного, и я просто уйду и не вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Плевать мне, что у нас новый Владыка или что очередной [url=glossary:эдикт]Эдикт[/url] нас всех прикончит! Пусть он научится наконец понимать намеки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

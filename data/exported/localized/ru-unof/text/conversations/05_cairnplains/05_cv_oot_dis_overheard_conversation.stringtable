@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_oot_dis_overheard_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"...в общем, просыпаюсь я ночью, а у лежанки стоит зверолюдка. Не успел я слова сказать, как она меня опрыскала. С ног до головы какой-то мерзкой жижей облила. Форма так воняла, что пришлось сжечь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Эм-м... отличная история".
+
+Скаловержец прочищает горло. "Ну, как идут раскопки в Зиянии? От Базилиона что-то слышно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нет. Ничего, ни одной весточки, и я не знаю, когда они вернутся". Он с отвращением вздыхает. "Учитывая, кто у них за командира, я не удивлюсь, если они там прохлаждаются в свое удовольствие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Похоже, что он не видит ничего такого срочного в ритуале, который мы собираемся провести".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Если он вернется с какими-нибудь булыжниками, то я ему лично шею сверну. Мастер Радикс выбрал его только потому, что у него чистый лазурелит на посохе. Но этот дурень запросто может его потерять. И что тогда нам делать? С лазурелитом в наш форт кто угодно попадет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Подготовка закончена?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Да. Выходим, как наступит ночь. Так мы сможем избежать стычек со зверолюдами и всеми теми, кто может встретиться нам на пути".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Когда вернетесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Думаю, что только утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Сейчас вы ничего не слышите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Кто? Зверолюд? Или певчий из Хора? Не глупи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы слышите, как ботинки шаркают по грязи. "Значит, ты говоришь..." 
+
+Диалог продолжается, но собеседники отходят от стены, и вы их уже не слышите.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

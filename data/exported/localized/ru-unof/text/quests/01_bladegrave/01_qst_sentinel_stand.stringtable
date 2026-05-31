@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_sentinel_stand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Противостояние</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вернуться в Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Пробиться к внутренней части крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Найти Стрейдуса Иродина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Преследовать Стрейдуса Иродина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Завершить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Убедить Амелию встретиться с Нератом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Сразиться с Амелией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Завершить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Поговорить с Нератом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Поговорить с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Вернуться в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Перейти мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Завершить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Вернуться к разводному мосту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Завершить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Попасть в цитадель Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Уничтожить войска Опальных в регионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Битва за Твердыню Часовых началась. Теперь, когда найдена Инсигния Непоколебимости, несколько армий пришли к крепости Несломленных, чтобы вступить в бой за нее. Сразитесь за крепость с Опальными и убейте Стрейдуса Иродина, чтобы закончить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>С помощью Инсигнии Непоколебимости вы можете выдержать свирепые ветра у Твердыни Часовых и пройти внутрь. Вернитесь к крепости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] и [url=glossary:опальные]Опальные[/url] сражаются за контроль над Твердыней Часовых. Пройдите через поле боя и прорвитесь за ветровую стену урагана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вы добрались до внутренней части Твердыни Часовых. Найдите последнего регента, Стрейдуса Иродина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Стрейдус не хочет оказывать содействие и отступает за стены замка. Отбросьте его силы назад и победите регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ребенок Амелии – последний живущий регент и ключ к продолжающему действовать Эдикту Кайроса. Убейте младенца или найдите другой способ прекратить бури.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Вы нашли Амелию, но она оказалась не пленницей, как вы ожидали. Ее защитник, Стрейдус Иродин, был убит в бою, но, возможно, вам все еще удастся убедить ее присоединиться к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Дочь Амелии – последний живущий регент и ключ к продолжающему действовать Эдикту Кайроса. Поговорите с Амелией и узнайте, что можно сделать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Дочь Амелии – последний живущий регент. Если ее убить, то [url=glossary:эдикт]Эдикт[/url] Бурь будет завершен, а вы получите полный контроль над Твердыней Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>Твердыня Часовых теперь под контролем Хора. Вернитесь в Какофонию и обсудите следующие шаги с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10036</ID>
+      <DefaultText>Твердыня Часовых теперь под контролем Опальных. Вернитесь в Железный Очаг и обсудите следующие шаги с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10037</ID>
+      <DefaultText>Твердыня Часовых теперь под контролем Несломленных. Вернитесь в [url=glossary:зал вознесения]Зал Вознесения[/url] и обсудите следующие шаги с Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10039</ID>
+      <DefaultText>Мост на другую сторону</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10044</ID>
+      <DefaultText>Вы отказались убивать дочь Амелии, потеряв Несломленных как союзников и лишившись возможность сформировать союз повстанцев. 
+
+Все, что осталось, – это подчинить Твердыню Часовых, а для этого нужно найти способ закончить [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10051</ID>
+      <DefaultText>Вы уничтожили все силы на юг от реки. Вернитесь к мосту и посмотрите, клюнула ли Румалан на наживку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10053</ID>
+      <DefaultText>Дочь Амелии – последний живущий регент. Если ее убить, то [url=glossary:эдикт]Эдикт[/url] Бурь будет завершен, а вы получите полный контроль над Твердыней Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10055</ID>
+      <DefaultText>Инсигния Непоколебимости создала просвет в ржавой буре. Путь к цитадели Твердыни Часовых свободен – теперь вы сможете разобраться с войсками внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10056</ID>
+      <DefaultText>Румалан уверена, что ее силы на северо-востоке и юго-западе от моста одержат верх. Уничтожьте их, чтобы попробовать заманить ее в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы обнаружили, что кровная линия регентов – это результат магического соглашения, и его можно аннулировать, если Амелия откажется от прав, принадлежащих ее ребенку по рождению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Возможно, старшие Вершители судеб Суда Тунона знают больше о тонкостях кровных линий Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Возможно, [url=glossary:грэйвен аше]Грэйвен Аше[/url] сможет что-то посоветовать, особенно с учетом того, что к этому вопросу имеет отношение его дочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] неохотно дал вам разрешение на поиск информации о кровных линиях Несломленных в Горящей Библиотеке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Вы обнаружили, что кровная линия регентов – это результат магического соглашения, и его можно аннулировать, если Амелия откажется от прав, принадлежащих ее ребенку по рождению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Возможно, старшие Вершители судеб Суда Тунона знают больше о тонкостях кровных линий Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Путь, ведущий к внутренней части крепости, заблокирован поднятым мостом. Вам нужно найти способ разбить лебедку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Группе Несломленных нужна ваша помощь на северо-востоке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ваши союзники теперь могут уничтожить лебедку подъемного моста. Вернитесь к мосту и перейдите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Используйте Инсигнию Непоколебимости, чтобы прекратить ржавую бурю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Вы обнаружили, что кровная линия регентов – это результат магического соглашения, и его можно аннулировать, если Амелия откажется от прав, принадлежащих ее ребенку по рождению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Возможно, старшие Вершители судеб Суда Тунона знают больше о тонкостях кровных линий Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Румалан приказала уничтожить оставшихся врагов на вашей стороне реки, прежде чем она опустит мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Вы уничтожили всех врагов из Несломленных на южной стороне реки. Румалан должна была опустить мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Вы убили Амелию, решив, что смерть ее дочери – это неизбежное зло. Убейте ребенка, чтобы завершить [url=glossary:эдикт]Эдикт[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Уцелевшие фолианты в Горящей Библиотеке могут содержать полезные знания о кровных линиях Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Уцелевшие фолианты в Горящей Библиотеке могут содержать полезные знания о кровных линиях Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Вы убили Амелию, решив, что смерть ее дочери – это неизбежное зло. Убейте ребенка, чтобы завершить [url=glossary:эдикт]Эдикт[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Вы убили Амелию, решив, что смерть ее дочери – это неизбежное зло. Убейте ребенка, чтобы завершить [url=glossary:эдикт]Эдикт[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Румалан отступила за подъемный мост. Может, вы сможете выманить ее, если уничтожите остальных ее солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Вы уничтожили все силы на юг от реки. Вернитесь к мосту и посмотрите, клюнула ли Румалан на наживку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Используйте Инсигнию Непоколебимости, чтобы прекратить ржавую бурю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Поговорить с Семипалой о том, куда идти дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы завершили [url=glossary:эдикт]Эдикт[/url] Бурь Кайроса, принеся спокойствие в бывшее королевство Оплот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы отправили Амелию и ее дочь к Нерату. Хотя [url=glossary:эдикт]Эдикт[/url] Бурь не закончился, вы разрешили главный конфликт в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы захватили Амелию – ее будут держать в плену [url=glossary:несломленные]Несломленные[/url]. Жизнь ее дочери вы пощадили, а [url=glossary:эдикт]Эдикт[/url] Бурь был закончен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы убили Амелию и ее дочь, закончив [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Вы пощадили жизни Амелии и ее дочери, но закончили [url=glossary:эдикт]Эдикт[/url] Бурь. Амелия и ребенок вернулись к Грэйвену Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Вы убили Амелию и ее дочь, закончив [url=glossary:эдикт]Эдикт[/url] Бурь. [url=glossary:грэйвен аше]Грэйвен Аше[/url] поймет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Вы убили Амелию и ее дочь, закончив [url=glossary:эдикт]Эдикт[/url] Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Битва за Твердыню Часовых началась. Теперь, когда найдена Инсигния Непоколебимости, несколько армий пришли к крепости Несломленных, чтобы вступить в бой за нее. Сразитесь с Опальными и Несломленными и вместе со своими союзниками из Хора проникните в крепость. Там вам нужно найти дочь Грэйвена Аше, Амелию, и привести ее к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Битва за Твердыню Часовых началась. Теперь, когда найдена Инсигния Непоколебимости, несколько армий пришли к крепости Несломленных, чтобы вступить в бой за нее. Сражайтесь бок о бок с Несломленными и пробейтесь через силы Опальных до Стрейдуса Иродина, чтобы найти способ закончить [url=glossary:эдикт]Эдикт[/url] Бурь раз и навсегда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>Инсигния Непоколебимости в ваших руках, и теперь пришла пора пройти через пелену магической бури, окружающей Твердыню Часовых. Отправьтесь туда и завершите [url=glossary:эдикт]Эдикт[/url], чтобы взять крепость под свой контроль.
+
+[Необязательное задание]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

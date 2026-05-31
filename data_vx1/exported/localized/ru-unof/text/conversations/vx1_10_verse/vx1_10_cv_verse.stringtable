@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_10_verse\vx1_10_cv_verse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>416</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Как было не углядеть птицу из Какофонии?" Фуга ухмыляется при вашем приближении. Ее разноцветные глаза пристально наблюдают за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Слушай, Вершитель. Я тут давно хотела кое-чем поделиться". Фуга кивает, чтобы привлечь ваше внимание.</DefaultText>
+      <FemaleText>"Слушай, Вершительница. Я тут давно хотела кое-чем поделиться". Фуга кивает, чтобы привлечь ваше внимание.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Он думает, что нашел кого-то из тех, кто убил твоих сестер".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хочешь рассечь башку кому-то из тех, кто прикончил твоих сестер-Фурий? А то кто-то этим подвигом расхвастался не на шутку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что, постой? Он нашел кого-то из тех сук, что убили моих Фурий? Собираемся и помчались!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Шпионские игры – это ж просто песня. Обман, поножовщина, вечное ощущение опасности, а главное – скажешь чуть меньше, и тебя не поймут, а чуть больше – и все, раскрыт..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вот так просто и вывалит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Голоса сообщил условные фразы, которые заставят Мальфору нам открыться. Когда мы ее найдем, говорить буду я. Не вмешивайся, и все пойдет, как по маслу". Она потирает руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Как ты поняла, откуда эта птица?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Архонт Тайн прислал мне письмо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Архонт Тайн играет с нами. Особенно с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Птицы Голосов – особенные. Движутся... как будто пустые внутри. Как марионетки. Или как Пятый Глаз". Она хмыкает, приглаживая перья на голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"А кто же еще?" Она распрямляется. "Разве что у тебя завелся тайный поклонник среди Кровавых Гончих. Лично мне эти изнутри-солнцем-обожженные никогда привлекательными не казались, но мало ли, какие у тебя извращения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Да, это он любит". Она пожимает плечами. "Странно, что ты не заметил".</DefaultText>
+      <FemaleText>"Да, это он любит". Она пожимает плечами. "Странно, что ты не заметила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Тебя удивляет, что я с первого взгляда могу опознать почтовую птицу Нерата? Послужи этому уроду с мое, еще и не такое научишься замечать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Но если серьезно... Чего босс от нас хочет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Но если серьезно... Ты у босса, прямо скажем, не в любимчиках. Надеюсь, письмо хорошее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Протянуть ей послание.] "Хочешь прочитать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url] мне не босс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Он пишет, кто-то похваляется убийством твоих сестер. Что он хочет этим сказать, ты в курсе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты не умеешь читать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Э-э... а вкратце пересказать можешь?" Фуга бросает взгляд на неровный почерк Голосов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Да как-то никогда не нужно было, на хрен. Что, для тебя это проблема?" Она скрещивает руки на груди, но на скулах вспыхивает румянец смущения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Тебе нечего стесняться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Я могу тебя научить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ты права. Это умение полезно лишь тем, кто интересуется не только убийствами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ничего я не стесняюсь. И не надо мне рассказывать, что я чувствую!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Хм, э-э, нет, я не против... может, потом, когда закончим сносить людям бошки? Если выживем, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Убивать я люблю и умею! Ну так и не буду время зря тратить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Поверь, Вершитель, Фуга лишена чувства стыда. Оно в нее не вмещается".</DefaultText>
+      <FemaleText>"Поверь, Вершительница, Фуга лишена чувства стыда. Оно в нее не вмещается".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Заткнись, истукан бронзовый. Уж ты точно столько же букв знаешь, сколько у тебя баб было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Закованный в броню воин скрещивает на груди руки и погружается в молчание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Да что сразу вскидываться-то? Что за муха тебя укусила?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я не знал, что у тебя есть сестры".</DefaultText>
+      <FemaleText>"Я не знала, что у тебя есть сестры".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Кто он такой, этот убийца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Он также приложил несколько кодовых значков. Этот, кажется, означает богатство. Прочие мне не знакомы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Тут есть еще кое-что. Странные символы на обороте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Были. Хоть и не родные. Может, тебе стоило поинтересоваться. Я в чужих головах не читаю – я их только разбивать умею".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Не знаю точно. Кто-то, кто помог убить моих сестер по оружию. Но мы же знаем, где его искать, да? Так пойдем и вытрясем из него всю душу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Мальфора... Она вроде на Арчианда работала. Зануда, но когда надо – все сплетни вывалит. Думаю, мы ее отыщем где-то по дороге в [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ты знаешь про условные знаки? Как это мило и бесчестно!" Она широко улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Как-то маловато информации для такой уймы значков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Тебе не кажется подозрительным, что Архонт вдруг заинтересовался твоей местью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Уйти.] "Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ты спрашиваешь, доверяю ли я Голосам Нерата, Архонту Тайн, Главному Шпиону, Мистическому Столпу Зеленого Дыма и Пламени, Бессмертному Магу, Пожирателю Мозгов и Знатоку Извращений?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Твою мать! Никто из этих людей не убивал моих сестер! Никого из них там не было!" Фуга морщится, обозревая бойню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Что это у тебя?" Фуга смотрит на мокрый от крови сверток, который вы нашли на трупе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Мы получили, что хотели, и даже ни с кем не подрались". Уперев руку в бок, Фуга смотрит вслед уходящим солдатам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Как долго это еще будет продолжаться, Фуга? Когда ты утолишь свою жажду крови?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ирисса хотела, чтобы эти перчатки достались ее сестре Клие, которая живет в Речном Изломе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Показать Фуге послание.] "Вот, сама посмотри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Что за хрень, Вершитель? И это ты мне говоришь? Человек, огласивший [url=glossary:эдикт]Эдикт[/url], который мог убить всех мужчин, женщин и детей в Колодце Вендриенов?"</DefaultText>
+      <FemaleText>"Что за хрень, Вершительница? И это ты мне говоришь? Человек, огласивший [url=glossary:эдикт]Эдикт[/url], который мог убить всех мужчин, женщин и детей в Колодце Вендриенов?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"О чем ты говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ты имеешь в виду то же, что и я?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"А, у Ириссы была сестра. Значит, сестра за сестру. Есть в этом некая справедливость, согласись?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Она смотрит на вас, выхватывает пергамент, смотрит на его. Потом, покачав головой, сует свиток вам обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я провозгласил [url=glossary:эдикт]Эдикт[/url], чтобы положить конец войне".</DefaultText>
+      <FemaleText>"Я провозгласила [url=glossary:эдикт]Эдикт[/url], чтобы положить конец войне".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] провозгласил [url=glossary:кайрос]Кайрос[/url]. Я просто доставил его по назначению".</DefaultText>
+      <FemaleText>"[url=glossary:эдикт]Эдикт[/url] провозгласил [url=glossary:кайрос]Кайрос[/url]. Я просто доставила его по назначению".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Я судья. Это был приговор. Они восстали против Владыки и были признаны виновными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Вершитель судеб прав, Фуга. Даже у твоей кровожадности должны быть какие-то границы".</DefaultText>
+      <FemaleText>"Вершительница судеб права, Фуга. Даже у твоей кровожадности должны быть какие-то границы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Засунь свое беспокойство куда поглубже, ты, нужник ходячий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"И это твое оправдание? Думаешь, война унесла бы всех до единого, а? Оправдайся чем поубедительнее, Вершитель".</DefaultText>
+      <FemaleText>"И это твое оправдание? Думаешь, война унесла бы всех до единого, а? Оправдайся чем поубедительнее, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Угу, ты просто оружие, которое Владыка нацелил на Гребень". Фуга пожимает плечами. "Но меч-то не думает, верно? Дротик не повернет назад, если его метнуть. Ты сделал свой выбор, когда прочитал эти слова. Не увиливай теперь".</DefaultText>
+      <FemaleText>"Угу, ты просто оружие, которое Владыка нацелил на Гребень". Фуга пожимает плечами. "Но меч-то не думает, верно? Дротик не повернет назад, если его метнуть. Ты сделала свой выбор, когда прочитала эти слова. Не увиливай теперь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"В Колодце Вендриенов были что, виновны все? Крестьяне? НАШИ солдаты? Архонты? Я? Ты?" Она фыркает. "Красивая история, я согласна, но было-то все по-другому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Слушай, я не качу на тебя бочку. Что-то надо было делать, чтобы завоевание сдвинулось с мертвой точки". Она смотрит вам в глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Так что там у тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Надо найти эту Клию. Наверняка ей что-то известно о том, с кем Ирисса в войну была, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"И кто знает? Может, посмотрим – а у нее морда кулака просит. А то и ножа". Фуга улыбается, глаза ее блестят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Я знала, что тебе это понравится!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Если мы отправимся в Речной Излом, оружие будет в ножнах. Понятно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Мы уже СТО ЛЕТ никому ножом в морду не тыкали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Фуга, постарайся сдержать свое..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Как скажешь, Вершитель. Никого не убиваем, пока сами не попросят. Может, она попросит!"</DefaultText>
+      <FemaleText>"Как скажешь, Вершительница. Никого не убиваем, пока сами не попросят. Может, она попросит!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Целых пять минут!" Она ухмыляется. "Ты мною гордишься? Я собой горжусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"А что свое-то? Ничего не поняла и обещать ничего не могу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Пошли. Уныло тут оно все". Она жестом указывает на дорогу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Когда вы поворачиваетесь, чтобы идти, вам на плечо ложится рука в латной перчатке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"В чем дело, Барик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Уйти.] "Не сейчас. Нам пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Я не первый год знаю Фугу. Она всегда была... нервной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Барик пустыми глазами смотрит, как вы высвобождаетесь из его хватки и идете следом за Фугой. Постояв полминуты, он молча топает за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"А тут другое. Она взбеленилась. Опасности не чует. Как самые худшие в Хоре, а не... а не лучший его боец". Он переступает с ноги на ногу с металлическим скрежетом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Я заметил".</DefaultText>
+      <FemaleText>"Я заметила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ну и?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Возможно, она становится той, кем ей предназначено стать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Я просто прошу, приглядывай за ней. Ради нее самой, не ради тебя". Закованный в броню воин пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Кем предназначено?" Он мрачно отводит взгляд в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Спасибо, Барик. Я сделаю для нее все, что смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Я тебя услышал".</DefaultText>
+      <FemaleText>"Я тебя услышала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Есть люди, которых невозможно спасти от самих себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Посмотрим, что будет дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Но это не значит, что не стоит и пытаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Спасибо, что выслушал, Вершитель судеб". Барик кивает, похлопывая вас по плечу.</DefaultText>
+      <FemaleText>"Спасибо, что выслушала, Вершительница судеб". Барик кивает, похлопывая вас по плечу.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ты же понимаешь, что мертвецу отомстить невозможно? Ириссе ни холодно, ни жарко оттого, что ты убьешь ее сестру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Да знаю я. Обидно, скажи?" Она хмурится. "Не волнуйся, я не стану убивать никого, кто этого не заслуживает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Я вроде понял".</DefaultText>
+      <FemaleText>"Я вроде поняла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Не понимаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"У меня всегда была очень тесная связь с моими Фуриями. Я чувствовала себя... не знаю. Частью чего-то большего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Когда мы искали Крокуса и Ириссу, я их почти что слышала... как будто они мне шептали, дергали откуда-то из глубины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"На Голоса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"На Элдиана?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Скажи это вслух, Фуга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Да, яйцами Кайроса клянусь, да. На него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ты волнуешься из-за Архонта Тайн?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url] – паразит. А ты хищник".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"На того пердуна из Распутья Летианы?" Она смеется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, доволен теперь?" Она хмурится.</DefaultText>
+      <FemaleText>"[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, довольна теперь?" Она хмурится.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Неужели я такая же, как Голоса?.. Одной этой мысли довольно, чтобы мне захотелось живьем с себя шкуру содрать". Она делает глубокий вдох, грудь вздымается, и она медленно, с шипением выдыхает воздух сквозь стиснутые зубы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Если не хочешь в него превратиться, не будь такой, как он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Возможно, ты правильно беспокоишься. То, что ты описываешь, может быть проявлением мистической взаимосвязи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Семья всегда оставляет свой след. Моя была немногим лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Когда умирают близкие, особенно если ты в ответе за их гибель... даже если тебе так просто кажется... ты всегда стараешься сохранить их живой образ внутри себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Огонь – это сложная метафора. Он бушует и пожирает, но в то же время дарит тепло и свет. То же и с ушедшими друзьями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Постоянно. В конце концов он тебя либо выжимает досуха, либо еще что похуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Есть имена и похуже, чем Восемнадцатый Глаз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ага. Двадцать Третий, например".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Сейчас он паразит, да, но не всегда так было. Может, оно как: сначала убиваешь, убиваешь, а потом находишь других, кто убивает за тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Что конкретно ты предлагаешь?" Правый уголок рта у нее подергивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ничего не поняла". Она моргает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Хочешь сказать, мы с Нератом – семья? Типа, он мой папаша?" Она морщит нос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Красивые слова, Вершитель. Сладкие, как пирог, который перестоял на солнце. Пока ешь – все отлично, но потом три дня не вылезаешь из нужника". Она вздергивает брови.</DefaultText>
+      <FemaleText>"Красивые слова, Вершительница. Сладкие, как пирог, который перестоял на солнце. Пока ешь – все отлично, но потом три дня не вылезаешь из нужника". Она вздергивает брови.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Вершитель судеб, я что-то перестала тебя понимать". Она смотрит на вас в упор и ждет.</DefaultText>
+      <FemaleText>"Вершительница судеб, я что-то перестала тебя понимать". Она смотрит на вас в упор и ждет.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Заставь себя оставаться человеком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Уйди из Алого Хора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Будь сильнее его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Я не знаю... может, людей больше есть не стоит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Согласно второй теореме Гипарии, подобие рождает сильную магию. Гипария утверждала, что, подобно тому как вариации сигила Архонта представляют собой различные деяния, на которые Архонт способен, принятие образа мыслей и действий Архонта приводит практикующего мага к лучшему пониманию своего покровителя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Не суть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Гипария? Не припомню ни одного значимого ученого, кто принимал бы ее всерьез".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Угу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Прошу прощения, что напомнила тебе о традиции твоей Школы присваивать чужую магию вместо того, чтобы создавать свою собственную".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Подобным же образом, известно, что Архонты оказывали существенное влияние на своих последователей тем, что заставляли их следовать аналогичным паттернам в поведении, образе мыслей и даже в одежде. Хороший тому пример – Архонт Войны. Рогалус полагает, что если бы [url=glossary:опальные]Опальные[/url] так тщательно не блюли все традиции Аше и не подражали ему в быту, он не мог бы так действенно защищать и исцелять их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Так, Вершитель, ты с кем сейчас разговаривал?.."</DefaultText>
+      <FemaleText>"Так, Вершительница, ты с кем сейчас разговаривала?.."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Если по-простому, то Архонт Тайн манипулирует тобой, чтобы ты стала похожей на него – потому что тогда его магия будет влиять на тебя сильнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Прям усраться какое счастье!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Для следующего культа выберу себе обруч понаряднее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Скорее уж жутковатый дядюшка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Нет, я просто хочу сказать, что на нас всегда влияют те, кто нас учил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ну, раз уж остальные Фурии приходились тебе сестрами..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Мне и без того было противней некуда, когда он попросил ему скипетр отполировать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Обращайся к своим сестрам за советом и поддержкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Воспоминания о сестрах поглотят тебя, если ты им это позволишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Твоя любовь к сестрам – это одновременно и сила, и слабость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ага, как огонь. Поняла. Хороший, обычный красный огонь. Без бронзовой головы наверху". Она хмуро кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Что это значит вообще? Ты вот можешь провозглашать Эдикты Кайроса. Ты все еще человек? А [url=glossary:грэйвен аше]Грэйвен Аше[/url]? А Тунон, если уж на то пошло? По-моему, тут уж не тебе выбирать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Покинуть единственное место, где я чувствовала себя, как дома? Людей, которые подарили мне смысл жизни и научили танцевать? Ну уж нет". Она усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Кто ж того не хочет? Осталось только взять где-нибудь тысячу лет срока, пару мощных артефактов, каких мир еще не видел, сеть информаторов и самую громадную армию на Ярусах. А так мечтать не вредно". Она пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Не могу ничего обещать. Зверолюды мне открыли новую и... очень аппетитную диету".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Слушай, Вершитель, есть еще одно – и я заткнусь".</DefaultText>
+      <FemaleText>"Слушай, Вершительница, есть еще одно – и я заткнусь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Только, ну ты понял, не прямиком из головы..." Она неуверенно хмурится.</DefaultText>
+      <FemaleText>"Только, ну ты поняла, не прямиком из головы..." Она неуверенно хмурится.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Займемся этим в первую очередь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Проверим, если будет возможность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Фуга, сейчас правда не до того".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Спасибо. Кто знает? Может, и раскопаем что-нибудь, что пригодится нам против Архонтов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Я не говорю, что надо бросать все и этим заниматься. Просто, ну, знаешь, если время будет. У меня какое-то странное чувство на этот счет, вот и все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Пошли. Война еще не закончена". Она кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Гонимый ветром пепел забивает вам нос еще до того, как вы добираетесь до Речного Излома. Когда вам наконец становится видна ферма, к этому присоединяется запах гари, обугленной, гниющей плоти и тухлых овощей. Дом полностью разрушен, штукатурка потрескалась и почернела. У Фуги, вышедшей вперед, невольно опускаются руки и отвисает челюсть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Кайросово дерьмо! Что это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Осторожно, Фуга. Это может быть ловушка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Что здесь произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Окликнуть] "Эсса!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Тоже мне. Зверолюды в период гона и то незаметнее". Она тянется за оружием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Пожар, как видно. И неслабый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Твою мать, Вершитель! Всему Колодцу Вендриенов хочешь сообщить, что мы тут?"</DefaultText>
+      <FemaleText>"Твою мать, Вершительница! Всему Колодцу Вендриенов хочешь сообщить, что мы тут?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Давай осмотримся. Может, найдем хоть какой-то намек, кто это сделал... и зачем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Эсса... твою ж мать". Фуга опускается на колени прямо в золу, касается лица с обуглившейся, потрескавшейся кожей. Помолчав немного, она поднимает на вас взгляд и качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Это не твоя вина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ты в порядке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Мы найдем того, кто это сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Оставь. Ей уже ничем не помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Не моя вина? Да иди ты! Когда мы найдем тех, кто это сделал, они у меня узнают, каково это – заживо поджариться на костре, как свинья на вертеле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"А с чего мне быть не в порядке? Пошли, найдем ублюдков, которые это устроили. У меня есть к ним пара слов. Пара горячих, очень острых слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Угу. У меня есть вопросы, на которые я хочу получить ответы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Да ясное дело, зато себе помочь мы еще можем. Давай выясним, что тут стряслось. Потом я сведу счеты с теми, кто это сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Да, да! А потом вкусная еда – жареный-человек-как-свинья?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Фу, нет! Нельзя есть людей. Плохая зверюга, плохая!" Сирин в ужасе отшатывается от зверолюдки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Давай разберемся, что тут случилось, Вершитель. А потом устроим... правосудие".</DefaultText>
+      <FemaleText>"Давай разберемся, что тут случилось, Вершительница. А потом устроим... правосудие".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Я подумаю об этом, когда вернется аппетит". Фуга кивает Смерти-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Зверолюдка думает, девочка-птица – хороший перекус. Но для вечерней еды мало мяса, даже если выгрызть весь мозг из костей". Она фыркает, облизывает верхнюю губу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ты сиди тут, зверь, и все свои рви-грызи держи при себе". Сирин отходит подальше от Смерти-из-Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Сжечь? Пронзить насквозь? Проткнуть. Воспламенить. Насадить. Испепелить. Я буду рядом, если захочешь что-то добавить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Охренеть, старик. И сколько ж лет читать потребовалось, чтобы сделать такой глубокий вывод?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Я могу заставить их ответить на любые твои вопросы, Фуга. Я просто их очень ласково попрошу". Сирин сладко улыбается, но в глазах мелькает недобрый огонек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Лучше не лезь, чирикалка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Прекрасно. Если тебе так хочется крови – ЕЩЕ больше крови – на этом тряпье, которое ты называешь своей одеждой, я тебя останавливать не стану". Она расплывается в улыбке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Итак, имеется сгоревшая ферма и следы огненной магии вокруг... кто же это, как не Каториус, наш пропавший, мать его, огненный маг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Застыв, как филин на ветке, Фуга смотрит в сторону Какофонии. Теплый восточный ветерок поигрывает перьями в ее волосах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ближайшая крепость – одно название, деревянный сарай с оградой, на краю Спорных Земель. Называется форт Растрата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Пошли, нас Книгочей неубитый ждет". Она машет вперед рукой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Все в порядке? Кажется, ты слегка... напряжена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[Уйти] "Пошли его отыщем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Да, я... Это все огонь. Поневоле вспомнилась Алый Гейзер". Она прикусывает нижнюю губу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Веди, босс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Расскажи мне о ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Уйти] "Держись. Пора идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Она любила огонь. Любила его сильнее, чем все прочие Фурии... может, даже больше, чем Певчие Крови. Они его призывают, подчиняют, используют. Для нее... он был партнером в танце".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Вот так она и получила свое прозвище – струя из перерезанной глотки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Жаль, я этого не видел".</DefaultText>
+      <FemaleText>"Жаль, я этого не видела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Уйти.] "Полагаю, этого достаточно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Если сзади на нее взглянуть, или на грудь, ее любой бы принял за мужика-работягу. Жрала больше, чем мы все вместе взятые. Чем бы ни загоралась – отдавалась этому целиком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ей надо было только одного: чтобы Голоса ее заметил. Он ей вторую жизнь подарил в Хоре, и она всеми силами пыталась доказать, что не зря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Она была хорошей бабой, Вершитель. Лучше многих на этом гребаном полуострове. Я рада, что смогла тебе о ней рассказать. Так она как будто снова жива. А теперь пошли". Фуга похрустывает костяшками и кивает.</DefaultText>
+      <FemaleText>"Она была хорошей бабой, Вершительница. Лучше многих на этом гребаном полуострове. Я рада, что смогла тебе о ней рассказать. Так она как будто снова жива. А теперь пошли". Фуга похрустывает костяшками и кивает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Фуга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Увидела там что-то интересное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Думаешь важные мысли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Наверняка у тебя есть более важные дела, чем то, что ты сейчас делаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Я не жалею о том, что было сказано в форте Растрата. Я считаю, я была права. Другое дело то, как я это сказала... Погорячилась, это все огонь виноват". Она старается не смотреть на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Всего лишь прошлое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Всего лишь будущее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Разве что держаться от Барика с наветренной стороны. Важнее этого ничего быть не может".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Я чувствую, как сестры кружат у меня внутри. То ли танцуют, то ли пытаются выгрызть путь на свободу... А может, и то и другое разом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ты называешь это извинением?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Извинения приняты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Тебе не за что просить прощения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"А что, для меня это прямо достижение. Я обычно не извиняюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Может, нет. Может, есть. В любом случае... вот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Что ты имеешь в виду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Тебе в этом ничего не кажется знакомым?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Сестры продолжают жить внутри тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ты себе нафантазировала невесть чего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Скорее всего, и то и другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Мне кажется, ты пытаешься как-то оправдать бурю в своей душе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Знаешь, бывает – думаешь о ком-то, и его голос как будто звучит у тебя в голове, или ты его почти видишь?" Она прихватывает пальцами переносицу и закрывает глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Думаешь, я скоро стану о себе говорить «мы»?" Она тяжело и шумно вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Утешает, как бутыль неразбавленного вина. Сейчас хорошо, а назавтра будет плохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Да если бы. Но либо так, либо я схожу с ума. И лучше уж так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Вот спасибо, Вершитель. Ты настоящий друг". Фуга бросает на вас хмурый взгляд.</DefaultText>
+      <FemaleText>"Вот спасибо, Вершительница. Ты настоящий друг". Фуга бросает на вас хмурый взгляд.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Может быть. Вроде того, что эта страсть, это дикое и бешеное желание на самом деле мое – просто я даю ему голоса сестер. Или как-то так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Она принимается разглядывать свои растопыренные пальцы. Ее явно заинтересовала грязь под ногтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Передо мной как будто обрыв – такой широкий и глубокий, что ничего, кроме воздуха, не видно". Она смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Тогда я буду воевать с Кайросом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Я человек Владыки, и что мое – то его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Когда так случится, тогда и решу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Твою мать. Чего-то подобного я от тебя и ожидала. Опасная дорожка, как мне кажется, но это твой выбор". Она вновь принимается рассматривать свои пальцы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Уголки ее рта трогает улыбка. "Надеюсь, что Владыка того же мнения на этот счет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Проклятье, Вершитель, ты уже и говоришь совсем как я. Интересно, предвидел ли это Голоса, когда отправлял меня выгуливать законника". Она звонко смеется.</DefaultText>
+      <FemaleText>"Проклятье, Вершительница, ты уже и говоришь совсем как я. Интересно, предвидел ли это Голоса, когда отправлял меня выгуливать законника". Она звонко смеется.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Голоса мертв. Я жива. Почему-то мне казалось, я буду себя чувствовать иначе. Но ощущение такое, как будто... наоборот". Она вновь устремляет взгляд в сторону Какофонии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"А теперь Голоса... м-да, такого я не ожидала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Голоса... не могу вообразить, чтобы он преклонил перед тобой колена. Не знаю, что ты там задумал, но если пойдешь к нему, лучше готовься к войне".</DefaultText>
+      <FemaleText>"Голоса... не могу вообразить, чтобы он преклонил перед тобой колена. Не знаю, что ты там задумала, но если пойдешь к нему, лучше готовься к войне".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Наоборот?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ты сама сказала. Его нет. А мы есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Я здесь. Доверься мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Я не говорю, что чувствую себя мертвой изнутри. Просто... для меня он как будто не умирал. Будто он по-прежнему жив-здоров и топчет землю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Голосам больше лет, чем ты можешь себе представить. Если кто-то и нашел способ обмануть пустоту, то это должен быть он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Архонт Тайн падет от моей руки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Я подчиню себе Архонта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Я придумаю, как управиться с Голосами Нерата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Твоя уверенность в себе заразительна. Прямо-таки воодушевляет". Она широко улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Не могу поверить, что Голоса так и будет куковать в своей темнице. Но даже если будет – дальше-то что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"И что, если этот способ – я? Он ведь к чему-то меня готовил. Что, если он оставил во мне какой-то потайной ход? Что, если он прямо сейчас во мне прячется?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Зачем ему это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Если Голоса пытается использовать тебя как дверь, я захлопну ее и запру на засов. Навсегда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Ты должна держать себя в руках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Не знаю! Точно так же, как он людей в себя забирал? Может, оно в две стороны работает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Не уверена, что ты хотел меня успокоить, но тебе это удалось. Если этот ублюдок попытается из меня вылезти, не вздумай меня беречь. Надвое рассеки – и все".</DefaultText>
+      <FemaleText>"Не уверена, что ты хотела меня успокоить, но тебе это удалось. Если этот ублюдок попытается из меня вылезти, не вздумай меня беречь. Надвое рассеки – и все".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Какая свежая и оригинальная мысль! Есть идеи, с чего начать?" Она закатывает глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"И кстати... а что делать, если я почувствую, что он где-то там скребется?" Она стучит пальцем себе по виску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Будь жестче, чем он. Больше Нератом, чем сам Нерат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Держись за свою человечность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Осознай, кто такая Фуга, – и оставайся Фугой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Больше Нератом, чем сам Нерат? Твою мать, Вершитель, ты из меня чудовище сделаешь". Она хмыкает.</DefaultText>
+      <FemaleText>"Больше Нератом, чем сам Нерат? Твою мать, Вершительница, ты из меня чудовище сделаешь". Она хмыкает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Думаешь, это просто? Человечность – штука сложная, многогранная. Почти как Голоса, если задуматься. Но, мне кажется, я понимаю, что ты имеешь в виду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Ты мне еще предложи себя спросить, как это я перестала быть собой. Хватит из меня Книгочея делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"У нас дел по горло, правильно? Так что не буду больше тебя отвлекать. И спасибо, Вершитель... Архонт... Архивершитель". Фуга улыбается.</DefaultText>
+      <FemaleText>"У нас дел по горло, правильно? Так что не буду больше тебя отвлекать. И спасибо, Вершительница... Архонт... Архивершительница". Фуга улыбается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"А вот Барик с Голосами в голове – это меньше [url=glossary:голоса нерата]Голоса Нерата[/url], чем был сам [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"А вот Атли с Голосами в голове – это меньше [url=glossary:голоса нерата]Голоса Нерата[/url], чем был сам [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"А вот Смерть-из-Тени с Голосами в голове – это меньше [url=glossary:голоса нерата]Голоса Нерата[/url], чем был сам [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"А вот Лантри с Голосами в голове – это меньше [url=glossary:голоса нерата]Голоса Нерата[/url], чем был сам [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"А вот Сирин с Голосами в голове – это меньше [url=glossary:голоса нерата]Голоса Нерата[/url], чем был сам [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Больше, чем ты думаешь. Я присмотрю за ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Я верю в Барика".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Больше, чем ты думаешь. Я присмотрю за ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Я верю в Атли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Я верю в Смерть-из-Тени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Я верю в Лантри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Я верю в Сирин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Просто, знаешь... не забывай об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Ого, Вершитель, ты глянь!" Фуга вытаскивает рулоны тонкой ткани из ящика в дальнем конце повозки.</DefaultText>
+      <FemaleText>"Ого, Вершительница, ты глянь!" Фуга вытаскивает рулоны тонкой ткани из ящика в дальнем конце повозки.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Твою мать!" Фуга смотрит на спящую девочку с карамельно-смуглой кожей и взъерошенными тугими кудряшками. Она встает на одно колено, чтобы лучше рассмотреть добычу Крокуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Глаза девочки приоткрываются, она смотрит в пустоту. Зрачки так расширены, что от радужки остаются лишь тонкие кольца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Мы ей оставим припасов. Хватит, чтобы добраться до Распутья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Задушить ее.] "Дай мне вон ту подушку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Уйти] "Пусть живет. У нас есть заботы поважнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Фуга кивает. Вы оставляете пару фляг с водой и несколько сухих пайков рядом с неподвижной девочкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Опустившись наземь рядом с девочкой, вы крепко прижимаете к ее лицу перьевую подушку и держите до тех пор, пока грудь не перестает медленно опускаться и подыматься. Если жертва хотя бы пискнула при этом, вы не услышали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Порядок, босс. Еды мы ей оставили, с трупов она тоже что-то полезное соберет... В общем, до Распутья девчонка дотянет. Если не полная размазня, конечно". Фуга кивает.</DefaultText>
+      <FemaleText>"Порядок, командирша. Еды мы ей оставили, с трупов она тоже что-то полезное соберет... В общем, до Распутья девчонка дотянет. Если не полная размазня, конечно". Фуга кивает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"В форте почти нет солдат. Может, конечно, половина хористов умчалась грабить округу, но мне все равно это не нравится". У Фуги подрагивают крылья носа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"А я уж расстроилась, что не доберу сегодня норму по убийствам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Не думаю, что Голосам Нерата понравится новость о том, что мы разгромили его форт".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Сколько еще людей нам придется тут убить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Я сама бы лучше не сказала. Если эти уроды прятали Каториуса, им будет очень, очень больно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Столько, сколько на нас кинется. Если они из Хора, они уже трупы, так что прибереги свою жалость для другого случая". Она сухо кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Ну что, пошли вершить судьбы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"В дыру для балласта себе это запихайте, гнилодеры сраные!" Фуга демонстрирует ряд изобретательно-непристойных жестов. Ее голос нарушает повисшее вокруг гробовое молчание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Ну вот. Что могли, мы сделали. И что же дальше?" Она хмыкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Погрузившись в молчание, Фуга смотрит в небо, где еще не развеялся дым Горящей Библиотеки, закладывает руки за спину, чуть выше поясницы, и потягивается, подаваясь тазом вперед, пока позвоночник не начинает похрустывать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Гляди, Вершитель!" Фуга указывает на обуглившуюся стену.</DefaultText>
+      <FemaleText>"Гляди, Вершительница!" Фуга указывает на обуглившуюся стену.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Ну и срань. Кто бы сюда ни пришел, они тут разборку промеж себя устроили. И если это не [url=glossary:алый хор]Алый Хор[/url], тогда я последняя королева Гребня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Кто-то взломал эту дверь. Железом". Она проводит пальцем по косяку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Молодчина, Вершитель". Фуга опускается на одно колено.</DefaultText>
+      <FemaleText>"Молодчина, Вершительница". Фуга опускается на одно колено.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Это было тут и раньше, верно? Боюсь, сейчас от них никакого проку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Классные камешки ты нашел, Вершитель. Может, еще поищем? Если только ты не считаешь, что они-то пожар и устроили".</DefaultText>
+      <FemaleText>"Классные камешки ты нашла, Вершительница. Может, еще поищем? Если только ты не считаешь, что они-то пожар и устроили".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Что может быть лучше старого, привычного запаха горелой фермы... В чем дело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Зоркий глаз! Сдается мне, тут применили Сигил Огня в традиции Солнечной Королевы, в противоположность куда более хаотичному пути Тысячи Углей. Это можно определить по зубчатому рисунку обожженных краев. Общая схема взрыва свидетельствует о глубинном понимании современных техник экспрессии, тогда как..." Он моргает и осекается на полуслове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"По крайней мере, когда ватага Алого Хора идет за мной, она бьет врага, а не своих". Она негромко посмеивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Позор. Владыка и Великий генерал даровали нам железо, чтобы мы проливали вражью кровь. А не для того, чтобы взламывать двери". Барик, склонив голову, сердито смотрит на дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Охотница Тени приникает к земле, упираясь в грязь костяшками пальцев. Она принюхивается и фыркает, почти касаясь ноздрями грунта. "Оставивший след пахнет потом и кровью. Кожей... старым маслом на железе. Только сухая еда, без мяса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"В повозке есть плоды и зерно, а также ткань, чтобы завернуть еду и унести с собой. Если, конечно, после всей этой бойни у нее останется аппетит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Паршиво, конечно. Но все лучше того дерьма, что ее ждало по пробуждении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Хм. Подозреваю, в ее часах песок весь высыпался еще до того, как мы появились". Фуга вздыхает, глядя на почерневший труп Эссы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Если это случилось не потому, что мы пришли ее навестить, тогда я Железный Маршал. Меня мучит теперь один вопрос: что же мы упустили?" Она хмурится, глядя на сгоревшую ферму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Дочь Аэзы. Как ты думаешь?" Фуга бережно укладывает ее наземь, потом поднимается, глядя на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"В любом случае это оптимальная возможность войти и выйти незаметно, не прорубаясь через сотню головорезов из Хора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Мы ничего не будем громить. Просто устроим небольшую прополку рядов". Она хрустит костяшками пальцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Если они недостаточно сильны, чтобы от нас защититься, тогда они не имеют права на жизнь. Голоса не станет нас винить за то, что мы повыдергиваем пару сорняков". Она ухмыляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Можем задать ему этот вопрос при встрече. Если, конечно, я не прибью его раньше, чем он даст ответ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Однажды она заманила разведчиков из Лазури на поляну... только что они выслеживали одинокую женщину, и вот вокруг уже пылают факелы. Гейзер взяла стрелы с дегтярными наконечниками, подожгла, а потом всадила одному из разведчиков в глаза – по стреле на глаз. Глаза зашипели и лопнули".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"С тобой ничего простого не бывает, да? При Голосах я слушала, когда надо, о чем надо – докладывала, убивала кого прикажут. Черное и белое. Точнее, черное и красное". Она усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Сложно было всегда, наверное. Я просто игнорировала эти сложности. Но я больше не могу слушать только свои инстинкты. Потому что инстинкты бы заставили меня спалить на хрен весь этот полуостров... а что потом?" Она потирает правую бровь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Ха! Послушай, что я несу. Еще немного, нацеплю платье и велю обращаться ко мне «Архонт». Давай закончим этот разговор позже. Мне хочется выбраться из этой дыры, Вершитель". Она отряхивает ладони.</DefaultText>
+      <FemaleText>"Ха! Послушай, что я несу. Еще немного, нацеплю платье и велю обращаться ко мне «Архонт». Давай закончим этот разговор позже. Мне хочется выбраться из этой дыры, Вершительница". Она отряхивает ладони.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>[Прочитать послание.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Вы ломаете печать и разворачиваете пергамент. Лист исписан ровным почерком, а слог удивительно четок для ярусника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Перчатки, говоришь?" Она выхватывает у вас кожаный сверток и вскрывает его. Внутри обнаруживается пара перчаток из мягкой кожи, отделанных острыми бронзовыми лезвиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Тебе знакомы эти перчатки?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Они принадлежали одной из моих Фурий". Фуга аккуратно заворачивает их обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Фуга старательно заворачивает перчатки обратно, словно и не замечая вашего взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Диоклий или его преемник!
+
+Я взяла с собой в Оплот только оружие и доспехи, ничего лишнего, кроме этих перчаток. Они достались мне как трофей в одной давней стычке. Если я погибну на Перепутье Зверолова, пожалуйста, передай их моей сестре Клие. Она живет на нашей семейной ферме на Речном Изломе, в Гребне.
+
+Скажи ей, чтобы использовала их с умом... а еще что я очень хотела вручить их лично.
+
+Спасибо за все.
+
+Ирисса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Если ты можешь читать пометки Нерата, то и буквы читать быстро научишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Просто... прекрати. Уж лучше твои неловкие взгляды, мне кажется, чем эта дружеская поддержка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Послушай, Вершитель судеб, если я захочу, чтобы меня тыкнули носом в то, что я неграмотная, я тогда тебя и позову".</DefaultText>
+      <FemaleText>"Послушай, Вершительница судеб, если я захочу, чтобы меня тыкнули носом в то, что я неграмотная, я тогда тебя и позову".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Запоминать нелепые каракули Архонта мне никогда радости не доставляло". Она, нахмурившись, рассматривает пергамент.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"До чего же хорошо, Вершитель. Безумно, немыслимо, по-глупому хорошо".</DefaultText>
+      <FemaleText>"До чего же хорошо, Вершительница. Безумно, немыслимо, по-глупому хорошо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Конечно нет! Но если это какая-то хитроумная ловушка, то я страхую тебя, а ты меня, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Проверь эти трупы вместе со мной. Может, найдем что-нибудь полезное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Одно дело быть солдатом и исполнять приказы. Другое – охотиться за людьми ради убийства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Но ты не имеешь права полоскать меня за убийство пары мятежников, когда сам был готов стереть с лица Терратуса целую страну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Мать вашу... как же мне этого не хватало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Ну что, прочитаешь или будешь играть в загадочность?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"На пару слов, Вершитель".</DefaultText>
+      <FemaleText>"На пару слов, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Будь Фуга моим солдатом, я бы требовал от нее максимальной собранности. Но, вероятно, этому не бывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"У меня внутри все горит. Я когда танцую, как будто пытаюсь выпустить огонь наружу, потушить его в крови. Но он... лишь сильнее разгорается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Слушай, я сама-то не поняла, что сказала. А ты?" Она приглаживает свои перья и вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"А теперь они как будто у меня внутри. Когда я танцую, они встают рядом... и каждый раз становятся все беспокойнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"И даже я не могу отрицать, что все это очень похоже... ну, ты понял. На него". Она смотрит куда-то вдаль.</DefaultText>
+      <FemaleText>"И даже я не могу отрицать, что все это очень похоже... ну, ты поняла. На него". Она смотрит куда-то вдаль.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Шутник ты, Вершитель. Спасибо, поржала".</DefaultText>
+      <FemaleText>"Шутница ты, Вершительница. Спасибо, поржала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Да, он может вырвать у человека его разум. А как насчет более медленных незаметных штук – типа, как он делает свои Глаза?" Ее пробирает дрожь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Это-то меня и тревожит. Он уже сделал из меня свои глаза – при тебе. Что, если теперь он захочет превратить меня в свой Глаз? Официально?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Так ведь и получаются Архонты, да? И Владыки?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Может, теперь я и созрею перерезать кое-кому зеленую огненную глотку и захватить власть в Хоре..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"После встречи с Эссой я заплатила кое-кому пару колец, попросила присматривать за ее домом и сообщать, если случится что-то необычное". Она похрустывает костяшками и потирает мозолистые ладони.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"В чем дело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Мой лазутчик донес, что там крутились какие-то чужаки. Я хочу вернуться в Речной Излом и сцапать одного из них. Может, вытянем из него что-нибудь полезное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"В общем..." Фуга отступает на шаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Я могла бы подарить ей чистую смерть, а вместо этого она нашла такой конец. Сгорела заживо. Вот тебе и милосердие". Она смотрит на свои перепачканные сажей руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Надеюсь, эти ублюдки не захотят раскалываться. Очень надеюсь, что не захотят". Она хрустит костяшками, кивая сама себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Давай осмотримся и попробуем понять, кто устроил этот пожар. Эти люди наверняка что-то знают, я уверена". Она глубоко вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Зачем было поджигать дом, если Эсса уже была мертва?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Я бы сказала, кто-то пытался замести следы". Фуга принюхивается и морщит лицо, глядя на руины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Что, минута молчания в память о женщине, которую мы же и убили? Каждому свое". Фуга фыркает и встряхивает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Я за свою жизнь повидала немало пожаров, и здесь для меня картинка очень знакомая: это огненная магия". Она опускается на колени и проводит пальцами по золе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Видишь эти отметины? Следы сигилов. Для Певчих Крови слишком чистенько. Я думаю, тут поработал Книгочей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Это сделали Книгочеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Если тебе известно другое организованное сообщество магов, которое помешано на контроле за информацией, я их тут же заподозрю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Кажется, я всем уже наскучил. Прошу прощения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Да, это шок. Я понимаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Тут повсюду вещи хористов и Опальных. Но если посмотреть на то, в каком паршивом состоянии железо, я бы предположила, что ВСЕ это барахло принадлежит Хору".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Быть может, Каториус стал хористом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Он не мог далеко уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Папа... где папа?" Веки девочки вновь смыкаются, тело остается совершенно безвольным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Может, пора отсюда валить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"У Опальных, даже вместе взятых, мозгов немногим больше, чем у бочки с камнями, но оружие они холят и лелеют, как будто каждая железка – дочка Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Следы почти незаметны. Земля совсем сухая, и те, кто их оставил, путешествовали совсем налегке. Скорее всего, при себе у них почти не было снаряжения". Она поворачивается и смотрит куда-то на восток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Тут все целое, не потрепанное... недавно соткано, судя по всему. Аэза торгует тканями, верно? Так где же он?" Она смотрит на кончики пальцев, хмурится, потирает их друг о друга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Засохшая кровь. Самое время насторожиться. Дело пахнет так дурно, что до верхушки Шпиля добивает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Вершитель судеб". Она приветствует вас, оставаясь почти неподвижной.</DefaultText>
+      <FemaleText>"Вершительница судеб". Она приветствует вас, оставаясь почти неподвижной.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Это вроде как начало извинения, а вот его конец: прости, что вела себя, как свинья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Вот как-то так, только происходит это само по себе и... не то чтобы постоянно, но близко к тому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Вот представь себе, мы все это переживем, не повредившись ни телом, ни мозгами. И вот Ярусы – твои, а у Владыки все остальное. Что дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Только убедись сперва, что ему крышка. Если потом проблемы начнутся – меня убивать не за что". Она выдавливает мрачную усмешку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Полнейшая бессмыслица, да?" Она моргает, затем усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Полнейшая бессмыслица, да?" Она моргает, затем усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Полнейшая бессмыслица, да?" Она моргает, затем усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Полнейшая бессмыслица, да?" Она моргает, затем усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Полнейшая бессмыслица, да?" Она моргает, затем усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Будь он проклят, этот Каториус, и жена его, и Архонт Тайн заодно!" Она смеется. Порыв прохладного ветра, налетевший с западных гор, шевелит ее перья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Терратус ценит силу. Я не думала, что достаточно сильна, чтобы вращаться, хм, во влиятельных кругах. И это... я не знаю. Нервно мне от этого как-то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Фуга, ты все еще со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"А ну, приди в себя, боец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Фуга зло смотрит на вас, потом вздыхает, встряхивая головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"М-да. Умеешь ты человека дернуть, Вершитель. Я почти что наслаждалась моментом".</DefaultText>
+      <FemaleText>"М-да. Умеешь ты человека дернуть, Вершительница. Я почти что наслаждалась моментом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Я в порядке, Вершитель". Что-то в вашем тоне заставляет Фугу замолчать и прислушаться к себе.</DefaultText>
+      <FemaleText>"Я в порядке, Вершительница". Что-то в вашем тоне заставляет Фугу замолчать и прислушаться к себе.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Если только это не ловушка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Ясное дело, Вершитель, но об осторожности забывать никогда не стоит". Фуга усмехается.</DefaultText>
+      <FemaleText>"Ясное дело, Вершительница, но об осторожности забывать никогда не стоит". Фуга усмехается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Пойдем, Вершитель судеб. Меня тошнит от этого места". Фуга встряхивает головой.</DefaultText>
+      <FemaleText>"Пойдем, Вершительница судеб. Меня тошнит от этого места". Фуга встряхивает головой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Как плохого щенка? Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Ты только сейчас об этом задумался? У Голосов, я думаю, одновременно запущено штук шестнадцать или семнадцать заговоров и заговоров против заговоров".</DefaultText>
+      <FemaleText>"Ты только сейчас об этом задумалась? У Голосов, я думаю, одновременно запущено штук шестнадцать или семнадцать заговоров и заговоров против заговоров".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Вот как? Откуда тебе знать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Я верю, что ты – это ты. И я верю, что Голоса – это Голоса. Я всегда верила, что они наблюдают и подслушивают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Раньше эту крепость держали [url=glossary:опальные]Опальные[/url]. Понятно, почему здесь столько их оружия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Потом она бросилась на них со своим пылающим полумесяцем, своим топором, у которого лезвие было длиной с твою руку и тоже вымазанное дегтем, чтобы горело. Они пытались сражаться, но их ждали лишь огонь и кровь. Гейзер расшвыряла их в стороны, а мы добили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Она пожимает плечами, слегка покачивая головой, так что перья подрагивают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Показывай дорогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Она робко касается свертка с перчатками.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

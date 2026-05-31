@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_contusion</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Высокая сухопарая женщина пристально вглядывается в листок пергамента, что держит в руке, водя пальцем по сложному рисунку. "Как дерево, только красивше". Она хихикает над собственными словами, потирая явную вмятину на лбу. Заметив вас, она отрывается от рисунка и прячет его в карманах одежды. "Ты друг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Да, я друг Алого Хора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Конечно. Почему бы и нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Нет, я бы так не сказал".</DefaultText>
+      <FemaleText>"Нет, я бы так не сказала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Она ухмыляется и кивает. "Славно, славно. Значит, тебя убивать не надо. Не в настроении я убивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Не друг? НЕ ДРУГ!" К ее лицу приливает кровь, она хватается за оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Все хорошо, не нервничай!" Напарник успокаивающе хлопает ее по руке. "Не надо ей такие сложности говорить, она их не понимает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Что нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Что случилось с твоим лбом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Чем ты занимаешься в ватаге?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Что это у тебя за пергамент?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Явно сбитая с толку, она трогает свой лоб, пытаясь найти там хоть что-нибудь – кажется, она успела забыть о ранении. "Ты о чем? Я опять что-то не так сделала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я воин, я самая сильная в ватаге! Острый Палец – муж. Каллия – вожак. Шкуродер – младший вожак. Желтуха готовит. Ватага – семья!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Как давно вы с Острым Пальцем вместе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ты считаешь ватагу своей семьей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ты о чем? Острый – партнер по жизни. Это давно? Говорит, мы с ним вместе навсегда. Сказал, когда-нибудь мы сможем словить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Да! Так он и сказал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Позволь спросить кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Она смотрит на вас пустым взглядом. "Ага".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Красивая картинка. Шкуродер играется с Книгочеями. Говорит, одна была так счастлива, что подарила ему рисунок".
+
+Она достает мятый кусок пергамента, на котором изображен какой-то сигил с кучей сопроводительного текста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Кажется, картинка поистерлась. Я могу нарисовать тебе лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Солгать] "Книгочейка тебя обманула. Тут нарисовано злое заклятие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Можно мне посмотреть на него?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ты нарисуешь мне картинку?"
+
+Вы достаете перо и чистый лист пергамента. Она передает вам свиток, и вы перерисовываете сигил, добавляя к нему несколько лишних завитков. Контузия, видя узоры, радостно хлопает в ладоши.
+
+Теперь, когда все ее внимание занято новым подарком, вы убираете старый свиток к себе в сумку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Злое заклятие?" Ее лицо кривится, она начинает часто дышать, словно вот-вот разревется. "Острый говорит, что я и так обо всем забываю. Если из-за злого рисунка я забуду Острого, что мне тогда делать?" Она бросает свиток на землю и отпинывает его подальше. Увидев, как вы его поднимаете и прячете к себе в сумку, она вздыхает с облегчением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Она прижимает свиток к груди и трясет головой. "Нет! Это подарок. Шкуродер подарил". Она бросает на пергамент быстрый взгляд и прячет обратно в карман.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Она поворачивается к вам. "Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Пока на этом все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Она ничего не помнит о произошедшем. Мне повезло, что она вообще выжила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Словить? Словить или свалить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Настоящая семья – это Острый Палец. Но ватага тоже почти настоящая".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Дорогая, не надо рассказывать обо всем подряд незнакомцам!" Он берет ее за руку и краснеет. "Я ей сказал, что когда-нибудь мы сможем словить удачу и поесть нормальной еды".</DefaultText>
+      <FemaleText>"Дорогая, не надо рассказывать обо всем подряд незнакомым людям!" Он берет ее за руку и краснеет. "Я ей сказал, что когда-нибудь мы сможем словить удачу и поесть нормальной еды".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Она, э-э, немного того после ранения. Но я рад, что она осталась живой – пусть даже странная. Я бы не стал рисковать ее жизнью ради побега... бред какой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Она смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

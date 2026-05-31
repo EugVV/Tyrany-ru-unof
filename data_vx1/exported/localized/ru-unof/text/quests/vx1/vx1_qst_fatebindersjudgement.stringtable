@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_fatebindersjudgement</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Решение Вершителя судеб</DefaultText>
+      <FemaleText>Решение Вершительницы судеб</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Телепортироваться к Каскаду Источника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обследовать местность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убить Яспоса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убить Махальника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить Яспоса и Махальника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Напряжение в Ране Бастарда достигло критической отметки. Если в скором времени не принять решение, кто станет лидером поселения, люди просто передерутся между собой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Вы получили ключ-камень Золотой Лапы, который подходит к телепорту рядом с кузницей Раны Бастарда. Телепорт перенесет вас к Каскаду Источника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Это источник воды, питающий всю Рану Бастарда. Здесь стоит осмотреться, пока никого нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Яспос разозлился из-за вашего решения о том, кто возглавит Рану Бастарда, и напал на вас. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Махальник разозлился из-за вашего решения о том, кто возглавит Рану Бастарда, и напал на вас. Убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Яспос и Махальник разозлились из-за вашего решения о том, кто возглавит Рану Бастарда, и напали на вас. Убейте их обоих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы объявили, что Яспос возглавит Рану Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы объявили, что Махальник возглавит Рану Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы объявили, что Золотая Лапа возглавит Рану Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы объявили, что сами возглавите Рану Бастарда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы объявили, что сами возглавите Рану Бастарда, и назначили Яспоса своим заместителем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы объявили, что сами возглавите Рану Бастарда, и назначили Махальника своим заместителем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы объявили, что сами возглавите Рану Бастарда, и назначили Золотую Лапу своим заместителем.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

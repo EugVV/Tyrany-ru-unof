@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_twinrivers_buriedbodies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Под слоем грязи вы обнаруживаете кучку костей, обернутых в истлевшие алые тряпки. Среди них валяется сверкающий медальон со знаком Певчих Крови.
+
+По отметинам на костях становится ясно, что эти послушники были убиты железным оружием Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Члены Хора, которых зарубили [url=glossary:опальные]Опальные[/url]? Сейчас это уже не редкость, но их убили задолго до начала недавних событий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Похоже, кто-то все же решил заняться тем, чем ему не следовало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кости хрупкие. Пахнут старой кровью и железными порезами. Значит, люди всегда охотились за людьми, ага?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Кажется, [url=glossary:опальные]Опальные[/url] и [url=glossary:алый хор]Алый Хор[/url] начали враждовать чуть раньше, чем нам казалось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Похоже, что вражда между Опальными и Алым Хором длится гораздо дольше, чем нам казалось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Этих послушников убили задолго до того, как мы взяли [url=glossary:колодец вендриенов]Колодец Вендриенов[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

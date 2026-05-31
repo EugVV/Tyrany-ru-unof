@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\fq_sc_qst_01_bladegrave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Фальшивый аккорд</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Исследовать Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Целебным Ножом на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить с Маттиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Целебным Ножом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернуться к Маттиасу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вернуться к Маттиасу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к Маттиасу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Поговорить с Целебным Ножом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Поговорить с Целебным Ножом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Убить всех Несломленных в Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Поговорить с командующим силами Алого Хора в Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Убить всех из Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Исследовать Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Поговорить с разведчиком Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] попросил вас отправиться в Могилу Клинков и привести дочь Грэйвена Аше, Амелию. Ее держат в плену в Твердыне Часовых, и она нужна Голосам в качестве заложника, чтобы усилить влияние Хора в регионе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь на Перепутье Зверолова и узнайте, чем можно помочь Алому Хору в этом районе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы прибыли на Перепутье Зверолова. Осмотрите окрестности, чтобы оценить ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы встретили смертельно раненого солдата Несломленных и узнали, что [url=glossary:несломленные]Несломленные[/url] оказались в этом районе, спасаясь бегством от Алого Хора. Поговорите с десятником Алого Хора, Целебным Ножом, в южной части Перепутья Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Целебный Нож хочет завербовать Маттиаса и солдат Несломленных, которыми тот командует. Поговорите с командиром повстанцев на Перепутье Зверолова и попробуйте уговорить вступить в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] хотят получить уступки, прежде чем они вступят в [url=glossary:алый хор]Алый Хор[/url]. Поговорите с Целебным Ножом на Перепутье Зверолова и узнайте, готов ли он пойти на компромисс с Несломленными, чтобы они вступили в его ватагу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы убедили Целебного Ножа освободить часть пленников Несломленных. Сообщите об этом Маттиасу на Перепутье Зверолова, чтобы он вступил в ряды Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы убедили Целебного Ножа передать Несломленным на Перепутье Зверолова солдата Опальных, чтобы они могли добиться возмездия. Сообщите Маттиасу о компромиссе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вам не удалось убедить Целебного Ножа предложить Несломленным подарок. Вернитесь к Маттиасу на Перепутье Зверолова и скажите ему, что это его последний шанс вступить в ряды Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Маттиас согласился, чтобы он вместе с остатками солдат на Перепутье Зверолова вступил в [url=glossary:алый хор]Алый Хор[/url]. Целебный Нож будет доволен услышать об этом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Солдаты Несломленных настояли на том, чтобы сражаться за свою свободу, и были уничтожены. У Маттиаса, потерявшего всех своих солдат, не осталось иного выбора, кроме как согласиться вступить в [url=glossary:алый хор]Алый Хор[/url]. Сообщите об этом Целебному Ножу на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Вы решили спровоцировать Маттиаса, и теперь вам придется уничтожить всех солдат Несломленных, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Вы убили всех Несломленных на Перепутье Зверолова. Пора поговорить с местным командиром Алого Хора и рассказать, что все повстанцы мертвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Вы спровоцировали Целебного Ножа, и вам придется уничтожить всех солдат Алого Хора, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Маттиас пообещал показать вам магические ветра, блокирующие вход в Твердыню Часовых. Отправляйтесь туда и изучите проблему лично.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Разведчик Несломленных наблюдал за вашим сражением с погибелями. Поговорите с ним, чтобы узнать его намерения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы предали [url=glossary:алый хор]Алый Хор[/url] на Перепутье Зверолова и стали им врагом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Маттиас сказал вам, что через ветровую стену Твердыни Часовых сейчас не пройти, но также сообщил о попытках найти в Ржавых Каньонах артефакты, которые помогут изменить ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

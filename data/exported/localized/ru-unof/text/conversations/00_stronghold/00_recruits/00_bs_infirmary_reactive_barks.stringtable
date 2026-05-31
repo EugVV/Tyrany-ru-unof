@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_infirmary_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Столько жизней утрачено в погоне за этой каменной глыбой, которую называют Твердыней Часовых... Остается только надеяться, что ее взятие прекратит конфликт хоть на время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Только теперь, когда бури утихли, мы можем увидеть разрушения, которые [url=glossary:эдикт]Эдикт[/url] нанес землям Оплота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Гавань явно видела дни получше..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Если ты снова столкнешься с такими существами, как опустошители, не могу гарантировать, что сумею тебя вылечить. Я мертвых оживлять не умею".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Может, теперь, когда [url=glossary:каменное море]Каменное Море[/url] больше не страдает от мора, какие-то из редких растений, которые раньше здесь произрастали, появятся снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Похоже, [url=glossary:каменное море]Каменное Море[/url] теперь принадлежит зверям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"А, Вершитель... Надеюсь, вас все устраивает".</DefaultText>
+      <FemaleText>"А, Вершительница... Надеюсь, вас все устраивает".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

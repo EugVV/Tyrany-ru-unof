@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_disfavoredcamp_edictdeliveryargument_loop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вчера ты выговариваешь мне за то, что я медлю, а сейчас предлагаешь ждать еще дольше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Хороший совет отличается гибкостью, он может меняться по обстоятельствам. К тому же сегодня мы соглашаемся с тобой вчерашним, возрадуйся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мне твоя болтовня ни к чему, я жду отчета разведчиков. Или, еще лучше, подтверждения того, что ты усмирил клятвопреступников во внешней долине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"А, вот ты о чем? Мы решим эту проблему в свое время и своими средствами. Надо же сделать хотя бы вид, что мы готовы проявить милосердие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Может, голосам в твоей башке пора бы прийти к согласию, если ты хочешь, чтобы тебя принимали всерьез?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы знаем, ты терпеть не можешь идти в бой, если на твоей стороне перевес меньше, чем в десять раз. Если тебе так страшно, то почему бы не подождать подкреплений?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Милосердие? Да они уже один раз засунули в зад наше милосердие! Эти помоечные выродки ничего лучше смерти не заслуживают!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"О, успокойся... иначе нам скоро некем будет править. Или ты забыл приказы Кайроса? Терпение, старина".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

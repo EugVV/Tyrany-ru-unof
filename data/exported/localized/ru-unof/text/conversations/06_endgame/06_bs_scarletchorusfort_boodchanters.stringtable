@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_scarletchorusfort_boodchanters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Певчий Крови кивает вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ищешь Нерата? Он в северо-восточной части лагеря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Почему наши шатры поставили рядом с этими неудачниками из Кровавых Гончих?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Зачем только Нерат держит при себе этих Кровавых Гончих. От них же нет никакого проку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вершитель".</DefaultText>
+      <FemaleText>"Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не то, чтобы мы нуждались в твоей помощи, Вершитель судеб, но поработал ты знатно!"</DefaultText>
+      <FemaleText>"Не то, чтобы мы нуждались в твоей помощи, Вершительница судеб, но поработала ты знатно!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Будь начеку. Нерат ошибок не прощает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Спорю, через пару недель Нерат избавится от Семипалой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Вершитель судеб, кажется, я в тебе ошибался. Ты полезен!"</DefaultText>
+      <FemaleText>"Вершительница судеб, кажется, я в тебе ошибался. Ты полезна!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Не теряй бдительности, Вершитель. Если ты сейчас сдохнешь – мы все над тобой посмеемся".</DefaultText>
+      <FemaleText>"Не теряй бдительности, Вершительница. Если ты сейчас сдохнешь – мы все над тобой посмеемся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Оказывается, с мистиками зверолюдов можно вести на удивление умные беседы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Как-то раз со мной говорил сам Нерат. Лучший день в моей жизни!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Кровавые Гончие годятся разве что на корм для скота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я хочу посмотреть, как ты дерешься. Проверить, не врут ли слухи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Поговаривают, Нерат начал беспокоиться о твоем возросшем авторитете среди хористов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что ж, ты все-таки сумел стать полезным делу Хора".</DefaultText>
+      <FemaleText>"Что ж, ты все-таки сумела стать полезной делу Хора".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Тебе не показалось, что Голоса какой-то... слегка не такой? Может, чужих мозгов переел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Не доводилось мне до сих пор видеть, чтобы старшой хоть кому-то кланялся. Кто против тебя пойдет – сам себе дурак!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Каких только слухов про тебя и старшого не ходит. Но мне плевать – Голоса так стал только лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я подожгу все Ярусы в твою честь, старшой. Только прикажи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"От одного твоего вида моя кровь кричит и рвется в бой. Ты хороший лидер и ужасно беспощадный Архонт".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Нерат был самым громким в Хоре, но ты легко его заглушил! С тобой Ярусы будут нашими!"</DefaultText>
+      <FemaleText>"Нерат был самым громким в Хоре, но ты легко его заглушила! С тобой Ярусы будут нашими!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Генерал Аше был достойным противником, но, очевидно, ты нацелен на что-то большее. Веди нас, босс".</DefaultText>
+      <FemaleText>"Генерал Аше был достойным противником, но, очевидно, ты нацелена на что-то большее. Веди нас, босс".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Вершитель, просто покажи на врага. Аше мертв, так что теперь мы можем захватить Ярусы! Просто отдай приказ".</DefaultText>
+      <FemaleText>"Вершительница, просто покажи на врага. Аше мертв, так что теперь мы можем захватить Ярусы! Просто отдай приказ".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Архонт, говорят, от твоего смертельного удара [url=glossary:грэйвен аше]Грэйвен Аше[/url] просто взорвался. Как фанат пиротехники, я одобряю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Надеюсь, эти придурки в суде насладились городским комфортом, пока могли. Теперь благодаря тебе мы все изменим в Городе-Бастарде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Тунон всегда сильно помыкал нами. Хорошо, что мы избавились от этого ублюдка. Я считаю, что твое слово теперь закон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Твое кровопускание войдет в легенды, Вершитель! Прикончил Архонта Теней, словно это тебе ничего не стоило. Интересно... смог бы так сделать Нерат?"</DefaultText>
+      <FemaleText>"Твое кровопускание войдет в легенды, Вершительница! Прикончила Архонта Теней, словно это тебе ничего не стоило. Интересно... смог бы так сделать Нерат?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Марк прирезал бы нас глазом не моргнув, так что хорошо, что ты сделал это первым, Архонт".</DefaultText>
+      <FemaleText>"Марк прирезал бы нас глазом не моргнув, так что хорошо, что ты сделала это первой, Архонт".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

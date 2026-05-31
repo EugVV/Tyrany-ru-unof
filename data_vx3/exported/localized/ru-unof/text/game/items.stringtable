@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Жалобный Шепот</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Янтарная брошь с хризалидой</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>Черная эмаль, покрывающая шлем, местами облупилась, обнажив железную основу. Образовавшиеся узоры чем-то напоминают созвездия на ночном небе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Сущность погибели, собранная из останков опустошителей, мерцает бледным светом. Флакон надежно закрыт пробкой, но сущность внутри кружится, словно от легкого ветерка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Эта крупная брошь украшена поразительно прозрачным куском янтаря, запечатавшим в себе яркокрылую хризалиду – насекомое, часто встречающееся на Ярусах. Вглядевшись, можно разглядеть выцарапанные на поверхности сигилы исцеления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Кивер следопыта</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

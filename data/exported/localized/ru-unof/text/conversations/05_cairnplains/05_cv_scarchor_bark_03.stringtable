@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_scarchor_bark_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Исчезни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сгинь, падаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Что, Вершитель судеб? Здесь, в Степных Вратах?"</DefaultText>
+      <FemaleText>"Что, Вершительница судеб? Здесь, в Степных Вратах?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Зовешь себя Вершителем судеб, да? А если я назову тебя своей новой игрушкой?"</DefaultText>
+      <FemaleText>"Зовешь себя Вершительницей судеб, да? А если я назову тебя своей новой игрушкой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что, Вершитель судеб? Здесь, в Полувратах?"</DefaultText>
+      <FemaleText>"Что, Вершительница судеб? Здесь, в Полувратах?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Иди куда шел".</DefaultText>
+      <FemaleText>"Иди куда шла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Никогда еще не доводилось убивать Архонта. Интересно, каково это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ты здесь, чтобы помочь грохнуть Каирна? Зачем нам отдавать тебе всю славу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Он как раз отливал с края обрыва, когда снова тряхнуло. Такие дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Да здравствует [url=glossary:кайрос]Кайрос[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

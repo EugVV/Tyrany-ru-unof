@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_tr_missingforgebound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Своих не бросаем</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Обыскать Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обыскать Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Лоаре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуть инструменты Гаррика Лоаре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти Гаррика, маскирующегося под члена Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернуться к Гаррику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Гаррику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с Гарриком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вернуться к Гаррику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Найдите лагерь Братства возле Старых Стен Гавани.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Подмастерье Скованных Горном по имени Гаррик пропал, и Лоара переживает, что он погиб. Он отправился на поиски редких материалов, полученных из Старых Стен, и мог забрести на территорию Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Говорят, Братство разбило лагерь в районе Двуречья, и вероятно, что именно туда Гаррик отправился на поиски редких материалов для кузни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Судя по лагерю, который вы нашли, подмастерье Гаррик зашел в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы помогли Гаррику покинуть Старые Стены. Поговорите с Лоарой в кузне в [url=glossary:распутье летианы]Распутье Летианы[/url] – она будет рада знать, что он в безопасности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы нашли инструменты Гаррика в Старых Стенах. Поговорите с Лоарой в кузне в [url=glossary:распутье летианы]Распутье Летианы[/url] – она захочет их получить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Гаррик не сможет уйти, пока [url=glossary:бронзовое братство]Бронзовое Братство[/url] будет охранять вход в Двуречье. Найдите доспех Братства поблизости, с помощью которого он может пройти мимо стражи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы нашли комплект доспехов Бронзового Братства, который, похоже, подойдет Гаррику по размеру. Он будет рад узнать, что теперь у него есть способ выбраться наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вам пришлось убить Ферриса-Плоскостопа и других членов Братства у входа в Старые Стены. Гаррик будет рад знать, что он теперь может покинуть Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вы нашли Гаррика в Старых Стенах в [url=glossary:распутье летианы]Распутье Летианы[/url], но пока не решили, что с ним делать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы убили опустошителя и расчистили путь к Распутью Летианы. Гаррик будет рад знать, что он теперь может покинуть Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Говорят, Братство разбило лагерь возле входа в Старые Стены, и вероятно, что именно туда Гаррик отправился на поиски редких материалов для кузни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы нашли Гаррика в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Гаррик погиб в Старых Стенах. Лоаре стоит об этом узнать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Лоара мертва. Поговорите об этом с Юлантисом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Лоара мертва. Поговорите об этом с Юлантисом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Гаррик погиб в Старых Стенах. Обыщите его тело, чтобы получить доказательство его смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Гаррик погиб в Старых Стенах. Обыщите его тело, чтобы получить доказательство его смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Гаррик погиб в Старых Стенах. Обыщите его тело, чтобы получить доказательство его смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Гаррик погиб в Старых Стенах. Обыщите его тело, чтобы получить доказательство его смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Двуречье проходит через большую территорию. Вам нужно найти более точное местоположение лагеря, прежде чем вы сможете отправиться туда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы уничтожили силы Бронзового Братства, перекрывавшие путь Гаррику через Старые Стены – теперь он может выйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убедили [url=glossary:бронзовое братство]Бронзовое Братство[/url] выпустить Гаррика из Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы забрали инструменты Гаррика и вернули их Скованным Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы предпочли [url=glossary:бронзовое братство]Бронзовое Братство[/url] Скованным Горном, из-за чего Лоара и остальные представители Скованных Горном покинули [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы предали своих союзников и больше не можете выполнить это задание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>В Старых Стенах в Двуречье вы нашли Гаррика, подмастерья Скованных Горном. Его мастер, Лоара, наверняка захочет, чтобы он вернулся к ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

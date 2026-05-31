@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldrhogalus_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я не собираюсь попусту тратить слова, [Player Name]. Ты предал Тунона и предал Кайроса".</DefaultText>
+      <FemaleText>"Я не собираюсь попусту тратить слова, [Player Name]. Ты предала Тунона и предала Кайроса".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы оба знаем, чем это закончится. Жаль – я всегда тобой восхищался".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

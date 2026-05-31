@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_scarletfury_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами стоит человек. Он весь в испарине, подергивается, его сотрясает мелкая дрожь. "Ч-что тебе надо?" Он заикается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я здесь, чтобы с кем-то поговорить про Арчианда Бронза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Человек пытается ответить, но с его губ срывается лишь нечленораздельный звук, а затем он падает замертво. Когда его безжизненное тело валится к вашим ногам, вы видите, что руки у него связаны за спиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

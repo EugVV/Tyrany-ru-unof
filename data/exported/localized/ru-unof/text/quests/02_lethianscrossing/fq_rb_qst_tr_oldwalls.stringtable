@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_rb_qst_tr_oldwalls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Поход в Старые Стены</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Использовать светоключ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Исследовать Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сразиться с Раэтоммоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Зажечь четыре маяка, чтобы выдвинуть мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Убить опустошителя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Освободить Мастера Скованных Горном Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вернуться к Элдиану.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вернуться к Арри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Раэтоммон зашел в глубины Старых Стен с Мастером Скованных Горном Жденьей. Уэлби сказала, что его смерть пошла бы всем на пользу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Феррис-Плоскостоп передал вам светоключ. Воспользуйтесь им, чтобы пройти глубже в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Раэтоммон скрывается где-то в Старых Стенах с Мастером Скованных Горном Жденьей и Шлемом Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Раэтоммон не отпустит вас без боя, поэтому дайте ему то, чего он хочет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Используйте подходящий светоключ на каждом из маяков, чтобы выдвинуть мост и покинуть Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Опустошитель сбежал из тюрьмы. Убейте его, прежде чем он спустит погибелей на [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Теперь, когда вы разобрались с Раэтоммоном и опустошителем, освободите Мастера Скованных Горном Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вернитесь в [url=glossary:распутье летианы]Распутье Летианы[/url] и передайте Элдиану Шлем Магоборца или оставьте его себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вернитесь к Арри и сообщите ей об успешной вербовке главы Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вернитесь к Арри и сообщите ей, чтобы вы решили заручиться поддержкой Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Победив сумасшедшего лидера Бронзового Братства, Раэтоммона, вы решили, что лучше будет пригласить в союз Скованных Горном, чем [url=glossary:бронзовое братство]Бронзовое Братство[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Победив сумасшедшего лидера Бронзового Братства, Раэтоммона, вы решили, что дадите Братству второй шанс и пригласите его в свой союз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы пошли наперекор желаниям Арри и убили лидеров Скованных Горном и Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

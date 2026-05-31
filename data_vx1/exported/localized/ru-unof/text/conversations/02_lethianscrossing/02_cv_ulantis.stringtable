@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_ulantis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Яспос просил меня привезти ему инструменты для работы с камнем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Как думаешь, смог бы ты высвободить моего друга из доспехов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Никаких швов нет. Металл облегает его повсюду. Почти... как кожа". Он осматривает Барика и морщится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Я бы и рад помочь, но это не в моих силах. Не знаю, кто бы мог... кроме Жденьи". Он качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"А помимо Жденьи, кто еще? Может, кто-то не связанный с северными гильдиями?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Как интересно. Я же помню, ты участвовал в заговоре, подрывая подготовку к войне ради личных амбиций".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ты бесполезен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Возможно, я кого-то и знаю. От одного хориста я слыхал про кузнеца-одиночку. [Plainsgate] – где-то там она обосновалась, на землях Хора. Так что местные вряд ли станут чинить тебе проблемы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Понятно. Что ж, этого следовало ожидать". Он морщится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"У каждого из нас свои сильные стороны, Вершитель судеб. У тебя, очевидно, это грубость и невежество. Так ты хотел задать еще какие-то вопросы или на этом мы закончим с оскорблениями?"</DefaultText>
+      <FemaleText>"У каждого из нас свои сильные стороны, Вершительница судеб. У тебя, очевидно, это грубость и невежество. Так ты хотела задать еще какие-то вопросы или на этом мы закончим с оскорблениями?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ладно. Говорят, где-то в Каменном Море обосновался кузнец-отступник. Женщина. Больше я ничего не знаю. Успешных тебе поисков".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

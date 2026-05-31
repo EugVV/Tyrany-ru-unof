@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_settlers_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я уезжаю. Тут погибло слишком много моих друзей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Война грозит даже Гавани".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]... и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Как ты мог так с нами поступить, Вершитель судеб?"</DefaultText>
+      <FemaleText>"Как ты могла так с нами поступить, Вершительница судеб?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] в Гавани? Наверное, рано или поздно это должно было случиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Путешественники часто посещают рынок, прежде чем отправиться в город. Никогда не знаешь, что может пригодиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"[url=glossary:скованные горном]Скованные Горном[/url] ничего не продают нам, поселенцам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"В [url=glossary:распутье летианы]Распутье Летианы[/url] можно найти много разных товаров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Со стороны Гребня шло огромное свечение, которое заполнило все небо. Интересно, что это было..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Вы – тот Архонт, за которым я с радостью буду следовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Объединенные Ярусы будут непобедимыми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ходят слухи, что вы убили сотню зверолюдов, чтобы заполучить этот щит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Хорошо, что мы избавились от этих злобных зверотрахов".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_spirit_trap_reactions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Как интересно. Я не знаю, можно ли назвать бесплотное облако сердитым? Потому что ты, кажется, здорово его рассердил".</DefaultText>
+      <FemaleText>"Как интересно. Я не знаю, можно ли назвать бесплотное облако сердитым? Потому что ты, кажется, здорово его рассердила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Эта... cфера выглядит готовой взорваться от самого легкого дуновения. Поскольку благоразумие нам чуждо и отступать мы не собираемся, я советую приготовить к бою оружие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Похоже, регент обрел безопасное укрытие внутри этой сферы. Добраться до него будет непросто".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

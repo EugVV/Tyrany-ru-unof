@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_disfavoredsoldiers_oot_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы уничтожили эту землю, чтобы навредить Хору. Генерал будет очень доволен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мне кажется, вы самый беспощадный Вершитель, которого я встречал. Для меня было честью сражаться вместе с вами, господин".</DefaultText>
+      <FemaleText>"Мне кажется, вы самая беспощадная из всех Вершителей, кого я встречал. Для меня было честью сражаться вместе с вами, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Может, мы и прервали [url=glossary:эдикт]Эдикт[/url], но земле мы точно ничем не помогли, да? Теперь нам остается только ждать, пока наши враги станут умирать от голода".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Королевство выглядит сейчас очень мрачно. Даже небо посерело и выглядит так, словно вот-вот заплачет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Может ли Вершитель обладать силой Архонта?"</DefaultText>
+      <FemaleText>"Может ли Вершительница обладать силой Архонта?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мое почтение, господин".</DefaultText>
+      <FemaleText>"Мое почтение, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Как вы думаете, кого я разозлил, что меня сюда перевели?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Спасибо, что пришли к нам целым и невредимым, Вершитель".</DefaultText>
+      <FemaleText>"Спасибо, что пришли к нам целой и невредимой, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Зачем Вершителю судеб Тунона посещать Скаловержцев?"</DefaultText>
+      <FemaleText>"Зачем Вершительнице судеб Тунона посещать Скаловержцев?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Грязь засохла в штанах, грязь засохла в сапогах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я знаю, что он был предателем, но мне страшно видеть, что Архонта так унижают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Командир доверяет вам. Думаю, и я тоже буду доверять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я слышу голоса крикунов и зверей оттуда. Я спокойней сплю, зная, что нас разделяет ущелье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ни шагу назад! Защищайте лазурелит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Крикуны, раздери их [url=glossary:кайрос]Кайрос[/url]! Не подпускайте их к свержцам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Не дайте им нарушить ритуал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Мы не смогли бы отразить их атаку без вашей помощи, Вершитель".</DefaultText>
+      <FemaleText>"Мы не смогли бы отразить их атаку без вашей помощи, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Мы начнем собирать силу Каирна сразу, как только завершим все приготовления".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

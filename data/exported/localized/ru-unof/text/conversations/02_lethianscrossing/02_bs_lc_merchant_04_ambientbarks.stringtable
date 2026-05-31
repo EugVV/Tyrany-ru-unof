@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_04_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не припомню, чтобы Лоара когда-то была в столь приподнятом настроении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я обычно захожу к Лоаре по утрам, чтобы посмотреть, не удастся ли выменять у нее что-нибудь из металлолома, но она пропала, кстати, вместе с остальными Скованными Горном".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Какое облегчение, что этот кретин Джино наконец-то ушел из города! Пусть катится подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мы все должны извиниться перед Джино. Как мог Алаган так оклеветать своего родного брата?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Интересно, куда исчез Джино... Подумать только, его ведь считали преступником. Вы оказали ему огромную услугу, Вершитель".</DefaultText>
+      <FemaleText>"Интересно, куда исчез Джино... Подумать только, его ведь считали преступником. Вы оказали ему огромную услугу, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы все будем спать спокойнее, зная, что этот злодей получил по заслугам. Спасибо, Вершитель".</DefaultText>
+      <FemaleText>"Мы все будем спать спокойнее, зная, что этот злодей получил по заслугам. Спасибо, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

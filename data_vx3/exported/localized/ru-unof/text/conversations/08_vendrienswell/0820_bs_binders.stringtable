@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\0820_bs_binders</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Прошу тебя, Вершитель, хоть ты их вразуми!"</DefaultText>
+      <FemaleText>"Прошу тебя, Вершительница, хоть ты их вразуми!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Стоило ли ехать на [url=glossary:каменное море]Каменное Море[/url], чтобы меня сожрала какая-то зверолюдка..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Скоро мы тронемся в путь и в другой раз будем осторожнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Жаль, что дошло до кровопролития – но теперь мы хоть в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Казалось, еще немного, и эта тварь откусит мне голову".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Какое счастье, что дело удалось уладить миром. Спасибо, Вершитель судеб".</DefaultText>
+      <FemaleText>"Какое счастье, что дело удалось уладить миром. Спасибо, Вершительница судеб".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

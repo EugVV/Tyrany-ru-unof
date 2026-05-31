@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_cv_galum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Добрый вечер". Завидев вас, высокий худой человек улыбается. "Добро пожаловать в «Хозяйку Летианы». Меня зовут Галум, и сегодня я буду счастлив тебе услужить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Расскажи о себе. Каким ветром тебя сюда занесло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Чем ты лучше прочих?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти] "Возможно, еще увидимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Особо не о чем и рассказывать". Галум ненадолго задумывается. "Сам я с севера, путешествовал с цирковой труппой, но под Распутьем Летианы на нас напали грабители. Меня ранили, я потерял сознание, а когда пришел в себя, меня выхаживала госпожа София".
+
+"Все остальные наши погибли, идти мне было некуда, Хозяйка предложила мне место. Она сразу поняла, что мои таланты тут найдут себе применение. И о лучшей работе я бы не мог и мечтать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если хочешь, чтобы земля ходила ходуном под ногами и стены тряслись, я тот, кто тебе нужен. Устрою тебе «Блаженство Скаловержца» и – уж поверь – никого другого ты после этого не захочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"С возвращением!" Галум приветствует вас с застенчивой улыбкой. "Хочешь провести со мной время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

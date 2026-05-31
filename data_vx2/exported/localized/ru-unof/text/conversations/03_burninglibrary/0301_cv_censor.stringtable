@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_cv_censor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Хотелось бы знать, что здесь забыл [url=lore:fq_path_decision]великий предатель[/url]? Ты заявил права на [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] от лица Суда... а теперь что, явился заявить права на мою библиотеку?"</DefaultText>
+      <FemaleText>"Хотелось бы знать, что здесь забыла [url=lore:fq_path_decision]великая предательница[/url]? Ты заявила права на [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] от лица Суда... а теперь что, явилась заявить права на мою библиотеку?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

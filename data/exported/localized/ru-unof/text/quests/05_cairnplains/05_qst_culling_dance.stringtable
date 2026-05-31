@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_culling_dance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Танец отбора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Проход Отбора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Пропитать ожерелье из Зубов Старейшин магической энергией насыщенного скопления лазурелитов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убить погибелей, чтобы продолжить напитывать духом ожерелье из Зубов Старейшин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться к Говорящей-за-Землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Чтобы произвести впечатление на Говорящую-за-Землю, старейшину колдунов племени Камнепытов, населяющего Каменную Теснину, вы согласились пройти Обряд Отбора – испытание для колдунов Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь в Проход Отбора, чтобы пройти Обряд Отбора Камнепытов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Извлеките магическую энергию из насыщенного скопления лазурелитов в Проходе Отбора, чтобы напитать духом ожерелье из Зубов Старейшин и пройти Обряд Отбора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Погибели, привлеченные всплеском магических энергий, заполонили Проход Отбора. Уничтожьте их, чтобы выжить и завершить Обряд Отбора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы выдержали Обряд Отбора и насытили собственное ожерелье из Зубов Старейшин. Вернитесь к Говорящей-за-Землю в Каменной Теснине, чтобы сообщить ей об усилении ваших мистических способностей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Окрестности очищены от погибелей, и теперь можно продолжить напитывать ожерелье из Зубов Старейшин магической энергией, заключенной в скоплении лазурелитов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Завершите насыщение ожерелья из Зубов Старейшин магической энергией земли из скопления лазурелитов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы прошли Обряд Отбора и изгнали погибелей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы больше не можете пройти Обряд Отбора Камнепытов, потому что напали на это племя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

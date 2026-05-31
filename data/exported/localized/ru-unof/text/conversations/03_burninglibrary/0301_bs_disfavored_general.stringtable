@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Увидеть тебя среди руин – это было настоящее гребаное чудо. Мне уже казалось, что последним, что я увижу, будет клинок Хора. Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Библиотека все еще стоит, к сожалению. Но мы с легкостью сможем ее удерживать, пока генерал Аше не решит, что с ней делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Очень здорово, что эти руины теперь в огне, как того хотел [url=glossary:кайрос]Кайрос[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Книгочеям не нужно было сопротивляться. Посмотри только, во что превратились эти земли! Хорошо, что ты наконец исполнил [url=glossary:эдикт]Эдикт[/url] Кайроса".</DefaultText>
+      <FemaleText>"Книгочеям не нужно было сопротивляться. Посмотри только, во что превратились эти земли! Хорошо, что ты наконец исполнила [url=glossary:эдикт]Эдикт[/url] Кайроса".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

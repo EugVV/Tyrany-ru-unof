@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_berrytrip_roundtwo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Синий и лиловый сок пятнает ваши руки, когда вы ухватываете еще горсть ягод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Думаю, мне лучше отказаться. Я все еще не отошел толком от последнего раза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не стоит нам этим заниматься. С нами молодой Архонт".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я... думаю, я могу попробовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Хочу сама узнать, что это за штука такая. Дай попробовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Интересно. Давай сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"А, клево. Но клянусь Кайросом, если это просто перекрашенная завязная роза..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Может, в другой раз. Я все еще пытаюсь прояснить разум".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>По спине проходит холодок, и вы мгновенно приходите в себя. Ваши спутники стоят вокруг, забрызганные синим и лиловым ягодным соком... и не только. Повсюду разбросана скинутая второпях одежда.
+
+По мере того, как ко всем вам возвращается трезвость рассудка, все начинают медленно и неуверенно приводить себя в порядок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Секундочку, только добавлю секретный ингредиент". С заговорщицкой улыбкой Лантри достает фляжку со спиртным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Развлекайтесь. А я буду где-нибудь подальше, изо всех сил не думая о том, что тут происходит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Спасибо, Лантри. Все остальные могут глотать ягоды, сколько захочется, дайте только мне отойти подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Наверное, лучше будет, если мы никогда не будем об этом разговаривать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"А бывает [url=glossary:эдикт]Эдикт[/url] Забытья? Если нет, то начинай его придумывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"После того, что вышло в последний раз... лучше не стоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

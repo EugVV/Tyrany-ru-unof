@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_sleepless_08</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Иссохшая, растерянная женщина стоит на краю растрескавшейся площадки. Она трет потускневшие глаза и оглядывается по сторонам с недоуменным выражением лица. "Куда я должна была идти?"
+
+Она быстро разворачивается к вам. "Привет, ты знаешь путь отсюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Осторожно, тут высоко падать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты заблудилась?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Да, да, конечно же. Я не какой-то ребенок, которого ветром шатает". Она переступает с ноги на ногу, и в пропасть падает камешек. "По-видимому, мне просто надо найти дорогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Думаю... да. Я вышла из телепорта поблизости, но не помню, куда идти дальше". Она указывает на пропасть, зияющую у ее ног. "Я чувствую, словно мне надо вниз. Это кажется правильным. Я просто..." Она широко зевает и ее глаза закрываются. "Должна найти путь вниз, и тогда, уверена, я смогу отдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Столкнуть женщину с уступа] "Дай-ка я покажу тебе кратчайший путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Чтобы столкнуть ее с края, много сил не требуется. Она падает в пропасть в жуткой тишине и вскоре исчезает в темных глубинах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти] "Мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

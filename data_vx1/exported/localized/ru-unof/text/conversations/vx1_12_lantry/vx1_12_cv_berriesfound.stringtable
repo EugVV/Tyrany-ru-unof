@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_berriesfound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Да славится [url=glossary:кайрос]Кайрос[/url]! Нашли!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мне казалось, мы ищем еще один тайник с Хроникой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Погоди... Так вот что ты искал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты заставил меня проделать весь этот путь ради каких-то новых мозгодробительных чернил?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я не знаю, что ты задумал, но давай быстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Старик долгое время смотрит на вас, задумчиво морща лоб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Не помню, чтобы я такое говорил, но... можно понять, почему ты так думаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Старик словно и не слышит ваших слов. Он с жадностью принимается растирать ягоды в небольшой ступке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мне понадобится всего пара минут – и это не как в прошлый раз, когда пара минут растянулась на полдня. Если я правильно понимаю, ягодам нужно немного алкоголя, и тогда они всасываются в кожу и вызывают..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"И что будет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ты собираешься делиться, или тебе приказать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Уйти] "У нас сейчас нет на это времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Перепачканная синим рука тянется к вам и касается запястья. Болезненный ожог на коже быстро сменяется ощущением блаженного, расползающегося тепла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Хотя его рот шевелится и, кажется, издает какие-то звуки, вы не слышите ни слова. Мир содрогается, когда вы делаете вдох, и энергия наполняет вас до краев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Потирая руки и улыбаясь во весь рот, Лантри с откровенным вожделением взирает на ягодный куст.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

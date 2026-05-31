@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_poi_disfavoredcamp_gravesite</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Судя по надписям, здесь покоится Бренникс, сын Архонта Грэйвена Аше. Странно, что не видно его доспехов. Может быть, его тело так и не нашли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Скромная могила для сына Архонта, Бренникса. В Хоре мы не проводим пышных похоронных обрядов. Нет смысла благодарить за службу новобранцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Могила павшего сына Аше, Бренникса. Даже Архонты понесли потери в этой войне. И у некоторых потери оказались невосполнимыми".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

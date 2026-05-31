@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_trappersjunction_anarchist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Скованный мечом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Добраться до Перепутья Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Исследовать Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти лагерь Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Забрать "Бесстрашного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться к Бледену Марку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Убить всех из Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Убить всех Несломленных на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Поговорить с командующим силами Несломленных на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Поговорить с командующим силами Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Убить всех Несломленных на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Убить всех из Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Уничтожить все отряды Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Поговорить с Маттиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Зачистить Перепутье Зверолова от врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы узнали, что Маттиас, глава Несломленных, ушел на Перепутье Зверолова. У него есть нужные вам сведения о "Бесстрашном", реликвии, за которой вас отправил [url=glossary:бледен марк]Бледен Марк[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправьтесь на Перепутье Зверолова, чтобы найти Маттиаса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы прибыли на Перепутье Зверолова. Осмотритесь окрестности, чтобы оценить ситуацию, и попробуйте найти какие-нибудь зацепки о местонахождении меча под названием "Бесстрашный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы встретили смертельно раненого солдата Несломленных и узнали, что [url=glossary:несломленные]Несломленные[/url] оказались в этом районе, спасаясь бегством от Алого Хора. Найдите лагерь Несломленных, чтобы узнать подробнее о ситуации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы узнали, что "Бесстрашного" можно найти возле Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Теперь, когда вы вернули "Бесстрашного", вернитесь к Бледену Марку в Пепельную Глушь и узнайте, что делать дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Вы решили спровоцировать Целебного Ножа, и теперь вам придется уничтожить всех солдат Алого Хора, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Вы решили спровоцировать Маттиаса, и теперь вам придется уничтожить всех солдат Несломленных, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Вы устранили угрозу Алого Хора на Перепутье Зверолова. Пора рассказать местному командиру Несломленных хорошие новости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Вы убили всех Несломленных на Перепутье Зверолова. Пора поговорить с местным командиром Алого Хора и рассказать, что все повстанцы мертвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Вы спровоцировали Маттиаса, и вам придется уничтожить всех солдат Несломленных, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вы спровоцировали Целебного Ножа, и вам придется уничтожить всех солдат Алого Хора, которые были под его командованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Вы подняли дух Несломленных, вернув утраченный артефакт – меч "Бесстрашный". С его помощью вы можете возглавить атаку и победить оставшиеся силы Алого Хора на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Вы победили. Поговорите с Маттиасом и узнайте, что [url=glossary:несломленные]Несломленные[/url] собираются делать дальше в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>Умирающий солдат, рассказал, что в районе есть как солдаты Хора, так и [url=glossary:несломленные]Несломленные[/url]. Убейте всех, включая Маттиаса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Обыщите тела убитых вами Несломленных – возможно, у них есть зацепка, которая приведет к "Бесстрашному".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Маттиас пригласил вас в свой лагерь. Поговорите с ним в лагере Несломленных на юго-западе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Клинок "Бесстрашный" помог вам поднять моральный дух Несломленных и собрать их на решающий бой с Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы помогли Алому Хору завербовать Несломленных на Перепутье Зверолова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убили всех из Алого Хора на Перепутье Зверолова. Теперь Несломленным в этом районе ничего не угрожает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы убили всех повстанцев из Несломленных на Перепутье Зверолова. Теперь Алому Хору некого будет вербовать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы убили всех на Перепутье Зверолова. В живых не осталось никого ни из Алого Хора, ни из Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы нашли "Бесстрашного" и стали более влиятельной фигурой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>На Перепутье Зверолова вы нашли записки павшего солдата, в которых указано местоположение артефакта под названием "Бесстрашный" возле Старых Стен. [url=glossary:бледен марк]Бледен Марк[/url] предложил вам найти этот артефакт, который может помочь вам в восхождении к власти.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

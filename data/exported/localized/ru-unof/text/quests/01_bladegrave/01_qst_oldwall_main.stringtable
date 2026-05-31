@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_oldwall_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Брешь между мирами</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Иеронимом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти артефакт Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поднять центральную платформу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти недостающие ключ-камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Отключить ловушку душ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Добраться до бреши в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Разместить все ключ-камни вокруг платформы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Забрать артефакт Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Забрать светоключ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Выйти из бреши в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Поговорить с Грэйвеном Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Поговорить с Голосами Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Поговорить с Маттиасом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Вы узнали, что повстанцы ищут в Старых Стенах Могилы Клинков останки регента Несломленных, который, как считается, владел Инсигнией Непоколебимости. Этот артефакт предположительно обладает силой сопротивляться яростным ветрам Эдикта Бурь Кайроса и может помочь попасть в Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Чтобы попасть в Старые Стены, нужен предмет, которым владеет Иероним. Возьмите этот предмет у него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Доберитесь до главного зала Старых Стен и попробуйте найти артефакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>До Первого регента и его артефакта не добраться, если не поднята платформа вокруг него. Исследуйте окружение и найдите способ управлять устройством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Похоже, что для управления платформой нужны ключ-камни, такие, как нашла Джавала. Найдите остальные три.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Несмотря на то что все четыре ключ-камня размещены в нужных местах, нестабильная ловушка душ перекрывает путь к артефакту Несломленных. Включите последнюю напольную панель, чтобы ловушка перестала работать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Отправьтесь к бреши в Старых Стенах Могилы Клинков, чтобы найти солдат Несломленных, которые занимаются поисками Инсигнии Непоколебимости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Теперь, когда вы обнаружили все ключ-камни, установите их в выемки вокруг центральной ямы, чтобы поднять платформу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Опустошителя больше нет – осталось только забрать артефакт с останков Первого регента Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Иероним сказал, что предмет, который вам нужен, чтобы попасть в Старые Стены, можно найти на теле солдата Опальных, погибшего в бою к юго-востоку от бреши. Найдите его тело и заберите светоключ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Теперь, когда артефакт Несломленных у вас, пора выйти из бреши в Старых Стенах и вернуться в Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Аше захочет лично взглянуть на артефакт. Вернитесь в Железный Очаг и поговорите с Архонтом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Нерата должна заинтересовать Инсигния Непоколебимости. Вернитесь в Какофонию и расскажите ему о последних событиях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вернитесь в Сумеречный Бастион и обсудите с Маттиасом дальнейшие действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы нашли Холодный ключ-камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы нашли Тяжелый ключ-камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы нашли Яркий ключ-камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы победили опустошителя, который был заключен в Старых Стенах, и взяли артефакт Несломленных с тела Первого регента.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] увидел Инсигнию Непоколебимости и готов пойти в наступление на Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы теперь владеете Инсигнией Непоколебимости и готовы пойти в наступление на Твердыню Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Маттиас обрадовался вашему успеху и отправил своих солдат на взятие Твердыни Часовых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Маттиас попросил вас помочь его людям найти Инсигнию Непоколебимости в Старых Стенах Могилы Клинков. Последний регент, который носил ее, погиб на войне и, как считается, именно там. Если у вас получится найти этот артефакт, то с его помощью вы наверняка сможете попасть в Твердыню Часовых и закончить действие Эдикта Бурь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] ищут в Старых Стенах Могилы Клинков могущественный артефакт – Инсигнию Непоколебимости. В этом предмете заключена большая сила, и его стоит поискать.
+
+[НЕОБЯЗАТЕЛЬНОЕ ЗАДАНИЕ]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

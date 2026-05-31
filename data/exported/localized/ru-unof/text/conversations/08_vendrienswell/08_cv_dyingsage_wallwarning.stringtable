@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_dyingsage_wallwarning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Простите меня". Книгочей бормочет между тяжелыми вздохами. "Мы вас подвели".
+
+Придерживая одной рукой внутренности, вылезающие из распоротого живота, она яростно водит другой рукой, выписывая узор, поддерживающий защитное заклинание на стенах. Боль и усталость берут свое, и после неправильно обведенного в воздухе полукруга защитное заклинание трещит и гаснет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Скаловержцы скоро обрушат стены! Отойдите!"
+
+Книгочей наклоняется вперед в приступе тошноты, дрожа всем телом от истощения и страха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Готовьтесь! Они... они забрались по восточной стене..."
+
+Книгочей падает на колени и наклоняется вперед в приступе тошноты, дрожа всем телом от истощения и страха.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

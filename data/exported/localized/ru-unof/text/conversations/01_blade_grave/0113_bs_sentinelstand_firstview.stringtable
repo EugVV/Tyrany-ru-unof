@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0113_bs_sentinelstand_firstview</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Твердыня Часовых... Я хорошо помню, как на нее обрушился [url=glossary:эдикт]Эдикт[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Когда-то эта крепость была лучшей твердыней Оплота. [url=glossary:кайрос]Кайрос[/url] хорошо умеет делать людям намеки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Самое прочное логово людей в земле Оплота. Оно старое, крошится и осыпается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Как я погляжу, гнев Кайроса все еще терзает неприступную Твердыню Часовых".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Защитников крепости поставили на колени самым жестоким способом из всех возможных. Эта участь постигнет любого, кто дерзнет перечить воле [url=glossary:кайрос]Кайрос[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Давненько я не была в Оплоте. Значит, все это случилось из-за грызни с Опальными?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_conqueststash_scarletchorus_scavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эй, а мы не одни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Какого дерьмового..." Орда замолкает сразу, как замечает вас. "Вершитель [Player Name]!"</DefaultText>
+      <FemaleText>"Какого дерьмового..." Орда замолкает сразу, как замечает вас. "Вершительница [Player Name]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Она оборачивается к мародерам. "Бросайте все и убейте Вершителя, иначе вас насадят на пики, как кабанов!"</DefaultText>
+      <FemaleText>Она оборачивается к мародерам. "Бросайте все и убейте Вершительницу, иначе вас насадят на пики, как кабанов!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"К черту все это, я сваливаю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Трус! А ну вернись!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"А, плевать на него. Нападаем!"</DefaultText>
+      <FemaleText>"А, плевать на нее. Нападаем!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

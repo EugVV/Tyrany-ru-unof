@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_camp_secured_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В форте искателей Несломленных не осталось. Элия и ее солдаты отправились на север – скорее всего, они пытались сбежать из каньонов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Еще можно попробовать догнать ее, пока она не ушла, забрав все знания об артефактах Оплота с собой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мы выследим этих крыс-Несломленных и найдем их нору. Полагаю, они отправились на север, ведь это единственный путь к отступлению".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Если [url=glossary:несломленные]Несломленные[/url] так быстро готовы поджать хвост, то неудивительно, что у них такая репутация".
+
+"Мы выследим их, если пойдем на север. Готова на заклад побиться, что они попытаются выбраться из каньона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ну вот и поболтали с местными... Следы ведут на север – нужно пройти по ним, пока их не стерло бурей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Похоже, с гарнизоном покончено. Но капитана нет среди убитых – наверное, она убежала на север".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Все [url=glossary:несломленные]Несломленные[/url], что остались здесь, мертвы. А остальные, должно быть, убежали на север, пока мы дрались. Трусы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Все [url=glossary:несломленные]Несломленные[/url] в логове-форте убиты. Кроме альфы стаи. Альфа в страхе бежала на север. Пора на охоту, ага-ага? Пора догонять, рвать-резать, ломать".
+
+Она взмахивает когтями и зловеще улыбается в предвкушении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Random Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

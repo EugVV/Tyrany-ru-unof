@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_sleepless_06</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта растрепанная женщина еле стоит на ногах. Ее одежда изорвана, а ноги покрыты множеством синяков и порезов. Она глядит на необычное сияние магического света и улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Почему ты смотришь на эту лампу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Извини. Как ты здесь оказалась?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"У тебя есть ключ-камень от телепорта?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она хмурит брови, всеми силами стараясь найти ответ. "Мы влюблены, ты что, не видишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Она медленно трет глаза и неслышно бормочет ответ. Заметив ваше недоуменное выражение, она досадливо указывает на телепорт позади нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Да? Да. Да!" Оглянувшись назад, она отстегивает мешочек и бросает его на пол. Вы раскрываете его и забираете ключ-камень. Она же продолжает потрясенно и счастливо смотреть на свет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти] "Я пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Убить ее.] "Поверь мне, так будет лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>В своем полубредовом состоянии женщина полностью расслаблена, она не сопротивляется и умирает быстро и безболезненно. Ее изломанная фигура оседает на землю, словно в последней мольбе к пламени Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Лучше быть мертвой, чем такой, какой она стала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Не будет больше больно ходячему трупу... альфа милосерден".</DefaultText>
+      <FemaleText>"Не будет больше больно ходячему трупу... альфа милосердна".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

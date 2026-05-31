@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_scarletchorusfort_scarletfury</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Приветствую, Вершитель".</DefaultText>
+      <FemaleText>"Приветствую, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ищете Нерата? Он в северной части форта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хорошо, что наши палатки стоят отдельно от остальной Орды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"От Орды так воняет, будто они спят со свиньями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мы ценим вашу помощь, Вершитель".</DefaultText>
+      <FemaleText>"Мы ценим вашу помощь, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Знаете, какое задание для вас приготовил Нерат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"На повешенных трупах хорошо тренироваться стрельбе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Хорошо, что вы здесь, Вершитель".</DefaultText>
+      <FemaleText>"Хорошо, что вы здесь, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Никто не остановит Хор, раз вы на нашей стороне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"У нас так много тел на пиках, что глаза слезятся от вони".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Нерат однажды разговаривал со мной. Повторять не хочу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Хорошо, что эти зверолюды сражаются с нами, а не против нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Надеюсь, у меня скоро будет возможность пойти в бой вместе с вами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Может, лучше вам возглавить Хор, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Тебе не показалось, что Голоса какой-то... слегка не такой? Может, чужих мозгов переел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Не доводилось мне до сих пор видеть, чтобы старшой хоть кому-то кланялся. Кто против тебя пойдет – сам себе дурак!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Каких только слухов про тебя и старшого не ходит. Но мне плевать – Голоса так стал только лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Нужно перерезать кому-нибудь глотку? Просто наведи мой клинок, босс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Фурия пылко приветствует вас, вскинув грязный кулак вверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Кто мог убить Голоса, как не более сильный Архонт? Наш босс – воистину ужасающее существо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Не могу даже поверить, что ты прикончил и Бледена Марка, и Тунона. Никто не выступит против Хора, когда ты с нами!"</DefaultText>
+      <FemaleText>"Не могу даже поверить, что ты прикончила и Бледена Марка, и Тунона. Никто не выступит против Хора, когда ты с нами!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Архонт, ты только что убил самого великого убийцу Кайроса. Теперь ярусники будут в страхе шептать не его имя, а твое..."</DefaultText>
+      <FemaleText>"Архонт, ты только что убила самого великого убийцу Кайроса. Теперь ярусники будут в страхе шептать не его имя, а твое..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"В задницу Тунона и все его правила и уставы. Единственное правосудие – это уклад Хора! Правда, Архонт?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Значит, ты просто зашел в Суд Тунона и бросил Архонта Правосудия в его собственную яму? Проклятье, Вершитель, мне нравится твой стиль!"</DefaultText>
+      <FemaleText>"Значит, ты просто зашла в Суд Тунона и бросила Архонта Правосудия в его собственную яму? Проклятье, Вершительница, мне нравится твой стиль!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Босс, что тебе нужно? Что угодно для убийцы Грэйвена Аше. Нужно кого-нибудь прирезать? Я здесь. Хочешь, чтобы я вычистил дерьмо с твоих сапог? Я здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"А я-то считал себя крутым убийцей. Похоже, нам всем есть чему у тебя поучиться, убийца Архонтов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Архонт, ты превратил Железный Очаг в бойню! Оставь немного для нас, а?"</DefaultText>
+      <FemaleText>"Архонт, ты превратила Железный Очаг в бойню! Оставь немного для нас, а?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Добро пожаловать в Какофонию, Вершитель судеб. Нерат ждет тебя".</DefaultText>
+      <FemaleText>"Добро пожаловать в Какофонию, Вершительница судеб. Нерат ждет тебя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Где я могу найти [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что ты можешь рассказать мне о Какофонии?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"В северо-восточной части лагеря, недалеко от последних оставшихся построек. Если он не сидит на троне, значит, бродит где-то рядом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Это главная крепость Алого Хора в Ярусах. Здесь представлены все наши подразделения – Орда, Алые Фурии, Певчие Крови, Кровавые Гончие и даже зверолюды. Каждые из них обитают в своей части лагеря – так безопаснее, мы стараемся свести к минимуму возможные столкновения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если тебе нужно что-то купить, в лагере есть торговец. Также у нас есть интендант, но чтобы получить доступ к ее товарам, нужно разрешение самого Нерата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

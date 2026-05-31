@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_chantingearthshaker_howlingrock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</DefaultText>
+      <FemaleText>"Вершительница, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вершитель, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</DefaultText>
+      <FemaleText>"Вершительница, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вершитель, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</DefaultText>
+      <FemaleText>"Вершительница, пощади! Нельзя этого делать! Ты и не представляешь, что произойдет, если прервать [url=lore:Ritual_of_Fallowing]Ритуал Вспашки[/url]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Да? И кто меня остановит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Схватить его за горло] "Так скажи мне. Что произойдет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"[url=lore:Ritual_of_Fallowing]«Ритуал Вспашки»[/url], говоришь?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Убить его.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он стискивает зубы и отворачивается. "Даже если ты разобьешь все кристаллы лазурелита, уже слишком поздно. Они уже заряжены, Вершитель. Тебе не остановить реакцию".</DefaultText>
+      <FemaleText>Он стискивает зубы и отворачивается. "Даже если ты разобьешь все кристаллы лазурелита, уже слишком поздно. Они уже заряжены, Вершительница. Тебе не остановить реакцию".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Он стискивает зубы и отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Говори! Или придется по-плохому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Встряхнуть его.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Мускулы его сжатой челюсти шевелятся на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он ломается под давлением боли и страха – жалкая пародия на боевого мага.
+
+"П-прошу, прояви благоразумие! Мы п-проводим крайне сложную, магически-эзотерическую процедуру с земно-стихийными образованиями, обладающими свойствами ртутно-нестабильного зарядного резонанса! Уничтожь один к-камень, и реакция может убить нас всех! Придурок!"</DefaultText>
+      <FemaleText>Он ломается под давлением боли и страха – жалкая пародия на боевого мага.
+
+"П-прошу, прояви благоразумие! Мы п-проводим крайне сложную, магически-эзотерическую процедуру с земно-стихийными образованиями, обладающими свойствами ртутно-нестабильного зарядного резонанса! Уничтожь один к-камень, и реакция может убить нас всех! Идиотка!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я понял – нужно разбить блестящие кристаллы".</DefaultText>
+      <FemaleText>"Я поняла – нужно разбить блестящие кристаллы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мастер Радикс и его сторожевой пес, которого называют братом, размажут твои кишки по земле. Они не позволят тебе уничтожить кристаллы лазурелита и нарушить ритуал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Мастер Радикс тебя закопает. Он размажет твои кишки по земле, Вершитель! Наш Мастер не позволит тебе уничтожить кристаллы лазурелита и нарушить ритуал!"</DefaultText>
+      <FemaleText>"Мастер Радикс тебя закопает. Он размажет твои кишки по земле, Вершительница! Наш Мастер не позволит тебе уничтожить кристаллы лазурелита и нарушить ритуал!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"А если попроще?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Встряхнуть его еще сильнее.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Он содрогается и хватает ртом воздух, а затем умирает, пытаясь отцепить ваши руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Широко раздув ноздри, он сплевывает вам под ноги смесь крови и слюны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Он весь дрожит от ярости, которая ярко полыхает в его взгляде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я похож на новичка? Реакции не будет. Ты просто не хочешь, чтобы я разрушил твой драгоценный ритуал".</DefaultText>
+      <FemaleText>"Я похожа на новичка? Реакции не будет. Ты просто не хочешь, чтобы я разрушила твой драгоценный ритуал".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я в любом случае буду мертв, Вершитель. Но вы и зверолюды, вы готовы рискнуть?"</DefaultText>
+      <FemaleText>"Я в любом случае буду мертв, Вершительница. Но вы и зверолюды, вы готовы рискнуть?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Серьезно? Будешь играть в молчанку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Подтолкнуть его к краю.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

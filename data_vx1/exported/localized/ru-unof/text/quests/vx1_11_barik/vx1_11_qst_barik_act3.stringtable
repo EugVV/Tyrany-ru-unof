@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Недостижимая свобода</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убить Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Грэйвеном Аше о том, что делать с Бариком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться к кузнецу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться в руины Эджеринга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Собрать кровь со статуи королевы Ликарии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вернуться к кузнецу с собранной кровью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поговорить с Бариком в Горном Шпиле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Барик выяснил, как снять доспех, но он не хочет идти на необходимые жертвы. Если вы хотите ему помочь, придется все брать на себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>С тех пор, как вы стали Архонтом, у вас с Бариком появились новые возможности, как вызволить его из доспеха. Обсудите с ним все варианты и решите, как действовать дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Защита Аше – та причина, по которой Барик составляет со своим доспехом единое целое. Поскольку указ Владыки все равно требует, чтобы вы бросили вызов Грэйвену Аше, вам проще его прикончить – и Барик наконец обретет свободу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Возможно, [url=glossary:грэйвен аше]Грэйвен Аше[/url] захочет помочь извлечь Барика из его бронированной клетки. Поговорите с ним в Железном Очаге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Защита Грэйвена Аше больше не распространяется на Барика, и, возможно, ваш кузнец наконец сумеет снять с него доспехи. Отведите к ней Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Чтобы избавить Барика от доспеха, нужно большое количество королевской крови. К счастью, слез исполинской статуи королевы в руинах Эджеринга может оказаться достаточно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы прибыли в руины Эджеринга, но собрать кровь оказалось задачей не из легких. Придумайте, как набрать ее достаточное количество, чтобы провести над Бариком ритуал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы собрали слезы королевской крови со статуи в руинах Эджеринга. Возвращайтесь к кузнецу, чтобы она наконец освободила Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы наконец вызволили Барика из доспеха. Поговорите с ним в Горном Шпиле и выясните, каково ему ощущать себя свободным человеком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Барик умоляет вас найти другой выход и не убивать Грэйвена Аше. Возможно, вам это и удастся, ведь вы в союзе с Архонтом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] отказывается избавить Барика от своей Защиты. Однако он готов говорить с вами на равных, если вы прикончите [url=glossary:голоса нерата]Голоса Нерата[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] поклялся вам в верности. Приведите к нему Барика и потребуйте снятия Защиты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Барик погиб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Барик покинул отряд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>После того, как Защита Грэйвена Аше была снята, ваш кузнец наконец извлекла Барика из доспеха. Однако он до сих пор не определился, как относиться к свободе, добытой с таким трудом.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

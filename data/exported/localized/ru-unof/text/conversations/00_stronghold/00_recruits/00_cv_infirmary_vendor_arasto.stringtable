@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_vendor_arasto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Пока в Шпиле ведутся работы, я не могу получать заказанные товары. Может быть, в другой раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Человек склоняется перед вами в поклоне. "Арасто к твоим услугам. Если тебе нужен надежный торговец снадобьями, не ищи никого другого. У Арасто ты всегда найдешь все самое лучшее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Давай посмотрим, что у тебя есть на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Вершитель". Он прочищает горло. "Могу ли я чем-нибудь помочь?"</DefaultText>
+      <FemaleText>"Вершительница". Он прочищает горло. "Могу ли я чем-нибудь помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"У меня есть свои способы". Он придвигается ближе. "В бою гибнет множество солдат с обеих сторон, и у многих при себе остаются ценные предметы, которые иначе... просто пропадут или сгниют". Он кивает с серьезным видом. "Я просто делаю так, чтобы эти товары вновь попадали в надежные руки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Снадобья – довольно редкий товар. Откуда ты их берешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты грабишь мертвецов и забираешь снадобья у них?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Арасто пятится. "Нет, конечно! Другие люди делают это для меня, за деньги".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

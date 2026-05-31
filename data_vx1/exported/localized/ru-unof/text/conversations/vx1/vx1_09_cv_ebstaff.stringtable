@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_ebstaff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Атли с сияющей улыбкой рассматривает скляночку с прозрачной водой, которую вертит в руках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вот уж не думала, что когда-то вновь это увижу... Наверное, Махальник ее забрал из Академии Приливов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"И что это такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Это какая-то ритуальная вода Заклинателей Приливов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не хочу показаться занудой, как Книгочеи, но сейчас это может оказаться чем угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Темная Джейд, Архонт Приливов, умела превращать предметы в воду – а потом обратно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Эта скляночка прошла трансформацию наполовину. Осталось только дождаться этапа «и обратно»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"О, нет, все куда веселее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"И во что она... превратится обратно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ты можешь с этим что-то сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"А что, если в склянке окажется мстительный Заклинатель Приливов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"В этой склянке – сплавленный океан. Я вижу, Махальник ограбил старый склад Академии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"О, для этого склянка слишком мала. Но я приветствую твою осторожность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Темная Джейд из такой воды изготовила свой боевой посох. А теперь ее больше нет... и что меня остановит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Боевой посох? Мне нравится, как это звучит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Остановит – в каком смысле?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Да, я помню, ты лапы на мой посох наложить пытался. Что ж, я могла бы сделать себе новый... и забирай его тогда себе".</DefaultText>
+      <FemaleText>"Да, я помню, ты лапы на мой посох наложить пыталась. Что ж, я могла бы сделать себе новый... и забирай его тогда себе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Мне тоже. Мой нынешний меня вполне устраивает, но... всегда же можно что-то улучшить, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Обычно из океанского сплава делали изваяния и инструменты. И только Архонт и ее гвардейцы имели право брать его в бой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Но если она так хотела, чтобы мы соблюдали ее правила, нечего было прыгать на корабль и уплывать с Ярусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"С этого момента обычаи Заклинателей Приливов будут такими, как ты скажешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Что тебе нужно, чтобы изготовить посох?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ты можешь чтить прошлые традиции или нет. Сама решай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Логично, не придерешься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Да так. Мне просто хочется наплевать на одно дурацкое старое правило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Держа в одной руке Гребень Волны, большим пальцем другой руки Атли вытаскивает пробку из склянки и льет воду на лезвия, венчающие посох.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вода мерцает, обтекая боевой посох, и покрывает его тончайшей, слегка подрагивающей оболочкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Обеими руками взявшись за древко посоха, Атли, напрягая все силы, тянет на себя, пока посох наконец не разделяется на два. Старое оружие остается у нее в одной руке, а мерцающая, полупрозрачная копия – в другой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"М-м... и до чего нас довели эти прошлые традиции? Вот именно – до завоевания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Теперь нам остается только влипнуть в неприятности, чтобы проверить его в деле. Ну, зная нас, за этим дело не станет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Как Вершитель судеб я объявляю сей посох инструментом. Приступай".</DefaultText>
+      <FemaleText>"Как Вершительница судеб я объявляю сей посох инструментом. Приступай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вытащив пробку из сосуда, Атли выливает воду себе в руку. Вода собирается в ладони и словно прилипает к коже, стекая вниз по руке. На землю не падает ни капли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Второй рукой Атли делает несколько колдовских жестов. Вода в ее ладони начинает вытягиваться, удлиняться – пока, наконец, в руке у Атли не оказывается блестящая и прозрачная копия ее посоха, Гребня волны.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_01_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ходят слухи, что мор в Каменном Море наконец-то закончился. Может, поселенцы наконец-то смогут отстроиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сначала я услышал, что в Каменном Море, оказывается, был умирающий Архонт, а теперь кто-то и его прикончил?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Гильдия магов армии Опальных почти полным составом перешла на сторону Вершителя? Вы умеете найти подход к людям, [Player Name]".</DefaultText>
+      <FemaleText>"Гильдия магов армии Опальных почти полным составом перешла на сторону Вершительницы? Вы умеете найти подход к людям, [Player Name]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Были опасные моменты, но не только я готов признать, что все мы обязаны вам своими жизнями, Вершитель".</DefaultText>
+      <FemaleText>"Были опасные моменты, но не только я готов признать, что все мы обязаны вам своими жизнями, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вы в одиночку расправились с целым гарнизоном? Напомните мне не вставать на пути у Вершителя..."</DefaultText>
+      <FemaleText>"Вы в одиночку расправились с целым гарнизоном? Напомните мне не вставать на пути у Вершительницы..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Наконец-то наше поселение вернулось в руки ярусников".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

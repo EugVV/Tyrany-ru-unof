@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_library_binderresearcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Показать ему древний пергамент.] "Я нашел это глубоко в Старых Стенах".</DefaultText>
+      <FemaleText>[Показать ему древний пергамент.] "Я нашла это глубоко в Старых Стенах".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

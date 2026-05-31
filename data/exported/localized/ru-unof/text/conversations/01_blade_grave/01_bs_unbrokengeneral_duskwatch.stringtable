@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_unbrokengeneral_duskwatch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"С тех пор как мы взяли Каллиаса в плен, [url=glossary:опальные]Опальные[/url] не сбавляют натиска".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сумеречный Бастион выстоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Если [url=glossary:опальные]Опальные[/url] надеются уморить нас голодом, их ждет разочарование".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Наши припасы подходят к концу, но мы еще держимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Капитан Агатон уже не первый месяц не дает нам падать духом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Будь осторожен, Вершитель судеб".</DefaultText>
+      <FemaleText>"Будь осторожна, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты пришел, чтобы помочь нам или чтобы судить нас, Вершитель судеб?"</DefaultText>
+      <FemaleText>"Ты пришла, чтобы помочь нам или чтобы судить нас, Вершительница судеб?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

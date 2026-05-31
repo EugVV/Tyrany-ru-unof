@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_injuredvendrienguard_atdoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель... иди вперед, они в Зале Вознесения. Я только отдышусь и буду выслеживать уцелевших".</DefaultText>
+      <FemaleText>"Вершительница... иди вперед, они в Зале Вознесения. Я только отдышусь и буду выслеживать уцелевших".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

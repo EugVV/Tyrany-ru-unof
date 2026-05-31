@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_tunon_death</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Но я же разобрался с Архонтами, объединил Ярусы. Я сделал все, чего хотел [url=glossary:кайрос]Кайрос[/url]. Так зачем Владыка снова желает проливать кровь?"</DefaultText>
+      <FemaleText>"Но я же разобралась с Архонтами, объединила Ярусы. Я сделала все, чего хотел [url=glossary:кайрос]Кайрос[/url]. Так зачем Владыка снова желает проливать кровь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Безумие какое-то. Ярусы наконец-то едины... [url=glossary:кайрос]Кайрос[/url] радоваться должен и нас поздравлять!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Твоя сила нарушает привычный ход вещей. Подкрепления нужны для того, чтобы мы точно исполнили волю Кайроса и выбрали среди себя сильнейшего Архонта. Но твоя мощь... отголосок твоего Эдикта... Сомневаюсь, что [url=glossary:кайрос]Кайрос[/url] верит в твою преданность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Если тебе нужен мир, моли о нем Владыку. Прокричи об этом с Горного Шпиля, разошли послания по всему Терратусу... пусть о твоей преданности знают все. Только так можно добиться снисхождения Владыки... И ради Ярусов я надеюсь, что [url=glossary:кайрос]Кайрос[/url] еще не растратила запасы своего милосердия... к которым я припал, когда сам стал Архонтом".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

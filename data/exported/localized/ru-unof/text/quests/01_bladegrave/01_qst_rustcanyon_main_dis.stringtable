@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>То, что осталось</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Встретиться с Теодором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Догнать Элию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Взять лагерь Несломленных под контроль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Зачистить территорию у восточных ворот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] считает, что артефакты, которые ищут [url=glossary:несломленные]Несломленные[/url], помогут попасть в Твердыню Часовых. Он отправил солдат в Ржавые Каньоны, где повстанцы ищут наследие погибших регентов. Помогите Опальным взять под контроль лагерь Несломленных и узнайте больше об охоте за артефактами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправьтесь в Ржавые Каньоны и встретьтесь с Теодором, командиром сил Опальных в этом районе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Элия и несколько ее солдат сбежали из лагеря, когда он пал, и пытаются добраться до Ржавых Каньонов. Следуйте за ними на север и не дайте уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Нападите на лагерь Несломленных в Ржавых Каньонах. Зачистите район и убейте всех солдат Несломленных в лагере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>[url=glossary:несломленные]Несломленные[/url] разместили силы у восточных ворот лагеря в Ржавых Каньонах. Убейте солдат и освободите пленных Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы познакомились с Элией, возглавляющей силы Несломленных. Вам лучше сначала поговорить с Теодором, прежде чем идти в атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы напали на лагерь Несломленных, не скоординировав действия с Теодором, и теперь вам придется брать лагерь в одиночку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Вы захватили район у восточных ворот. Теперь помогите пленным Опальным выбраться из ямы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Солдаты Теодора нападут на восточные ворота, чтобы обеспечить поддержку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Вам удалось скрытно пробраться в лагерь. Воспользуйтесь этим преимуществом, чтобы победить Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Отстрелите лебедку, которая держит подъемный мост, чтобы добраться до Несломленных на возвышенности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы победили Элию и узнали о попытках найти Инсигнию Непоколебимости в бреши в Старых Стенах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы напали на Теодора и решили забрать лагерь себе, став врагом Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

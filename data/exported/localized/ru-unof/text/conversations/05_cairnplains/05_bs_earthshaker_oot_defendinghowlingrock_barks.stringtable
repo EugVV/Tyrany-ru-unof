@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_earthshaker_oot_defendinghowlingrock_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ни шагу назад! Защищайте лазурелит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Не дайте им нарушить ритуал! Если мы потеряем этот шанс умертвить землю, то другого у нас не будет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не дайте им нарушить ритуал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Заряжайте лазурелит! Не останавливайтесь, даже если на вас нападут!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Энергия Каирна пропитала лазурелиты для наших посохов. Его наследие будет жить вместе с гильдией".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Не могу поверить, что нашего Архонта больше нет. С нами останется только его сущность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] Камня снят, и ярусники Лазури смогут снова засеять земли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Наша гильдия окажет вам любую поддержку, Вершитель".</DefaultText>
+      <FemaleText>"Наша гильдия окажет вам любую поддержку, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Наконец-то [url=glossary:каирн]Каирн[/url] покоится с миром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Гильдия сейчас сильнее, чем когда-либо была. Мы больше не покоримся Опальным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мы уничтожили эту землю, чтобы навредить Хору. Генерал будет очень доволен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Представить только – предводитель [url=glossary:каирн]Каирн[/url] станет такой благородной жертвой... Это меня и огорчает, и вызывает чувство гордости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Предводитель [url=glossary:каирн]Каирн[/url] мертв, и земля вместе с ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мне кажется, вы самый беспощадный Вершитель, который мне встречался. Для меня было честью сражаться вместе с вами, господин".</DefaultText>
+      <FemaleText>"Мне кажется, вы самая беспощадная Вершительница, которая мне встречалась. Для меня было честью сражаться вместе с вами, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Гильдия скорбит по утрате нашего Архонта, но это было во имя высшего блага".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Земля замерла, словно мертвая, но я все еще дрожу после ритуала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Как захватывающее было провести Вспашку в таком огромном масштабе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Может, мы и прервали [url=glossary:эдикт]Эдикт[/url], но земле мы точно ничем не помогли, да? Теперь нам остается только ждать, пока наши враги станут умирать от голода".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Королевство выглядит сейчас очень мрачно. Даже небо посерело и выглядит так, словно вот-вот заплачет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Может ли Вершитель обладать силой Архонта?"</DefaultText>
+      <FemaleText>"Может ли Вершительница обладать силой Архонта?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мне не доводилось еще видеть такое могущество... То, что ты сделал во время ритуала, Вершитель... Ты вообще представляешь, что ты такое?"</DefaultText>
+      <FemaleText>"Мне не доводилось еще видеть такое могущество... То, что ты сделала во время ритуала, Вершительница... Ты вообще представляешь, что ты такое?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"А правда, что Радикс теперь носит титул Повелителя Гор?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Предводитель [url=glossary:каирн]Каирн[/url] страдает, но я не могу ничего сделать, кроме как изучать его симптомы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"[url=glossary:опальные]Опальные[/url] говорят, что пришли нам помочь, но они только смотрят на нас и фехтуют друг с другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Говорят, гильдию возглавила Айседора. Она довольно быстро поднялась по рядам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"У Айседоры редкий талант. Она дикая, как и предводитель [url=glossary:каирн]Каирн[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Хорошо, что мастер Радикс вернулся к гильдии. Я начинаю волноваться, когда он слишком долго задерживается у Грэйвена Аше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Как хорошо, что мастер Радикс снова с гильдией. Генерал не любит расставаться с командиром, но нам он нужен для исследований".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Предводитель [url=glossary:каирн]Каирн[/url] доверял Радиксу больше всех остальных. Что он решит, то гильдия и будет делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Теперь, когда здесь [url=glossary:опальные]Опальные[/url], мы будем в большей безопасности. Не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

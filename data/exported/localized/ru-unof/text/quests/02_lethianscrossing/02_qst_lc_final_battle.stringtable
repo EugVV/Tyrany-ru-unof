@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_lc_final_battle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Конфликт в Распутье</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Взять Купеческий Мост на востоке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Спасти союзников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уничтожить захватчиков на западе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Спасти поселенцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Помочь отбить нападение бичевателей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Спасти Элдиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Затушить огонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Защитить поселенцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Победить предводителя врага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Убить вражеского командира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Отправиться в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Дойти до Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Из-за провозглашенного вами Эдикта и сообщения, которое [url=glossary:кайрос]Кайрос[/url] передал Архонтам, [url=glossary:опальные]Опальные[/url] пошли на отчаянные меры и вторглись в [url=glossary:распутье летианы]Распутье Летианы[/url]. Вы решили собрать совещание союзников и составить план боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Захватчики заблокировали восточный мост возле Распутья Летианы. Вам нужно расчистить путь на другую сторону, но если вы это сделаете, то у вас не будет времени убить врагов на западе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ваши союзники на верхнем уровне на западе Распутья Летианы сражаются с превосходящими силами противника и погибнут без вашей помощи. Но если вы отправитесь к ним, то не успеете взять Купеческий Мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Захватчики заблокировали путь на верхний уровень в западной части Распутья Летианы. Вам нужно устранить препятствие, но если вы это сделаете, то не успеете взять Купеческий Мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Небольшая группа поселенцев сейчас окружена захватчиками на верхнем уровне Распутья Летианы. Им нужна ваша помощь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Бичеватели вырвались из Старых Стен и угрожают Распутью Летианы. Захватчики заблокировали защитников поселения вместе с бичевателями у входа в Шпиль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Захватчики пытаются прорваться в дом Элдиана. Если вы не вмешаетесь, он погибнет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Захватчики начали поджигать дома. Поселенцы и торговцы могут погибнуть, если не затушить огонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Захватчики врываются в дома, чтобы убить поселенцев. Поселенцам нужна ваша помощь и защита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Предводитель противника поднимает моральный дух нападающих войск. Убейте его, чтобы понизить мораль врага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Командир атакующих войск вышел из укрытия. Убейте командира и закончите этот бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Встреча назначена в Зале Вознесения в [url=glossary:колодец вендриенов]Колодец Вендриенов[/url]. Отправьтесь туда и поговорите с Арри, чтобы выбрать лучший план действия для вашего союза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Встретьтесь с союзниками в [url=glossary:распутье летианы]Распутье Летианы[/url] и защитите поселение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы уничтожили врагов на западе, но захватчики установили контроль над мостом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы зачистили путь через Купеческий Мост, но ваши союзники были убиты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы закончили бой за [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

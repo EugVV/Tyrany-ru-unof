@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_killsinshadow_mural_epiphany</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель. Подожди".</DefaultText>
+      <FemaleText>"Вершительница. Подожди".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Застыв перед настенной росписью, Смерть-из-Тени в задумчивости склоняет голову набок и постукивает когтем по кладке Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Промолчать.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"В чем дело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мы достаточно насмотрелись на эти древние рисунки. Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Зверолюдка молча продолжает созерцать рисунки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти] "Я сказал – идем. Немедленно".</DefaultText>
+      <FemaleText>[Уйти] "Я сказала – идем. Немедленно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Как скажет Вершитель судеб".</DefaultText>
+      <FemaleText>"Как скажет Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Краски на стене говорят то, что Смерть-из-Тени уже знает. Еще говорят то, что Смерть-из-Тени не знала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"И что же ты знала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Картины «говорят» с тобой? Как это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"К чему ты ведешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Знала, что звери рвали-грызли погибелей всегда – дольше, чем люди помнят. Враги давние, как Старые Стены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Видит в красках на стене ярость, видит цель. Так же зверолюдка чувствует, когда во сне охотится на погибелей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Стена лап говорит, что у каждого племени свои отличия. У Мантарожденных руки, чтобы плавать. У Охотников Тени – шерсть, чтобы теряться в ночи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Теперь думаю... каждое племя берет кровь земли для лучшей силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вершитель судеб не видит?"</DefaultText>
+      <FemaleText>"Вершительница судеб не видит?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"У племен зверолюдов зачастую магия родственна их местам обитания. Возможно, и из Старых Стен твои сородичи что-то могут брать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Это все настенные рисунки тебя научили?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"А что если ты станешь, как Золотая Лапа? Мне кажется, эту силу лучше оставить в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Зверолюдка негромко фыркает с довольным видом и опускается на четыре лапы. Кончики шерсти и общие ее очертания начинают темнеть и размываться. Ощущение такое, что каждый раз, стоит вам моргнуть, и зверолюдка еще больше пропадает из вида.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Мы достаточно насмотрелись на эти древние рисунки. Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Зверолюдка молча продолжает созерцать рисунки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Уйти] "Я сказал – идем. Немедленно".</DefaultText>
+      <FemaleText>[Уйти] "Я сказала – идем. Немедленно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Нет, не учили. Но Смерть-из-Тени слушает, берет знание. Так должно быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Тьма-глубоко полна сильной магии. Все время угроза погибелей – открывает глаза и уши... Смерть-из-Тени хочет драться... ощущать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Вершитель судеб говорит Смерти-из-Тени «нет»?"</DefaultText>
+      <FemaleText>"Вершительница судеб говорит Смерти-из-Тени «нет»?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Зверолюдка щерится и издает низкий рык. Мгновение – и она появляется вновь. Шерсть вздыблена у нее на загривке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я не знаю, что ты делаешь. Но. Немедленно прекрати".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я всего лишь выражаю обеспокоенность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Идем, показывай, где рвать-грызть! Смерть-из-Тени хочет на охоту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Вижу – старые племена не бежали в ярости. Племена несли бремя, делались сильные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Идем, показывай, где рвать-грызть! Смерть-из-Тени хочет на охоту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

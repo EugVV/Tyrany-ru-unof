@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_tripnettlewilderness_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Завоевание Внешней Долины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Крапивные Дебри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отыскать капитана повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Сразиться с гвардейцем Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться в шатер Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Допросить Варию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Поговорить с Пятым Глазом в лагере Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Освободить Лантри из плена Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вернуться с отчетом к Притворщику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Одержать победу над Пелоксом Флорианом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Покинуть Крапивные Дебри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Явиться на встречу Архонтов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Явиться на встречу Архонтов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Уничтожить подкрепления Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вернуться к Притворщику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Уничтожить подкрепления Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] сейчас пытается захватить внешнее кольцо Колодца Вендриенов. Вам нужно будет помочь им разделаться с повстанческими силами в районе, прежде чем армии Кайроса достигнут Цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправиться в Крапивные Дебри и оценить ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Колченог сказал вам, что Нерат хочет взять капитана Гвардии Вендриенов в Крапивных Дебрях живым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ваши силы одержали верх на Переправе Отголоска и в Крапивных Дебрях. Вернитесь в шатер Аше и сообщите Архонтам о своем успехе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Пятый Глаз убежден, что мятежница Вария, которую держат в плену в лагере Алого Хора, может знать что-то важное о действиях повстанцев в Крапивных Дебрях. Он просит вас допросить ее, а сам готов понаблюдать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Встретившись с Архонтами, вы узнали, что [url=glossary:алый хор]Алый Хор[/url] проводит операцию в Крапивных Дебрях, но пока безуспешно. Поговорите с Пятым Глазом в лагере Алого Хора и узнайте, чем вы можете им помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Книгочей по имени Лантри утверждает, что способен расшифровать послание Гвардии Вендриенов, найденное вами у мертвого пленника. Убедите [url=glossary:алый хор]Алый Хор[/url] отпустить его, чтобы заручиться его помощью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Вы убедили капитана Флориана сложить оружие. Притворщик ожидает вашего возвращения в Крапивных Дебрях и будет рад вашему успеху.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>У вас не вышло решить дело миром с Гвардией Вендриенов в Крапивных Дебрях. Убейте их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Вы нарушили приказ и позволили гвардейцам Вендриенов сбежать. Лучше покинуть Крапивные Дебри, пока об этом не узнал [url=glossary:алый хор]Алый Хор[/url], иначе придется заставить их замолчать навсегда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Вам сообщили, что [url=glossary:грэйвен аше]Грэйвен Аше[/url] встречается с Голосами Нерата в лагере Опальных, в шатре Аше. Вам следует присутствовать при этом разговоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Вам сообщили, что [url=glossary:грэйвен аше]Грэйвен Аше[/url] встречается с Голосами Нерата в лагере Опальных, в шатре Аше. Вам следует присутствовать при этом разговоре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>В Крапивные Дебри прибыли подкрепления Пелокса Флориана. Вам придется разделаться с ними, чтобы очистить от повстанцев всю эту область.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Вы разобрались с Гвардией Вендриенов в Крапивных Дебрях, хотя и чуть более кроваво, чем вас просили. Пора возвращаться с отчетом к Притворщику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10034</ID>
+      <DefaultText>В Крапивные Дебри прибыли подкрепления Пелокса Флориана. Вам придется разделаться с ними, чтобы очистить от повстанцев всю эту область.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили торговца и всех гвардейцев Вендриенов, скрывавшихся в Крапивных Дебрях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убили всех солдат повстанцев, кого сумели найти, а Сильвера Арго отдали Опальным для допроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убили всех солдат повстанцев, кого сумели найти, а Сильвера Арго отпустили в обмен на ценную информацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы убили Эвклина, защитника Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вам удалось убедить Флориана вступить в ряды Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы убили всех повстанцев, скрывавшихся в Крапивных Дебрях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Вы позволили Флориану и остальным гвардейцам Вендриенов сбежать и тем самым помогли повстанцам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Объединитесь с Хором, чтобы подавить незначительные силы повстанцев, базирующиеся в Крапивных Дебрях. Победив этих повстанцев, вы сможете помешать силам Кайроса избежать атаки с тыла при походе на Цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

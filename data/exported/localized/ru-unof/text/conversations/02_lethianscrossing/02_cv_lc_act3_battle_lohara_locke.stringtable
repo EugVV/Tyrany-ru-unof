@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lc_act3_battle_lohara_locke</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Благодарю, Вершитель судеб, но остальным жителям района нужна твоя помощь. Солдаты Опальных его просто заполонили!"</DefaultText>
+      <FemaleText>"Благодарю, Вершительница судеб, но остальным жителям района нужна твоя помощь. Солдаты Опальных его просто заполонили!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

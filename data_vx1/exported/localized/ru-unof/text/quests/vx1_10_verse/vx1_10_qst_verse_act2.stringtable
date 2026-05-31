@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Пожар внутри</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Прочесть послание Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обсудить с Фугой письмо про ее сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Отправиться на Купеческий перекресток и встретиться с контактом Фуги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Перехватить Крокуса в Приюте Охотника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отправиться за Ириссой на Изорванный Берег.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отыскать Клею в Речном Изломе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] назвал вам имена тех, кто повинен в гибели Алых Фурий, названых сестер Фуги. Помогите Фуге найти убийц и добиться возмездия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Вы получили сообщение от Голосов Нерата, Архонта Тайн и главного шпиона Владыки. В нем может содержаться жизненно важная информация... или опасная ложь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>В своем послании [url=glossary:голоса нерата]Голоса Нерата[/url] попросил вас сообщить Фуге новую информацию о людях, перебивших ее прежнюю ватагу. Поговорите с Фугой и решите, что вам делать дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>В послании Голосов Нерата было зашифровано сообщение о том, что дополнительные сведения Фуга может получить от информатора на Купеческом перекрестке, рядом с Распутьем Летианы. Отправляйтесь туда и попробуйте что-то выяснить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы узнали, что Крокус, человек, похвалявшийся тем, что прикончил трех Алых Фурий на Гребне во время Завоевания, нанялся охранником каравана к торговцу по имени Аэза. Караван должен сделать остановку в Приюте Охотника. Фуга хочет перехватить там Крокуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы узнали от Крокуса, что Ирисса – одна из тех, кто воевал за Гребень и участвовал в уничтожении ватаги Фуги, – находится с отрядом Несломленных на Изорванном Берегу. Отправляйтесь туда с Фугой, чтобы ее схватить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ирисса давно мертва, и теперь Фуга хочет отомстить ее сестре Клее. Их семейная ферма расположена в местечке, именуемом Речной Излом, в Колодце Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы с Фугой решили проявить милосердие и сохранили Эссе жизнь. Фуга еще на шаг приблизилась к разгадке тайны гибели своих сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вопреки желанию Фуги, вы убили Эссу за те преступления, что совершала она и ее дочери. Фуга сожалеет, что так вышло, и все же теперь она еще на шаг приблизилась к разгадке тайны гибели своих сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>За те преступления, что совершала Эсса и ее дочери, вы приказали Фуге казнить женщину. Фуга сожалеет, что так вышло, и все же теперь она еще на шаг приблизилась к разгадке тайны гибели своих сестер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Фуга погибла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Фуга покинула отряд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

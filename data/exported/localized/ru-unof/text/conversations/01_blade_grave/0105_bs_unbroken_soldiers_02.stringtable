@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0105_bs_unbroken_soldiers_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы слишком долго сражались за этот форт, чтобы его потерять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы сделали все, что могли, чтобы укрепиться от бурь, но всегда можно что-то улучшить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Обычно предстоящее нападение Опальных можно распознать по дрожанию земли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мы истекали кровью вместе, Вершитель. Это означает, что теперь ты один из нас".</DefaultText>
+      <FemaleText>"Мы истекали кровью вместе, Вершительница. Это означает, что теперь ты одна из нас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мне сложно вспомнить, какого цвета небо..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я за всю свою жизнь не видел такого клинка..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Оплот – это наш дом, пусть он и немного... пыльный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Сумеречный Бастион – это только начало. Скоро мы вернем все Королевство Оплот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я и не представлял, что буду сражаться вместе с Вершителем, но нам не помешает подмога".</DefaultText>
+      <FemaleText>"Я и не представлял, что буду сражаться вместе с Вершительницей, но нам не помешает подмога".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"А у тебя случайно нет одного лишнего клинка?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Этот форт видел лучшие дни, но он неплохо и сейчас держится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Из-за бурь сложно увидеть, в кого ты целишься, или кто целится в тебя, так что советую быть начеку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Не могу дождаться, пока смогу проткнуть одно из этих фиолетовых ведер с дерьмом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Даже теперь, когда Сумеречный Бастион в безопасности, я могу думать только о всем том, что мы потеряли ради этого..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Солдат с удовольствием вдыхает полной грудью.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

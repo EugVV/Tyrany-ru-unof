@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_arris_defense_citadel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Они перебрались через стены! Стройтесь, сражайтесь все как один, никакой пощады врагу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мне нужны бойцы на той стене – скоро враг бросит туда новые силы, мы должны дать отпор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Спускайся, Вершитель, и убери от моих ворот весь этот сброд!"</DefaultText>
+      <FemaleText>"Спускайся, Вершительница, и убери от моих ворот весь этот сброд!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Назад! Назад! Все в донжон! Мы займем оборону внутри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вершитель, быстрее, в боковой двор – надо отбросить врага. Я последую за тобой".</DefaultText>
+      <FemaleText>"Вершительница, быстрее, в боковой двор – надо отбросить врага. Я последую за тобой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Вершитель, попробуй спуститься по стене и отвлечь солдат – их надо застать врасплох!"</DefaultText>
+      <FemaleText>"Вершительница, попробуй спуститься по стене и отвлечь солдат – их надо застать врасплох!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Отбросьте их от донжона! Забейте их трупами все входы – у нас еще есть шанс выбраться живыми!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Арри указывает в проход, ведущий на запад.
+
+"Мы открыли для тебя один из наших потайных ходов. Обойди [url=glossary:алый хор]Алый Хор[/url] с тыла. Никакой пощады врагу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Арри указывает в проход, ведущий на восток.
+
+"Мы открыли для тебя один из наших потайных ходов. Обойди Опальных с тыла. Никакой пощады врагу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Он указывает на проход в другой стороне. "Мы пойдем туда. Да пребудет с тобой удача!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Братья и сестры!" Арри всматривается в лица уцелевших солдат Гвардии Вендриенов. "Нам больше некуда отступать. Идем, последний бой мы дадим в Зале Вознесения!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

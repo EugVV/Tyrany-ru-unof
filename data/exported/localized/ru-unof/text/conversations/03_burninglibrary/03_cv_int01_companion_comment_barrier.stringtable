@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\03_cv_int01_companion_comment_barrier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Преграда, которую клинком даже не поцарапать... ну, я в растерянности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Лучший способ сказать «валите вон отсюда» – поставить на главном входе магический барьер. Это так очаровательно по-хамски, я почти в восхищении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Магическую ограду нельзя порезать раздирающими когтями и убивающими зубами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вот, что случается, когда мастера защитной магии веками соревнуются в своем искусстве, – обычные двери и унылые замки выходят из моды. Я надеялся, [url=glossary:эдикт]Эдикт[/url] Огня окажет нам услугу и спалит все преграды, но увы, не судьба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Потрясающе... Похоже на какую-то магическую преграду. Нам нужно придумать, как через нее пройти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мы только зашли, а у нас на пути уже стена. Как можно было придумать что-то настолько неудобное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я никогда еще не встречал преграды, которая не реагирует на огонь или грубую силу, но поверю тебе на слово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Интересно, какие еще меры безопасности тут действуют? Вдруг ты не сумеешь с ними справиться... Лично я всегда готова вернуться в Шпиль и подежурить там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Книгочеи пахнут тайнами, углем-чернилами и ложью".
+
+Она серьезно смотрит на Лантри немигающими красными глазами, приоткрыв губы от жары.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Какая хорошая идея. Надо будет поискать что-то подобное для своей комнаты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Книгочеи использовали большую часть своих сил для того, чтобы прятаться за стенами. Не могу сказать, что я удивлена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Есть особая последовательность, как снимать преграды, но обычаи и паранойя велели, чтобы Книгочеи меняли ее каждый день. И подозреваю, что человека, который это устанавливал, давно здесь нет... а возможно, нет и среди живых. Надо поискать подсказку".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

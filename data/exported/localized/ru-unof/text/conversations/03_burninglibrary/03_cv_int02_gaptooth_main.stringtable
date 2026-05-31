@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\03_cv_int02_gaptooth_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Щербатая улыбается во весь рот, демонстрируя, откуда у нее такое прозвище. "Мы победили!" Она как будто сама не до конца этому верит. "Нелегко пришлось, но мы сдюжили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если честно, меня это удивляет не меньше твоего. Ну, до новых встреч".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Если жизнь тебе дорога, лучше иди прочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Атаковать] "Какая жалость, что пришло время умирать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Щербатая, вскинув руку, отступает на шаг. "Ладно! Уже уходим!" Поджав хвост, она обращается в бегство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Конечно, Вершитель! Всего тебе наилучшего". Она криво ухмыляется. "До встречи".</DefaultText>
+      <FemaleText>"Конечно, Вершительница! Всего тебе наилучшего". Она криво ухмыляется. "До встречи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что тебе нужно, Вершитель?"</DefaultText>
+      <FemaleText>"Что тебе нужно, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти] "Ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Атаковать] "Я передумал. Тебя нельзя оставлять в живых".</DefaultText>
+      <FemaleText>[Атаковать] "Я передумала. Тебя нельзя оставлять в живых".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

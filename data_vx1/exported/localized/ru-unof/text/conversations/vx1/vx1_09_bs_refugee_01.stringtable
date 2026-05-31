@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_bs_refugee_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Без припасов люди с голоду помрут. Доводилось голодающих видеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы тебе так благодарны, что слов нет. Кто бы мог подумать, что когда-нибудь такое скажу Вершителю судеб!"</DefaultText>
+      <FemaleText>"Мы тебе так благодарны, что слов нет. Кто бы мог подумать, что когда-нибудь такое скажу Вершительнице судеб!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

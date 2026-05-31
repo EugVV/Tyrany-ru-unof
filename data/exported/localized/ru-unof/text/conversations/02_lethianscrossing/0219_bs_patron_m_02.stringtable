@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_m_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Неужели кто-то правда... этими штуками пользуется?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Раз уж я тут, значит, надо рискнуть. «Зачем ступать на дорогу, если не собираешься идти до конца», – верно же говорят?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Может, выпить еще немного? Сомневаюсь, что на трезвую голову я хоть что-то смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Со всем этим экспериментировать я возьмусь, только если выпью, как следует. Жаль, у нас спиртного нет..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я даже не возьмусь сказать, зачем все эти штуки нужны. Это что, зажим? А это что за штырь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты глянь! До чего здоровенный! И куда его такой? А больно не будет? Ну нет, у меня дырка так не растянется!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"А почему нет? Если нас все равно прикончит какой-то [url=glossary:эдикт]Эдикт[/url], чего бы не развлечься напоследок?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Если новый Владыка и новые Эдикты предвещают скорый конец света, я лучше с кем-нибудь в койке помру..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

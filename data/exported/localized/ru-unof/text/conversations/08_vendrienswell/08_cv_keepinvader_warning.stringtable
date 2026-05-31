@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_keepinvader_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Они прорвали периметр! Они уже здесь, в донжоне!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Просвистев предупреждающий сигнал, клятвопреступник скрывается в донжоне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Клинки наголо! Дальше мы не отступим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Бейтесь! Не сдавайтесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вершитель уже внутри? Так чего вы тут встали?!"</DefaultText>
+      <FemaleText>"Вершительница уже внутри? Так чего вы тут встали?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Идиоты, вы пропустили Вершителя в донжон!"</DefaultText>
+      <FemaleText>"Идиоты, вы пропустили Вершительницу в донжон!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Сомкнуть щиты! Держать строй!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Как Вершителю удалось пройти так далеко?"</DefaultText>
+      <FemaleText>"Как Вершительнице удалось пройти так далеко?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

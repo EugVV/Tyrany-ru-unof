@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\slides_act01_act02_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Тунон, Архонт Правосудия, узнал о творящемся хаосе, охватившем подвластные ему земли. 
+
+Он призывает своего Вершителя судеб вернуться в залы Суда в Городе-Бастарде и держать перед ним ответ за случившееся возле Колодца Вендриенов.</DefaultText>
+      <FemaleText>Тунон, Архонт Правосудия, узнал о творящемся хаосе, охватившем подвластные ему земли. 
+
+Он призывает свою Вершительницу судеб вернуться в залы Суда в Городе-Бастарде и держать перед ним ответ за случившееся возле Колодца Вендриенов.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

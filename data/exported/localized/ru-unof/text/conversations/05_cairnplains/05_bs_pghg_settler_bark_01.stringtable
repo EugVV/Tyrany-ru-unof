@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_bs_pghg_settler_bark_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты ведь тот самый Вершитель судеб, что спас нас от Каирна?"</DefaultText>
+      <FemaleText>"Ты ведь та самая Вершительница судеб, что спасла нас от Каирна?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Город наш, может, и не тронут, но страна лежит в руинах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"У наших торговцев – лучшие ковры по эту сторону Терратуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Вершитель судеб. Ты здесь, чтобы нести правосудие Тyнона?"</DefaultText>
+      <FemaleText>"Вершительница судеб. Ты здесь, чтобы нести правосудие Тyнона?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Это и есть тот мир, что обещал для Ярусов [url=glossary:кайрос]Кайрос[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не знаю, сколько еще мы сможем тут жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Когда-то здесь было красиво. Лучше бы [url=glossary:каирн]Каирн[/url] не появлялся тут вовсе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Вершитель судеб? Ты олицетворяешь правосудие Владыки".</DefaultText>
+      <FemaleText>"Вершительница судеб? Ты олицетворяешь правосудие Владыки".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Интересно, что привело Вершителя судеб в [Plainsgate]".</DefaultText>
+      <FemaleText>"Интересно, что привело Вершительницу судеб в [Plainsgate]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Когда уже войска Кайроса оставят нас в покое?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Толчки становятся все сильнее и сильнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты – Вершитель судеб, прекративший землетрясение! От всего сердца благодарю тебя!"</DefaultText>
+      <FemaleText>"Ты – Вершительница судеб, прекратившая землетрясение! От всего сердца благодарю тебя!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Надеюсь, ты расскажешь Адъюдикатору о наших страданиях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"К счастью, мне удалось пережить нападение Каирна. А вот городу нашему повезло меньше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[Plainsgate] сильно натерпелись из-за Мира Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Когда-нибудь весь город попросту рухнет в бездну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Хорошо, что хоть кто-то в войсках Кайроса о нас заботится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Добро пожаловать в [Plainsgate]. Даже Архонт не вынудит нас уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] Кайроса разорил наши земли. Но мы смогли выжить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Может ли [url=glossary:каирн]Каирн[/url] вернуться? Надеюсь, что нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Надеюсь, остальные Ярусы смогут пережить эту войну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"После того как наша страна была разрушена Эдиктом, зверолюды совсем обнаглели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Силы Кайроса разобщены. Сколько еще будет длиться эта война?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Интересно, зачем Архонту Камня было нападать на нас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Зверолюдам лучше держаться от нормальных людей подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Говорят, рядом обитает племя дикарей. Пора на охоту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"По крайней мере у солдат Кайроса много колец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Вершитель судеб. Добро пожаловать в [Plainsgate]".</DefaultText>
+      <FemaleText>"Вершительница судеб. Добро пожаловать в [Plainsgate]".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"По ночам тут лучше не бродить. Можно не заметить обрыва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Что еще нужно от нас Кайросу? Как будто мы мало страдали!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Как один человек мог расправиться с такой большой ватагой? Получается, он Архонт?.."</DefaultText>
+      <FemaleText>"Как один человек мог расправиться с такой большой ватагой? Получается, она Архонт?.."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Похоже, теперь мы свободны. Или настолько свободны, насколько это возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Теперь, когда Хора больше нет, кто защитит нас от зверолюдов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Хор планировал прекратить землетрясения. Что нам теперь делать, Вершитель?"</DefaultText>
+      <FemaleText>"Хор планировал прекратить землетрясения. Что нам теперь делать, Вершительница?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"А вдруг Голоса отомстит?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Наконец-то я могу нормально выспаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Может, теперь, когда наши здания не обрушиваются чуть ли не каждый день, мы сможем все отстроить заново".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Сегодня я видел раскрывшийся цветок. Земли наконец-то больше не страдают от мора?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Землетрясения... они прекратились!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Говорят, после окончания Эдикта зверолюдов стало меньше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Честно говоря, землетрясения уже стали привычными. Эта тишина немного пугает".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_assault_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Штурм Цитадели</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отыскать Опальных в Цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти способ перебраться через стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Расчистить двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Найти Железного Маршала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Защитить Скаловержцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Уничтожить подкрепления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Пробиться во двор и уничтожить там противника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Проникнуть в донжон Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Расчистить двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Проникнуть в донжон Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Проникнуть в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Отыскать [url=glossary:алый хор]Алый Хор[/url] в Цитадели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Найти Пятого Глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Найти способ перебраться через западную стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Защитить Певчих Крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Уничтожить подкрепления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Пробиться во двор и уничтожить там противника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Расчистить двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Уничтожить восточные подкрепления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Проникнуть в донжон Колодца Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Одолеть главарей повстанцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Поговорить с Железным Маршалом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Поговорить с Пятым Глазом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Пробиться на главный двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Штурм цитадели Колодца Вендриенов в полном разгаре, и скоро все должно решиться. Помогите силам Кайроса захватить крепость и получить контроль над долиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Отправляйтесь в цитадель Колодца Вендриенов и помогите Опальным штурмовать ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Железный Маршал говорит, ее разведчики обнаружили еще одно место на восточной стене, где можно подняться. Переберитесь через стену во двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Перебейте гвардейцев Вендриенов во дворе, чтобы расчистить путь Скаловержцам, которые обрушат стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Железный Маршал объяснит вам, что нужно сделать для того, чтобы обрушить стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Скаловержцы занимают позиции, чтобы обрушить крепостную стену с помощью магии. Убивайте гвардейцев Вендриенов, которые попытаются им помешать, чтобы маги могли спокойно творить свои заклинания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>На помощь Гвардии Вендриенов спешат подкрепления. Одержите победу над ними и продолжите атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Проникните в цитадель и уничтожьте остатки Гвардии Вендриенов за ее стенами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Пробейтесь в донжон и расчистите дорогу в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Одержите победу над Гвардией Вендриенов в главном дворе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Путь расчищен. Пробейтесь в донжон и проложите себе дорогу в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Прорвитесь через донжон в [url=glossary:зал вознесения]Зал Вознесения[/url] и вступите в бой с командирами Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Отправляйтесь в цитадель Колодца Вендриенов и помогите Алому Хору штурмовать ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Пятый Глаз расскажет вам, что надо сделать для успешного штурма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Пятый Глаз говорит, его разведчики обнаружили место на развалинах западной стены, где можно подняться. Переберитесь через стену во двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Певчие Крови занимают позиции, чтобы обрушить крепостную стену с помощью магии. Убивайте гвардейцев Вендриенов, которые попытаются им помешать, чтобы маги могли спокойно творить свои заклинания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>На помощь Гвардии Вендриенов спешат подкрепления. Одержите победу над ними и продолжите атаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Проникните в цитадель и уничтожьте остатки Гвардии Вендриенов за ее стенами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Перебейте гвардейцев Вендриенов во дворе, чтобы расчистить путь Певчим Крови, которые обрушат ворота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Одержите верх над гвардейцами, устремившимися в восточный двор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Пробейтесь в донжон и расчистите дорогу в [url=glossary:зал вознесения]Зал Вознесения[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] в ловушке. Одержите над ними победу, и сражение за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url] будет наконец завершено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Вы в открытую приняли одну из сторон в споре между Архонтами. Поговорите с Железным Маршалом рядом с тренировочным плацем перед началом штурма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>Вы в открытую приняли одну из сторон в споре между Архонтами. Поговорите с Пятым Глазом в лагере Алого Хора перед началом штурма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Проникните в главный двор раньше, чем там окажется [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы помогли Опальным одержать победу над Гвардией Вендриенов и захватили Шпиль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>В итоге вы решили предать армии Кайроса и помочь Гвардии Вендриенов защитить цитадель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы помогли Алому Хору одержать победу над Гвардией Вендриенов и захватили Шпиль.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

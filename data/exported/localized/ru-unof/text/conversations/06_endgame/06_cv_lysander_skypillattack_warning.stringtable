@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_lysander_skypillattack_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель судеб!" Запыхавшийся офицер вытягивается в струнку. "Не время для любезностей и формальностей. На ваш Шпиль напали. [url=glossary:алый хор]Алый Хор[/url] пошел в атаку. Они всерьез хотят свалить вашу крепость, даже если вы будете стоять на ее вершине".</DefaultText>
+      <FemaleText>"Вершительница судеб!" Запыхавшийся офицер вытягивается в струнку. "Не время для любезностей и формальностей. На ваш Шпиль напали. [url=glossary:алый хор]Алый Хор[/url] пошел в атаку. Они всерьез хотят свалить вашу крепость, даже если вы будете стоять на ее вершине".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Отправлюсь туда немедленно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты мне лжешь, солдат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты отлично справился со своим поручением. Так держать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Он моргает. "Что? Нет! Ватаги Хора собираются возле вашего Шпиля. Вам нужно что-то предпринять немедленно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ладно. Проверю свой Шпиль... но не затевай ничего, пока меня нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Что вообще я бы мог..." Изумленный офицер отмахивается рукой и смотрит на вас с нетерпением. "Что ж, удачи в Шпиле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Благодарю, Вершитель судеб. Всего вам наилучшего!"</DefaultText>
+      <FemaleText>"Благодарю, Вершительница судеб. Всего вам наилучшего!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я боялся, что что-то подобное может произойти – отчаянный ход Голосов Нерата. Он или слишком труслив, чтобы напасть на Железный Очаг лично, или его войска слишком слабы. В любом случае, ты ответишь на эту угрозу кровью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Вершитель... Такое обвинение ниже твоего достоинства и позорит всех нас! Ты должен прекрасно понимать, что моим солдатам можно верить".</DefaultText>
+      <FemaleText>"Вершительница... Такое обвинение ниже твоего достоинства и позорит всех нас! Ты должна прекрасно понимать, что моим солдатам можно верить".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

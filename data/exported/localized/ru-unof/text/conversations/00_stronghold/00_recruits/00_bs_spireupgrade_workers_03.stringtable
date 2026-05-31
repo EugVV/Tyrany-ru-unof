@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_spireupgrade_workers_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я никогда не видел такого яркого света, как тот, что шел от Шпиля, когда он пробуждался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Не могу поверить, что вы пережили встречу с Архонтом Теней. Уверяю, он частенько навещает ярусников в их кошмарах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Теперь, когда [url=glossary:эдикт]Эдикт[/url] Горящей Библиотеки закончился, нам больше не нужно переживать об облаках пепла, которые иногда относило в нашу сторону".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мы видели, как ржавая буря утихла. На моей памяти так быстро еще ни одна буря не заканчивалась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мне совсем не хотелось забираться наверх, когда меня нанимали. Очень хорошо, что у вас внизу оказалось это устройство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Погода тут бывает беспощадной, но, думаю, внизу мы все видели и похуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Уверен, теперь, когда [url=glossary:эдикт]Эдикт[/url] закончен, путешествовать в [Plainsgate] для торговли будет намного проще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я приглядываю, все ли тут в порядке. Не обращай на меня внимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

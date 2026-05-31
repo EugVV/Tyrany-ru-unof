@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_spireupgrade_workers_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Казалось бы, новички будут ходить здесь с большей осторожностью, но мы уже потеряли нескольких из-за внезапных порывов ветра..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Надеюсь, этот арсенал артефактов, который вы собираете, поможет выстоять против Архонтов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Похоже, [url=glossary:горящая библиотека]Горящая Библиотека[/url] перестала гореть. Не могу сказать, что буду скучать по виду на эту уродливую горящую груду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Небо начинает заметно проясняться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ярусы выглядят довольно мирно отсюда, из-за облаков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"К вашим услугам, Вершитель".</DefaultText>
+      <FemaleText>"К вашим услугам, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"[url=glossary:эдикт]Эдикт[/url] был настоящим ужасом для жителей Каменного Моря, но ночью оттуда исходило фиолетовое свечение, которое медленно пульсировало, словно биение сердца. Довольно красиво было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Если у нас будут материалы, мы сможем выковать для тебя все, что угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Приглядывай за этой парочкой. Слишком уж серьезно они относятся к тренировкам, как бы чего не вышло".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

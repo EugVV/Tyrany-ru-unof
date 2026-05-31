@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\maps</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>209</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Шпиль</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ржавые Каньоны</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Пустоши Могилы Клинков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Брешь в Старых Стенах</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Брешь в Старых Стенах</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[url=glossary:распутье летианы]Распутье Летианы[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Твердыня Часовых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Твердыня Часовых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Двуречье</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[url=glossary:колодец вендриенов]Колодец Вендриенов[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[url=glossary:веленевая цитадель]Веленевая Цитадель[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[url=glossary:город-бастард]Город-Бастард[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Руины Эджеринга</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Лагерь Опальных</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Лагерь Алого Хора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Крапивные Дебри</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Переправа Отголоска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Цитадель Колодца Вендриенов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Оплот</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Сумеречный Бастион</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Сумеречный Бастион</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Разрушенная деревня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Забытый тайник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Пустоши</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Деревня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[url=glossary:распутье летианы]Распутье Летианы[/url]: общие сведения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Поле боя в Пустошах</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Переход Беглеца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[url=glossary:каменное море]Каменное Море[/url]: общие сведения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[url=glossary:каменное море]Каменное Море[/url]: общие сведения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[url=glossary:горящая библиотека]Горящая Библиотека[/url]: общие сведения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Чучело</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Вход в Горящую Библиотеку</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Библиотека Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Шпиль</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Степные Врата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Полуврата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Святилище Зубастой Пасти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Каменная Теснина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Старые Стены в Зиянии</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Воющая Скала</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Лазарет Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Казармы Цитадели</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Казармы Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Тюрьма Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Тренировочная площадка Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Кузница Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Плато Каменного Моря</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Полуврата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Полуврата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Степные Врата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Святилище Зубастой Пасти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Лазурь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Старая Чащоба</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Кузня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Дом поселенца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Дом Элдиана</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Шатер Аше</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Шатер Аше</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Деревня Отголосок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Основание Шпиля</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Воющий Каньон</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Мертвый Овраг</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Пустоши</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[url=glossary:молодые королевства]Молодые Королевства[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[url=glossary:могила клинков]Могила Клинков[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[url=glossary:каменное море]Каменное Море[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Железная Тропа</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Святилище Сирин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Хозяйка Летианы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Меч и ножны"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Перепутье Зверолова</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Твердыня Часовых</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Наводненные Старые Стены</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Старые Стены Могилы Клинков: центральная часть</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Старые Стены у Распутья Летианы: передний зал</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Деревня Каэдо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Спуск Мертвеца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Пустоши Ломаных Равнин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Река Матани</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Задание: [url=glossary:распутье летианы]Распутье Летианы[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Задание: [url=glossary:могила клинков]Могила Клинков[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Долина Серого Камня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Северная Поляна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Деревня Валунный Риф</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Утес Терзаний</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Дальнее Селение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Пустоши</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Проход Отбора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Деревня Лесной Дол</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Суд Тунона</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Железный Очаг</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[url=glossary:горящая библиотека]Горящая Библиотека[/url]: верхние руины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Безмолвный Архив</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Старые Стены Двуречья: лагерь Братства</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Непредсказуемое и случайное расположение "островов" в Каменном Море делает прохождение Каменной Теснины занятием крайне опасным. Чтобы узнать маршрут, побеседуйте с путешественниками и местными жителями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Какофония</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Рунный зал Могилы Клинков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Рунный зал Распутья Летианы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Рунный зал Воющей Скалы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Рунный зал Зияния</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[url=glossary:прима]Прима[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[url=glossary:презренный]Презренный[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[url=glossary:больверк]Больверк[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[url=glossary:камнепыт]Камнепыт[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Пепельная Глушь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Зал регентов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Укромная роща</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Переправа Отголоска – деревня, расположившаяся вдоль одного из сужений реки Матани. Это – основной путь в сердце долины. Переправа оборудована двумя хорошо защищенными мостами. Предположительно, многие местные жители помогают повстанцам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Эта древняя крепость покоится в самом центре долины Гребня. Ее кольцевая стена внешне схожа с горами, ограждающими королевство. Цитадель была восстановлена, и пусть ей и недостает обитателей, она все равно остается грозным соседом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>В данный момент Цитадель окружена войсками Кайроса. Добраться до нее своим ходом невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>В стенах этой старой крепости расположился [url=glossary:алый хор]Алый Хор[/url]. В настоящее время это основная база операций Голосов Нерата в долине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Этот форт был выстроен вскоре после того, как мятежники пришли к западному краю Долины. Архонт [url=glossary:грэйвен аше]Грэйвен Аше[/url] направил сюда все силы Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Руины Эджеринга расположены на западе Гребня и являются воротами в [url=glossary:колодец вендриенов]Колодец Вендриенов[/url]. Недавно войска Кайроса превратили их в полноценный гарнизон, готовый отразить атаки повстанцев, отчаянно пытающихся выбраться из Колодца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Таркис Арри показала вам это уединенное местечко для тайных встреч.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Горный Шпиль виден со всех концов Молодых Королевств, он намного выше снежных пиков Гребня. Некогда он был лишь памятником далекого прошлого, но теперь Шпиль ожил, подчинился вам и стал символом вашей растущей власти над Ярусами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>По вашему приказу деревня Отголосок была предана огню. Прибрежное поселение обратилось в тлеющие руины – наглядный пример цены восстаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Крапивные Дебри обрели свое название благодаря зарослям жгучей крапивы. И хотя поселенцы упорно расчищали местность, название сохранилось. Крапивные Дебри – один из нескольких обширных лесов долины, в которых могут укрыться повстанцы. Вы выяснили, что [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] орудовала именно в этом районе – а значит, им нужно заняться в первую очередь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Цитадель – сердце Колодца Вендриенов и база Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Когда [url=glossary:город-бастард]Город-Бастард[/url] пал под натиском армий Кайроса, Адъюдикатор Тунон, Архонт Правосудия, потребовал дворец себе. Теперь Суд Тунона является сердцем законной власти Империи в землях Ярусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Лес Камней</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Облачный Лес</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Могила Древ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Старые Стены Могилы Клинков: западная часть</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Старые Стены Могилы Клинков: восточная часть</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Старые Стены Двуречья: глубины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Земля на этом участке Старых Стен испещрена трещинами и, по слухам, кишит погибелями. Предположительно, именно здесь покоится "Бесстрашный" – легендарный меч Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Каждый Рунный зал, подобно Залу Вознесения, – проводник силы, необходимой для восхождения к вершине поднимающегося над ним Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Магические бури Кайроса источили эти некогда плодородные холмы извилистыми, пыльными каньонами. [url=glossary:эдикт]Эдикт[/url] убил как Опальных, так и Несломленных, и ныне их тела вмурованы в землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Эта разрушенная крепость – родовое имение правящих семей Оплота, регентов. Огражденная двумя массивными стенами, она никогда и никем не завоевывалась. Разъяренный долгой осадой, [url=glossary:кайрос]Кайрос[/url] провозгласил [url=glossary:эдикт]Эдикт[/url], сильно ударивший по замку, и заключил его в центр огромного, нескончаемого вихря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Цитадель Твердыни Часовых теперь под контролем Несломленных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Цитадель Твердыни Часовых теперь под контролем гарнизона Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Цитадель Твердыни Часовых теперь под контролем гарнизона Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Цитадель Твердыни Часовых теперь под вашим контролем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Это независимое поселение было основано напротив места, где Старые Стены смыкаются со Шпилем Заката. Хотя изначально это была обычная скромная застава, постепенно она разрослась до одного из главных торговых центров Ярусов, особо ценимого торговцами, предпочитающими вести дела подальше от королевских указов. Шпиль используется как маяк и путешественниками, и торговцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Сумеречный Бастион был одним из нескольких фортов, спешно выстроенных Несломленными в ответ на завоевание Кайросом земель Ярусов. Благодаря тому, что расположен он ближе к побережьям Оплота, он избежал разрушения магическими бурями и теперь является одной из немногих уцелевших повстанческих застав Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Эти земли прорезают длинные, похожие на лабиринт каньоны, в которых нередко теряются глупые путешественники.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Эта грандиозная крепость расположилась на краю Яруса, образующего северную границу Могилы Клинков. В ходе завоевания этот древний замок захватил [url=glossary:грэйвен аше]Грэйвен Аше[/url] и теперь управляет отсюда всеми действиями Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Здесь, на внешней границе Каменного Моря, среди иссушенных скалистых равнин, базируются воющие толпы орды Нерата. Этот форпост Архонта мало похож на крепость в традиционном ее понимании, но атаковать его все равно крайне сложно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Дом Деи</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Дом Келлиона</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Путь к цитадели Твердыни Часовых пролегает через искореженные земли Могилы Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Доступ к Старым Стенам из Распутья Летианы перекрыт Опальными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Недавно разведчики подтвердили наличие здесь прохода, ведущего к Старым Стенам. Ближайшая к нему местность, вероятно, небезопасна, учитывая высокий риск вторжения погибелей. Проход расположен недалеко от места, где Несломленный регент, Эпистрат, сошелся под конец войны в бою с Опальными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[url=glossary:зал вознесения]Зал Вознесения[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Когда был провозглашен [url=glossary:эдикт]Эдикт[/url] Камня, и земли Лазури низверглись в бездну, Шпиль Авроры остался стоять. Это заставило задуматься о том, что Шпили могут простираться вглубь Терратуса столь же глубоко, сколь высоко они уходят в небо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Несмотря на свое название – Океанский Шпиль, – эта древняя постройка никак не связана с водой и получила свое имя из-за относительной близости к южному побережью. [url=glossary:эдикт]Эдикт[/url] Бурь сильно изменил земли вокруг Шпиля, сделав пеший доступ к нему практически невозможным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Шпиль Заката, нависающий над Распутьем Летианы с самого его основания, всегда отбрасывал тень на притулившийся у подножия городок. Несмотря на то что Шпиль расположен посреди шумного поселения, лишь немногие отважились заглянуть внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Шпиль Рассвета, расположенный среди гор Каменного Моря и его близнец – Шпиль Авроры, – словно часовые возвышаются над руинами Лазури. Их расположение на востоке гарантирует, что именно в этом месте восходящее солнце впервые касается Ярусов, однако достичь этой местности удается немногим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Зубастая Пасть – плотно заселенная область на окраинах региона, находящаяся недалеко от нескольких поселений. Зверолюды были заворожены этими местами с момента падения Каирна и образования Каменного Моря – они полагали, что причудливые скалы каким-то образом связаны с почитаемым ими умирающим Архонтом. Наличие здесь людей вынудило их уйти, что лишь обострило и без того напряженные отношения между зверолюдами и поселенцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[url=glossary:веленевая цитадель]Веленевая Цитадель[/url], некогда бывшая самым большим хранилищем знаний во всех Молодых Королевствах, уничтожена Эдиктом Владыки. Ныне она известна как [url=glossary:горящая библиотека]Горящая Библиотека[/url] и являет собой дымное напоминание о гневе Кайроса. После того как Книгочеи бежали из своего разрушенного дома, управление этими землями взял на себя [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[url=glossary:эдикт]Эдикт[/url] Огня разрушен, и [url=glossary:горящая библиотека]Горящая Библиотека[/url] цела. Теперь это место контролируют Рената и ее Книгочеи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Хотя [url=glossary:эдикт]Эдикт[/url] Огня и завершен, останки Горящей Библиотеки не подлежат восстановлению. Это место все еще остается за Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Хотя [url=glossary:эдикт]Эдикт[/url] Огня и завершен, останки Горящей Библиотеки не подлежат восстановлению. Теперь это место захвачено Мариком и небольшой группой Скованных Клятвой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Хотя [url=glossary:эдикт]Эдикт[/url] Огня и завершен, останки Горящей Библиотеки не подлежат восстановлению. Теперь этим местом управляете вы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[url=glossary:эдикт]Эдикт[/url] Огня разрушен, и [url=glossary:горящая библиотека]Горящая Библиотека[/url] цела. Теперь это место под вашим контролем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[url=glossary:эдикт]Эдикт[/url] Огня разрушен, и [url=glossary:горящая библиотека]Горящая Библиотека[/url] цела. Это место все еще остается за Алым Хором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Разрушенные и вросшие в землю постройки этого ущелья – последнее, что осталось от одного из городов Лазури. Теперь здесь живет зверолюдское племя Камнепытов, тщательно охраняющее свою территорию. Ущелье Каменной Теснины соединяется с одним из немногих проходимых путей на север, что делает его важнейшим перевалочным пунктом Каменного Моря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[url=glossary:тайник]Тайник[/url] с припасами Скованных Горном</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Эта область использовалась Скованными Горном для транспортировки сырья по воде, но война свела все на нет. Юлантис показал вам это место, и здесь, возможно, еще остались вещи, которые могут пригодиться.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Выбранная область в данный момент недоступна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Сниглер Дагос показал вам это место и упомянул, что [url=glossary:алый хор]Алый Хор[/url] использовал его для тайного хранения продовольствия. Умный ход – хранить вещи в разрушенной деревне. Нет способа спрятать что-то лучше, чем спрятать это на самом виду.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Дориси показал вам это место – судя по всему, оно использовалось Алым Хором для тайного хранения продовольствия. Войска Кайроса покинули долину вскоре после сражения за [url=glossary:колодец вендриенов]Колодец Вендриенов[/url], а значит, его содержимое может быть все еще целым.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Эта деревня далека от основных поселений долины и до настоящего времени не участвовала в противостоянии. Возможно, некоторых местных жителей можно завербовать в рекруты Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Во время завоевания вы приказали посадить на кол воров-хористов, укравших провиант Опальных. Джаком сказал, что это место служило одним из складов для провизии – равно как и временным карцером.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[url=glossary:тайник]Тайник[/url] с припасами Опальных</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Глубокие расщелины вдоль границ Каменного Моря показывают, как далеко простираются последствия Эдикта Камня. Зияние – наиболее известная часть этой границы, о нем знают и из-за близости к Шпилю Авроры, и из-за обилия растущего на скалах лазурелита. Путешественники говорят, что когда солнце стоит в зените, можно видеть, как тысячи лазурелитов сияют, освещая самые глубины пропасти. С тех пор как эта местность перешла под контроль зверолюдов, ее стараются избегать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Обычная придорожная деревушка, отмечающая восточную границу Каменных Равнин. Землетрясения Каменного Моря разделили деревню Степные Врата, и половина построек обрушилась в пустоты под землей. Теперь это место называют Полувратами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Обычная придорожная деревушка, отмечающая восточную границу Каменных Равнин. Когда степи были уничтожены, и вместо них образовалось [url=glossary:каменное море]Каменное Море[/url], эта деревня оказалась одним из немногих уцелевших поселений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Пустая Даль</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>На этих скалистых плато солдаты Кайроса, повинуясь вашему приказу, сошлись в битве с Каирном, мятежным Архонтом. Он уничтожил их, и эта магия привлекла сюда множество погибелей. Путешествия здесь сопряжены с изрядными риском, но вы все еще можете снять с трупов кое-какие ценные вещи.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Эта деревня уцелела во время Эдикта Огня, но стала жертвой куда более коварного врага – ветра. Через Спорные Земли он принес сюда тлеющие угли и горящий пергамент, и поселение было полностью уничтожено. Местные жители называют этот городок Чучелом из-за огоньков, которые нередко можно здесь наблюдать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Эти далекие "острова" полны залежей лазурелита, природная магия которого привлекает множество погибелей. Иногда сюда наведываются зверолюды, использующие это место для проведения обряда посвящения; нередко это приводит к катастрофическим последствиям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Воющая Скала – одна из самых дальних областей Каменного Моря. Она лежит в самом его центре и добраться до нее невероятно сложно. Неподалеку находится место погребения Каирна, Архонта Камня. Скаловержцы продолжают здесь свои труды, черпая магию из останков Каирна; всякий раз перед отправкой Скаловержца в другие районы Ярусов именно здесь он проходит подготовку и черпает силы перед дорогой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Долина Серого Камня – это тридцать миль низких островов, расположенных в труднопроходимой местности. Путешественники, шедшие через [url=glossary:каменное море]Каменное Море[/url], способствовали налаживанию пути по этой местности, выстроив мосты и хранилища припасов, которые теперь пополняются общими силами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Покинутое поле боя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Во время завоевания разведчики Опальных наткнулись тут на анклав Книгочеев. Хотя магов давно изгнали или поубивали, здесь все еще можно найти что-нибудь полезное.
+
+[Эта местность открыта благодаря решению в ходе завоевания.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Это независимое поселение было основано напротив места, где Старые Стены смыкаются со Шпилем Заката. Хотя изначально это была обычная скромная застава, постепенно она разрослась до одного из главных торговых центров Ярусов, особо ценимого торговцами, предпочитающими вести дела подальше от королевских указов. Шпиль используется как маяк и путешественниками, и торговцами.
+
+В настоящий момент [url=glossary:опальные]Опальные[/url] атакуют [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>В последние месяцы каменные столбы, в которых расположилась эта деревня, постоянно обрушаются – землетрясения затронули эту область сильней, чем прочие участки Каменного Моря. Валунный Риф некогда был северным побратимом Степных Врат, но теперь опустел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Этот зал, как и Шпиль, в котором он расположен, существовал задолго до возникновения народов и культур Молодых Королевств. Его имя – остаток давно забытой цивилизации и его невозможно было понять, пока вы не завершили [url=glossary:эдикт]Эдикт[/url] Казней и не пробудили сокрытую здесь магию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] действовало в этом регионе в прошлом, но Переход Беглеца – это большая незаселенная территория. Прежде чем сюда отправиться, вам нужно определить местоположение, в котором оно действует, более точно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Двуречье протекает через большую часть северо-восточной части Гавани. Вам нужно определить точное расположение Братства, прежде чем вы сможете отправиться в это место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Вы оттолкнули от себя союзников, теперь доступ сюда вам закрыт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[url=glossary:примы]Примы[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Северо-восток Гавани полон речных притоков, впадающих в главные водные пути региона. Самые большие из них – Двуречье, однако близость к Старым Стенам и лагерям Бронзового Братства делают эту местность не самой дружелюбной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Железная Тропа – один из многих торговых путей, что пролегают по дебрям Гавани и ведут путешественников к Распутью Летианы. Примечательней всего в ней – речная переправа, доступность которой зависит от сезона: в летние месяцы ее нередко затапливает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>После объявления войны между двумя Архонтами [url=glossary:алый хор]Алый Хор[/url] перекрыл доступ к лагерю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>После объявления войны между двумя Архонтами [url=glossary:опальные]Опальные[/url] перекрыли доступ к лагерю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Путь из Гребня запечатан магией Эдикта Кайроса. Вы не можете покинуть долину, не говоря уже о путешествии в [url=glossary:город-бастард]Город-Бастард[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>По мере приближения к горам на востоке леса Гребня сменяются более скалистым пейзажем. Сюда вроде как отправлялись [url=glossary:опальные]Опальные[/url] Скаловержцы, а значит, они могут все еще находиться здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Северо-восток Гавани полон речных притоков, впадающих в главные водные пути региона. Самые большие из них – Двуречье, однако близость к Старым Стенам и лагерям Бронзового Братства делают эту местность не самой дружелюбной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Через эти леса мало кто путешествует, поскольку плотный подлесок и непредсказуемость подъемов препятствуют прокладыванию нормальных дорог. Это играет на руку дезертирам и инакомыслящим, пытающимся скрыться от ока правосудия. В конечном счете такое положение дел и дало этой местности имя.
+
+На данный момент область так или иначе контролируется Бронзовым Братством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Эта маленькая полянка укрыта тенью утеса. Пепельная Глушь – обширная чаща, в которой она располагалась, – была уничтожена пожаром, что поглотил Спорные Земли. Из-за огня, периодически вспыхивающего вдоль границы Яруса, эту область иногда накрывает падающим пеплом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Спуск Мертвеца – узкий и коварный участок Каменного Моря, унесший множество жизней. Не один неосторожный путник принял смерть от собственной невнимательности – мягкой земли и крошащихся скал здесь стоит бояться больше, чем когтей зверолюдов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Эта лесистая местность повидала за время завоевания множество боев и теперь усеяна останками тех, кто в них полег. Через Старую Чащобу добраться до Распутья Летианы куда проще, чем через окружающие ее густые леса, так что она активно используется торговцами, которых не испугать случайно оказавшимся на дороге трупом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Дом старика Муа</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Лесной Дол – мелкая деревушка, которая не может похвастать лавками или ремесленниками, хоть сколько-нибудь интересными торговцам Распутья Летианы. Несмотря на это, [url=glossary:алый хор]Алый Хор[/url] счел ее стратегически важным местом и собирается использовать Лесной Дол в качестве оперативной базы для контроля речных перевозок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] отослало часть сил удерживать Ломаные Равнины в надежде, что их присутствие в этой дикой местности позволит отражать угрозы от обеих границ Гавани. [url=glossary:опальные]Опальные[/url] регулярно атаковали здешних мятежников, и сейчас присутствие Братства на этих землях номинально – они удерживают лишь несколько небольших лагерей и укреплений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Деревня Каэдо сдалась Опальным в начале войны, чтобы избежать кровопролития, и с тех пор играла роль склада снабжения войск Грэйвена Аше. К сожалению, это сделало ее целью для набегов Хора, из-за чего выжившие стали сомневаться в мудрости своего решения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Острова Утеса Терзаний возвышаются над старой столицей Лазури, руины которой ныне лежат на дне глубоких пропастей. Искатели и охотники за сокровищами редко заглядывают сюда, не рискуя соваться в такие глубины в поисках поживы, которой может и не быть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Восточный берег реки Матани в основном холмист, но есть на нем и небольшие леса. Обзор в этих местах плохой, так что небольшие группы легко могут пройти здесь никем не замеченные. Скованные Клятвой использовали особенности местного ландшафта для того, чтобы наносить внезапные и смертоносные атаки по силам противников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>[url=glossary:горящая библиотека]Горящая Библиотека[/url]: нижние руины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Дорогу к Распутью Летианы блокирует группа наемников – солдат Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Вам заступил дорогу небольшой отряд Гвардии Вендриенов. Вы не можете пройти дальше, не столкнувшись с ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>По мере прохождения сквозь дебри тени становятся все длинней и обступают со всех сторон. Путь вам преграждает [url=glossary:бледен марк]Бледен Марк[/url], Архонт Теней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Ваше путешествие прерывается воем охотящейся стаи зверолюдов. Их вожак – впечатляющая особь: ее грива черна, как сама ночь, а тело покрыто боевыми шрамами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Вам нужно пройти по Железной Тропе, чтобы добраться до Распутья Летианы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Вы сейчас не можете подойти к основанию Шпиля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>{0} покидает отряд.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

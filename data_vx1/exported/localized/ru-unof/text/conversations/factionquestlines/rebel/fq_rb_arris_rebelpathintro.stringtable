@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_arris_rebelpathintro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Если думаешь, что сможешь убедить Скованных Горном в [url=glossary:распутье летианы]Распутье Летианы[/url] поддержать твой «военный нейтралитет», мы могли бы перенаправить их сталь от наших врагов к нашим союзникам".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

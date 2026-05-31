@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_f_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Шдается мне... тот парень, который говорит с Лор... Лоридом... этот парень, я ему нравлюшь. Он мне улыбнулшя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Не жнаю, кто решил тут алко... алколь... Кто тут штал бухло продавать, но он точно был гений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что шкажешь, крашуля? Угостишь выпивкой? Погоди... штой, я про што говорю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Нет, ты погляди, как он на Лорида пялится. Я для него вообще не существую..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Угостить бы его выпивкой, но в [url=glossary:распутье летианы]Распутье Летианы[/url] спиртное запретили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не едой же мне его угощать! «По-моему, ты красавчик – вот, скушай котлетку!» Хотя... может, и сработает..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Твою мать! Ешли мы тут вше равно шдохнем от какого-то Эдикта, лучше я ш ним поговорю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"И что я скажу? «Эй, милашка, завтра может наступить конец света, давай пока веселиться!» Хм... А почему бы и нет?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_gravenashe_newwave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Легион! Вперед, убейте этого выскочку во славу вашего Архонта!"</DefaultText>
+      <FemaleText>"Легион! Вперед, убейте эту выскочку во славу вашего Архонта!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Солдаты, поднять щиты! Принесите мне голову Вершителя судеб!"</DefaultText>
+      <FemaleText>"Солдаты, поднять щиты! Принесите мне голову Вершительницы судеб!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"К оружию, мой легион! Генерал приказывает вам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

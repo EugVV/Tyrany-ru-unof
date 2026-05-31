@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_ragwort</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>При вашем приближении хористка, перетиравшая в ступке какие-то специи, останавливается. Резкий и едкий аромат трав и масла так силен, что забивает даже запах гари над деревней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Она кивает. "Привет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Тебе, э-э, что-нибудь надо? За ватагу говорит Каллия, так что обращайся лучше к ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Расскажи мне о пленных Книгочеях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что ты делаешь в ватаге?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты в курсе, вообще-то, что азартные игры запрещены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я с ними толком не говорила, да мне и не надо". Кивком она указывает на Шкуродера. "Он у нас главный по пыткам. Может, лучше тебе к нему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я-то? Делаю, что Каллия велит, и не путаюсь под ногами. А поскольку эти выродки за своей вонью все равно ничего не чуют, мне еще и готовить приходится". Она утирает нос рукой и вновь возвращается к ступке и пестику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Уйти] "Мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она хихикает, но осекается, когда понимает, что смеяться тут не над чем. "А... ну да, само собой. И я тут вообще ни при чем! Других забот по жизни хватает. Если тебе что не так, ты со Шкуродером лучше поговори. Он у нас «правая рука» Каллии, как-никак". Она резко отворачивается и снова берется за ступку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Хотя жаловаться мне не на что – зато не трогает никто. Даже Шкуродер не лезет: помнит, кто ему хавку готовит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ты тут еще? Ситуация – дерьмо, я тебе скажу. Как только эти уроды прознают насчет Каллии, тут такое начнется... каждому же хочется наверх вылезти". Она поводит плечами. "И мне тоже. Ладно, тебе что надо-то?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Слава Голосам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

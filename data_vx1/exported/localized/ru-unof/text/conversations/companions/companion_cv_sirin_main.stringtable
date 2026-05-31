@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_sirin_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>"Мой писец утверждает, что пергамент, который мы нашли в Ране, мог оказаться древней нотной записью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Неразличимые человеческому уху слова или звуки на языке, который не предназначен для понимания кем-либо, кроме Архонта Песни, находящиеся за гранью восприятия, но неотвратимо настоятельные – обязывающие, невыносимо мучительные на одном такте и приносящие всепоглощающее удовольствие какие-то полмгновения спустя...
+
+Вы моргаете и понимаете, что неясное, пробирающее до костей бормотание в вашем ухе утихло.
+
+Сирин отходит с удовлетворенным вздохом и улыбается вам. И безупречный образ сигила – символа ее имени – впечатывается в глубины вашего разума.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

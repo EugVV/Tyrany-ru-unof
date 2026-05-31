@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_beastbarter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Смерть-из-Тени прерывает ваше путешествие по Ярусам, вскинув массивную лапу. Ноздри ее подрагивают, когтистые пальцы напряжены, как для удара. Охотница Тени вытягивает шею, принюхиваясь, затем утыкается носом в землю, чтобы обнюхать дорогу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Зверолюдкой пахнет!" Она поворачивается в одном направлении, затем в другом и указывает куда-то дальше по дороге. "Ушла вверх по холму. Смерть-из-Тени может выследить, да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Отправиться на поиски зверолюдки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Продолжить путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы одобрительно киваете, она опускается на четвереньки и бежит вверх по склону, держа нос как можно ближе к земле и с силой втягивая воздух. Вы поспеваете за ней без труда, но на лбу все же выступает пот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы качаете головой. У вас есть дела поважнее. Нет смысла выслеживать каждую бродячую зверолюдку на Ярусах. Вы продолжаете путешествие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы замечаете дым костра раньше, чем видите саму зверолюдку, и Смерть-из-Тени презрительно фыркает. "Зачем жечь дерево? Каждый охотник на Ярусах увидит дым". Она чешет в затылке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Разобраться, что произошло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Пройти стороной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Пройдя на запах дыма, вы оказываетесь в лощине. Сидящая на поваленном дереве некрупная зверолюдка поднимает взгляд и пыхтит. Вместо приветствия она ворчит: "Ваш запах не чуять!" Открытой лапой она указывает на костер. "Знак сильнее пахнет". Голова ее слегка склоняется к плечу. "Человек торговать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы решаете обойти стороной странную зверолюдку и ее костер и продолжить свое путешествие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Спросить, зачем она здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы подходите ближе и спрашиваете зверолюдку, что она здесь делает.
+
+Она чешет в затылке. "Самоцветка торгует. Мясо и мех с охоты приносит. Ищет красивые камешки, но чаще торгует. Все торгует. Со всеми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Смерть-из-Тени негодующе фыркает. "Зверолюдки охотятся для еды, только люди для обмена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Самоцветка поводит плечом. "Самоцветка любит красивые камни, кольца любит. Самоцветка прежние времена помнит". Она быстро трясет головой и отгоняет назойливую муху.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Предложить обмен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Зверолюдка разворачивает здоровенную шкуру, в которой держит свои товары. "Лучшее мясо, лучшие шкуры, все свежее с охоты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы покидаете зверолюдку и ее костер и продолжаете прерванный путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Смерть-из-Тени останавливает вас, нюхая воздух. "Зверолюдка чует, Самоцветка рядом. Можно с ней торговать, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Отыскать торговку-зверолюдку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>По запаху и дыму вы находите место, где встала лагерем Самоцветка. Она приветственно поднимает лапу и выкладывает свои товары.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

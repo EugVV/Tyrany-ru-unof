@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_sc_qst_raid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Кровь и бронза</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Убить командира Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убить солдат Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поговорить с Ярусобором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Догнать Раэтоммона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Спросить Ярусобора, куда Раэтоммон мог отвести Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поговорить с Арчиандом Бронзом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Проведать Элдиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Найти Раэтоммона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Спросить Элдиана, куда Раэтоммон мог отвести Жденью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] организовало нападение на [url=glossary:распутье летианы]Распутье Летианы[/url]. Помогите Алому Хору выгнать их из поселения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Найдите командира Бронзового Братства, который возглавляет набег, и убейте его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Возле восточного и западного берегов реки Портускор расположены группы солдат Бронзового Братства. Убейте их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Расскажите Ярусобору в [url=glossary:распутье летианы]Распутье Летианы[/url], что с Бронзовым Братством покончено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Раэтоммон совершил ужасное преступление. Нельзя допустить, чтобы он покинул [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Раэтоммону удалось сбежать со Жденьей в дикие земли, окружающие [url=glossary:распутье летианы]Распутье Летианы[/url]. Возможно, Ярусобор может посоветовать, где искать Раэтоммона с Мастером Скованных Горном.
+
+Вероятно, он сейчас говорит с Элдианом в его доме в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Арчианд, который сейчас в [url=glossary:распутье летианы]Распутье Летианы[/url], хочет поговорить с вами о пропавшей главе Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Скорее всего, Элдиан находится в безопасности своего дома в [url=glossary:распутье летианы]Распутье Летианы[/url], но все равно стоит его проведать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Поговорите с Раэтоммоном. Его в последний раз видели со Вторым братом Цератой возле дома Элдиана в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Раэтоммону удалось сбежать со Жденьей в дикие земли, окружающие [url=glossary:распутье летианы]Распутье Летианы[/url]. Возможно, Элдиан может посоветовать, где искать Раэтоммона с Мастером Скованных Горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы защитили жителей Распутья Летианы, убив набежчиков из Бронзового Братства. При этом главе Братства удалось сбежать с Мастером Скованных Горном Жденьей и Шлемом Магоборца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Раэтоммон вернулся в [url=glossary:распутье летианы]Распутье Летианы[/url] и убивает всех подряд – и местных жителей, и собственных солдат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Раэтоммон вернулся в [url=glossary:распутье летианы]Распутье Летианы[/url], чтобы забрать его себе после ухода армий Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_missing_iron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Железо Скованных Горном</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В поисках пропавшего железа обыскать Переправу Отголоска и найти улики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отыскать пропавшее железо в деревне Отголосок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Изотанису.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться в лагерь Опальных и рассказать кузнецу о судьбе груза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Решить ход сражения в деревне Отголосок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Партия железа, отправленная в лагерь Опальных, пропала где-то в районе Переправы Отголоска. Изотанис, кузнец из лагеря Опальных, подозревает, что оно могло угодить в руки врага. Опальным требуется железо, чтобы чинить старое и ковать новое оружие. Груз нужно отыскать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>У Изотаниса есть основания полагать, что поиски пропавшего железа стоит начать с поселка, который стоит у Переправы Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Железо должно быть где-то в поселении. Обыщите местность и найдите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Матани Сибил хотела вооружить своих гвардейцев с помощью железа, обнаруженного крестьянами на берегу. Вы нашли оставшееся железо в доме у одного из поселенцев. Возвращайтесь в лагерь Опальных и сообщите эту новость Изотанису.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы обнаружили пропавшее железо в деревне Отголосок, Матани собиралась вооружить им своих солдат. Скорее всего, этот груз везли в лагерь Опальных, но [url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] перехватила его по пути. Возможно, в лагере есть кузнец Опальных, который ищет груз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Из-за хаоса сражения найти потерянную посылку окажется непросто. Будет разумно поговорить с Гвардией Вендриенов в этой области, прежде чем продолжать поиски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы обнаружили пустые затопленные ящики, похожие на тот, что вам показывал Изотанис. Скорее всего, именно в них перевозили железо. Значит, и сам груз должен быть где-то поблизости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы нашли разломанный ящик и испорченное оружие Опальных внутри. Наверняка это была часть груза. Нужно отыскать другие улики поблизости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы решили оставить железо себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы вернули железо Изотанису в лагерь Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы решили оставить груз на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Деревня горит, а с ней и остатки железа, найденного повстанцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вам не удалось найти груз Изотаниса до начала атаки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Вы обнаружили пропавшее железо в деревне Отголосок, Матани собиралась вооружить им своих солдат. Теперь, когда груз у вас, пора решать, как с ним поступить.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

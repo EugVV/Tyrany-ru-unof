@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_cyril</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Он жмурится, пытаясь вспомнить. "Гм... Честно говоря, не припомню, чтобы вообще такое видел. Вроде все, что они оставили, было для работы по металлу". Он чешет в затылке и выдавливает из себя извиняющуюся улыбку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"По правде сказать, я тут и живу-то недолго. Когда я сюда прибыл, в поселении точно не было никаких каменщиков. Должно быть, они ушли очень давно. Может, и инструменты ваши они с собой забрали? Поговорите с Базилой – она давно живет в Распутье и часто общалась со Скованными Горном. Может, она что вспомнит".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

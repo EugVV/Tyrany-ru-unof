@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_harchiandbronze_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Жаль, что такое произошло с Веленевой Цитаделью. Сокровища в этих залах утрачены навсегда по воле Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[url=glossary:алый хор]Алый Хор[/url] вроде бы выгнали из Горящей Библиотеки. Говорят, за ее стенами все еще скрываются сокровища..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Даже такое выдающееся оружие, как «Бесстрашный», будет бесполезно, если ты не выживешь в бою. Позволь мне продать тебе прочный доспех!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Просто, э-э... дай нам знать, когда тебе надоест разгуливать с этой штуковиной, которая должна нас защищать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Эй, у меня есть оружие, которое отлично подойдет к твоему мощному щиту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Не могу сказать, что постоянные сражения пошли моим делам на пользу, но у меня такое ощущение, что нас ждет длительный период мира".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мне начинает надоедать, что это поселение переходит из рук в руки чуть ли не каждый сезон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не знаю, благодарить ли нам тебя... или бояться за то, что ты уничтожил армию оккупантов".</DefaultText>
+      <FemaleText>"Не знаю, благодарить ли нам тебя... или бояться за то, что ты уничтожила армию оккупантов".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

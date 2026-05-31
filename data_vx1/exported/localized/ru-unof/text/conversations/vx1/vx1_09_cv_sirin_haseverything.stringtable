@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_sirin_haseverything</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Вершитель! Тот пергамент, который мы нашли... Я была права – это точно музыка".</DefaultText>
+      <FemaleText>"Вершительница! Тот пергамент, который мы нашли... Я была права – это точно музыка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я заметила, что ты разговаривал в своей библиотеке с Книгочеем Гарусом. Что... что вы обсуждали?"</DefaultText>
+      <FemaleText>"Я заметила, что ты разговаривала в своей библиотеке с Книгочеем Гарусом. Что... что вы обсуждали?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Пергамент, который мы нашли в Ране, может оказаться древней нотной записью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Отдать ей пергамент] "Гарус думает, что здесь может быть записана музыка. Что скажешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Солгать] "Оказалось, что в Старых Стенах мы нашли древний рецепт тушеных зверолюдских ляжек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Музыка из Старых Стен? Дай мне посмотреть, скорее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я с удовольствием взгляну... но ничего не обещаю, конечно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Во-первых, гадость какая. Во-вторых, сдается мне, что ты меня обманываешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Отдать ей пергамент] "Конечно, держи. Скажи, что ты думаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Отказаться] "Исключено. Я не хочу давать тебе еще больше могущества".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я думаю, что твой исследователь был прав. Это определенно музыка. Неудивительно, что записи показались мне столь знакомыми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты понимаешь, что ты просто последний гад, верно? И ладно, оставь себе свой дурацкий пергамент. Наверняка в нем одна ерунда!" Она скрещивает руки на груди и жжет вас взглядом.</DefaultText>
+      <FemaleText>"Ты понимаешь, что ты просто последняя гадюка, верно? И ладно, оставь себе свой дурацкий пергамент. Наверняка в нем одна ерунда!" Она скрещивает руки на груди и жжет вас взглядом.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Чтобы до конца в этом разобраться, понадобится время. Соотношения между тонами – штука универсальная, а вот темп, громкость... И одно то, что запись КАЖЕТСЯ интуитивно понятной, не значит, что это действительно так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Но если я правильно понимаю, что на этой странице, то это как-то относится к гудящему камню, что мне оставил [url=glossary:каирн]Каирн[/url]. Хотя я понятия не имею, что это может означать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Может быть, этот пергамент написал предыдущий Архонт Камня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Возможно, [url=glossary:каирн]Каирн[/url] был гораздо старше, чем все думают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Вряд ли это что-то ценное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Или какой-нибудь заплесневелый старикан, грязевой мистик – вроде древнего Скаловержца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Что, в буквальном смысле старше самих гор? Сомневаюсь! Если он такой старый, как он допустил, чтобы [url=glossary:кайрос]Кайрос[/url] контролировал его?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я просто... а, ладно. Неважно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Какой бы ни оказалась истина, когда я доберусь до нее, я смогу... лучше понять свои способности". Ей не удается скрыть озорную ухмылку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"С нетерпением жду возможности узнать про твои находки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Уничтожить заметки] "Позволь-ка мне взглянуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Когда я разберусь, что это за песня, ты услышишь ее первым". Она уходит, не отрывая глаз от пергамента.</DefaultText>
+      <FemaleText>"Когда я разберусь, что это за песня, ты услышишь ее первой". Она уходит, не отрывая глаз от пергамента.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Хм, ну да, конечно". Она неохотно отдает вам листки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что?.. Но почему?.. Зачем ты?.. Это же могло... А, да пошел ты, Вершитель. Ты ничем не отличаешься от других!" Раздувая ноздри и выпрямившись по весь рост, она сжимает кулаки.</DefaultText>
+      <FemaleText>"Что?.. Но почему?.. Зачем ты?.. Это же могло... А, да пошла ты, Вершительница. Ты ничем не отличаешься от других!" Раздувая ноздри и выпрямившись по весь рост, она сжимает кулаки.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Не глядя на вас, Сирин печально вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я не вовремя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Тебя что-то тревожит, Сирин? Ты какая-то печальная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Если собираешься плакать, предупреди – я уйду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Я уже разобрала кое-какие из этих древних нот. Теперь я почти полностью уверена, что это та же музыка, что доносится из найденного кристалла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Нет, все хорошо, Архонт. Но... спасибо, что спросил". Она вытирает нос, глядя в сторону.</DefaultText>
+      <FemaleText>"Нет, все хорошо, Архонт. Но... спасибо, что спросила". Она вытирает нос, глядя в сторону.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Нет. Я не собираюсь плакать. А ты порой ведешь себя как последняя сволочь". Она шмыгает носом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ты совершила прорыв? Но это же хорошо..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Получается, что между ними определенно есть связь. Но что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Молча скрестить руки на груди.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Просто это... наверное, не то, на что я надеялась. А, неважно". Она встряхивает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Эта музыка... я думаю, она описывает нечто фундаментальное. О магии, я имею в виду. То есть, по крайней мере, о магии Старых Стен". Она закусывает губу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Она смотрит в сторону, утирает нос тыльной стороной ладони и вновь поворачивается к вам с непроницаемым лицом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"А значит, это не [url=glossary:каирн]Каирн[/url] оставил камень для тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Звучит как нечто совершенно удивительное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"От этого есть польза или мы просто потеряли время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я надеялась, что это он. Но вышло, что я просто глупая, наивная... неразумная девчонка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Правда? То есть да, конечно, больше никто этого не знает. Кроме, пожалуй, Кайроса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Потеряли? Я бы так не сказала. Определенно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я уверена, что если вплести эту мелодию в мою музыку, то она ее усилит... ну, или хотя бы больше энергии станет проходить через эту дурацкую шляпку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Кто знает... Может быть, Старые Стены услышат мою песню, и я тоже смогу пробуждать Шпили. Или петь Эдикты. Или... и то, и другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"От твоего голоса будут трястись Ярусы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Не забегай слишком далеко вперед, Архонт. Ты выучила новую песню, а не [url=glossary:эдикт]Эдикт[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"И тогда в конце концов мне, возможно, придется тебя убить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ярусы? Не стоит меня недооценивать. Я сотрясу весь этот уродливый мир!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ох, да ладно! Не будь ты таким... проперженным матрацем, Вершитель".</DefaultText>
+      <FemaleText>"Ох, да ладно! Не будь ты таким... проперженным матрацем, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Вот как? Что ж, мы еще посмотрим, кто кого, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"А если серьезно... спасибо тебе. Спасибо тебе за все. Я перед тобой в долгу. Мое могущество будет служить твоему делу, обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Почему тебя так интересует [url=glossary:каирн]Каирн[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Не вини себя. В человеческой природе надеяться – а иногда надежды терпят крах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Мы знали друг друга – еще тогда, в форте Порог. Он был добрым, умным, и я думала, что мы друзья. Знаешь, из тех, что остаются друзьями на всю жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Спасибо, Архонт. Иногда я забываю, что прислужники Владыки порой могут вести себя, как обычные достойные люди".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я писала ему письма – длинные, поэтичные, полные тоски. В основном о себе. А потом... впрочем, теперь это все неважно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я пошутил, Сирин. Гарус сказал, что на пергаменте, похоже, записана древняя музыка".</DefaultText>
+      <FemaleText>"Я пошутила, Сирин. Гарус сказал, что на пергаменте, похоже, записана древняя музыка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Солгать] "Увы, но это правда. А поскольку в ближайшее время я не собираюсь питаться зверолюдским мясом, рецепт я выкинул".</DefaultText>
+      <FemaleText>[Солгать] "Увы, но это правда. А поскольку в ближайшее время я не собираюсь питаться зверолюдским мясом, рецепт я выкинула".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ох. Я-то думала, что у тех, кто строил Старые Стены, вкус получше. Ладно, спасибо, что сказал... наверное".</DefaultText>
+      <FemaleText>"Ох. Я-то думала, что у тех, кто строил Старые Стены, вкус получше. Ладно, спасибо, что сказала... наверное".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Она скрещивает руки на груди и изучает вас, нахмурив брови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Несколько мгновений она ничего не говорит и просто стоит, обхватив себя руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Но потом он оставил меня там. А Нерат приказал мне петь его войскам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Не теряя времени, вы поджигаете страницы. Сирин пораженно стоит, на ее лице появляется выражение ужаса, а вы бросаете догорающие остатки, и они превращаются в черные хлопья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Она вглядывается в страницы взглядом знатока, порой делая паузу, чтобы погладить подбородок и поразмыслить. Наконец с выражением понимания на лице Сирин кивает и прочищает горло, чтобы заговорить.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

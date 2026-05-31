@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_scarchor_bark_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не задерживайся тут надолго. Таких как ты здесь не любят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Тс-с-с. Не сейчас, приятель".</DefaultText>
+      <FemaleText>"Тс-с-с. Не сейчас, приятельница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Смотри под ноги, шеф. После каждого толчка открывается новая трещина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Слышал, там, наверху, внимательно следят за зверолюдами. Прям на слюну изошлись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вот так порасставляешь ловушки день-другой, а потом мышцы деревенеют что у твоего дохлого борова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Эту скалу зовут Воющей из-за стонов Каирна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Хвала Владыке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ох... ого! Дерьмо! Н-неужели он только что?.."</DefaultText>
+      <FemaleText>"Ох... ого! Дерьмо! Н-неужели она только что?.."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Угадайте, кто теперь новый десятник в славном городке [Plainsgate] нашего Вершителя?"</DefaultText>
+      <FemaleText>"Угадайте, кто теперь новый десятник в славном городке [Plainsgate] нашей Вершительницы?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

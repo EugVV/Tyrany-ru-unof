@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_disfavoredfort_ironwalker9</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я на все пойду ради Великого генерала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Непросто, должно быть, командовать нашим легионом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Иногда я замечаю, как [url=glossary:грэйвен аше]Грэйвен Аше[/url] морщится от боли. Почти незаметно, но это случается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Интересно, что на уме у Архонта? Наверняка нечто намного большее, чем наши мелочные заботы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мне нравится смотреть, как Великий генерал расхаживает по тренировочной площадке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Знаю, как это выглядит, но я не скрываюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Пожалуйста, не говорите никому, что я здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Солдат смотрит на вас с выражением глубокой обиды. "Вы сказали стражу у ворот, что я здесь. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Потому что ты ведешь себя подозрительно и шпионишь за Архонтом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Возвращайся к работе, солдат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Солгать] "Нет, я ничего не говорил".</DefaultText>
+      <FemaleText>[Солгать] "Нет, я ничего не говорила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ловкий ход, но я слышал вас. Вам нужно хорошо думать, прежде чем нагло врать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я восхищаюсь Грэйвеном Аше, как и любой сын Севера! Я не какой-то негодяй или шпион..." Он задумывается, а потом вздыхает. "Наверное, Архонту нужно бывать одному. Все-таки он занятой мужчина. Спасибо, что помогли понять мою ошибку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Вы правы. Я не занимался сортирами уже недели две, и ямы, которые я выкопал, уже, наверное, переполнены. Я только постою здесь еще немного, чтобы собраться с духом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Не хочется мне получать плети, но, наверное, я их заслужил. Здесь все вносят свою лепту, а я просто занимаю место". Он вздыхает. "Прощайте, Вершитель".</DefaultText>
+      <FemaleText>"Не хочется мне получать плети, но, наверное, я их заслужил. Здесь все вносят свою лепту, а я просто занимаю место". Он вздыхает. "Прощайте, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Пора мне стать лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

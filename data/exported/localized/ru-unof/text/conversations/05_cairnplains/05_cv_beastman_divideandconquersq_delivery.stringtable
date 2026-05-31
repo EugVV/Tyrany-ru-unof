@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_beastman_divideandconquersq_delivery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не нравятся люди на землях племени. Воняют потом и грязью. Выглядят, как латники, но слабы. Убивают своих сородичей ради еды на пустынных тропах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Зачем латникам Опальных убивать невинных путников на дорогах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Он раздраженно взвизгивает. "Зверолюды не лгут, в отличие от людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Видел зоркими глазами зверолюда. Латники окружили искателей в месте с Серым Камнем. Помню, потому что охота была странной. Латники воняли гнилью и были слабы – с трудом убили стаю своего же размера".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Предложить угощение] "Что ты видел? Скажи мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Охоться скрытно. Латники опасны. Обычно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Это действительно кажется странным. Я попробую разобраться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не могу спать сейчас. Нужно выкопать яму поглубже, пока солнце спит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Уйти] "Меня это не интересует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Не лги мне, зверолюд. Я Вершитель Тунона".</DefaultText>
+      <FemaleText>"Не лги мне, зверолюд. Я Вершительница Тунона".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Он наклоняет голову набок, задумавшись. "Как может зверолюд знать мысли людей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Он охотно принимает мясное лакомство и начинает разгрызать его мощными челюстями, разбрызгивая слюну. Он радостно излагает свой рассказ, поглощая кровавый кусок мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Помню запах человека. Человек пошел посмотреть то, что видел Разломорой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Напомни мне, что именно ты видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Идти дальше.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

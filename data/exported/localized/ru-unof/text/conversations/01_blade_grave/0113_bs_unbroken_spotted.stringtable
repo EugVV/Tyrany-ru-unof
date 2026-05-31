@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0113_bs_unbroken_spotted</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вершитель, ты глянь – там, на стене. Мы не одни".</DefaultText>
+      <FemaleText>"Вершительница, ты глянь – там, на стене. Мы не одни".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я вижу на стене человека. Надо быть осторожнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хищник следит за альфой оттуда – с насеста на вершине стены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мне изменяет зрение, или на стене и впрямь кто-то есть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Взгляни туда, Вершитель. На стене. Кто-то наблюдает за нами".</DefaultText>
+      <FemaleText>"Взгляни туда, Вершительница. На стене. Кто-то наблюдает за нами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"За нами следят! Вон там, со стены!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Погибелей больше нет. Их чудовищные крики утихли, оставив в ушах только рев урагана. Когда облака пыли опадают, вы замечаете фигуру, которая сидит на стене над вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

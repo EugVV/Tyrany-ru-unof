@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\missives\msv_tunon_act2mid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вершитель!
+
+Тебе надлежит незамедлительно явиться в [url=glossary:город-бастард]Город-Бастард[/url]. Поспеши, дабы твоя задержка не была воспринята как нежелание.
+
+– Адъюдикатор Тунон, Архонт Правосудия</DefaultText>
+      <FemaleText>Вершительница!
+
+Тебе надлежит незамедлительно явиться в [url=glossary:город-бастард]Город-Бастард[/url]. Поспеши, дабы твоя задержка не была воспринята как нежелание.
+
+– Адъюдикатор Тунон, Архонт Правосудия</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Послать подтверждение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Запросить больше информации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Направить извинения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Архонт Тунон!
+
+Я поглощен расследованием в отношении Архонтов. Если вы желаете его прервать, я готов вернуться в [url=glossary:город-бастард]Город-Бастард[/url], однако это нанесет существенный урон моему дознанию.
+
+– Вершитель судеб [Player Name]</DefaultText>
+      <FemaleText>Архонт Тунон!
+
+Я поглощена расследованием в отношении Архонтов. Если вы желаете его прервать, я готова вернуться в [url=glossary:город-бастард]Город-Бастард[/url], однако это нанесет существенный урон моему дознанию.
+
+– Вершительница судеб [Player Name]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отправить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Архонт Тунон!
+
+Согласно вашему требованию, я готов предстать перед судом в назначенный срок. 
+
+– Вершитель судеб [Player Name]</DefaultText>
+      <FemaleText>Архонт Тунон!
+
+Согласно вашему требованию, я готова предстать перед судом в назначенный срок. 
+
+– Вершительница судеб [Player Name]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Архонт Тунон!
+
+Могу ли я осведомиться о сути вопроса? Требует ли эта проблема непременного личного присутствия?
+
+– Вершитель судеб [Player Name]</DefaultText>
+      <FemaleText>Архонт Тунон!
+
+Могу ли я осведомиться о сути вопроса? Требует ли эта проблема непременного личного присутствия?
+
+– Вершительница судеб [Player Name]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Отправить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Отправить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Player Name]!
+
+Превосходно, мы ждем твоего возвращения.
+
+– Адъюдикатор Тунон, Архонт Правосудия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Player Name]!
+
+Есть время для вопросов и время повиновения. Сейчас исполняй то, что тебе приказано.
+
+– Адъюдикатор Тунон, Архонт Правосудия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Player Name]!
+
+Я верю, что ты действуешь разумно и осторожно, однако не заставляй меня ждать слишком долго. Я отпустил тебя на длинной привязи – не заставляй меня об этом пожалеть.
+
+– Адъюдикатор Тунон, Архонт Правосудия</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

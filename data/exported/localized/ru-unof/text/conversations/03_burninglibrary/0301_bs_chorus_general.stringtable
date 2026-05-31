@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_chorus_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы не признаем твою власть, Вершитель судеб".</DefaultText>
+      <FemaleText>"Мы не признаем твою власть, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Одно слово от Цензора, и твоя голова будет висеть на пике".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мой клинок еще не пробовал крови на этой неделе. Хочешь исправить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не сомневаюсь, что Злобный Шепот будет рад... задать тебе несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы следим за тобой, Вершитель. Одно неверное движение – и ты труп".</DefaultText>
+      <FemaleText>"Мы следим за тобой, Вершительница. Одно неверное движение – и ты труп".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Думаешь тоже стать частью игры? Подумай еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что мы сделали с этим местом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Книгочеи – твари хитрые. Никогда не задерживаются надолго на одном месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Цензор правит кораблем железной хваткой. Смотри, как бы тебе не оказаться за бортом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Марик привел сюда поисковую группу. Говорят, они плохо кончили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Вершитель! Такой как ты явно бы пригодился нам в игре. Может быть, даже сумел ее закончить".</DefaultText>
+      <FemaleText>"Вершительница! Такая как ты явно бы пригодилась нам в игре. Может быть, даже сумела ее закончить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Некоторые считают, что Архива не существует. Но раз уж за ним пришел ты, значит, он есть на самом деле".</DefaultText>
+      <FemaleText>"Некоторые считают, что Архива не существует. Но раз уж за ним пришла ты, значит, он есть на самом деле".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Что скажешь, Вершитель? Цеплять на Книгочеев намордники или ошейников хватит?"</DefaultText>
+      <FemaleText>"Что скажешь, Вершительница? Цеплять на Книгочеев намордники или ошейников хватит?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"С нашими парнями держи ухо востро. Они тебя, конечно, уважают, но ради победы и тебе кишки выпустят".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_ac_qst_artifacthunter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Охотник за артефактами</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Добраться до Перехода Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Отправиться в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Локком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить с Миреком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Убить бичевателей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Найти Уэлби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Обыскать Локка и Мирека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Обыскать Мирека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Принести ключ-камень в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Войти в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Обыскать Ферриса-Плоскостопа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Раэтоммон украл Шлем Магоборца из Распутья Летианы. Найдите его и верните Шлем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] часто проходит через Переход Беглеца. Возможно, вы сможете узнать что-то о местонахождении Раэтоммона там.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Двуречье – известное место стоянки Бронзового Братства. Скорее всего, там можно найти офицера, который будет знать, где находится Раэтоммон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Локк зол на Раэтоммона за его последние действия. Найдите его в Переходе Беглеца и обсудите сложившуюся ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Мирек поддерживает тактику Раэтоммона в [url=glossary:распутье летианы]Распутье Летианы[/url]. Поговорите с ним в Переходе Беглеца – может быть, он знает, куда отправился Раэтоммон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>На [url=glossary:бронзовое братство]Бронзовое Братство[/url] напали бичеватели, выпущенные из Старых Стен в Двуречье. Братству нужна помощь, чтобы отбиться от существ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Братство отрезано от их основного лагеря в Двуречье. Первый брат Раэтоммон исчез в Старых Стенах, и Уэлби пытается удержать остатки Братства вместе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>С хорошей вероятностью у одного из них будет зацепка, которая поможет выяснить, куда Раэтоммон забрал Мастера Скованных Горном. Обыщите их тела в Переходе Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Локк сказал, что стоит обыскать тело Мирека в Переходе Беглеца, чтобы узнать что-нибудь о местонахождении Раэтоммона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Вернитесь в Двуречье с ключ-камнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Вход в Старые Стены в Двуречье сейчас закрыт. Используйте ключ-камень, чтобы попасть внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>У Ферриса-Плоскостопа наверняка есть что-то, что поможет добраться до Раэтоммона в глубинах Старых Стен. Обыщите его тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Уэлби сообщила вам, что ключ-камень, с помощью которого можно войти в Старые Стены, можно найти в Переходе Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Мирек не прислушался к вашим доводам и напал на вас. Вам придется его убить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы с Бронзовым Братством стали врагами. Убейте их всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы последовали за Раэтоммоном, который похитил Мастера Скованных Горном, в Старые Стены в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

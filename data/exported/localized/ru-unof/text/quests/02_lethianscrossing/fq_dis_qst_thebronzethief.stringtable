@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_dis_qst_thebronzethief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Бронзовый вор</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Победить солдат Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти командира Бронзового Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Добраться до Перехода Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Забрать ключ-камень у Мирека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернуться в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Обыскать Ферриса-Плоскостопа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Раэтоммон забрал и Шлем Магоборца, и Мастера Скованных Горном Жденью – [url=glossary:грэйвен аше]Грэйвен Аше[/url] не будет рад, когда узнает, что лишился ценного мастера и артефакта. Догоните Раэтоммона и заберите у него и Жденью, и Шлем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Вы узнали, что [url=glossary:бронзовое братство]Бронзовое Братство[/url] разбило лагерь в Двуречье. Начните поиски Раэтоммона оттуда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:бронзовое братство]Бронзовое Братство[/url] в Двуречье сейчас сражается с бичевателями. Это отличная возможность убить их, пока они отвлечены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вероятно, что командир Бронзового Братства в Двуречье знает, где найти Раэтоммона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Командир Бронзового Братства, Уэлби, рассказала вам, что Раэтоммон пошел в Старые Стены в Двуречье. Еще она сказала, что у солдата по имени Мирек есть ключ-камень, который нужен для того, чтобы попасть в Старые Стены. Насколько она знает, Мирек направляется к Переходу Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>У Мирека есть ключ-камень для входа в Старые Стены в Двуречье. Он где-то в Переходе Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>С ключом-камнем на руках вернитесь в Двуречье и войдите в Старые Стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>У Ферриса-Плоскостопа наверняка есть что-то, что поможет добраться до Раэтоммона в глубинах Старых Стен. Обыщите его тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Используйте ключ-камень, чтобы войти в Старые Стены и сразиться с Бронзовым Братством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы последовали за Раэтоммоном, который похитил Мастера Скованных Горном, в Старые Стены в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

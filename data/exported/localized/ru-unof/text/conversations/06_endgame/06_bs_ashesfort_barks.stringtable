@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_ashesfort_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Добро пожаловать в Железный Очаг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы рады вас видеть, Вершитель. Надеюсь, вы действовали от имени Опальных в ваших путешествиях".</DefaultText>
+      <FemaleText>"Мы рады вас видеть, Вершительница. Надеюсь, вы действовали от имени Опальных в ваших путешествиях".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Бей левой! Сильнее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершитель".</DefaultText>
+      <FemaleText>"[url=glossary:грэйвен аше]Грэйвен Аше[/url] внутри, если хотите поговорить с ним, Вершительница".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

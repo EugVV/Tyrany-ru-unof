@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_skilltrainer_kypera</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я не могу отвлекаться на занятия с тобой, пока Шпиль в таком состоянии. Приходи позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Она смотрит вам прямо в глаза, и от ее взгляда у вас по спине бежит холодок. "Вершитель судеб [Player Name], я получила разрешение от Голосов Нерата поучить тебя искусству управления эмоциями, а также дать силу в бою". Она по-прежнему меряет вас взглядом. "Пока что, как я вижу, тебе недостает ни того, ни другого".</DefaultText>
+      <FemaleText>Она смотрит вам прямо в глаза, и от ее взгляда у вас по спине бежит холодок. "Вершительница судеб [Player Name], я получила разрешение от Голосов Нерата поучить тебя искусству управления эмоциями, а также дать силу в бою". Она по-прежнему меряет вас взглядом. "Пока что, как я вижу, тебе недостает ни того, ни другого".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я бы хотел потренироваться".</DefaultText>
+      <FemaleText>"Я бы хотела потренироваться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Стоит ей заметить вас, и на лице отражается разочарование. "Мы ослабли и размякли, если тот, кого я вижу пред собой, заслужил уважение Алого Хора". Она делает шаг вперед, меряя вас взглядом. "[url=glossary:голоса нерата]Голоса Нерата[/url] дозволил мне поучить тебя магическому искусству управления эмоциями, а также дать силу в бою. Как я вижу, тебе есть, куда расти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Лицо ее остается холодным, но на губах мелькает улыбка. "В моей профессии начальство долго не держится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ты так вежлива со всеми, на кого работаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Женщина окидывает лекарню взглядом, полным презрения.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

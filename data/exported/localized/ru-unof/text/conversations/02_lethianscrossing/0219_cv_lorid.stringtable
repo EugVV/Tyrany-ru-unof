@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_cv_lorid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Добро пожаловать! Добро пожаловать в «Хозяйку Летианы»!" Дородный мужчина поигрывает огромными мышцами, на угольно-черной коже играют отблески огня. "Что Лорид может сделать для тебя? Хочешь провести со мной время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Чем ты лучше прочих?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти] "Я еще вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"История моей жизни? Прости, она короткая и скучная. У меня было счастливое детство, без всяких трагедий. Я вырос крепким, здоровым и никогда не болел. Потом я нанялся к госпоже Софии, потому что мне нравится заниматься тем, чем – и с кем – я занимаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Все, что угодно, и кое-что вдобавок!" Лорид от души хохочет. "Но мой фирменный трюк – Стояк Вендриена. Дай волю воображению – но это будет еще лучше, я тебя уверяю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"О, с возвращением!" Лорид широко улыбается, принимая позу, которая выгодно подчеркивает все его достоинства. "Хочешь поразвлечься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

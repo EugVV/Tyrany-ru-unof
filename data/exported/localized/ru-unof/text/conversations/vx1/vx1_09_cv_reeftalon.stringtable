@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_reeftalon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Думаю, в этой зверолюдке все еще слишком много ярости... сомневаюсь, что она подчинится кому бы то ни было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Непокорность стучит в сердце Золотой Лапы. Кандалы не смогут навечно смирить ярость зверолюдки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Она может тебе подчиниться, но вряд ли эти оковы останутся на ней надолго. Если считаешь, что так лучше..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

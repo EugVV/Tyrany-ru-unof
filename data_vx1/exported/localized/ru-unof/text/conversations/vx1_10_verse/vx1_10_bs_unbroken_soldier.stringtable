@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_10_verse\vx1_10_bs_unbroken_soldier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я перед тобой в долгу, Вершитель судеб. Весь Оплот в долгу перед тобой".</DefaultText>
+      <FemaleText>"Я перед тобой в долгу, Вершительница судеб. Весь Оплот в долгу перед тобой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Нам всем, я так понимаю, крепко повезло, что тебе самому хотелось прекратить действие Эдикта".</DefaultText>
+      <FemaleText>"Нам всем, я так понимаю, крепко повезло, что тебе самой хотелось прекратить действие Эдикта".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мне лично казалось, что эти треклятые бури уже никогда не улягутся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Эта буря... в какой-то момент уже начинает казаться, что в мире нет ничего, кроме ветра и ржавчины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"В кои-то веки вслед за словами не взметнулись клинки и не пролилась кровь... и меня это радует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"У меня повсюду ржавчина, в каждом кармашке и складке".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

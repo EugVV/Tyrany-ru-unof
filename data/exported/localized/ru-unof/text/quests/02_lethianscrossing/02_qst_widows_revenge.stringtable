@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_widows_revenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Месть вдовы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Сандро.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Дее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Найти Сандро.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вернуться к Дее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Дея попросила вас отомстить за убийство ее жены. Сандро, член Бронзового Братства, убил Федру и украл ее ожерелье. Дея хочет, чтобы вы нашли Сандро и вернули ожерелье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Дея сказала, что Сандро можно найти в Двуречье. Отправьтесь туда и поговорите с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы нашли Сандро, он скрывается в Двуречье. Поговорите с ним об убийстве Федры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы забрали ожерелье у Сандро. Верните его Дее в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Сандро скрывается где-то в Двуречье. Найдите его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы узнали правду про Дею. Вернитесь в [url=glossary:распутье летианы]Распутье Летианы[/url] и поговорите с ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы нашли Сандро в Двуречье. Он уверяет вас в своей невиновности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы убили Сандро, чтобы забрать ожерелье Деи. Ей стоит узнать, что вы отомстили за убийство ее жены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы узнали правду про Дею и забрали ожерелье у Сандро, чтобы обвинить ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Двуречье занимает очень большую часть северо-восточной Гавани. Вам придется найти более точный район, где действует Братство, прежде чем вы сможете отправиться туда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убили Сандро и вернули Дее ожерелье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убедили Сандро отдать ожерелье и вернули его Дее, сказав, что Сандро теперь мертв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы забрали ожерелье у Сандро и сказали Дее, что знаете правду. Она призналась в убийстве, а потом напала на вас – вам пришлось ее убить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы поговорили с Сандро и сказали Дее, что знаете правду. Она призналась в убийстве, а потом напала на вас – вам пришлось ее убить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>С помощью Деи вы получили скидку у торговцев в [url=glossary:распутье летианы]Распутье Летианы[/url] взамен на ваше молчание относительно смерти ее жены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Дея заплатила вам за то, чтобы вы никому не рассказывали обстоятельства смерти ее жены.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

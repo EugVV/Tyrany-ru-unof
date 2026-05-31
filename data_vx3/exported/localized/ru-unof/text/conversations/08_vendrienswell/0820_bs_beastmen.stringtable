@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\0820_bs_beastmen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Колдуны-книгочеи пищат и разбегаются, как крысы, как только завидят Камнепытов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если будет нужно, [url=glossary:камнепыты]Камнепыты[/url] защитят территорию племени и прольют кровь – а гладкокожие будут кричать, пока не охрипнут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Если колдуны-книгочеи опять заползут на территорию Камнепытов, живыми колдуны-книгочеи не уйдут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Колдуны-книгочеи больше не будут бродить по Каменным Землям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Тьфу. У колдунов-книгочеев горькая кровь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Люди бежали с территории Камнепытов, сохранили жизни – сегодня. В следующий раз зверолюдки не отпустят добычу".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

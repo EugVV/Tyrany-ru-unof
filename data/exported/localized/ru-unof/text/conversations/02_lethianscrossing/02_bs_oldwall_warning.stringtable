@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_oldwall_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Прости, Вершитель. В последнее время погибелей становится все больше, поэтому Элдиан попросил нас закрыть вход в Старые Стены".</DefaultText>
+      <FemaleText>"Прости, Вершительница. В последнее время погибелей становится все больше, поэтому Элдиан попросил нас закрыть вход в Старые Стены".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мне передали, что тебя следует пропустить в Старые Стены. Будь осторожен, Вершитель судеб".</DefaultText>
+      <FemaleText>"Мне передали, что тебя следует пропустить в Старые Стены. Будь осторожна, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Смотри, но не трогай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

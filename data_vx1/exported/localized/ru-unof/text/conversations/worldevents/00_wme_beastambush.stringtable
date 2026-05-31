@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_beastambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы странствуете пыльными дорогами Ярусов, освежающий ветерок осушает выступившую на лбу испарину, как вдруг вы замечаете, что уже какое-то время не слышно ни гудения насекомых, ни птичьего щебета. Все вокруг затихло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Смерть-из-Тени принюхивается, темная шерсть топорщится на мощных плечах.
+
+"Каменными щенками по ветру пахнет. Запах грязью и навозом прячут, но Охотник Тени знает, где каменный щенок, а где мокрая грязь".
+
+Опустившись на четвереньки, она издает глухое рычание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Массивное, покрытое густой шерстью создание выскакивает на дорогу перед вами, его сопровождает несколько других, помельче. Покосившись назад, вы обнаруживаете, что они вас окружили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Зверолюдка перед вами выпрямляется во весь свой немалый рост, стучит себя кулаками в грудь и издает зубодробительный рык, от которого у вас невольно идет холодок по коже. Зверолюд рядом с ней делает шаг по направлению к вам, скребет землю когтями и скалится, показывая длинные кривые клыки. Мелкая зверолюдка с голой спиной, густо испещренной шрамами, ритмично бьет лапами по земле.
+
+За спиной у вас зверолюды рассыпаются полукругом, отрезая все пути отхода...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Попытаться договориться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Атаковать зверей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы беретесь за оружие, а альфа стаи опускается на передние лапы. Мускулистые плечи напрягаются, она явно готовится к прыжку...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы делаете шаг вперед, не касаясь оружия, подняв руки над головой и призывая зверолюдов выслушать вас. Что бы ни подвигло их к нападению, возможно, вы сумеете все уладить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Сбежать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы сбежали и можете продолжить свой путь живым и невредимым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Продолжить...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

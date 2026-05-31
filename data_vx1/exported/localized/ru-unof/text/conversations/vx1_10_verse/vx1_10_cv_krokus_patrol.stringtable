@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_10_verse\vx1_10_cv_krokus_patrol</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Кто идет? Хотя, знаешь, это неважно. Иди своей дорогой, чужак, а то прольется кровь – и очень быстро".</DefaultText>
+      <FemaleText>"Кто идет? Хотя, знаешь, это неважно. Иди своей дорогой, чужестранка, а то прольется кровь – и очень быстро".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я вижу охранников каравана, но самого каравана тут нет. Что вы здесь делаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нам нужен Крокус".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти] "Ухожу, ухожу..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Атаковать] "Тогда пусть прольется скорее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"А вам-то до этого что, я не понял". Он косится через плечо куда-то на север, потом вновь смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Проклятье! Парни, девки, все к оружию! Не пропускайте их!" Он наставляет на вас клинок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ну так нет его здесь, ага?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ты что, тупой? Я же сказал... а, на хрен. Все к оружию! Сейчас мы этих говнюков обратно Кайросу в виде фарша отправим!"</DefaultText>
+      <FemaleText>"Ты что, тупая? Я же сказал... а, на хрен. Все к оружию! Сейчас мы этих говнюков обратно Кайросу в виде фарша отправим!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я все отлично понял".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Кто бы сомневался, железяка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Если у вас есть вопросы и нужны ответы, поговорите с Крокусом. Он на холме, к западу отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мы не знаем, как он выглядит, болван".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Заткни ей пасть, пока я не... заткнул ее сам!" Он кривится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Она говорит резко, но верно. Как нам найти Крокуса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Где ваш старший? Скажи, где его найти, и мы оставим тебя в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Атаковать] "Может, я лучше заткну тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Возвращайтесь, откуда пришли. На склоне сверните на север. Крокус там, в лагере". Он машет рукой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Слушай. Мы тебя не пропустим. Не велено. Если хочешь поговорить об этом – босс наш, Крокус, на холме сидит, к западу отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Когда вы приближаетесь к караванным охранникам в бронзовых доспехах, все поднимают головы, отрываясь от игры в кости и колец на земле, и берутся за оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Мы наемная охрана. Нам платят за то, чтобы охранять. Мы не выбираем, ГДЕ охранять. И не спрашиваем, ПОЧЕМУ именно здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Логично же, да?" Его брови сдвигаются в одну линию, и он смотрит на своего приятеля. Тот пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

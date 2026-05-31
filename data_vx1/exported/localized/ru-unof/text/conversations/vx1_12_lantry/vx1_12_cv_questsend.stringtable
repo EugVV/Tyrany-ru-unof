@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_questsend</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"После всего этого мне не помешает глотнуть чего-нибудь крепкого, чтобы мысли в порядок привести. Ты как себя чувствуешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты это хотел испытать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты тащил меня через все Ярусы ради идиотских галлюцинаций? Не смешно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти] "Ну что, мы здесь закончили?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Можем повторить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Повторить? Ох, молодость, молодость... Я бы не рекомендовал, но... раз уж так, то советую сначала сходить в уборную – на всякий случай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Вижу, что все в порядке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Архонт, ты здесь? Ты все еще погружен в мысли?"</DefaultText>
+      <FemaleText>"Архонт, ты здесь? Ты все еще погружена в мысли?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Спасибо, что помог мне исполнить задуманное. Когда-то давно мы с Лексемой уже пробовали такие ягоды. Когда я нашел указания в ее текстах, у меня было предчувствие, что они приведут меня к источнику".</DefaultText>
+      <FemaleText>"Спасибо, что помогла мне исполнить задуманное. Когда-то давно мы с Лексемой уже пробовали такие ягоды. Когда я нашел указания в ее текстах, у меня было предчувствие, что они приведут меня к источнику".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Со мной все в порядке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Что это было?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я видел [url=glossary:голоса нерата]Голоса Нерата[/url], какого-то старого Книгочея и Лексему".</DefaultText>
+      <FemaleText>"Я видела [url=glossary:голоса нерата]Голоса Нерата[/url], какого-то старого Книгочея и Лексему".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Славно, славно. С возвращением".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ну, я... На самом деле я даже не знаю, чего я ожидал. Думаю, что просто хотел поговорить с той Лексемой, что я помню".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Лексема, которой она стала – это уже... не тот человек, которого я когда-то думал, что люблю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"И я решил, что состояние слабого опьянения может помочь мне примириться с ее... замыслом извратить правду «во имя высшего блага» или еще какой-то идеалистической чуши".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Но мне... не нужно понимать это до конца. Просто нужно... принять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Вот только то, чего мы хотим, не всегда совпадает с тем, что на самом деле случается. Она бы знала это, живи она правдой Хроники".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Видеть ее такой – потерявшей магию, теряющей разум... неудивительно, что перед самым концом она действовала так безрассудно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Теперь я понимаю, что смерть для нее была... избавлением. Но все же мне будет непросто записать это в Хронику".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Так ты собираешься сохранить ее вставки в Хронике?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Что случилось с твоей беззаветной любовью к истине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Пусть даже какая-то часть меня погибнет, зная, что я впустил обман на свои некогда правдивые листы пергамента".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Как ты можешь быть уверен, что сам никогда не ошибался и не вносил в Хронику убедительно скормленных тебе баек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Наверняка Лексема была бы рада узнать о твоем решении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Может быть, но... я бы предпочел, чтобы она этого не узнала. Не хочу, чтобы она решила, что я оправдываю и поддерживаю ее, и..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"...И если честно, я просто не вынесу новой встречи с ней – такой слабой и беспомощной. Я хочу запомнить ее такой, какой увидел ее только что... еще до обмана".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Она никуда не делась, но с падением Школы у Хроники не осталось былой репутации источника истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Каждый историк пытается найти ответ на этот вопрос. Быть может, я записал неправду, не зная этого, но я никогда не пытался СОЗНАТЕЛЬНО запечатлеть на страницах Хроники ничего, кроме истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ну что, ты исправил записи – и обрел наконец внутренний покой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Кому, помимо тебя, есть дело до достоверности Хроники?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Сомневаюсь, что ей понравится, если ты перечеркнешь ее работу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Учитывая, что без меня эти фрагменты Хроники остались бы искаженными... да, я чувствую, что достойно послужил истории".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Если ты хочешь убедить меня, что все мои старания были зазря, то у тебя неплохо получается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Да, мне определенно есть дело до исторической точности. И если я – единственный человек в мире, которому до нее есть дело... то пускай будет так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Не думаю, что это сложно. Просто запиши все, как было. Это то, чего Лексема заслуживает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты можешь обессмертить ее так, как пожелаешь. Тебя некому поправлять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Молча посмотреть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"А что будет с Хроникой дальше? Ты станешь продолжать ее по-своему или на ее лад?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"По крайней мере, еще недавно я мог так сказать с чистой совестью... теперь же я виновен в том, что покрываю обман Лексемы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Вовсе нет! Я таскал тебя по Ярусам ради потрясающих галлюцинаций!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Потрясающе! Я тоже видел Лексему и этого старого Книгочея, но... ты видел [url=glossary:голоса нерата]Голоса Нерата[/url]?"</DefaultText>
+      <FemaleText>"Потрясающе! Я тоже видел Лексему и этого старого Книгочея, но... ты видела [url=glossary:голоса нерата]Голоса Нерата[/url]?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Не думаю, что Архонту на самом деле хватит могущества мучить тебя из пустоты, но... кольца я бы на это не поставил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Может быть, твой разум готовит тебя к неминуемому конфликту между вами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Уверен, что ты достаточно насмотрелся на Архонта вживую... Сочувствую, что и в ягодных грезах он тебя не отпускает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Это были твои воспоминания или мои?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"И те и другие, в разных пропорциях. Если я правильно понимаю эффект, у нас было параллельное путешествие в некоем объединенном воспоминании".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Мне отвратительно то, что я сделал, и все же я не задумываясь сделал бы это снова. Я люблю Лексему больше, чем Хронику. Вот и все, что тут можно сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Да будет так. Когда она исказила Хронику, она потеряла право говорить от имени истории".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"И я предпочел бы больше никогда не встречаться с Лексемой. Я хочу запомнить ее такой, какой ты увидел ее в наших видениях".</DefaultText>
+      <FemaleText>"И я предпочел бы больше никогда не встречаться с Лексемой. Я хочу запомнить ее такой, какой ты увидела ее в наших видениях".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ты говоришь точь-в-точь как она! Уверен, любой может найти причины для лжи, но это не делает ложь менее отвратительной!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Впрочем, кого я защищаю! Книгочеев осталось мало, и даже если бы нам удалось вернуть былое величие... история Лексемы может поставить под сомнение КАЖДУЮ строку Хроники".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Думаю, что... мне лучше сосредоточиться на последствиях, к которым может привести то, что кто-то эту Хронику прочтет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Как бы это ни было мучительно, мне придется рассказать всю историю, вплоть до печального конца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"И пусть она не смогла сохранить верность Хронике – это не значит, что я допущу ту же самую ошибку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Никогда не предполагал, что мне придется исправлять лживые строки другого хрониста, но... наверное, если долго жить, то еще и не такое может случиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"И ты убежден, что твое понимание – более верное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Это аргумент в пользу гносеологического скептицизма? Я могу с уверенностью заявить, что сознательно никогда не искажал записи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"В твоих руках мне за Хронику спокойнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Твои слова делают мне честь, Архонт. Но я лишь исполняю свой долг Книгочея".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Совместный гипнотический опыт, вероятно. Или общий сон? Я не стану делать вид, будто понимаю в этом хоть что-то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Я всегда считал, что суть Хроники – в исторической достоверности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Уйти] "Ну что, ты готов отправляться в путь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Спасибо тебе. Мне нужно было в последний раз увидеть Лексему, прежде чем я... заменю ее страницы в Хронике".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Что ж... думаю, хватит разговоров. Идем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Если честно, я сам понятия не имел, что здесь будет, пока мы не явились. Так что не хотел, чтобы у кого-то оказались завышенные ожидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Если никто не относится к записям с благоговением, то для чего им быть точными?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Мне жаль, что она умерла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Не так жаль, как мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Что за долг или преступление простил Нерат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"А, это... Я, кхм, обманул одного верного Голосам человека. Архонт предложил мне жизнь в обмен на мою службу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Не было понятно, когда именно моя служба должна была закончиться, но... мне нравилась работа Книгочея, так что я и не думал останавливаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Надеюсь, это означает, ты готов скорректировать Хронику так, чтобы я в ней смотрелся лучше..."</DefaultText>
+      <FemaleText>"Надеюсь, это означает, ты готов скорректировать Хронику так, чтобы я в ней смотрелась лучше..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Лантри шумно вздыхает и бросает на вас мрачный взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Чтобы твоя история была достойна упоминания, понадобится кое-что немного преувеличить... может быть, позже мы обсудим, как ты... хочешь, чтобы тебя запомнили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Я шучу, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Итак?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Да, эм-м... для этого пока рановато".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"А что, если я начну приказывать тебе исправлять мою историю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Лантри шумно вздыхает и бросает на вас мрачный взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Я шучу, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Итак?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Тогда бы я попросил тебя найти себе другого биографа. Лучшее, что бы я мог для тебя сделать – притвориться, что ты не просил меня ради тебя врать".</DefaultText>
+      <FemaleText>"Тогда бы я попросил тебя найти себе другого биографа. Лучшее, что бы я мог для тебя сделать – притвориться, что ты не просила меня ради тебя врать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Да, эм-м... для этого пока рановато".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ты был заодно с Голосами Нерата и работал на Кайроса. Я это видел!"</DefaultText>
+      <FemaleText>"Ты был заодно с Голосами Нерата и работал на Кайроса. Я это видела!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ты видел только свои внутренние страхи, которые вырвались наружу. Может быть, тебе просто не подходят эти ягоды".</DefaultText>
+      <FemaleText>"Ты видела только свои внутренние страхи, которые вырвались наружу. Может быть, тебе просто не подходят эти ягоды".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_arrival_soldiers_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я на дежурстве. Обратись к кому-нибудь другому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я ничем не могу тебе помочь, Вершитель судеб".</DefaultText>
+      <FemaleText>"Я ничем не могу тебе помочь, Вершительница судеб".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Меня ждет дежурство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Прошу, оставь меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Братство никогда не отобьет у нас [url=glossary:распутье летианы]Распутье Летианы[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы – настоящие хранители Распутья Летианы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"С момента, как был провозглашен [url=glossary:эдикт]Эдикт[/url], местные забеспокоились. Теперь будет труднее держать их в узде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"К нам почти не приходило подкреплений с тех пор, как был провозглашен [url=glossary:эдикт]Эдикт[/url]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Говорят, что ты Архонт, но до Грэйвена Аше тебе еще далеко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Может, твой [url=glossary:эдикт]Эдикт[/url] и простирается повсюду, зато Защита Аше нас сопровождает, где бы мы ни были".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

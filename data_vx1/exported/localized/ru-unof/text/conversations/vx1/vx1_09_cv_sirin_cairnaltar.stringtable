@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_sirin_cairnaltar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта каменная конструкция тихо гудит, издавая медленно меняющуюся мелодию. Она напоминает вам об Архонте Песни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эта каменная конструкция тихо гудит, издавая медленно меняющуюся мелодию. Она напоминает вам об Архонте Песни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты же тоже это слышишь, да?" Сирин кладет руку на камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мне кажется, что он оставил это для меня... как послание". Она пытается прижать ухо к камню, но лишь бьется о него своим головным убором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Послание?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Молча скрестить руки на груди.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Он? Он – кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти] "У нас сейчас нет на это времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"В музыке есть какой-то смысл... я думаю". Она качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я его не понимаю, но, быть может, глубже есть еще камни! Идем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Сирин извлекает из конструкции кристалл и бросает в сумку к своим вещам. Он вынимается свободно, без усилий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"[url=glossary:каирн]Каирн[/url], конечно! Ты думаешь, этот волшебный камень сам собой появился?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Все это кажется таким знакомым..." Она выпрямляется, нахмурившись.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершитель судеб. Веди вперед!"</DefaultText>
+      <FemaleText>"Конечно, у нас есть время только шлепать по вонючим старым пещерам. Славно, Вершительница судеб. Веди вперед!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Сирин извлекает из конструкции кристалл и бросает в сумку к своим вещам. Он вынимается свободно, без усилий.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

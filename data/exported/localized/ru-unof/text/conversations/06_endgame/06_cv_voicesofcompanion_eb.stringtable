@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_voicesofcompanion_eb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты... Кто бы сомневался, что все это были течения внутри течений. И чего ты хочешь сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"И как тебе даются перемены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Надеюсь, ты понимаешь, почему мне пришлось так поступить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"И как оно там?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Как-то. Я все еще я, а не мы... эти слова полны смысла, уверяю тебя. Мои мысли потоком возносятся на поверхность – в точности как поверх соленой морской воды течет пресная. И хотя я не могу заглушить то, что слышу, мне кажется, это тело... этот рой... действует по моей воле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"О, мы понимаем, мы понимаем больше, чем ты! В свете всей совокупности фактов, твой выбор был невелик. Забейся в угол, и все, что тебе останется, – это стать крысой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мы воссоединились, наконец-то. Я знаю своих старых наставников лучше, чем при жизни. Как ни удивительно, больше нет ни тайн, ни секретов... это единение – одновременно мука, страдание и блаженство. Если бы только можно было познать столь же близко тех, кого любишь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"О, я понимаю, но на то, чтобы простить, у меня уйдут десятилетия... с учетом всего, что мне стало известно, это еще милосердно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Это ничем не напоминает блаженный отдых... вопли терзаемой памяти, убийственные видения, которым многие сотни лет, отголоски заговоров и планов... каждую секунду я получаю новый повод для ненависти... если невежество – благо, мне больше никогда не знать счастья".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

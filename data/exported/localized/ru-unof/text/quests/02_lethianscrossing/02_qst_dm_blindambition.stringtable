@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_dm_blindambition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Слепые амбиции</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти в Переходе Беглеца Калию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Калией в Двуречье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убедить [url=glossary:бронзовое братство]Бронзовое Братство[/url] взять Калию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться к Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Рассказать Келлиону о смерти Калии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вернуться к Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вернуться к Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Младшая сестра Келлиона, Калия, решительно намерена вступить в [url=glossary:бронзовое братство]Бронзовое Братство[/url]. Поищите ее в Переходе Беглеца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Поищите в Переходе Беглеца младшую сестру Келлиона, Калию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы убедили Локка взять Калию в Братство. Он отправил ее поговорить с Уэлби в Двуречье. Узнайте, все ли у нее в порядке там, а затем вернитесь к Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы убедили Калию сбежать и исполнить свою мечту – исследовать Ярусы. Скажите Келлиону в [url=glossary:распутье летианы]Распутье Летианы[/url], что его сестра мертва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы согласились поговорить с Локком о Калии и убедить его принять ее в ряды Братства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы убедили Калию вернуться к брату, Келлиону. Поговорите с ним в [url=glossary:распутье летианы]Распутье Летианы[/url], чтобы получить вознаграждение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы решили убить Калию, потому что она не хотела прислушаться к голосу разума. Келлиону стоит узнать, что произошло с его сестрой. Вернитесь к нему в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Вы связали судьбу Калии с Бронзовым Братством. Вернитесь к Келлиону в [url=glossary:распутье летианы]Распутье Летианы[/url] и расскажите ему новости о сестре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Вы убили Локка, не поговорив с ним о Калии, а потом убедили ее отправляться наугад в Двуречье и искать там других членов Братства. Маловероятно, что она выжила. Вернитесь к Келлиону в [url=glossary:распутье летианы]Распутье Летианы[/url] и расскажите ему об этом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы убедили Локка принять Калию в [url=glossary:бронзовое братство]Бронзовое Братство[/url]. Она захочет услышать хорошие новости от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы нашли Калию на Переходе Беглеца, но не смогли убедить ее уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Калия добралась до Двуречья и устраивается там в качестве нового члена Бронзового Братства. Келлиону стоит знать, что она в порядке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Калию убили бичеватели на пути к Уэлби. Келлион стоит узнать о ее судьбе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Калия побаивается идти в Двуречье, не зная, безопасно ли там. Отправляйтесь в Двуречье, чтобы узнать, какая там ситуация.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Вы уничтожили бичевателей в Двуречье. Калия будет рада узнать, что отправляться к Уэлби теперь безопасно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Локк убит. Вернитесь к Калии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Леса Перехода Беглеца покрывают большую территорию. Вам нужно определить точное местоположение, где действует Братство, прежде чем можно будет туда отправиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убедили Калию исполнить свою мечту – исследовать Ярусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы убедили [url=glossary:бронзовое братство]Бронзовое Братство[/url] принять Калию в свои ряды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убедили Калию вернуться в [url=glossary:распутье летианы]Распутье Летианы[/url] к брату, Келлиону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы убили Калию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы убедили Локка взять Калию в [url=glossary:бронзовое братство]Бронзовое Братство[/url], но по пути к Уэлби на нее напали бичеватели и убили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Вы убили Уэлби, а вместе с тем лишили Калию шанса вступить в [url=glossary:бронзовое братство]Бронзовое Братство[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Калия решительно намерена вступить в [url=glossary:бронзовое братство]Бронзовое Братство[/url] и попросила вас помочь ей в этом.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_arrival_soldiers_sc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>*ворчит*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы просто топчемся на одном месте без дела. Я больше так не могу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Почему меня назначили в сторожа? Я хочу быть на передовой, рубить наших врагов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Отвали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Члены Братства поступили глупо. Ввалились, как зверолюды на бойню".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Слишком мало мертвецов. Надо добавить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Говорят, этот [url=glossary:эдикт]Эдикт[/url] – твоих рук дело. Тебе что, сложно было [url=glossary:эдикт]Эдикт[/url] придумать, чтобы нас всех элем залило?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вас встречают неодобрительным ворчанием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ходят слухи, ты теперь Архонт. Это как – кольцами гадишь, или что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я от хохота чуть не обделался, когда услыхал, что ты устроил этим сукам Опальным в Колодце Вендриенов".</DefaultText>
+      <FemaleText>"Я от хохота чуть не обделался, когда услыхал, что ты устроила этим сукам Опальным в Колодце Вендриенов".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

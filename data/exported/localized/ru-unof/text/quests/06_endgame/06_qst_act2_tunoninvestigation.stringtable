@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act2_tunoninvestigation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Суд над Архонтами</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Свидетельствовать против Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Свидетельствовать против Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Тунон разгневан волной беспорядков, хлынувшей из Колодца Вендриенов, и полагает, что один из воюющих Архонтов может быть ответственен за охватывающую Ярусы гражданскую войну. Вы отправляетесь в [url=glossary:молодые королевства]Молодые Королевства[/url] на поиски любых доказательств халатности, некомпетентности или непосредственной измены в Алом Хоре или войсках Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Здесь перечислены все найденные улики:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Здесь перечислены все найденные улики:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Во время осады Колодца Вендриенов [url=glossary:голоса нерата]Голоса Нерата[/url] поглотил заключенного в тюрьму сына Грэйвена Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Во время завоевания рекрутам Алого Хора позволили участвовать в празднестве ярусников, что означает сговор с противником во время войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Во время завоевания вояки Алого Хора обирали трупы Опальных и крали оружие и доспехи – гнусное преступление против солдат севера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Во время завоевания [url=glossary:алый хор]Алый Хор[/url] "непреднамеренно" отравил воинов Опальных при осаде Гребня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Во время завоевания [url=glossary:голоса нерата]Голоса Нерата[/url] передавал защитникам Оплота военные планы Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Во время завоевания [url=glossary:алый хор]Алый Хор[/url] украл провиант Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] помогал Несломленным во время гражданской войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Целебный Нож рекрутировал бойцов среди Несломленных, хотя его людям запрещено было там находиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>В ходе завоевания случалось, что солдаты Алого Хора сражались бок о бок с защитниками Оплота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] хотел, чтобы Мастера Скованных Горном забрали из-под защиты Тунона и прислали к нему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] спустил с поводка Архонта Сирин, которая посеяла хаос и даже зачаровала солдата Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] использовал Арчианда Бронза для передачи оружия Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>В ходе завоевания [url=glossary:алый хор]Алый Хор[/url] пытался рекрутировать бойцов из числа Скованных Горном, находившихся под защитой Тунона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Гаррик, подмастерье Скованных Горном, искал знания в Старых Стенах, а весь гарнизон делал вид, что ничего не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] пытался подкупить вас во время завоевания, чтобы получить железное оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>В Горящей Библиотеке Цензор искала запретные знания Безмолвного Архива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Во время завоевания вояки Алого Хора требовали знаний от Книгочеев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>В Горящей Библиотеке Цензор в своей садистской игре стравливала солдат Орды друг с другом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Злобный Шепот пытал солдат Опальных перед началом гражданской войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Рвущий Пес, зверолюд Алого Хора, убил Вершителя судеб, слишком близко подобравшегося к раскрытию преступлений Голосов Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] пошел на сделку: захваченные в плен Гвардией Вендриена солдаты Опальных в обмен на длительное перемирие. Он надеялся вернуть своего сына, который отказывался выходить на свободу прежде своих товарищей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Во время завоевания [url=glossary:грэйвен аше]Грэйвен Аше[/url] послал Каирна уничтожить Форт Эджеринг в королевстве Гребень. Эта операция стоила Алому Хору многих потенциальных рекрутов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Во время завоевания Аше послал своих солдат к Твердыне Часовых, зная, что [url=glossary:эдикт]Эдикт[/url] неизбежен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Солдаты Опальных хотели заполучить Инсигнию Непоколебимости – артефакт, пропавший в Старых Стенах. Они послали гражданского, чтобы тот от их имени перешел границу Старых Стен Могилы Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Дочь Аше была в сговоре с регентом Несломленных и родила тому наследника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Войска Опальных были либо недостаточно подготовлены, либо слишком малочисленны, чтобы взять Сумеречный Бастион, что указывает на то, как нерационально Аше расходует солдатский ресурс даже на своей территории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Гаррик, подмастерье Скованных Горном, искал знания в Старых Стенах, а весь гарнизон делал вид, что ничего не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Солдаты Опальных убили Певчих Крови до начала войны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] пытались подкупить вас во время завоевания, чтобы получить железное оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>Солдаты Опальных хотели получить доступ к Старым Стенам Двуречья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20030</ID>
+      <DefaultText>До и во время завоевания действия Грэйвена Аше основывались на его давней неприязни к Голосам Нерата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20031</ID>
+      <DefaultText>Марик, командир разведчиков Скованных Клятвой, потерял своих солдат в Библиотеке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20032</ID>
+      <DefaultText>Во время завоевания солдаты Опальных убили Книгочеев, рекрутированных в [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20033</ID>
+      <DefaultText>Солдаты Опальных пытались помешать операции Алого Хора в Каменном Море, территории, которую официально занял [url=glossary:голоса нерата]Голоса Нерата[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20034</ID>
+      <DefaultText>[url=glossary:опальные]Опальные[/url] не преуспели в своих попытках заставить Каирна, Архонта Камня, подчиняться приказам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20035</ID>
+      <DefaultText>Скаловержцы хотели использовать Каирна для того, чтобы загубить регион и заморить солдат Алого Хора голодом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20036</ID>
+      <DefaultText>Скаловержцы пытались сохранить жизнь Каирну вопреки воле Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Тунон призвал вас в суд. Скоро настанет время представить дело против одного из Архонтов.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

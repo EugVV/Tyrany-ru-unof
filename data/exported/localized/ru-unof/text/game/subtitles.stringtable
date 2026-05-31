@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\subtitles</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Уже больше 400 лет...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Армии Владыки Кайроса покоряют известный мир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Все, кто выступил против, пали перед их мощью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Даже Архонты – мужчины и женщины невероятных способностей – были вынуждены преклонить колени...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>...и покориться воле Владыки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Теперь завоеватели Кайроса пришли и в наши земли...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Две армии Владыки схлестнулись между собой за честь захватить нашу родину...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Элитные войска Опальных...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>И полчища Алого Хора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url], куратор шпионской сети и Архонт Тайн, руководит Алым Хором – беспощадной и недисциплинированной ордой вояк.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>После каждой битвы в [url=glossary:алый хор]Алый Хор[/url] вливаются новые голоса, потому что побежденным предлагают сделать несложный выбор – служить новому господину или умереть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url], Архонт Войны и самый преданный генерал Владыки, возглавляет Опальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Несмотря на малочисленность, легион заключенных в доспехи воинов Кайроса никогда не терпел настоящего поражения в честном бою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>За двумя генералами следит Адъюдикатор Тунон, Архонт Правосудия и старший из прислужников Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Тунон приносит законы Кайроса на новые завоеванные земли с помощью Вершителей, судей и палачей, толкующих волю Владыки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Именно таким мы запомнили тебя при первой встрече, когда армии Кайроса вторглись в наши земли – самым молодым из Вершителей Тунона.</DefaultText>
+      <FemaleText>Именно таким мы запомнили тебя при первой встрече, когда армии Кайроса вторглись в наши земли – самой молодой из Вершителей Тунона.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Тогда мы еще не знали, что участь бесчисленных тысяч людей...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>...окажется у тебя в руках.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

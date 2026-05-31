@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\reputationchangereasons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Ваши союзники из Гвардии Вендриенов довольны тем, что вы унижаете Барика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Атли пугает ваша безграничная преданность Кайросу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>Вы продемонстрировали преданность Владыке перед угрозой его второго нашествия на Ярусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Перед угрозой второго нашествия Владыки на Ярусы вы проявили безграничную самонадеянность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Вы продемонстрировали пугающую наивность перед угрозой второго нашествия Кайроса на Ярусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>На угрозу второго нашествия Владыки на Ярусы вы ответили тем, что бросили Кайросу вызов.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

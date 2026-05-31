@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0219_cv_timo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Доброго дня тебе, путник. Меня зовут Тимо". Танцовщица приветствует вас, медленно и с явным намеком покачивая бедрами. Глаза искрятся радостью, она приветствует вас улыбкой и зазывными жестами. "Я могу составить тебе компанию?"</DefaultText>
+      <FemaleText>"Доброго дня тебе, путница. Меня зовут Тимо". Танцовщица приветствует вас, медленно и с явным намеком покачивая бедрами. Глаза искрятся радостью, она приветствует вас улыбкой и зазывными жестами. "Я могу составить тебе компанию?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Чем ты лучше прочих?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти] "Поговорим потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Тимо, скромно потупившись, склоняет голову и робко косится на вас. "Прошлое мне неинтересно". Голос ее звучит нежно и успокаивающе. "Я люблю думать о том, что есть здесь". Она указывает пальцем промеж грудей и медленно ведет вниз. "И сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Тимо улыбается шире прежнего и застенчивым жестом прикрывает рот. Она наклоняется ближе, другой рукой показывая, чтобы вы придвинулись к ней. "Я исполню для тебя «Клятвопреступника»". Она шепчет это, и жаркое дыхание касается вашего уха. "Я могу заставить Книгочея забыть о книгах, если захочу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"С возвращением!" Тимо улыбается, покачивая бедрами. "Хочешь провести со мной время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

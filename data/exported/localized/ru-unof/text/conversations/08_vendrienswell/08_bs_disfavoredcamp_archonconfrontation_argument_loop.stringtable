@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_disfavoredcamp_archonconfrontation_argument_loop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты слишком низко ценишь этих клятвопреступников. Даже звери способны распознать логику твоих примитивных стратегий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если в моей стратегии и есть какая-то схема – то это движение от победы к победе. Ярусники – мастера обмана, но в честном бою пасуют. Наверное, именно поэтому ты их привлекаешь к себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Но разве был на свете больший лжец, чем твой помощник [url=glossary:каирн]Каирн[/url]? И разве он не был экспертом по осадной войне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Архонт Камня понес за свои действия наказание! Если ты хочешь обвинить и меня в его грехах, тогда ты должен нести ответ за все преступления Хора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"И как ты теперь собираешься разобраться со стенами? Построишь пирамиду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Любой Опальный способен уложить десяток этих деревенщин одной левой. Без оружия – иначе будет нечестно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

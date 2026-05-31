@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\slides_chargen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Весь мир пал под натиском Кайроса, и теперь Владыка устремил свой взор на Ярусы – наш дом и последнюю часть известного мира, еще остававшуюся свободной.
+
+Две его армии, [url=glossary:опальные]Опальные[/url] и [url=glossary:алый хор]Алый Хор[/url], наступают со стороны Северной Империи, сдавшейся захватчикам более ста лет назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>В начале 428 года армии Кайроса прибыли к Вратам Суждения, горной цепи, которую обитатели Ярусов долго считали неприступной преградой.
+
+Предводители Ярусов не сумели договориться между собой и дать совместный отпор захватчикам. Каждый надеялся, что это сделает кто-то другой, пока наконец не стало слишком поздно...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

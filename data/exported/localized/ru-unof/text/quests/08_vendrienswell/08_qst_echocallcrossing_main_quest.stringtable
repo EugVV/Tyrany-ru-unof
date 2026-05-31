@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_echocallcrossing_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Сражение у Переправы Отголоска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Железным Маршалом Эрениос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вернуться в шатер Аше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Встретиться с Антио у Переправы Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Подать знак Алым Фуриям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Пересечь реку по западному мосту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Атаковать восточный мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Уничтожить лебедку, которая удерживает восточный подъемный мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Добраться до селения Отголосок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Зачистить селение Отголосок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вернуться с отчетом к Желчной Язве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Опустить мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Прежде чем войска Кайроса смогут пойти на штурм цитадели Колодца Вендриенов, необходимо захватить Переправу Отголоска. Помогите Опальным справиться с повстанцами и взять переправу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Поговорите с Железным Маршалом в лагере Опальных и обсудите, как лучше захватить Переправу Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ваши силы одержали верх на Переправе Отголоска и в Крапивных Дебрях. Вернитесь в шатер Аше и сообщите Архонтам о своем успехе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Антио с отрядом солдат направляется к селению Отголосок, чтобы выбить оттуда противника. Вам поручили найти Антио и помочь ему по необходимости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] направил разведчиков вниз по реке, они попытаются перебраться на другой берег. По скальным выступам на юго-западе заберитесь как можно выше, чтобы подать сигнал о помощи Фуриям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Разведчикам Хора удалось наладить веревочную переправу через реку у западного моста Переправы Отголоска. Пока есть время, переберитесь на тот берег и нанесите врагу неожиданный удар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Пока разведчики Хора налаживают веревочную переправу через реку, отвлеките внимание противника, нанеся удар по восточному мосту Переправы Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Вы пересекли реку и добрались до восточного моста. Уничтожьте подъемник и откройте дорогу войскам Опальных, чтобы они могли вступить в бой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Вы добрались до окрестностей деревни Отголосок. Пока союзники собираются у захваченного восточного моста, войдите в селение и найдите вождя повстанцев Матани Сибил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Повстанцы отступили в деревню Отголосок. Чтобы упрочить свое положение в регионе, убейте Матани Сибил или заставьте ее сдаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Сейчас по восточному мосту перейти реку невозможно, но вы выгадали достаточно времени, чтобы солдаты Желчной Язвы успели навести переправу в другом месте. Поговорите с Желчной Язвой у захода на Переправу Отголоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Вы перебрались на другой берег. С боем пробейтесь к восточному мосту Переправы Отголоска и опустите его для своих союзников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы приняли решение сохранить жизнь жителям Отголоска, но перебили всех солдат Гвардии Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы приняли решение взять в плен капитана Сибил и мятежников, а за это отпустили крестьян и повстанцев Вендриенов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы решили, что проще всего будет сжечь селение дотла. Никто не уцелел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы приняли решение сохранить жизнь жителям Отголоска и сжечь деревню, чтобы лишить повстанцев их базы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Вы приняли решение сохранить жизнь жителям Отголоска, но перебили всех солдат Гвардии Вендриенов. Их вождя Матани Сибил вам удалось взять в плен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Вы решили, что не стоит трогать деревню. Она станет базой для сил Кайроса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Вы решили преподать урок мятежникам и сожгли деревню, чтобы оставить без крыши над головой крестьян и возможных шпионов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Вы решили преподать Гвардии Вендриенов урок, который они не скоро забудут, и сожгли деревню дотла со всеми жителями.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

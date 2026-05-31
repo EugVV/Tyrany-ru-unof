@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\03_qst_language_of_the_ancients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Язык древних</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти и переписать сигилы в Старых Стенах Двуречья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вернуться к Акалии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поговорить с Иеронимом возле бреши в Старых Стенах в Могиле Клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вернуться к Акалии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Акалия изучала работы Иеронима, другого Книгочея, в надежде лучше понять магию Старых Стен. Чтобы продвинуться в исследованиях, ей нужно, чтобы вы получили информацию из Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Акалия попросила вас найти определенные надписи в Старых Стенах Двуречья возле Распутья Летианы. Чтобы продвинуться в исследованиях, ей нужны копии сигилов, которые можно украшают "алтари" внутри Старых Стен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы собрали достаточно информации в Старых Стенах. Она нужна Акалии для исследований – вернитесь к ней в Чучело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Акалии нужна информация, которую может знать только Иероним. В последний раз его видели у Старых Стен в Могиле Клинков. Когда получите информацию у Иеронима, вернитесь к Акалии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы нашли камни для Иеронима и получили копию его заметок для Акалии. Вернитесь в Чучело в Горящей Библиотеке и отдайте ей данные.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Теперь, когда вы попали в Старые Стены, найдите сигилы, за которыми вас отправила Акалия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Иероним еще не закончил свои исследования и попросил вас помочь найти Камни Толкования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Акалия получила данные Иеронима и теперь может завершить свои исследования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Акалия умерла, а значит, ее исследование так и останется незаконченным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы дали Акалии всю информацию, нужную для продолжения ее исследований.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Акалия и Книгочеи сбежали после уничтожения Горящей Библиотеки, поэтому вы больше не можете помочь ей с исследованиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Возможность выполнить это задание упущена.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

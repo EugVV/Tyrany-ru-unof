@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_bs_aurora_court</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я уж и не думала, что выберусь оттуда живой. Ты оказал легиону большую услугу, Вершитель".</DefaultText>
+      <FemaleText>"Я уж и не думала, что выберусь оттуда живой. Ты оказала легиону большую услугу, Вершительница".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Аврора не смотрит вам в глаза. Вместо этого она обращается к своему отряду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Архонт... Вершитель... Я уже не знаю, что о тебе думать, но это неважно. Ты доказал свою преданность легиону".</DefaultText>
+      <FemaleText>"Архонт... Вершительница... Я уже не знаю, что о тебе думать, но это неважно. Ты доказала свою преданность легиону".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Аврора с трудом сдерживает слезы и бормочет что-то о гибели Грэйвена Аше. Она не в себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
