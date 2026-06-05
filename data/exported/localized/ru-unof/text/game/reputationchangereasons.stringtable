@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Вы помогли доставить старейшин Школы Приливов прямиком в руки Голосов Нерата.</DefaultText>
+      <DefaultText>Вы помогли доставить старейшин школы Приливов прямиком в руки Голосов Нерата.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>Вы вызвали королеву Гребня на дуэль и победили ее, порадовав [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
+      <DefaultText>Вы вызвали королеву Гребня на дуэль и победили её, порадовав [url=glossary:алый хор]Алый Хор[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2266,12 +2266,12 @@
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Чтобы разрушить Школу Дикой Ярости, вы обманом вынудили ее старейшин встретиться с Голосами Нерата.</DefaultText>
+      <DefaultText>Чтобы разрушить школу Дикой Ярости, вы обманом вынудили её старейшин встретиться с Голосами Нерата.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>Вы позволили Матани Сибил и ее солдатам сбежать.</DefaultText>
+      <DefaultText>Вы позволили Матани Сибил и её солдатам сбежать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2926,7 +2926,7 @@
     </Entry>
     <Entry>
       <ID>858</ID>
-      <DefaultText>Барик помнит ваше безжалостное отношение к Школе Дикой Ярости.</DefaultText>
+      <DefaultText>Барик помнит ваше безжалостное отношение к школе Дикой Ярости.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3481,12 +3481,12 @@
     </Entry>
     <Entry>
       <ID>979</ID>
-      <DefaultText>Тунон пришел в ярость, когда вы отмахнулись от порядка судопроизводства и пожелали сразиться с ним в поединке.</DefaultText>
+      <DefaultText>Тунон пришёл в ярость, когда вы отмахнулись от порядка судопроизводства и пожелали сразиться с ним в поединке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>980</ID>
-      <DefaultText>Вы обрекли Книгочея на мучительную смерть от огня, приведя в ужас его собратьев по Школе.</DefaultText>
+      <DefaultText>Вы обрекли Книгочея на мучительную смерть от огня, приведя в ужас его собратьев по школе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,12 +3501,12 @@
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Смерти-из-Тени не понравились ваши угрозы ее прикончить.</DefaultText>
+      <DefaultText>Смерти-из-Тени не понравились ваши угрозы её прикончить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>[url=glossary:тyнон]Тyнон[/url] с презрением отнесся к вашей неспособности выдвинуть обвинение против кого-то из Архонтов.</DefaultText>
+      <DefaultText>[url=glossary:тyнон]Тyнон[/url] с презрением отнёсся к вашей неспособности выдвинуть обвинение против кого-то из Архонтов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
