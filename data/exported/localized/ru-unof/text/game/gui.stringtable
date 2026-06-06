@@ -4144,32 +4144,32 @@
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>Атака и сила способностей: {0}%; [url=glossary:защита выносливостью]Защита Выносливостью[/url]: {1}.</DefaultText>
+      <DefaultText>Атака и сила способностей: {0}%; [url=glossary:защита выносливостью]защита выносливостью[/url]: {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>[url=glossary:точность]Точность[/url]: {0}; [url=glossary:отражение]Отражение[/url] броней: {1}%.</DefaultText>
+      <DefaultText>[url=glossary:точность]Точность[/url]: {0}; [url=glossary:отражение]отражение[/url] бронёй: {1}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Перезаярдка способностей и заклинаний: {0}%.</DefaultText>
+      <DefaultText>Перезарядка способностей и заклинаний: {0}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>[url=glossary:сила]Сила[/url] заклинаний: {0}%; [url=glossary:защита магией]Защита Магией[/url]: {1}.</DefaultText>
+      <DefaultText>[url=glossary:сила]Сила[/url] заклинаний: {0}%; [url=glossary:защита магией]защита магией[/url]: {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Доп. здоровье: {0}%; [url=glossary:защита волей]Защита Волей[/url]: {1}.</DefaultText>
+      <DefaultText>Доп. здоровье: {0}%; [url=glossary:защита волей]защита волей[/url]: {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Продолжительность воздействий: {0}%; [url=glossary:защита выносливостью]Защита Выносливостью[/url], Волей и Магией: {1}.</DefaultText>
+      <DefaultText>Продолжительность воздействий: {0}%; [url=glossary:защита выносливостью]защита выносливостью[/url], волей и магией: {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4179,7 +4179,7 @@
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>Для применения данной способности требуется особое снаряжение.</DefaultText>
+      <DefaultText>Для применения этой способности требуется особое снаряжение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11795,22 +11795,22 @@
     </Entry>
     <Entry>
       <ID>2862</ID>
-      <DefaultText>Эта характеристика важна для вашего персонажа, так как ваша специализация — {0}.</DefaultText>
+      <DefaultText>Эта характеристика важна для персонажа, так как его специализация — {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2863</ID>
-      <DefaultText>Эта характеристика очень важна для вашего персонажа, так как ваша специализация — {0}.</DefaultText>
+      <DefaultText>Эта характеристика очень важна для персонажа, так как его специализация — {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2867</ID>
-      <DefaultText>Этот навык важен для вашего персонажа, так как ваша специализация — {0}.</DefaultText>
+      <DefaultText>Этот навык важен для персонажа, так как его специализация — {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2868</ID>
-      <DefaultText>Этот навык очень важен для вашего персонажа, так как ваша специализация — {0}.</DefaultText>
+      <DefaultText>Этот навык очень важен для персонажа, так как его специализация — {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12607,7 +12607,7 @@
     </Entry>
     <Entry>
       <ID>3071</ID>
-      <DefaultText>Ящик с броней</DefaultText>
+      <DefaultText>Ящик с бронёй</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
