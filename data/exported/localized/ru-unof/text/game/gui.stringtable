@@ -19796,47 +19796,47 @@
     </Entry>
     <Entry>
       <ID>4502</ID>
-      <DefaultText>Этот предмет вы сняли с трупа Адъюдикатора Тунона, Архонта Правосудия.</DefaultText>
+      <DefaultText>Этот предмет снят с трупа Адъюдикатора Тунона, Архонта Правосудия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4503</ID>
-      <DefaultText>Этот предмет вы забрали с трупа Голосов Нерата, Архонта Тайн.</DefaultText>
+      <DefaultText>Этот предмет забран с трупа Голосов Нерата, Архонта Тайн.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4504</ID>
-      <DefaultText>Этот артефакт вы обнаружили в Старых Стенах Могилы Клинков.</DefaultText>
+      <DefaultText>Этот артефакт был обнаружен в Старых Стенах Могилы Клинков.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4505</ID>
-      <DefaultText>Этот артефакт вы нашли в развалинах Горящей Библиотеки, когда положили конец Эдикту Огня.</DefaultText>
+      <DefaultText>Этот артефакт нашёлся в развалинах Горящей Библиотеки, когда был положен конец Эдикту Огня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4506</ID>
-      <DefaultText>Этот артефакт был создан вами после того, как вы изучили чертежи кинжала у себя в Шпиле.</DefaultText>
+      <DefaultText>Этот артефакт был создан после изучения чертежей кинжала у себя в Шпиле.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4507</ID>
-      <DefaultText>Вы обнаружили этот артефакт в Ржавых Каньонах с помощью Элии из Несломленных.</DefaultText>
+      <DefaultText>Этот артефакт обнаружен в Ржавых Каньонах с помощью Элии из Несломленных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4508</ID>
-      <DefaultText>Этот артефакт был создан вами в кузне после того, как вы изучили его у себя в библиотеке.</DefaultText>
+      <DefaultText>Этот артефакт был создан в кузне после изучения его у себя в библиотеке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4509</ID>
-      <DefaultText>Вы забрали этот артефакт у Раэтоммона после того, как он был похищен.</DefaultText>
+      <DefaultText>Этот артефакт был похищен и затем забран у Раэтоммона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4510</ID>
-      <DefaultText>Вы создали этот артефакт из шкуры Рвущего Пса.</DefaultText>
+      <DefaultText>Этот артефакт создан из шкуры Рвущего Пса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19851,32 +19851,32 @@
     </Entry>
     <Entry>
       <ID>4513</ID>
-      <DefaultText>Этот артефакт создали рекруты вашего Шпиля по вашему приказу.</DefaultText>
+      <DefaultText>Этот артефакт создали рекруты Шпиля по приказу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4514</ID>
-      <DefaultText>Вы создали этот артефакт из фрагмента Каирна.</DefaultText>
+      <DefaultText>Артефакт создан из фрагмента Каирна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4515</ID>
-      <DefaultText>Этот артефакт вы нашли в подземельях Горящей Библиотеки.</DefaultText>
+      <DefaultText>Этот артефакт найден в подземельях Горящей Библиотеки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4516</ID>
-      <DefaultText>Вы забрали этот артефакт с трупа первого регента в Старых Стенах Могилы Клинков.</DefaultText>
+      <DefaultText>Этот артефакт был забран с трупа первого регента в Старых Стенах Могилы Клинков.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4517</ID>
-      <DefaultText>Вы получили этот артефакт в Старых Стенах Двуречья.</DefaultText>
+      <DefaultText>Этот артефакт получен в Старых Стенах Двуречья.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4518</ID>
-      <DefaultText>Этот артефакт был выкован вами после того, как вы изучили чертежи в своей библиотеке.</DefaultText>
+      <DefaultText>Этот артефакт был выкован после изучения чертежей в библиотеке Шпиля.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
