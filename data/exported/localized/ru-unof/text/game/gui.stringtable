@@ -671,12 +671,12 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>[url=glossary:сила]Сила[/url] увеличивает наносимый атаками урон, мощность способностей и защиту Выносливостью. Кроме того, [url=glossary:сила]Сила[/url] используется в разговорах для устрашения собеседников.</DefaultText>
+      <DefaultText>[url=glossary:сила]Сила[/url] увеличивает наносимый атаками урон, мощность способностей и защиту выносливостью. Кроме того, [url=glossary:сила]сила[/url] используется в разговорах для устрашения собеседников.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>[url=glossary:стойкость]Стойкость[/url] увеличивает показатели защиты персонажа, снижает шансы оказаться оглушенным, сбитым с ног или получить урон от магических атак. Кроме того, [url=glossary:стойкость]Стойкость[/url] повышает длительность воздействий, которые накладывает ваш персонаж.</DefaultText>
+      <DefaultText>[url=glossary:стойкость]Стойкость[/url] увеличивает показатели защиты персонажа, снижает шансы оказаться оглушённым, сбитым с ног или получить урон от магических атак. Кроме того, [url=glossary:стойкость]стойкость[/url] повышает длительность воздействий, которые накладывает ваш персонаж.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2607,17 +2607,17 @@
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>[url=glossary:защита выносливостью]Защита Выносливостью[/url]: {0}</DefaultText>
+      <DefaultText>[url=glossary:защита выносливостью]Защита выносливостью[/url]: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>[url=glossary:защита магией]Защита Магией[/url]: {0}</DefaultText>
+      <DefaultText>[url=glossary:защита магией]Защита магией[/url]: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>[url=glossary:защита волей]Защита Волей[/url]: {0}</DefaultText>
+      <DefaultText>[url=glossary:защита волей]Защита волей[/url]: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4394,17 +4394,17 @@
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>[url=glossary:защита выносливостью]Защита Выносливостью[/url] определяет способность персонажа к сопротивлению физической боли и воздействиям типа оглушения. [url=glossary:защита выносливостью]Защита Выносливостью[/url] зависит от ваших Стойкости и Силы.</DefaultText>
+      <DefaultText>[url=glossary:защита выносливостью]Защита выносливостью[/url] определяет способность персонажа к сопротивлению физической боли и воздействиям типа оглушения. [url=glossary:защита выносливостью]Защита выносливостью[/url] зависит от стойкости и силы персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>[url=glossary:защита волей]Защита Волей[/url] определяет способность персонажа к сопротивлению ментальным атакам и воздействиям типа страха. [url=glossary:защита волей]Защита Волей[/url] зависит от ваших Стойкости и Живучести.</DefaultText>
+      <DefaultText>[url=glossary:защита волей]Защита волей[/url] определяет способность персонажа к сопротивлению ментальным атакам и воздействиям типа страха. [url=glossary:защита волей]Защита волей[/url] зависит от стойкости и живучести персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1172</ID>
-      <DefaultText>[url=glossary:защита магией]Защита Магией[/url] определяет способность персонажа к сопротивлению атакам погибелей. [url=glossary:защита магией]Защита Магией[/url] зависит от ваших Стойкости и Смекалки.</DefaultText>
+      <DefaultText>[url=glossary:защита магией]Защита магией[/url] определяет способность персонажа к сопротивлению атакам погибелей. [url=glossary:защита магией]Защита магией[/url] зависит от стойкости и смекалки персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7900,7 +7900,7 @@
     </Entry>
     <Entry>
       <ID>1956</ID>
-      <DefaultText>[url=glossary:сила]Сила[/url] заклинаний: {0}%, [url=glossary:защита магией]Защита Магией[/url]: {1}.</DefaultText>
+      <DefaultText>[url=glossary:сила]Сила[/url] заклинаний: {0}%, [url=glossary:защита магией]защита магией[/url]: {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14157,17 +14157,17 @@
     </Entry>
     <Entry>
       <ID>3376</ID>
-      <DefaultText>[url=glossary:защита выносливостью]Защита Выносливостью[/url]</DefaultText>
+      <DefaultText>[url=glossary:защита выносливостью]Защита выносливостью[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3377</ID>
-      <DefaultText>[url=glossary:защита волей]Защита Волей[/url]</DefaultText>
+      <DefaultText>[url=glossary:защита волей]Защита волей[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3378</ID>
-      <DefaultText>[url=glossary:защита магией]Защита Магией[/url]</DefaultText>
+      <DefaultText>[url=glossary:защита магией]Защита магией[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14482,27 +14482,27 @@
     </Entry>
     <Entry>
       <ID>3442</ID>
-      <DefaultText>{0} к защите Выносливостью</DefaultText>
+      <DefaultText>{0} к защите выносливостью</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3443</ID>
-      <DefaultText>{0} к защите Магией</DefaultText>
+      <DefaultText>{0} к защите магией</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3444</ID>
-      <DefaultText>{0} к защите Волей</DefaultText>
+      <DefaultText>{0} к защите волей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3445</ID>
-      <DefaultText>У вас остались нераспределённые очки характеристик!</DefaultText>
+      <DefaultText>Остались нераспределённые очки характеристик!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3446</ID>
-      <DefaultText>У вас остались нераспределённые очки талантов!</DefaultText>
+      <DefaultText>Остались нераспределённые очки талантов!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
