@@ -13204,7 +13204,7 @@
     </Entry>
     <Entry>
       <ID>3192</ID>
-      <DefaultText>Нажмите {0}, чтобы продолжить</DefaultText>
+      <DefaultText>{0} — продолжить</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13538,12 +13538,12 @@
     </Entry>
     <Entry>
       <ID>3254</ID>
-      <DefaultText>Невозможно удалить это заклинание: вы не знаете всех сигилов (ключ, выражение или штрих), которые были использованы для его создания.</DefaultText>
+      <DefaultText>Невозможно удалить это заклинание: не все сигилы (ключи, выражения или штрихи), которые были использованы для его создания, известны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3255</ID>
-      <DefaultText>Невозможно назначить это заклинание: вы не знаете всех сигилов (ключ, выражение или штрих), которые были использованы для его создания.</DefaultText>
+      <DefaultText>Невозможно назначить это заклинание: не все сигилы (ключи, выражения или штрихи), которые были использованы для его создания, известны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13563,7 +13563,7 @@
     </Entry>
     <Entry>
       <ID>3260</ID>
-      <DefaultText>Нажмите любую клавишу, чтобы выйти из режима назначения.</DefaultText>
+      <DefaultText>Нажатие любой клавиши — выйти из режима назначения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13648,12 +13648,12 @@
     </Entry>
     <Entry>
       <ID>3277</ID>
-      <DefaultText>(Щелкните, чтобы взять в отряд)</DefaultText>
+      <DefaultText>(Щелчок — взять в отряд)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3278</ID>
-      <DefaultText>(Щелкните, чтобы исключить)</DefaultText>
+      <DefaultText>(Щелчок — исключить)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13668,7 +13668,7 @@
     </Entry>
     <Entry>
       <ID>3281</ID>
-      <DefaultText>(Нажмите {0}, чтобы снять паузу)</DefaultText>
+      <DefaultText>({0} — снять паузу)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
