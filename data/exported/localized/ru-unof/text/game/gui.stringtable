@@ -4249,12 +4249,12 @@
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>{0} к Парированию</DefaultText>
+      <DefaultText>{0} к парированию</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>{0} к Уклонению</DefaultText>
+      <DefaultText>{0} к уклонению</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4459,7 +4459,7 @@
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Позволяет использовать [url=glossary:уклонение]Уклонение[/url] вместо Парирования для защиты от атак ближнего боя</DefaultText>
+      <DefaultText>Позволяет использовать [url=glossary:уклонение]уклонение[/url] вместо парирования для защиты от атак ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
