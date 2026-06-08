@@ -10119,7 +10119,7 @@
     </Entry>
     <Entry>
       <ID>2495</ID>
-      <DefaultText>Под вашими ногами — пустой клочок земли, расположившийся между пучками травы. Грязь кажется мягкой и немного пружинит, когда вы на нее наступаете. Это явно то самое место, которое указал Джино.</DefaultText>
+      <DefaultText>Под ногами — пустой клочок земли, расположившийся между пучками травы. Грязь кажется мягкой и немного пружинит, когда на неё наступаешь. Это явно то самое место, которое указал Джино.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10134,7 +10134,7 @@
     </Entry>
     <Entry>
       <ID>2499</ID>
-      <DefaultText>Вы получили:</DefaultText>
+      <DefaultText>Получено:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13244,22 +13244,22 @@
     </Entry>
     <Entry>
       <ID>3200</ID>
-      <DefaultText>Вы получили ответ на это послание.</DefaultText>
+      <DefaultText>Получен ответ на это послание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3201</ID>
-      <DefaultText>Этот обмен посланиями завершен.</DefaultText>
+      <DefaultText>Этот обмен посланиями завершён.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3202</ID>
-      <DefaultText>Вы получили новое послание.</DefaultText>
+      <DefaultText>Получено новое послание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3203</ID>
-      <DefaultText>Вы перехватили чужое послание.</DefaultText>
+      <DefaultText>Перехвачено чужое послание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18677,7 +18677,7 @@
     </Entry>
     <Entry>
       <ID>4235</ID>
-      <DefaultText>Вы получили {0} ед. опыта для навыка «{1}».</DefaultText>
+      <DefaultText>Получено {0} опыта для навыка «{1}».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
