@@ -4649,7 +4649,7 @@
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>[url=glossary:точность]Точность[/url] нападающего</DefaultText>
+      <DefaultText>Точность нападающего</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5609,7 +5609,7 @@
     </Entry>
     <Entry>
       <ID>1420</ID>
-      <DefaultText>{0} хочет с вами поговорить!</DefaultText>
+      <DefaultText>{0} хочет поговорить!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5619,7 +5619,7 @@
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>{0} к Точности</DefaultText>
+      <DefaultText>{0} к точности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7780,7 +7780,7 @@
     </Entry>
     <Entry>
       <ID>1924</ID>
-      <DefaultText>Определяет эффективность применения магических посохов. Чем больше уровень навыка, тем выше точность атак и шанс нанесения критических попаданий. [url=glossary:точность]Точность[/url] магических атак определяется как уровнем навыка, так и свойствами оружия.</DefaultText>
+      <DefaultText>Определяет эффективность применения магических посохов. Чем больше уровень навыка, тем выше точность атак и шанс нанесения критических попаданий. Точность магических атак определяется как уровнем навыка, так и свойствами оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
