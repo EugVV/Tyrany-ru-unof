@@ -751,7 +751,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Почетный страж</DefaultText>
+      <DefaultText>Почётный страж</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1056,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Злобный Шепот</DefaultText>
+      <DefaultText>Злобный Шёпот</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2491,7 +2491,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Три Шепота</DefaultText>
+      <DefaultText>Три Шёпота</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Труп бойца Почетных стражей</DefaultText>
+      <DefaultText>Труп бойца Почётных стражей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

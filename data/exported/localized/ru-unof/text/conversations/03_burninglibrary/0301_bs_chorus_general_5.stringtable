@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Не сомневаюсь, что Злобный Шепот будет рад… задать тебе несколько вопросов».</DefaultText>
+      <DefaultText>«Не сомневаюсь, что Злобный Шёпот будет рад… задать тебе несколько вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Марик привел сюда поисковую группу. Говорят, они плохо кончили».</DefaultText>
+      <DefaultText>«Марик привёл сюда поисковую группу. Говорят, они плохо кончили».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Вы можете создать «выжимку колосса», если у вас есть доступ к лазарету Шпиля и нужным ингредиентам.</DefaultText>
+      <DefaultText>Можно создать «выжимку колосса», если есть доступ к лазарету Шпиля и нужным ингредиентам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Стойка Фуги «Неуемные Ножны» улучшена.</DefaultText>
+      <DefaultText>Стойка Фуги «Неуёмные Ножны» улучшена.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Стойка Фуги «Три Шепота» улучшена.</DefaultText>
+      <DefaultText>Стойка Фуги «Три Шёпота» улучшена.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

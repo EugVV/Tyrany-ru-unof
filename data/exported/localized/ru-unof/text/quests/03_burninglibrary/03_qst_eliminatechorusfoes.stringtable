@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Поговорить со Злобным Шепотом.</DefaultText>
+      <DefaultText>Поговорить со Злобным Шёпотом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Поговорить со Злобным Шепотом.</DefaultText>
+      <DefaultText>Поговорить со Злобным Шёпотом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Найдите Ренату, главу Книгочеев, и убейте ее.</DefaultText>
+      <DefaultText>Найдите Ренату, главу Книгочеев, и убейте её.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Вы убили Ренату. Сообщите Злобному Шепоту о своем успехе.</DefaultText>
+      <DefaultText>Вы убили Ренату. Сообщите Злобному Шёпоту о своём успехе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Цензор хочет, чтобы вы поговорили с ее главным помощником, Злобным Шепотом, и нашли способ избавиться от Книгочеев.</DefaultText>
+      <DefaultText>Цензор хочет, чтобы вы поговорили с её главным помощником, Злобным Шёпотом, и нашли способ избавиться от Книгочеев.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Вы уничтожили Ренату и ее Книгочеев, чтобы [url=glossary:алый хор]Алый Хор[/url] без помех смог заняться Горящей Библиотекой.</DefaultText>
+      <DefaultText>Вы уничтожили Ренату и её Книгочеев, чтобы [url=glossary:алый хор]Алый Хор[/url] без помех смог заняться Горящей Библиотекой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
