@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Вернуться в Каменную Теснину.</DefaultText>
+      <DefaultText>Поговорить со Стокровкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
