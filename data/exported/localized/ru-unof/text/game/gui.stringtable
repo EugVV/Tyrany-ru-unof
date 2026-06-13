@@ -3142,7 +3142,7 @@
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>{0} брони похищено ({1})</DefaultText>
+      <DefaultText>{0} брони получено ({1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
