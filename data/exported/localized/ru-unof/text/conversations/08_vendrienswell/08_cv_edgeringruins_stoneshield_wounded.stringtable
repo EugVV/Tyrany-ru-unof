@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты ранен, причем серьезно».</DefaultText>
+      <DefaultText>«Ты ранен, причём серьёзно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,14 +23,14 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Он смеется сквозь сжатые зубы. «Это? Царапина! Я десяток раз видел в два раза хуже».
+      <DefaultText>Он смеётся сквозь сжатые зубы: «Это? Царапина! Я десяток раз видел в два раза хуже».
 
 Он сгибается от боли, трясясь и кашляя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Ид… Идите. [url=glossary:грэйвен аше]Грэйвен Аше[/url] со мной…»</DefaultText>
+      <DefaultText>«Ид… идите. [url=glossary:грэйвен аше]Грэйвен Аше[/url] со мной…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Я сказал, что в порядке!» Солдат со стоном качает головой. «[url=lore:edgering_asheaegis]Грэйвен Аше хранит[/url]. А вы идите дальше и помогите другим».</DefaultText>
+      <DefaultText>«Я сказал, что в порядке!» — солдат со стоном качает головой. — «[url=lore:edgering_asheaegis]Грэйвен Аше хранит[/url]. А вы идите дальше и помогите другим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,12 +50,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Он отнимает руку от своих ран, чтобы отдать вымученное воинское приветствие. «Слава Кайросу».</DefaultText>
+      <DefaultText>Он отнимает руку от своих ран, чтобы отдать вымученное воинское приветствие: «Слава Кайросу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Идите… Оставьте меня».</DefaultText>
+      <DefaultText>«Идите… оставьте меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
