@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Она плачет кровавыми слезами… Интересно, что стряслось».</DefaultText>
+      <DefaultText>«Она плачет кровавыми слезами… интересно, что стряслось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Мы вернемся на Север победителями!»</DefaultText>
+      <DefaultText>«Мы вернёмся на Север победителями!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

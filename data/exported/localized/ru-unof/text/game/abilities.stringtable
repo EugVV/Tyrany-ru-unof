@@ -5203,9 +5203,9 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Дает бонус к меткости попадания по цели с низким запасом здоровья.
+      <DefaultText>Увеличивает меткость попадания по цели с низким запасом здоровья.
 
-Бонус зависит от уровня благосклонности Алого Хора.</DefaultText>
+Прибавка зависит от уровня благосклонности Алого Хора.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5215,9 +5215,9 @@
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>Дает большой бонус к сопротивлениям кровотечению и горению.
+      <DefaultText>Даёт большую прибавку к сопротивлениям кровотечению и горению.
 
-Бонус зависит от уровня гнева Алого Хора.</DefaultText>
+Размер зависит от уровня гнева Алого Хора.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5423,9 +5423,9 @@
     </Entry>
     <Entry>
       <ID>1377</ID>
-      <DefaultText>Дает бонус к защите от заклинаний.
+      <DefaultText>Увеличивает защиту от заклинаний.
 
-Бонус зависит от уровня благосклонности Книгочеев.</DefaultText>
+Прибавка зависит от уровня благосклонности Книгочеев.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6689,7 +6689,7 @@
     </Entry>
     <Entry>
       <ID>1652</ID>
-      <DefaultText>Добавляет бонус к точности и урону при атаке из режима скрытности.</DefaultText>
+      <DefaultText>Увеличивает точность и урон при атаке из режима скрытности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7814,7 +7814,7 @@
     </Entry>
     <Entry>
       <ID>1880</ID>
-      <DefaultText>Дает бонус к точности при использовании метательного оружия.</DefaultText>
+      <DefaultText>Увеличивает точность при использовании метательного оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7824,7 +7824,7 @@
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>Дает больший бонус к точности при использовании метательного оружия.</DefaultText>
+      <DefaultText>Даёт большую прибавку к точности при использовании метательного оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7834,7 +7834,7 @@
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText>[url=glossary:критическое попадание]Критическое попадание[/url], нанесенное метательным оружием Лантри, вызывает магический взрыв.</DefaultText>
+      <DefaultText>[url=glossary:критическое попадание]Критическое попадание[/url], нанесённое метательным оружием Лантри, вызывает магический взрыв.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7964,7 +7964,7 @@
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>Дает умеренный бонус к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
+      <DefaultText>Даёт умеренную прибавку к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7974,7 +7974,7 @@
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>Дает значительный бонус к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
+      <DefaultText>Даёт значительную прибавку к навыку «[url=glossary:управление могильным светом]Управление могильным светом[/url]» и урону могильным светом в ночное время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7984,7 +7984,7 @@
     </Entry>
     <Entry>
       <ID>1914</ID>
-      <DefaultText>Дает умеренный бонус к урону, наносимому волшебными посохами.</DefaultText>
+      <DefaultText>Умеренно повышает урон, наносимый волшебными посохами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7994,7 +7994,7 @@
     </Entry>
     <Entry>
       <ID>1916</ID>
-      <DefaultText>Дает значительный бонус к урону, наносимому волшебными посохами.</DefaultText>
+      <DefaultText>Значительно повышает урон, наносимый волшебными посохами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8009,12 +8009,12 @@
     </Entry>
     <Entry>
       <ID>1919</ID>
-      <DefaultText>[url=glossary:ярость]Ярость[/url] стихий II</DefaultText>
+      <DefaultText>Ярость стихий II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1920</ID>
-      <DefaultText>[url=glossary:ярость]Ярость[/url] стихий III</DefaultText>
+      <DefaultText>Ярость стихий III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8044,7 +8044,7 @@
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Значительно увеличивает урон от критических попаданий «Скачущей смерти» и дает бонус к урону, сохраняющийся до конца боя.</DefaultText>
+      <DefaultText>Значительно увеличивает урон от критических попаданий «Скачущей смерти» и даёт прибавку к урону, сохраняющуюся до конца боя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

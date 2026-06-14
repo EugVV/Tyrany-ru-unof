@@ -9102,17 +9102,17 @@
     </Entry>
     <Entry>
       <ID>2246</ID>
-      <DefaultText>Выберите сигил ключа</DefaultText>
+      <DefaultText>Выбор сигила ключа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2247</ID>
-      <DefaultText>Выберите сигил выражения</DefaultText>
+      <DefaultText>Выбор сигила выражения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2248</ID>
-      <DefaultText>Выберите сигил типа «{0}»</DefaultText>
+      <DefaultText>Выбор сигила типа «{0}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

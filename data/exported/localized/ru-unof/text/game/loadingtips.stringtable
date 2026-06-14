@@ -56,17 +56,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Навык «[url=glossary:атлетика]Атлетика[/url]» можно использовать для запугивания персонажей при разговоре.</DefaultText>
+      <DefaultText>Навык «[url=glossary:атлетика]Атлетика[/url]» можно использовать для запугивания при разговоре.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Навык «[url=glossary:хитроумие]Хитроумие[/url]» можно использовать для блефа и обмана персонажей при разговоре.</DefaultText>
+      <DefaultText>Навык «[url=glossary:хитроумие]Хитроумие[/url]» можно использовать для блефа и обмана при разговоре.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Навык «[url=glossary:знания]Знания[/url]» можно использовать для того, чтобы впечатлять других персонажей своей эрудицией и проницательностью.</DefaultText>
+      <DefaultText>Навык «[url=glossary:знания]Знания[/url]» можно использовать для того, чтобы впечатлять других своей эрудицией и проницательностью.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

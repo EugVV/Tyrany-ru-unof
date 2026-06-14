@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Умираю от голода. Пайки испортились еще несколько недель назад».</DefaultText>
+      <DefaultText>«Умираю от голода. Пайки испортились ещё несколько недель назад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Эти таблетки просто отвратительные на вкус».</DefaultText>
+      <DefaultText>«Эти таблетки просто отвратительны на вкус».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Ни разу не довелось увидеть, чтобы Пятый Глаз мигнул. А тебе?»</DefaultText>
+      <DefaultText>«Ни разу не довелось увидеть, чтобы Пятый Глаз моргнул. А тебе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Боюсь, мои кишки не выдержат еще один месяц осады».</DefaultText>
+      <DefaultText>«Боюсь, мои кишки не выдержат ещё один месяц осады».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
