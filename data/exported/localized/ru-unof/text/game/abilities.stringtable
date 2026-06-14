@@ -5019,7 +5019,7 @@
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Дает бонус к навыку «[url=glossary:знания]Знания[/url]».</DefaultText>
+      <DefaultText>Увеличивает [url=glossary:знания]знания[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5445,7 +5445,7 @@
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>Даёт прибавку к навыку «[url=glossary:знания]Знания[/url]».
+      <DefaultText>Увеличивает [url=glossary:знания]знания[/url].
 
 Прибавка зависит от уровня гнева Книгочеев.</DefaultText>
       <FemaleText />

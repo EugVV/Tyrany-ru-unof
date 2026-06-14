@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Отыскать юридическую лазейку, чтобы сохранить жизнь ребенку Амелии.</DefaultText>
+      <DefaultText>Отыскать юридическую лазейку, чтобы сохранить жизнь ребёнку Амелии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Создать заклинание, требующее высокого уровня Знаний.</DefaultText>
+      <DefaultText>Создать заклинание, требующее высокого уровня знаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

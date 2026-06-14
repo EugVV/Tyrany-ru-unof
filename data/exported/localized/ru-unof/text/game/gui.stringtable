@@ -2962,12 +2962,12 @@
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>{0} к Атлетике</DefaultText>
+      <DefaultText>{0} к атлетике</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>{0} к Знаниям</DefaultText>
+      <DefaultText>{0} к знаниям</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10599,7 +10599,7 @@
     </Entry>
     <Entry>
       <ID>2606</ID>
-      <DefaultText>{0} ([url=glossary:знания]Знания[/url]: {1}) не обладает нужным уровнем знаний</DefaultText>
+      <DefaultText>{0} ([url=glossary:знания]знания[/url]: {1}) не обладает нужным уровнем знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
