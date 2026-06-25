@@ -1241,7 +1241,7 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Мертвый Книгочей</DefaultText>
+      <DefaultText>Мёртвый Книгочей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Мертвый мародер</DefaultText>
+      <DefaultText>Мёртвый мародёр</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2151,7 +2151,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>Мертвый Платус</DefaultText>
+      <DefaultText>Мёртвый Платус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,7 +2336,7 @@
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>Полумертвый</DefaultText>
+      <DefaultText>Полумёртвый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
