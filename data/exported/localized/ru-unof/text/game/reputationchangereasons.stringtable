@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Когда [url=glossary:опальные]Опальные[/url] сложили костер из книг Веленевой Цитадели, вы приказали отдать половину Алому Хору как законную добычу.</DefaultText>
+      <DefaultText>Когда [url=glossary:опальные]Опальные[/url] сложили костёр из книг Веленевой Цитадели, вы приказали отдать половину Алому Хору как законную добычу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] раздражен вашими словами и поступками.</DefaultText>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] раздражён вашими словами и поступками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1491,7 +1491,7 @@
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] впечатлен вашими свирепыми действиями.</DefaultText>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] впечатлён вашими свирепыми действиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1561,7 +1561,7 @@
     </Entry>
     <Entry>
       <ID>582</ID>
-      <DefaultText>Вы не оказали Опальным достаточной поддержки. [url=glossary:грэйвен аше]Грэйвен Аше[/url] потрясен.</DefaultText>
+      <DefaultText>Вы не оказали Опальным достаточной поддержки. [url=glossary:грэйвен аше]Грэйвен Аше[/url] потрясён.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1576,12 +1576,12 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] впечатлен вашими словами и поступками.</DefaultText>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] впечатлён вашими словами и поступками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] раздражен вашими надменными словами и действиями.</DefaultText>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] раздражён вашими надменными словами и действиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,7 +1591,7 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] взбешен вашими надменными словами и действиями.</DefaultText>
+      <DefaultText>[url=glossary:голоса нерата]Голоса Нерата[/url] взбешён вашими надменными словами и действиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Когда люди Вендриенов попытались провести мирный праздник, вы возглавили кровавую резню, учиненную Опальными.</DefaultText>
+      <DefaultText>Когда люди Вендриенов попытались провести мирный праздник, вы возглавили кровавую резню, учинённую Опальными.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>608</ID>
-      <DefaultText>Барик потрясен вашими варварскими словами и поступками.</DefaultText>
+      <DefaultText>Барик потрясён вашими варварскими словами и поступками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,7 +1826,7 @@
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Тунон потрясен вашим бесчестным, жестоким поведением.</DefaultText>
+      <DefaultText>Тунон потрясён вашим бесчестным, жестоким поведением.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1846,7 +1846,7 @@
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] не понес наказания за неумышленное отравление солдат Опальных.</DefaultText>
+      <DefaultText>[url=glossary:алый хор]Алый Хор[/url] не понёс наказания за неумышленное отравление солдат Опальных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,7 +1861,7 @@
     </Entry>
     <Entry>
       <ID>643</ID>
-      <DefaultText>Барик огорчен вашим решением скормить Фугу Голосам Нерата.</DefaultText>
+      <DefaultText>Барик огорчён вашим решением скормить Фугу Голосам Нерата.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1876,12 +1876,12 @@
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>Вы без предупреждения напали на Алую Пасть, спровоцировав все племя Камнепытов.</DefaultText>
+      <DefaultText>Вы без предупреждения напали на Алую Пасть, спровоцировав всё племя Камнепытов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Вместо того чтобы сотрудничать с Алой Пастью, вы решили отобрать у нее Лазурный Щит.</DefaultText>
+      <DefaultText>Вместо того чтобы сотрудничать с Алой Пастью, вы решили отобрать у неё Лазурный Щит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2431,7 +2431,7 @@
     </Entry>
     <Entry>
       <ID>759</ID>
-      <DefaultText>Лантри впечатлен вашим выводом относительно того, что реакция Зала Вознесения на вас не могла быть случайностью.</DefaultText>
+      <DefaultText>Лантри впечатлён вашим выводом относительно того, что реакция Зала Вознесения на вас не могла быть случайностью.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2461,12 +2461,12 @@
     </Entry>
     <Entry>
       <ID>765</ID>
-      <DefaultText>Смерть-из-Тени в восторге от ваших прямых и жестких действий.</DefaultText>
+      <DefaultText>Смерть-из-Тени в восторге от ваших прямых и жёстких действий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>766</ID>
-      <DefaultText>Смерти-из-Тени нравятся ваши прямые и жесткие действия.</DefaultText>
+      <DefaultText>Смерти-из-Тени нравятся ваши прямые и жёсткие действия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2501,7 +2501,7 @@
     </Entry>
     <Entry>
       <ID>773</ID>
-      <DefaultText>Лантри потрясен вашими грубыми, хвастливыми действиями.</DefaultText>
+      <DefaultText>Лантри потрясён вашими грубыми, хвастливыми действиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>785</ID>
-      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] потрясен вашими словами и поступками.</DefaultText>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] потрясён вашими словами и поступками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] впечатлен вашими изобретательными действиями.</DefaultText>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] впечатлён вашими изобретательными действиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3391,7 +3391,7 @@
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>Барик возмущен тем, что вы убили дозорного Опальных.</DefaultText>
+      <DefaultText>Барик возмущён тем, что вы убили дозорного Опальных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3401,7 +3401,7 @@
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>Барик пришел в ужас, когда вы предали Опальных.</DefaultText>
+      <DefaultText>Барик пришёл в ужас, когда вы предали Опальных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
