@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Я получила копьем в бок, но теперь этого даже не чувствую».</DefaultText>
+      <DefaultText>«Я получила копьём в бок, но теперь этого даже не чувствую».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Неужели я однажды увижу свой дом».</DefaultText>
+      <DefaultText>«Увижу ли я когда-нибудь свой дом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
