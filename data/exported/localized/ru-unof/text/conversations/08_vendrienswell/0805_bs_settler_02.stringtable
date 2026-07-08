@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] победит! Я ни о чем не жалею».</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] победит! Я ни о чём не жалею».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] с тобой еще не закончила».</DefaultText>
+      <DefaultText>«[url=glossary:гвардия вендриенов]Гвардия Вендриенов[/url] с тобой ещё не закончила».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

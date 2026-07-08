@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>Вы уже знаете этот сигил.</DefaultText>
+      <DefaultText>Этот сигил уже известен.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
