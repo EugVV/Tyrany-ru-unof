@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Зверолюд-Мантарожденный</DefaultText>
+      <DefaultText>Зверолюд-Мантарождённый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Зверолюдка-Мантарожденная</DefaultText>
+      <DefaultText>Зверолюдка-Мантарождённая</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>Наемник Свободных Клинков</DefaultText>
+      <DefaultText>Наёмник Свободных Клинков</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>642</ID>
-      <DefaultText>Наемник Свергнутых Регентов</DefaultText>
+      <DefaultText>Наёмник Свергнутых Регентов</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
