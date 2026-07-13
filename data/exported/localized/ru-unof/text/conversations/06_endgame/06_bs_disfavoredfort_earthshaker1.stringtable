@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«[url=glossary:каирн]Каирн[/url] мертв. Надеюсь, наша гильдия сможет выжить…»</DefaultText>
+      <DefaultText>«[url=glossary:каирн]Каирн[/url] мёртв. Надеюсь, наша гильдия сможет выжить…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Пусть мы потеряли Архонта Камня, но у нас все еще есть его учения».</DefaultText>
+      <DefaultText>«Пусть мы потеряли Архонта Камня, но у нас всё ещё есть его учения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,22 +51,22 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Мы всегда были в первую очередь учеными. Но, возможно, нам придется измениться».</DefaultText>
+      <DefaultText>«Мы всегда были в первую очередь учёными. Но, возможно, нам придётся измениться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«Стать магическим кулаком этой армии — это ответственность, которую мы все воспринимаем всерьез».</DefaultText>
+      <DefaultText>«Стать магическим кулаком этой армии — это ответственность, которую мы все воспринимаем всерьёз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>«Если мы не можем ничему научиться из разума Каирна, то, по крайней мере, можем исследовать его тело».</DefaultText>
+      <DefaultText>«Если мы не можем ничему научиться из разума Каирна, то по крайней мере можем исследовать его тело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>«У Каирна было трудно учиться. Но мы все равно нуждались в нем».</DefaultText>
+      <DefaultText>«У Каирна было трудно учиться. Но мы всё равно нуждались в нём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>«Я все еще надеюсь, что благодаря смерти Каирна у нас появится какая-то неожиданная возможность».</DefaultText>
+      <DefaultText>«Я всё ещё надеюсь, что благодаря смерти Каирна у нас появится какая-то неожиданная возможность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

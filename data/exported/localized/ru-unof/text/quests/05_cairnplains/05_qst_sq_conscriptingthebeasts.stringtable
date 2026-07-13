@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Похитить детенышей Черной Пасти.</DefaultText>
+      <DefaultText>Похитить детёнышей Чёрной Пасти.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Вы приманили несколько детенышей зверолюдов, и [url=glossary:алый хор]Алый Хор[/url] вырастит и надрессирует их.</DefaultText>
+      <DefaultText>Вы приманили несколько детёнышей зверолюдов, [url=glossary:алый хор]Алый Хор[/url] вырастит и надрессирует их.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Вы отправили Стокровку к Голосам Нерата, не спросив у нее о вербовке Камнепытов.</DefaultText>
+      <DefaultText>Вы отправили Стокровку к Голосам Нерата, не спросив у неё о вербовке Камнепытов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Ватага Октавы направляется к Воющей Скале. Вам придется продолжать со зверолюдами, которых вы уже завербовали.</DefaultText>
+      <DefaultText>Ватага Октавы направляется к Воющей Скале. Вам придётся продолжать со зверолюдами, которых вы уже завербовали.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

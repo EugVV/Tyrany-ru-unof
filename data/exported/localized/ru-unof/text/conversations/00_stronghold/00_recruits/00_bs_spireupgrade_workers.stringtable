@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Раскаленный ветер с пеплом со стороны Спорных Земель утих. Интересно, что могло произойти?»</DefaultText>
+      <DefaultText>«Раскалённый ветер с пеплом со стороны Спорных Земель утих. Интересно, что могло произойти?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«А у вас случайно нет еще таких магических шлемов?»</DefaultText>
+      <DefaultText>«А у вас случайно нет ещё таких магических шлемов?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Мы еще многого не знаем о нашем мире. Благодаря тебе у нас есть возможность это исправить».</DefaultText>
+      <DefaultText>«Мы ещё многого не знаем о нашем мире. Благодаря тебе у нас есть возможность это исправить».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

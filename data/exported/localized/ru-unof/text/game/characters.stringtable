@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Черная Пасть</DefaultText>
+      <DefaultText>Чёрная Пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1191,12 +1191,12 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Детеныш зверолюдов</DefaultText>
+      <DefaultText>Детёныш зверолюдов</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Детеныш зверолюдов</DefaultText>
+      <DefaultText>Детёныш зверолюдов</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
