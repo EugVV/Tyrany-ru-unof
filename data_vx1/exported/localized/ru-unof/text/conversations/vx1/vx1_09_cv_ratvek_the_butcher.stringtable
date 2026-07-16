@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>«Что-то я не думаю, Певун, что ты сюда доберешься! Или ты собрался отнять крепость силой?»</DefaultText>
+      <DefaultText>«Что-то я не думаю, Певун, что ты сюда доберёшься! Или ты собрался отнять крепость силой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>«Я буду с тобой говорить, как пожелаю. Что, слился? Крутизны в тебе нужной нету, чтобы нашу ватагу вести! А то давай, покажи, на что ты годен. Давно пора!»</DefaultText>
+      <DefaultText>«Я буду с тобой говорить как пожелаю. Что, слился? Крутизны в тебе нужной нету, чтобы нашу ватагу вести! А то давай, покажи, на что ты годен. Давно пора!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[Выйти вперед.]</DefaultText>
+      <DefaultText>[Выйти вперёд.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>[Выйти вперед.]</DefaultText>
+      <DefaultText>[Выйти вперёд.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -553,7 +553,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[Выйти вперед.]</DefaultText>
+      <DefaultText>[Выйти вперёд.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -563,7 +563,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>[Выйти вперед.]</DefaultText>
+      <DefaultText>[Выйти вперёд.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
