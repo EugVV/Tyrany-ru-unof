@@ -734,12 +734,12 @@
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>[Солгать] «Иди вперёд, я догоню».</DefaultText>
+      <DefaultText>[Солгать.] «Выдвигайтесь вперёд, я догоню».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>«Я буду сражаться, даже если придётся пролить кровь Хора».</DefaultText>
+      <DefaultText>«Я вместе с вами в этом бою, даже если придётся пролить кровь Хора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -8907,7 +8907,7 @@
     </Entry>
     <Entry>
       <ID>2205</ID>
-      <DefaultText>Вы не завершили операцию. Уйти все равно?</DefaultText>
+      <DefaultText>Сделка не завершена. Уйти всё равно?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8917,7 +8917,7 @@
     </Entry>
     <Entry>
       <ID>2207</ID>
-      <DefaultText>Взять все</DefaultText>
+      <DefaultText>Взять всё</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16353,7 +16353,7 @@
     </Entry>
     <Entry>
       <ID>3803</ID>
-      <DefaultText>[url=glossary:предать союз][Предать союз][/url]</DefaultText>
+      <DefaultText>[url=glossary:предать союз][Предать союз.][/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
