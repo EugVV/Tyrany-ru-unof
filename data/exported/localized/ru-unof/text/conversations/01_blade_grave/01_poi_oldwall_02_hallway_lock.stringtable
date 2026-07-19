@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Вернемся той же дорогой? Как бы не так…»</DefaultText>
+      <DefaultText>«Вернёмся той же дорогой? Как бы не так…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Каждый раз, когда море затопляет гавань, где-то неподалеку возникает еще одна».</DefaultText>
+      <DefaultText>«Каждый раз, когда море затопляет гавань, где-то неподалёку возникает ещё одна».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Ну что же, этим путем мы уже не вернемся, если только не найдем способ снова его открыть…»</DefaultText>
+      <DefaultText>«Ну что же, этим путём мы уже не вернёмся, если только не найдём способ снова его открыть…»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
