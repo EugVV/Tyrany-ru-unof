@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>[хватая ртом воздух] Нет…</DefaultText>
+      <DefaultText>[Хватает ртом воздух.] Нет…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>«Сделаю все, что смогу».</DefaultText>
+      <DefaultText>«Сделаю всё, что смогу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>«Мы можем сделать… что-то еще?»</DefaultText>
+      <DefaultText>«Можем ли мы сделать… что-то ещё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>«Ходячая груда лома повержен».</DefaultText>
+      <DefaultText>«Ходячая груда лома повержена».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,12 +216,12 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>«Фуге не хватило силы спасти ее».</DefaultText>
+      <DefaultText>«Фуге не хватило силы спасти себя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>«Книгочей мертв!»</DefaultText>
+      <DefaultText>«Книгочей мёртв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,12 +236,12 @@
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>«Барик истек кровью».</DefaultText>
+      <DefaultText>«Барик истёк кровью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>«Вершитель мертв!»</DefaultText>
+      <DefaultText>«Вершитель мёртв!»</DefaultText>
       <FemaleText>«Вершительница мертва!»</FemaleText>
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>«Грядет твоя смерть!»</DefaultText>
+      <DefaultText>«Грядёт твоя смерть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>«Мне не удержать еще что-нибудь».</DefaultText>
+      <DefaultText>«Мне не удержать ещё что-нибудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>«Мы в ближайшее время отдохнем?»</DefaultText>
+      <DefaultText>«Отдохнем ли мы в ближайшее время?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>«Давай-ка споем им что-нибудь…»</DefaultText>
+      <DefaultText>«Давай-ка споём им что-нибудь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +376,12 @@
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>«Давай! Я еще столько всего в мире не видела!»</DefaultText>
+      <DefaultText>«Давай! Я ещё столько всего в мире не видела!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>[Страдальчески выпевает] «Горячо-о!»</DefaultText>
+      <DefaultText>[Страдальчески выпевает.] «Горячо-о!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +391,12 @@
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>«Моя сила растет!»</DefaultText>
+      <DefaultText>«Моя сила растёт!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>«Если мы сейчас же не передохнем — я умру!»</DefaultText>
+      <DefaultText>«Если мы сейчас же не передохнём — я умру!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>«Такая силища! Используем ее!»</DefaultText>
+      <DefaultText>«Такая силища! Используем её!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
