@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Принимать Кайроса было… непросто. Но нам так будет лучше. Верно?»</DefaultText>
+      <DefaultText>«Принять Кайроса было… непросто. Но нам так будет лучше. Верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Конечно, Тунон меня пугает, но к кому мне еще обращаться за справедливостью?»</DefaultText>
+      <DefaultText>«Конечно, Тунон меня пугает, но к кому ещё мне обращаться за справедливостью?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Не припоминаю, чтобы Тунон менял свою маску, но все же маска… меняется».</DefaultText>
+      <DefaultText>«Не припоминаю, чтобы Тунон менял свою маску, но всё же маска… меняется».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Говорят, Тунон рассмотрит мое дело следующим».</DefaultText>
+      <DefaultText>«Говорят, Тунон рассмотрит моё дело следующим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Тунон правит не только Городом-Бастардом. Он еще заинтересован в [url=glossary:распутье летианы]Распутье Летианы[/url]».</DefaultText>
+      <DefaultText>«Тунон правит не только Городом-Бастардом. Он также заинтересован в [url=glossary:распутье летианы]Распутье Летианы[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«[url=glossary:опальные]Опальные[/url] разграбили и сожгли караван, который направлялся в мое имение. Я добиваюсь компенсации с 429 года».</DefaultText>
+      <DefaultText>«[url=glossary:опальные]Опальные[/url] разграбили и сожгли караван, который направлялся в моё имение. Я добиваюсь компенсации с 429 года».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>«Когда-то у нас было хорошее торговое соглашение с Севером. Немало колец зарабатывали на стороне. А теперь мы подчиненные Империи».</DefaultText>
+      <DefaultText>«Когда-то у нас было хорошее торговое соглашение с Севером. Немало колец зарабатывали на стороне. А теперь мы подчинённые Империи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Восстановил Горящую Библиотеку, да? Надеюсь, ты нашел то, что искал».</DefaultText>
+      <DefaultText>«Восстановил Горящую Библиотеку, да? Надеюсь, ты нашёл то, что искал».</DefaultText>
       <FemaleText>«Восстановила Горящую Библиотеку, да? Надеюсь, ты нашла то, что искала».</FemaleText>
     </Entry>
     <Entry>
@@ -166,12 +166,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Тунон самый уравновешенный из Архонтов. Остальные слишком… слишком бесшабашные для этой должности».</DefaultText>
+      <DefaultText>«Тунон — самый уравновешенный из Архонтов. Остальные слишком… слишком бесшабашные для этой должности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Я втайне надеюсь, что [url=glossary:кайрос]Кайрос[/url] не пригласит еще каких-нибудь Архонтов в Ярусы. Несмотря на всю их мудрость, они могут сильно нам навредить».</DefaultText>
+      <DefaultText>«Я втайне надеюсь, что [url=glossary:кайрос]Кайрос[/url] не пригласит ещё каких-нибудь Архонтов в Ярусы. Несмотря на всю их мудрость, они могут сильно нам навредить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Тунон возлагает на своих подчиненных высокие ожидания. У него к тебе большие требования».</DefaultText>
+      <DefaultText>«Тунон возлагает на своих подчинённых высокие ожидания. У него к тебе большие требования».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>«Слава Кайросу. Я… я все лучше запоминаю, что нужно так говорить».</DefaultText>
+      <DefaultText>«Слава Кайросу. Я… я всё лучше запоминаю, что нужно так говорить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>«Я знаю многих, кто сражался на войне. Что, я? Конечно же нет».</DefaultText>
+      <DefaultText>«Я знаю многих, кто сражался на войне. Что, я? Конечно же, нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>«Архонт Войны мертв? Кто бы мог подумать, что воевода падет на моем веку…»</DefaultText>
+      <DefaultText>«Архонт Войны мёртв? Кто бы мог подумать, что воевода падёт на моём веку…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>«Уже даже не знаю, хочу ли я, чтобы Тунон рассматривал мое обращение».</DefaultText>
+      <DefaultText>«Уже даже не знаю, хочу ли я, чтобы Тунон рассматривал моё обращение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>«Твое дело против Аше будет записано и изучено».</DefaultText>
+      <DefaultText>«Твоё дело против Аше будет записано и изучено».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>«Тунон — строгий критик. Ни для кого не стало сюрпризом, что твое дело против Архонта провалилось».</DefaultText>
+      <DefaultText>«Тунон — строгий критик. Ни для кого не стало сюрпризом, что твоё дело против Архонта провалилось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>«Мало кто из тех, кого Тунон считает виновными, живет достаточно долго, чтобы успеть об этом пожалеть».</DefaultText>
+      <DefaultText>«Мало кто из тех, кого Тунон считает виновными, живёт достаточно долго, чтобы успеть об этом пожалеть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>«Если Адъюдикатор мертв, то кто рассудит все эти дела?»</DefaultText>
+      <DefaultText>«Если Адъюдикатор мёртв, то кто рассудит все эти дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>«Надеюсь, Хор распадется без своего Архонта».</DefaultText>
+      <DefaultText>«Надеюсь, Хор распадётся без своего Архонта».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,12 +436,12 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>«Аше — опасный противник. А еще он может быть опасным другом».</DefaultText>
+      <DefaultText>«Аше — опасный противник. А ещё он может быть опасным другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>«Займет ли место Аше новый Архонт?»</DefaultText>
+      <DefaultText>«Займёт ли место Аше новый Архонт?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

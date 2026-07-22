@@ -4629,7 +4629,7 @@
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Все</DefaultText>
+      <DefaultText>Всё</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11744,7 +11744,7 @@
     </Entry>
     <Entry>
       <ID>2852</ID>
-      <DefaultText>Нет места для новых припасов для привала.</DefaultText>
+      <DefaultText>Отряд несёт максимальное количество припасов для привала.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
