@@ -528,12 +528,12 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[Поднять руку Каирна] «Смотри, [url=glossary:каирн]Каирн[/url] тебе машет. Поздоровайся с ним».</DefaultText>
+      <DefaultText>[Поднять руку Каирна.] «Смотри, [url=glossary:каирн]Каирн[/url] тебе машет. Поздоровайся с ним».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>[Показать ему глаз Каирна] «На, взгляни».</DefaultText>
+      <DefaultText>[Показать ему глаз Каирна.] «На, взгляни».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,12 +548,12 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>«Как [url=glossary:грэйвен аше]Грэйвен Аше[/url] дошел до жизни такой?»</DefaultText>
+      <DefaultText>«Как [url=glossary:грэйвен аше]Грэйвен Аше[/url] дошёл до жизни такой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>«Надежный инструмент? Интересного ты о нем мнения».</DefaultText>
+      <DefaultText>«Надёжный инструмент? Интересного ты о нём мнения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
