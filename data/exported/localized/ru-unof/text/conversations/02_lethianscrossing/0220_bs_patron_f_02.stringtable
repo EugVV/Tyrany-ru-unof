@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Налей мне еще. Подкрепиться хочу для начала!»</DefaultText>
+      <DefaultText>«Налей мне ещё. Подкрепиться хочу для начала!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Я думаю… думаю, я вше-таки ришкну! Но, может… может, выпью еще шперва».</DefaultText>
+      <DefaultText>«Я думаю… думаю, я вшё-таки ришкну! Но, может… может, выпью ещё шперва».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

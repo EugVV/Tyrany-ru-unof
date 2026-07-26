@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Нашел что-нибудь?»</DefaultText>
+      <DefaultText>«Нашёл что-нибудь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Уйти] «Мы закончили».</DefaultText>
+      <DefaultText>[Уйти.] «Мы закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Я забыл, что мы писали шифр задом наперед, слово-абзац-страница, а не страница-абзац-слово. Мне чудовищно неловко, прости».</DefaultText>
+      <DefaultText>«Я забыл, что мы писали шифр задом наперёд, слово-абзац-страница, а не страница-абзац-слово. Мне чудовищно неловко, прости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Нашел что-нибудь?»</DefaultText>
+      <DefaultText>«Нашёл что-нибудь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Хрипло откашлявшись, Лантри возвращается к работе. Руки его нервически подрагивают.</DefaultText>
+      <DefaultText>Хрипло откашлявшись, Лантри возвращается к работе. Руки его нервно подрагивают.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Трудно сказать. Очевидный ответ: „некая реликвия из Цитадели“, но я не стал бы утверждать наверняка. В послании сказано, где, но не сказано, что и зачем».</DefaultText>
+      <DefaultText>«Трудно сказать. Очевидный ответ: „некая реликвия из Цитадели“, но я не стал бы утверждать наверняка. В послании сказано где, но не сказано, что и зачем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«Да, это все. Благодарю тебя за терпение».</DefaultText>
+      <DefaultText>«Да, это всё. Благодарю тебя за терпение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,12 +128,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>«Слава Кайросу, он еще тут! Я быстро».</DefaultText>
+      <DefaultText>«Слава Кайросу, он ещё тут! Я быстро».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>«Что это значит? Хм-м… ох, я все напутал. Попробуем еще раз, не так по-глупому».</DefaultText>
+      <DefaultText>«Что это значит? Хм-м… ох, я всё напутал. Попробуем ещё раз, не так по-глупому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Лантри настолько поглощен работой, что все ваши суровые взгляды проходят сквозь него.</DefaultText>
+      <DefaultText>Лантри настолько поглощён работой, что все ваши суровые взгляды проходят сквозь него.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Лексема не могла знать, что ты окажешься в Ране… а в ее трудах нашлось послание для ТЕБЯ? Что-то тут не так».</DefaultText>
+      <DefaultText>«Лексема не могла знать, что ты окажешься в Ране… а в её трудах нашлось послание для ТЕБЯ? Что-то тут не так».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,12 +175,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Я думаю, она начала составлять это послание еще до войны… а я… обнаружил его позже, чем следовало».</DefaultText>
+      <DefaultText>«Я думаю, она начала составлять это послание ещё до войны… а я… обнаружил его позже, чем следовало».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Уйти] «Пора в путь».</DefaultText>
+      <DefaultText>[Уйти.] «Пора в путь».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
