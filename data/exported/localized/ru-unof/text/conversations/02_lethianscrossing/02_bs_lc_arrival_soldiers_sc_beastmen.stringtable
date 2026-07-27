@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Охотники-братья хорошо сражались. Но с клыками зверолюдов им все равно не тягаться».</DefaultText>
+      <DefaultText>«Охотники-братья хорошо сражались. Но с клыками зверолюдов им всё равно не тягаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Люди в Гавани сильнее, чем показалось зверолюду. Но все равно добыча».</DefaultText>
+      <DefaultText>«Люди в Гавани сильнее, чем показалось зверолюду. Но всё равно добыча».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Может, теперь стая Хора уберется из Гавани. Может, уже скоро».</DefaultText>
+      <DefaultText>«Может, теперь стая Хора уберётся из Гавани. Может, уже скоро».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Охотники-братья хорошо сражались. Но с рвущими когтями зверолюдок им все равно не тягаться».</DefaultText>
+      <DefaultText>«Охотники-братья хорошо сражались. Но с рвущими когтями зверолюдок им всё равно не тягаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Люди в Гавани сильнее, чем показалось зверолюдке. Но все равно добыча».</DefaultText>
+      <DefaultText>«Люди в Гавани сильнее, чем показалось зверолюдке. Но всё равно добыча».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
