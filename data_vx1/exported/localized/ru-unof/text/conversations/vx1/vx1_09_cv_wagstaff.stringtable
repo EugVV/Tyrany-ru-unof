@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Уйти] «Пока на этом всё».</DefaultText>
+      <DefaultText>[Уйти.] «Пока на этом всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,7 +809,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>[Солгать] «Да».</DefaultText>
+      <DefaultText>[Солгать.] «Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,8 +951,8 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>[Уйти] «Я услышал достаточно. На этом пока всё».</DefaultText>
-      <FemaleText>[Уйти] «Я услышала достаточно. На этом пока всё».</FemaleText>
+      <DefaultText>[Уйти.] «Я услышал достаточно. На этом пока всё».</DefaultText>
+      <FemaleText>[Уйти.] «Я услышала достаточно. На этом пока всё».</FemaleText>
     </Entry>
     <Entry>
       <ID>203</ID>
@@ -1210,7 +1210,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>«Быть бродячим голосом Кайроса — недешевое удовольствие. А вам внешние деньги все равно ни к чему».</DefaultText>
+      <DefaultText>«Быть бродячим голосом Кайроса — недешёвое удовольствие. А вам внешние деньги всё равно ни к чему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1441,7 +1441,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>[Солгать] «Она мертва, как ты и просил».</DefaultText>
+      <DefaultText>[Солгать.] «Она мертва, как ты и просил».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,7 +1451,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>[Солгать] «Это всё, что у неё было».</DefaultText>
+      <DefaultText>[Солгать.] «Это всё, что у неё было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,7 +1521,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>[Солгать] «Она мертва, как ты и просил».</DefaultText>
+      <DefaultText>[Солгать.] «Она мертва, как ты и просил».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>«Я бы хотел большей определенности в этом вопросе, однако столь хрупкая грамотейка, как она, долго в новобранцах не протянет… Так что согласен, она все равно что мертва».</DefaultText>
+      <DefaultText>«Я бы хотел большей определённости в этом вопросе, однако столь хрупкая грамотейка, как она, долго в новобранцах не протянет… так что согласен, она всё равно что мертва».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,12 +1591,12 @@
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>[Солгать] «Я изгнал её во имя безопасности — и её, и вашей».</DefaultText>
-      <FemaleText>[Солгать] «Я изгнала её во имя безопасности — и её, и вашей».</FemaleText>
+      <DefaultText>[Солгать.] «Я изгнал её во имя безопасности — и её, и вашей».</DefaultText>
+      <FemaleText>[Солгать.] «Я изгнала её во имя безопасности — и её, и вашей».</FemaleText>
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>[Солгать] «Прошу прощения, я не знаю, где она».</DefaultText>
+      <DefaultText>[Солгать.] «Прошу прощения, я не знаю, где она».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>[Солгать] «Это всё, что у неё было».</DefaultText>
+      <DefaultText>[Солгать.] «Это всё, что у неё было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1731,13 +1731,13 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>[Атаковать] «Я видел достаточно. Так продолжаться не может, я этого не допущу».</DefaultText>
-      <FemaleText>[Атаковать] «Я видела достаточно. Так продолжаться не может, я этого не допущу».</FemaleText>
+      <DefaultText>[Атаковать.] «Я видел достаточно. Так продолжаться не может, я этого не допущу».</DefaultText>
+      <FemaleText>[Атаковать.] «Я видела достаточно. Так продолжаться не может, я этого не допущу».</FemaleText>
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>[Атаковать] «Я видел достаточно. Так продолжаться не может, я этого не допущу».</DefaultText>
-      <FemaleText>[Атаковать] «Я видела достаточно. Так продолжаться не может, я этого не допущу».</FemaleText>
+      <DefaultText>[Атаковать.] «Я видел достаточно. Так продолжаться не может, я этого не допущу».</DefaultText>
+      <FemaleText>[Атаковать.] «Я видела достаточно. Так продолжаться не может, я этого не допущу».</FemaleText>
     </Entry>
     <Entry>
       <ID>370</ID>

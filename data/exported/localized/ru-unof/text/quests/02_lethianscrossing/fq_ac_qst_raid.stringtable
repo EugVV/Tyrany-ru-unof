@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Скорее всего, Элдиан в безопасности в своем доме в [url=glossary:распутье летианы]Распутье Летианы[/url], но все равно хорошо бы его проведать.</DefaultText>
+      <DefaultText>Скорее всего, Элдиан в безопасности в своём доме в [url=glossary:распутье летианы]Распутье Летианы[/url], но всё равно хорошо бы его проведать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Винтара возглавляет Опальных, обороняющих [url=glossary:распутье летианы]Распутье Летианы[/url]. Найдите ее и убейте.</DefaultText>
+      <DefaultText>Винтара возглавляет Опальных, обороняющих [url=glossary:распутье летианы]Распутье Летианы[/url]. Найдите её и убейте.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Убейте всех солдат, которых найдете в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
+      <DefaultText>Убейте всех солдат, которых найдёте в [url=glossary:распутье летианы]Распутье Летианы[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -95,12 +95,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Хористу] «Рассказывай с самого начала».</DefaultText>
+      <DefaultText>[Хористу.] «Рассказывай с самого начала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Опальным] «Что вы можете рассказать?»</DefaultText>
+      <DefaultText>[Опальным.] «Что вы можете рассказать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Бросить на землю 50 колец] «Вот, это награда за находку».</DefaultText>
+      <DefaultText>[Бросить на землю 50 колец.] «Вот, это награда за находку».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,18 +372,18 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[Заступить хористу дорогу] «Обычно оценщик получает плату за услуги».</DefaultText>
+      <DefaultText>[Заступить хористу дорогу.] «Обычно оценщик получает плату за услуги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[Отдать честь Опальным] «[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
+      <DefaultText>[Отдать честь Опальным.] «[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[Уйти] «Я сделал всё, что мог».</DefaultText>
-      <FemaleText>[Уйти] «Я сделала всё, что могла».</FemaleText>
+      <DefaultText>[Уйти.] «Я сделал всё, что мог».</DefaultText>
+      <FemaleText>[Уйти.] «Я сделала всё, что могла».</FemaleText>
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Она вздыхает. «Это необязательно. Мы не спорим о том, каким образом к нему в руки попало это железо. И у нас уж точно есть дела поважнее во время осады».</DefaultText>
+      <DefaultText>Она вздыхает: «Это необязательно. Мы не спорим о том, каким образом к нему в руки попало это железо. И у нас уж точно есть дела поважнее во время осады».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,8 +601,8 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[Похрустеть костяшками] «У меня что-то со слухом — или ты угрожаешь посланцу Тyнона?»</DefaultText>
-      <FemaleText>[Похрустеть костяшками] «У меня что-то со слухом — или ты угрожаешь посланнице Тyнона?»</FemaleText>
+      <DefaultText>[Похрустеть костяшками.] «У меня что-то со слухом — или ты угрожаешь посланцу Тyнона?»</DefaultText>
+      <FemaleText>[Похрустеть костяшками.] «У меня что-то со слухом — или ты угрожаешь посланнице Тyнона?»</FemaleText>
     </Entry>
     <Entry>
       <ID>118</ID>
@@ -626,7 +626,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[Уйти] «Нет. Прощай».</DefaultText>
+      <DefaultText>[Уйти.] «Нет. Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[Фуге] «Что ты думаешь о его истории?»</DefaultText>
+      <DefaultText>[Фуге.] «Что ты думаешь о его истории?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -656,7 +656,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>[Барику] «Что скажешь?»</DefaultText>
+      <DefaultText>[Барику.] «Что скажешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

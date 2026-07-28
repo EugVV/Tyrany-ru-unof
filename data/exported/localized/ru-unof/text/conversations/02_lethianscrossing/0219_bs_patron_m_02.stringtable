@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Может, выпить еще немного? Сомневаюсь, что на трезвую голову я хоть что-то смогу».</DefaultText>
+      <DefaultText>«Может, выпить ещё немного? Сомневаюсь, что на трезвую голову я хоть что-то смогу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«А почему нет? Если нас все равно прикончит какой-то [url=glossary:эдикт]Эдикт[/url], чего бы не развлечься напоследок?»</DefaultText>
+      <DefaultText>«А почему нет? Если нас всё равно прикончит какой-то [url=glossary:эдикт]Эдикт[/url], чего бы не развлечься напоследок?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

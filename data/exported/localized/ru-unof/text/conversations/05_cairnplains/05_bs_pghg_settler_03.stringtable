@@ -21,13 +21,13 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Если я увижу еще кого-то из этих красных зверотрахов, своими руками посталкиваю их с обрыва».</DefaultText>
+      <DefaultText>«Если я увижу ещё кого-то из этих красных зверотрахов, своими руками посталкиваю их с обрыва».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Говорят, ты закончил [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделал, но спасибо тебе».</DefaultText>
-      <FemaleText>«Говорят, ты закончила [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, почему ты это сделала, но спасибо тебе».</FemaleText>
+      <DefaultText>«Говорят, ты закончил [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, зачем ты это сделал, но спасибо тебе».</DefaultText>
+      <FemaleText>«Говорят, ты закончила [url=glossary:эдикт]Эдикт[/url]. Я не буду спрашивать, зачем ты это сделала, но спасибо тебе».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>«Что еще нужно от нас Кайросу? Как будто мы мало страдали!»</DefaultText>
+      <DefaultText>«Что ещё нужно от нас Кайросу? Как будто мы мало страдали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Силы Кайроса разобщены. Сколько еще будет длиться эта война?»</DefaultText>
+      <DefaultText>«Силы Кайроса разобщены. Сколько ещё будет длиться эта война?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

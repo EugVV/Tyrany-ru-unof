@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Мягко-мягко ступай, человек. Подранки смотрят всегда. Подранки все чуют».</DefaultText>
+      <DefaultText>«Мягко-мягко ступай, человек. Подранки смотрят всегда. Подранки всё чуют».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Человек золы и железа теперь альфа? Подранки все равно будут защищать Рану».</DefaultText>
+      <DefaultText>«Человек золы и железа теперь альфа? Подранки всё равно будут защищать Рану».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Зверолюдки тревожатся за человечьих детенышей с человеком-альфой».</DefaultText>
+      <DefaultText>«Зверолюдки тревожатся за человечьих детёнышей с человеком-альфой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Зверолюдки тревожатся за человечьих детенышей с человеком-альфой».</DefaultText>
+      <DefaultText>«Зверолюдки тревожатся за человечьих детёнышей с человеком-альфой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
