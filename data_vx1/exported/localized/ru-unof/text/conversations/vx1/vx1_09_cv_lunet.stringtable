@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Уйти] «Прощай».</DefaultText>
+      <DefaultText>[Уйти.] «Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Солгать] «Как занятно. А мне только что Клейтос рассказал, что виновата во всём именно ты».</DefaultText>
+      <DefaultText>[Солгать.] «Как занятно. А мне только что Клейтос рассказал, что виновата во всём именно ты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Уйти] «Возможно, я так и сделаю».</DefaultText>
+      <DefaultText>[Уйти.] «Возможно, я так и сделаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,22 +96,22 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Она кривится. «Твою мать, да ты умнее, чем кажешься».</DefaultText>
+      <DefaultText>Она кривится: «Твою мать, да ты умнее, чем кажешься».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Я ему так и сказала, а он попросил помочь с людьми. На свою сторону перетянуть. Он подумал, если зерно станет портиться, во всем обвинят этого северного говнюка Яспоса и за помощью к Махальнику пойдут».</DefaultText>
+      <DefaultText>«Я ему так и сказала, а он попросил помочь с людьми. На свою сторону перетянуть. Он подумал, если зерно станет портиться, во всём обвинят этого северного говнюка Яспоса и за помощью к Махальнику пойдут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Как тебе удается скрывать от Тайко, что вода не того цвета?»</DefaultText>
+      <DefaultText>«Как тебе удаётся скрывать от Тайко, что вода не того цвета?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Ты ведь понимаешь, что если Рана останется без провизии, пострадаешь и ты сама, и твой ребенок. Так зачем это делать?»</DefaultText>
+      <DefaultText>«Ты ведь понимаешь, что если Рана останется без провизии, пострадаешь и ты сама, и твой ребёнок. Так зачем это делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[Уйти] «Не волнуйся, я найду доказательства твоей вины».</DefaultText>
+      <DefaultText>[Уйти.] «Не волнуйся, я найду доказательства твоей вины».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[Уйти] «Мы закончили».</DefaultText>
+      <DefaultText>[Уйти.] «Мы закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Уйти.]  </DefaultText>
+      <DefaultText>[Уйти.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

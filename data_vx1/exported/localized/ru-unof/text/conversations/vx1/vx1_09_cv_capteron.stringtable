@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Уйти] «Пока на этом всё».</DefaultText>
+      <DefaultText>[Уйти.] «Пока на этом всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Солгать] «Меня прислали сюда с проверкой их работы, поэтому мне нужно знать о них всё».</DefaultText>
+      <DefaultText>[Солгать.] «Меня прислали сюда с проверкой их работы, поэтому мне нужно знать о них всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Уйти] «До свидания».</DefaultText>
+      <DefaultText>[Уйти.] «До свидания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[Подождать до утра] «Мне нужно место для ночлега».</DefaultText>
+      <DefaultText>[Подождать до утра.] «Мне нужно место для ночлега».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,7 +202,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Солгать] «Если забрать инструменты, это никому не повредит. В самом крайнем случае Кассандра просто станет работать медленнее и, значит, подольше задержится у вас».</DefaultText>
+      <DefaultText>[Солгать.] «Если забрать инструменты, это никому не повредит. В самом крайнем случае Кассандра просто станет работать медленнее и, значит, подольше задержится у вас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[Солгать] «Я знаю, что Кассандра много для тебя значит. Она слишком занята, чтобы обращать внимание на людей вокруг, но я могу замолвить ей за тебя словечко».</DefaultText>
+      <DefaultText>[Солгать.] «Я знаю, что Кассандра много для тебя значит. Она слишком занята, чтобы обращать внимание на людей вокруг, но я могу замолвить ей за тебя словечко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,12 +279,12 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Уйти] «Боюсь, этого не случится».</DefaultText>
+      <DefaultText>[Уйти.] «Боюсь, этого не случится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Уйти] «Я поговорю с ней, когда будет время».</DefaultText>
+      <DefaultText>[Уйти.] «Я поговорю с ней, когда будет время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
