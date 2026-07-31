@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Уйти] «Ждите тут».</DefaultText>
+      <DefaultText>[Уйти.] «Ждите тут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Атаковать] «Я не собираюсь вам помогать…»</DefaultText>
+      <DefaultText>[Атаковать.] «Я не собираюсь вам помогать…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[Атаковать] «Я не могу позволить вам уйти с этими артефактами».</DefaultText>
+      <DefaultText>[Атаковать.] «Я не могу позволить вам уйти с этими артефактами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

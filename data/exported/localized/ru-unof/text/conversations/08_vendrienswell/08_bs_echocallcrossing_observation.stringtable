@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Вы видите четырех солдат. Они охраняют мост.</DefaultText>
+      <DefaultText>Вы видите четырёх солдат. Они охраняют мост.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Еще двое солдат стоят на другой стороне реки.</DefaultText>
+      <DefaultText>Ещё двое солдат стоят на другой стороне реки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

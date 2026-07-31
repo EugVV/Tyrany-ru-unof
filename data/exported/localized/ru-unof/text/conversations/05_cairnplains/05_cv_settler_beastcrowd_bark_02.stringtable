@@ -51,13 +51,13 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Нужно выследить эту гниду и прикончить ее!»</DefaultText>
+      <DefaultText>«Нужно выследить эту гниду и прикончить её!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Спорю, он спит с этими зверюгами. Как еще это объяснить?»</DefaultText>
-      <FemaleText>«Спорю, она спит с этими зверюгами. Как еще это объяснить?»</FemaleText>
+      <DefaultText>«Спорю, он спит с этими зверюгами. Как ещё это объяснить?»</DefaultText>
+      <FemaleText>«Спорю, она спит с этими зверюгами. Как ещё это объяснить?»</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«И Вершитель зовет это правосудием? Возмутительно!»</DefaultText>
-      <FemaleText>«И Вершительница зовет это правосудием? Возмутительно!»</FemaleText>
+      <DefaultText>«И Вершитель зовёт это правосудием? Возмутительно!»</DefaultText>
+      <FemaleText>«И Вершительница зовёт это правосудием? Возмутительно!»</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Если зверь будет сражаться за Хор, то он все равно обречен на смерть».</DefaultText>
+      <DefaultText>«Если зверь будет сражаться за Хор, то он всё равно обречён на смерть».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Интересно, куда это ведет…»</DefaultText>
+      <DefaultText>«Интересно, куда это ведёт…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Матушка всегда наставляла меня, чтобы я держалась подальше от Шпилей. Хотя я все равно никогда не слушалась».</DefaultText>
+      <DefaultText>«Матушка всегда наставляла меня, чтобы я держалась подальше от Шпилей. Хотя я всё равно никогда не слушалась».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Чувствуешь? Тут есть сила! Нам нужно все здесь исследовать».</DefaultText>
+      <DefaultText>«Чувствуешь? Тут есть сила! Нам нужно всё здесь исследовать».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

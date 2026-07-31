@@ -11,13 +11,13 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«С этим нужно разобраться. Идем поговорим с ними».</DefaultText>
+      <DefaultText>«С этим нужно разобраться. Идём поговорим с ними».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Пусть подождут. Я еще не готов».</DefaultText>
-      <FemaleText>«Пусть подождут. Я еще не готова».</FemaleText>
+      <DefaultText>«Пусть подождут. Я ещё не готов».</DefaultText>
+      <FemaleText>«Пусть подождут. Я ещё не готова».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>

@@ -193,7 +193,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Уйти] «Хорошо. До свидания».</DefaultText>
+      <DefaultText>[Уйти.] «Хорошо. До свидания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,7 +228,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[Уйти] «Мне такое не нужно».</DefaultText>
+      <DefaultText>[Уйти.] «Мне такое не нужно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,8 +263,8 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[Уйти] «Я уверен».</DefaultText>
-      <FemaleText>[Уйти] «Я уверена».</FemaleText>
+      <DefaultText>[Уйти.] «Я уверен».</DefaultText>
+      <FemaleText>[Уйти.] «Я уверена».</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -313,7 +313,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>«Разумеется!» — она кивает вам украдкой. — «Но чтобы вынести суждение, нужно ведь сначала посмотреть на мои свитки, так? Я не стану ничего от вас скрывать, даю слово!»</DefaultText>
+      <DefaultText>«Разумеется!» — она кивает вам украдкой. — «Но, чтобы вынести суждение, нужно ведь сначала посмотреть на мои свитки, так? Я не стану ничего от вас скрывать, даю слово!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

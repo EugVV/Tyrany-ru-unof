@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>[напряженно кряхтит]</DefaultText>
+      <DefaultText>[Напряжённо кряхтит.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>[кряхтит от напряжения]</DefaultText>
+      <DefaultText>[Кряхтит от напряжения.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>«Я подвел тебя, Архонт…»</DefaultText>
+      <DefaultText>«Я подвёл тебя, Архонт…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>[Кряхтит от боли]</DefaultText>
+      <DefaultText>[Кряхтит от боли.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>«Хотел бы я еще раз услышать ее голос…»</DefaultText>
+      <DefaultText>«Хотел бы я ещё раз услышать её голос…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>«Тьфу! Еще одна вмятина».</DefaultText>
+      <DefaultText>«Тьфу! Ещё одна вмятина».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>«Я рожден, чтобы идти первым».</DefaultText>
+      <DefaultText>«Я рождён, чтобы идти первым».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>«Все болит».</DefaultText>
+      <DefaultText>«Всё болит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

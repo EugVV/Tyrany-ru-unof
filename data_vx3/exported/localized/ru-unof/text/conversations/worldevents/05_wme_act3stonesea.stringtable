@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Уйти] «Прощай».</DefaultText>
+      <DefaultText>[Уйти.] «Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[К Сирин] «Можешь с этим разобраться?»</DefaultText>
+      <DefaultText>[К Сирин.] «Можешь с этим разобраться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Солгать] «Они встретят вас как королей. Ваша жизнь станет гораздо легче».</DefaultText>
+      <DefaultText>[Солгать.] «Они встретят вас как королей. Ваша жизнь станет гораздо легче».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

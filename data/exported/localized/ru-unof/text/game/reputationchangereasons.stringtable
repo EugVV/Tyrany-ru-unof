@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Вы вынудили наемников расторгнуть контракт со Скаловержцами.</DefaultText>
+      <DefaultText>Вы вынудили наёмников расторгнуть контракт со Скаловержцами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3131,7 +3131,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Лантри остро осознает, что его спасли для того, чтобы он служил определенной цели.</DefaultText>
+      <DefaultText>Лантри остро осознаёт, что его спасли для того, чтобы он служил определённой цели.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
