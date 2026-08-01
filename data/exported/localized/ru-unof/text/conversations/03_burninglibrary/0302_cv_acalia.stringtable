@@ -103,12 +103,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[Уйти] «Не сейчас».</DefaultText>
+      <DefaultText>[Уйти.] «Не сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Уйти] «Мне пора».</DefaultText>
+      <DefaultText>[Уйти.] «Мне пора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Уйти] «Я подумаю об этом».</DefaultText>
+      <DefaultText>[Уйти.] «Я подумаю об этом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

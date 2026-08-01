@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Уйти] «Пока это всё».</DefaultText>
+      <DefaultText>[Уйти.] «Пока это всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Уйти] «Мне пора».</DefaultText>
+      <DefaultText>[Уйти.] «Мне пора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[Уйти] «Оно того не стоит».</DefaultText>
+      <DefaultText>[Уйти.] «Оно того не стоит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[Солгать] «Он мёртв».</DefaultText>
+      <DefaultText>[Солгать.] «Он мёртв».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

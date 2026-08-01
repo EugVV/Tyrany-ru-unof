@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Еще один ключ-камень — бери его! Э-э… для архива… конечно».</DefaultText>
+      <DefaultText>«Ещё один ключ-камень — бери его! Э-э… для архива… конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Еще камень! Может уже хватит нам собирать древний мусор?»</DefaultText>
+      <DefaultText>«Ещё камень! Может уже хватит нам собирать древний мусор?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Моя ноша и так тяжела, чтобы добавлять к ней еще камень».</DefaultText>
+      <DefaultText>«Моя ноша и так тяжела, чтобы добавлять к ней ещё камень».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

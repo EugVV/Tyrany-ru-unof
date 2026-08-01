@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[Уйти] «Я вернусь».</DefaultText>
+      <DefaultText>[Уйти.] «Я вернусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,13 +286,13 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Солгать] «Я все их нашел, но не все они оказались целыми».</DefaultText>
-      <FemaleText>[Солгать] «Я все их нашла, но не все они оказались целыми».</FemaleText>
+      <DefaultText>[Солгать.] «Я все их нашел, но не все они оказались целыми».</DefaultText>
+      <FemaleText>[Солгать.] «Я все их нашла, но не все они оказались целыми».</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[Солгать] «Да, я их все осмотрел».</DefaultText>
-      <FemaleText>[Солгать] «Да, я их все осмотрела».</FemaleText>
+      <DefaultText>[Солгать.] «Да, я их все осмотрел».</DefaultText>
+      <FemaleText>[Солгать.] «Да, я их все осмотрела».</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -769,7 +769,7 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>[Повысить голос] «Я говорю всё это не для того, чтобы слушать свой голос. Я пытаюсь придать тебе сил, поделиться мудростью».</DefaultText>
+      <DefaultText>[Повысить голос.] «Я говорю всё это не для того, чтобы слушать свой голос. Я пытаюсь придать тебе сил, поделиться мудростью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,12 +784,12 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>[Уйти] «Пойду, погляжу на них».</DefaultText>
+      <DefaultText>[Уйти.] «Пойду, погляжу на них».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>[Уйти] «Пойду искать другие».</DefaultText>
+      <DefaultText>[Уйти.] «Пойду искать другие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -799,8 +799,8 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>[Солгать] «Это всё, что я видел».</DefaultText>
-      <FemaleText>[Солгать] «Это всё, что я видела».</FemaleText>
+      <DefaultText>[Солгать.] «Это всё, что я видел».</DefaultText>
+      <FemaleText>[Солгать.] «Это всё, что я видела».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Мы начнем собирать силу Каирна сразу, как только завершим все приготовления».</DefaultText>
+      <DefaultText>«Мы начнём собирать силу Каирна сразу, как только завершим все приготовления».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,13 +51,13 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Вот бы кто-нибудь сейчас пошел штурмом на врата!»</DefaultText>
+      <DefaultText>«Вот бы кто-нибудь сейчас пошёл штурмом на врата!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Еще немного, Вершитель, и мы обуздаем силу Каирна!»</DefaultText>
-      <FemaleText>«Еще немного, Вершительница, и мы обуздаем силу Каирна!»</FemaleText>
+      <DefaultText>«Ещё немного, Вершитель, и мы обуздаем силу Каирна!»</DefaultText>
+      <FemaleText>«Ещё немного, Вершительница, и мы обуздаем силу Каирна!»</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>

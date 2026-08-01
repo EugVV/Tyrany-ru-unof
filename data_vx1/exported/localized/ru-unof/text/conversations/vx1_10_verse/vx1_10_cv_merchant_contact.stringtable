@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Уйти] «Всего наилучшего».</DefaultText>
+      <DefaultText>[Уйти.] «Всего наилучшего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>«Это все, что ты знаешь?»</DefaultText>
+      <DefaultText>«Это всё, что ты знаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Обратиться к Фуге] «Что думаешь?»</DefaultText>
+      <DefaultText>[Обратиться к Фуге.] «Что думаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[Уйти] «Спасибо, Мальфора».</DefaultText>
+      <DefaultText>[Уйти.] «Спасибо, Мальфора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>«Узкая полоска диких земель достаточно далеко от торговых дорог, чтобы отвадить рейдеров, но достаточно близко, чтобы не терять много времени. Уединенность — это несомненный плюс, а больше и сказать особо нечего».</DefaultText>
+      <DefaultText>«Узкая полоска диких земель достаточно далеко от торговых дорог, чтобы отвадить рейдеров, но достаточно близко, чтобы не терять много времени. Уединённость — это несомненный плюс, а больше и сказать особо нечего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,17 +326,17 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>«Спасибо. Найдем ублюдка — распотрошим его от яиц до подбородка».</DefaultText>
+      <DefaultText>«Спасибо. Найдём ублюдка — распотрошим его от яиц до подбородка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>«Да ну тебя… Это такое вершительское „Благодарим за ценные сведения“».</DefaultText>
+      <DefaultText>«Да ну тебя… это такое вершительское „Благодарим за ценные сведения“».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>«А какова твоя роль во всем этом? Кто ты вообще?»</DefaultText>
+      <DefaultText>«А какова твоя роль во всём этом? Кто ты вообще?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

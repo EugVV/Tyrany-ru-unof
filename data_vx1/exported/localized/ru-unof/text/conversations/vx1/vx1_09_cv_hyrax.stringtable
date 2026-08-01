@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Уйти] «Развлекайся со своими верёвками».</DefaultText>
+      <DefaultText>[Уйти.] «Развлекайся со своими верёвками».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Солгать] «Они уже мертвы».</DefaultText>
+      <DefaultText>[Солгать.] «Они уже мертвы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,12 +113,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Освободить Дамана] «Я разрежу твои верёвки».</DefaultText>
+      <DefaultText>[Освободить Дамана.] «Я разрежу твои верёвки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Уйти] «Я об этом подумаю».</DefaultText>
+      <DefaultText>[Уйти.] «Я об этом подумаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«А он похож на умного?» Он хмыкает. «Честное слово, лучше ставь на меня, если хочешь заключить сделку».</DefaultText>
+      <DefaultText>«А он похож на умного?» — он хмыкает. — «Честное слово, лучше ставь на меня, если хочешь заключить сделку».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[Уйти] «Я посмотрю, что можно сделать».</DefaultText>
+      <DefaultText>[Уйти.] «Я посмотрю, что можно сделать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

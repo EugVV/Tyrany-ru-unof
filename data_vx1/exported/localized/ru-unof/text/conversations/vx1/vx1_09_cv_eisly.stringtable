@@ -107,8 +107,8 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Уйти] «Я вынужден удалиться».</DefaultText>
-      <FemaleText>[Уйти] «Я вынуждена удалиться».</FemaleText>
+      <DefaultText>[Уйти.] «Я вынужден удалиться».</DefaultText>
+      <FemaleText>[Уйти.] «Я вынуждена удалиться».</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -127,7 +127,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Уйти] «Я вернусь позже».</DefaultText>
+      <DefaultText>[Уйти.] «Я вернусь позже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Солгать] «У неё, как и у тебя, проблемы со сном. Но, в отличие от тебя, она решает их тем, что ходит в Старые Стены. Ничего интересного».</DefaultText>
+      <DefaultText>[Солгать.] «У неё, как и у тебя, проблемы со сном. Но, в отличие от тебя, она решает их тем, что ходит в Старые Стены. Ничего интересного».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,13 +212,13 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[Солгать] «Я сделаю всё, чтобы этого больше не было».</DefaultText>
+      <DefaultText>[Солгать.] «Я сделаю всё, чтобы этого больше не было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>«Ты просила Вершителя судеб о расследовании. Таково мое решение».</DefaultText>
-      <FemaleText>«Ты просила Вершительницу судеб о расследовании. Таково мое решение».</FemaleText>
+      <DefaultText>«Ты просила Вершителя судеб о расследовании. Таково моё решение».</DefaultText>
+      <FemaleText>«Ты просила Вершительницу судеб о расследовании. Таково моё решение».</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -227,7 +227,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Угроза] «Не смей ставить под сомнение мои решения».</DefaultText>
+      <DefaultText>[Угрожать.] «Не смей ставить под сомнение мои решения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,8 +272,8 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[Солгать] «Я её прикончил и освободил зверолюдов, которых она держала в неволе».</DefaultText>
-      <FemaleText>[Солгать] «Я её прикончила и освободила зверолюдов, которых она держала в неволе».</FemaleText>
+      <DefaultText>[Солгать.] «Я её прикончил и освободил зверолюдов, которых она держала в неволе».</DefaultText>
+      <FemaleText>[Солгать.] «Я её прикончила и освободила зверолюдов, которых она держала в неволе».</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -282,12 +282,12 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Угроза] «Мне так захотелось — этого довольно. И помни: никому ни слова об этой истории».</DefaultText>
+      <DefaultText>[Угрожать.] «Мне так захотелось — этого довольно. И помни: никому ни слова об этой истории».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Солгать] «От пыток они сошли с ума. Они напали первыми, у меня не было выбора».</DefaultText>
+      <DefaultText>[Солгать.] «От пыток они сошли с ума. Они напали первыми, у меня не было выбора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

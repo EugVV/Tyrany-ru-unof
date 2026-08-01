@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Все, что зверолюды не добьют, — Махальник прогонит».</DefaultText>
+      <DefaultText>«Всё, что зверолюды не добьют, — Махальник прогонит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«На вид, конечно, это место не ахти — но тут лучше, чем наемником быть».</DefaultText>
+      <DefaultText>«На вид, конечно, это место не ахти — но тут лучше, чем наёмником быть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Тебе мало там, наверху, войны? Надо было ее и сюда притащить?»</DefaultText>
+      <DefaultText>«Тебе мало там, наверху, войны? Надо было её и сюда притащить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Как думаешь, Золотая Лапа будет зверей поперед людей ставить?»</DefaultText>
+      <DefaultText>«Как думаешь, Золотая Лапа будет зверей поперёд людей ставить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Кто знает, как оно теперь все обернется».</DefaultText>
+      <DefaultText>«Кто знает, как оно теперь всё обернётся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Яспоса главным сделали — все, хана нам теперь».</DefaultText>
+      <DefaultText>«Яспоса главным сделали — всё, хана нам теперь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Кто знает, как оно теперь все обернется».</DefaultText>
+      <DefaultText>«Кто знает, как оно теперь всё обернётся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
