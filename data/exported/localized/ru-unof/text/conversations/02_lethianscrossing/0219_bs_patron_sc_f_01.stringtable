@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Не лучшее, что мне пить доводилось, но сойдет. Все лучше, чем ничего».</DefaultText>
+      <DefaultText>«Не лучшее, что мне пить доводилось, но сойдёт. Всё лучше, чем ничего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Никак не могу решить: все-таки сделать это — или пойти прибить кого-нибудь».</DefaultText>
+      <DefaultText>«Никак не могу решить: всё-таки сделать это — или пойти прибить кого-нибудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

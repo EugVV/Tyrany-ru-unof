@@ -1222,7 +1222,7 @@
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>[Барику] «Похоже, ты здорово влип. Понимаешь?»</DefaultText>
+      <DefaultText>[Барику.] «Похоже, ты здорово влип. Понимаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,7 +1232,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>«Барик останется в этой железной темнице, пока не покинет ряды Опальных. Либо пока не умрет [url=glossary:грэйвен аше]Грэйвен Аше[/url]».</DefaultText>
+      <DefaultText>«Барик останется в этой железной темнице, пока не покинет ряды Опальных. Либо пока не умрёт [url=glossary:грэйвен аше]Грэйвен Аше[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

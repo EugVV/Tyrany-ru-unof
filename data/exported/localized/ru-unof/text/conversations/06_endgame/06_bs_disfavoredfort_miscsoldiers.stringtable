@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Скажи, это ты обрек нас на этот кошмар?»</DefaultText>
+      <DefaultText>«Скажи, это ты обрёк нас на этот кошмар?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесет закон и порядок в эти дикие земли. Я верю».</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесёт закон и порядок в эти дикие земли. Я верю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Как еще научить разбойников закону, если не с помощью мечей и публичных казней?»</DefaultText>
+      <DefaultText>«Как ещё научить разбойников закону, если не с помощью мечей и публичных казней?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Война у нас в крови. Мы живем ради завоеваний».</DefaultText>
+      <DefaultText>«Война у нас в крови. Мы живём ради завоеваний».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,13 +161,13 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Твой библиотекарь будто пьян или безумен. Или и то, и другое сразу».</DefaultText>
+      <DefaultText>«Твой библиотекарь будто пьян или безумен. Или и то и другое сразу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Ты решил заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать».</DefaultText>
-      <FemaleText>«Ты решила заручиться помощью мага родом из Ярусов? Надеюсь, она не дает тебе заскучать».</FemaleText>
+      <DefaultText>«Ты решил заручиться помощью мага родом из Ярусов? Надеюсь, она не даёт тебе заскучать».</DefaultText>
+      <FemaleText>«Ты решила заручиться помощью мага родом из Ярусов? Надеюсь, она не даёт тебе заскучать».</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>«Твоя зверолюдка знает команды или ты ее держишь, чтобы устроить блошиный цирк?»</DefaultText>
+      <DefaultText>«Твоя зверолюдка знает команды или ты её держишь, чтобы устроить блошиный цирк?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Ты привел сюда шпиона Голосов Нерата?»</DefaultText>
+      <DefaultText>«Ты привёл сюда шпиона Голосов Нерата?»</DefaultText>
       <FemaleText>«Ты привела сюда шпиона Голосов Нерата?»</FemaleText>
     </Entry>
     <Entry>
@@ -201,8 +201,8 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Надеюсь, ты ведешь этого ярусника в подземелья, Вершитель».</DefaultText>
-      <FemaleText>«Надеюсь, ты ведешь этого ярусника в подземелья, Вершительница».</FemaleText>
+      <DefaultText>«Надеюсь, ты ведёшь этого ярусника в подземелья, Вершитель».</DefaultText>
+      <FemaleText>«Надеюсь, ты ведёшь этого ярусника в подземелья, Вершительница».</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>«[url=glossary:алый хор]Алый Хор[/url] — толпа недисциплинированных головорезов. Мы сметем их с лица Терратуса без сомнений и жалости».</DefaultText>
+      <DefaultText>«[url=glossary:алый хор]Алый Хор[/url] — толпа недисциплинированных головорезов. Мы сметём их с лица Терратуса без сомнений и жалости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>«Хранить мир Кайроса — большая честь и еще большая ответственность».</DefaultText>
+      <DefaultText>«Хранить мир Кайроса — большая честь и ещё большая ответственность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«Все болит… мне раньше никогда не было так больно».</DefaultText>
+      <DefaultText>«Всё болит… мне раньше никогда не было так больно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>«Без Голосов Нерата [url=glossary:алый хор]Алый Хор[/url] точно распадется».</DefaultText>
+      <DefaultText>«Без Голосов Нерата [url=glossary:алый хор]Алый Хор[/url] точно распадётся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>«Тунон больше не следит за каждым нашим шагом, и мы, наконец, можем делать здесь все по-своему».</DefaultText>
+      <DefaultText>«Тунон больше не следит за каждым нашим шагом, и мы наконец можем делать здесь все по-своему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

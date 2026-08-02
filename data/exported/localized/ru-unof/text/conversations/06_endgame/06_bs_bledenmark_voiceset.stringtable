@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Мне не важно, чья эта будет кровь — твоя или моя. Один из нас выживет… или мы оба умрем».</DefaultText>
+      <DefaultText>«Мне не важно, чья эта будет кровь — твоя или моя. Один из нас выживет… или мы оба умрём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Напряженно стонет во время удара.]</DefaultText>
+      <DefaultText>[Напряжённо стонет во время удара.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Смеется и поддразнивает.]</DefaultText>
+      <DefaultText>[Смеётся и поддразнивает.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
