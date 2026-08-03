@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Мне казалось, мы ищем еще один тайник с Хроникой».</DefaultText>
+      <DefaultText>«Мне казалось, мы ищем ещё один тайник с Хроникой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Погоди… Так вот что ты искал?»</DefaultText>
+      <DefaultText>«Погоди… так вот что ты искал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Уйти] «У нас сейчас нет на это времени».</DefaultText>
+      <DefaultText>[Уйти.] «У нас сейчас нет на это времени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Хотя его рот шевелится и, кажется, издает какие-то звуки, вы не слышите ни слова. Мир содрогается, когда вы делаете вдох, и энергия наполняет вас до краев.</DefaultText>
+      <DefaultText>Хотя его рот шевелится и, кажется, издаёт какие-то звуки, вы не слышите ни слова. Мир содрогается, когда вы делаете вдох, и энергия наполняет вас до краёв.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

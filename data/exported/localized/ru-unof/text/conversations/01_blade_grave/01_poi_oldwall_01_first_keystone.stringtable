@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Этот старый камень все-таки оказался полезным».</DefaultText>
+      <DefaultText>«Этот старый камень всё-таки оказался полезным».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Люди обтесывают камни, чтобы они влезали в другие камни… Это странно».</DefaultText>
+      <DefaultText>«Люди обтёсывают камни, чтобы они влезали в другие камни… это странно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«А я надеялась, что это все, что нам нужно будет сделать. Но, похоже, зря».</DefaultText>
+      <DefaultText>«А я надеялась, это всё, что нам нужно будет сделать. Но, похоже, зря».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Камень вошел в другой камень. Пока рано праздновать».</DefaultText>
+      <DefaultText>«Камень вошёл в другой камень. Пока рано праздновать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

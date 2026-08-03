@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Достать оружие] «Беги, пока можешь».</DefaultText>
+      <DefaultText>[Достать оружие.] «Беги, пока можешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Атаковать] «Защищайся».</DefaultText>
+      <DefaultText>[Атаковать.] «Защищайся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Атаковать] «Умри, клятвопреступница!»</DefaultText>
+      <DefaultText>[Атаковать.] «Умри, клятвопреступница!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[Солгать] «Мы нашли Таркиса Демоса в Руинах Эджеринга и отпустили его».</DefaultText>
+      <DefaultText>[Солгать.] «Мы нашли Таркиса Демоса в Руинах Эджеринга и отпустили его».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Солгать] «На долину наложено проклятие: все, кто идёт против Кайроса, будут терять силы и скоро умрут».</DefaultText>
+      <DefaultText>[Солгать.] «На долину наложено проклятие: все, кто идёт против Кайроса, будут терять силы и скоро умрут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,12 +312,12 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[Солгать] «Да».</DefaultText>
+      <DefaultText>[Солгать.] «Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>[Солгать] «Это правда. Ложь на пергаменте воняет особенно неприятно».</DefaultText>
+      <DefaultText>[Солгать.] «Это правда. Ложь на пергаменте воняет особенно неприятно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,7 +337,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[Солгать] «Ошибаешься. [url=glossary:эдикт]Эдикт[/url] вечен — он может прекратить действовать только по воле Владыки».</DefaultText>
+      <DefaultText>[Солгать.] «Ошибаешься. [url=glossary:эдикт]Эдикт[/url] вечен — он может прекратить действовать только по воле Владыки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Солгать] «Мощная антимагическая сила способна прервать действие Эдикта. Но такое случается редко».</DefaultText>
+      <DefaultText>[Солгать.] «Мощная антимагическая сила способна прервать действие Эдикта. Но такое случается редко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,7 +488,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>[Солгать] «Пелокс Тирел в плену у Хора».</DefaultText>
+      <DefaultText>[Солгать.] «Пелокс Тирел в плену у Хора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,7 +522,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>[Атаковать] «Всё, мы закончили».</DefaultText>
+      <DefaultText>[Атаковать.] «Всё, мы закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,7 +552,7 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>[Солгать] «Нет, это относится только к клятвопреступникам».</DefaultText>
+      <DefaultText>[Солгать.] «Нет, это относится только к клятвопреступникам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,12 +577,12 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>[Солгать] «Мне доподлинно известно, что [url=glossary:кайрос]Кайрос[/url] — мужчина».</DefaultText>
+      <DefaultText>[Солгать.] «Мне доподлинно известно, что [url=glossary:кайрос]Кайрос[/url] — мужчина».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[Солгать] «Мне доподлинно известно, что [url=glossary:кайрос]Кайрос[/url] — женщина».</DefaultText>
+      <DefaultText>[Солгать.] «Мне доподлинно известно, что [url=glossary:кайрос]Кайрос[/url] — женщина».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -662,12 +662,12 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[Солгать] «Таркис Демос мёртв».</DefaultText>
+      <DefaultText>[Солгать.] «Таркис Демос мёртв».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>[Солгать] «Таркис Демос вступил в ряды Хора».</DefaultText>
+      <DefaultText>[Солгать.] «Таркис Демос вступил в ряды Хора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>[Атаковать] «В таком случае, давай расправимся с этим непокорным гнусом».</DefaultText>
+      <DefaultText>[Атаковать.] «В таком случае, давай расправимся с этим непокорным гнусом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

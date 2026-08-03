@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Атаковать] «Мне надоело слушать твою болтовню».</DefaultText>
+      <DefaultText>[Атаковать.] «Мне надоело слушать твою болтовню».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,13 +510,13 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[Атаковать] «Я передумал, чудовище. Пора избавить мир от тебя».</DefaultText>
-      <FemaleText>[Атаковать] «Я передумала, чудовище. Пора избавить мир от тебя».</FemaleText>
+      <DefaultText>[Атаковать.] «Я передумал, чудовище. Пора избавить мир от тебя».</DefaultText>
+      <FemaleText>[Атаковать.] «Я передумала, чудовище. Пора избавить мир от тебя».</FemaleText>
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>[Атаковать] «Я убью тебя сам, прежде чем позволю тебе тронуть моих приближенных».</DefaultText>
-      <FemaleText>[Атаковать] «Я убью тебя сама, прежде чем позволю тебе тронуть моих приближенных».</FemaleText>
+      <DefaultText>[Атаковать.] «Я убью тебя сам, прежде чем позволю тебе тронуть моих приближенных».</DefaultText>
+      <FemaleText>[Атаковать.] «Я убью тебя сама, прежде чем позволю тебе тронуть моих приближенных».</FemaleText>
     </Entry>
     <Entry>
       <ID>141</ID>
@@ -554,7 +554,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>[Атаковать] «Я лучше прикончу тебя прямо сейчас».</DefaultText>
+      <DefaultText>[Атаковать.] «Я лучше прикончу тебя прямо сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -615,12 +615,12 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[Атаковать] «Ты слишком много говоришь, Архонт Пустобрех».</DefaultText>
+      <DefaultText>[Атаковать.] «Ты слишком много говоришь, Архонт Пустобрех».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>[Атаковать] «Тебе нет места в этом мире, чудовище».</DefaultText>
+      <DefaultText>[Атаковать.] «Тебе нет места в этом мире, чудовище».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -869,7 +869,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>[Солгать] «Я лучше преклоню колени пред тобой, Архонт».</DefaultText>
+      <DefaultText>[Солгать.] «Я лучше преклоню колени пред тобой, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1682,7 +1682,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>[Атаковать [url=glossary:голоса нерата]Голоса Нерата[/url]] «Наверное, ещё не поздно разобраться с этим старомодным способом».</DefaultText>
+      <DefaultText>[Атаковать [url=glossary:голоса нерата]Голоса Нерата[/url].] «Наверное, ещё не поздно разобраться с этим старомодным способом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

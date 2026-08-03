@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Сотня колец тому, кто убьет Вершителя!»</DefaultText>
-      <FemaleText>«Сотня колец тому, кто убьет Вершительницу!»</FemaleText>
+      <DefaultText>«Сотня колец тому, кто убьёт Вершителя!»</DefaultText>
+      <FemaleText>«Сотня колец тому, кто убьёт Вершительницу!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>

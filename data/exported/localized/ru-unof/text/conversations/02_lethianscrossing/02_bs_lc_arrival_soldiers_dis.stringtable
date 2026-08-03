@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Меня ждет дежурство».</DefaultText>
+      <DefaultText>«Меня ждёт дежурство».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Братство никогда не отобьет у нас [url=glossary:распутье летианы]Распутье Летианы[/url]».</DefaultText>
+      <DefaultText>«Братство никогда не отобьёт у нас [url=glossary:распутье летианы]Распутье Летианы[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«С момента, как был провозглашен [url=glossary:эдикт]Эдикт[/url], местные забеспокоились. Теперь будет труднее держать их в узде».</DefaultText>
+      <DefaultText>«С момента, как был провозглашён [url=glossary:эдикт]Эдикт[/url], местные забеспокоились. Теперь будет труднее держать их в узде».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«К нам почти не приходило подкреплений с тех пор, как был провозглашен [url=glossary:эдикт]Эдикт[/url]».</DefaultText>
+      <DefaultText>«К нам почти не приходило подкреплений с тех пор, как был провозглашён [url=glossary:эдикт]Эдикт[/url]».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Говорят, что ты Архонт, но до Грэйвена Аше тебе еще далеко».</DefaultText>
+      <DefaultText>«Говорят, что ты Архонт, но до Грэйвена Аше тебе ещё далеко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
