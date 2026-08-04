@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Солгать] «Она мертва. Увы, останки её уничтожены».</DefaultText>
+      <DefaultText>[Солгать.] «Она мертва. Увы, останки её уничтожены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Солгать] «Она покинула Рану Бастарда».</DefaultText>
+      <DefaultText>[Солгать.] «Она покинула Рану Бастарда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Солгать] «Она мертва. Увы, останки её уничтожены».</DefaultText>
+      <DefaultText>[Солгать.] «Она мертва. Увы, останки её уничтожены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Солгать] «Она покинула Рану Бастарда».</DefaultText>
+      <DefaultText>[Солгать.] «Она покинула Рану Бастарда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[Солгать] «Она погибла на нижних уровнях. Останки её уничтожены».</DefaultText>
+      <DefaultText>[Солгать.] «Она погибла на нижних уровнях. Останки её уничтожены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Солгать] «Она покинула Рану Бастарда».</DefaultText>
+      <DefaultText>[Солгать.] «Она покинула Рану Бастарда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Уйти] «[url=glossary:кайрос]Кайрос[/url] милосердный, с меня хватит. Разбирайтесь с этим сами».</DefaultText>
+      <DefaultText>[Уйти.] «[url=glossary:кайрос]Кайрос[/url] милосердный, с меня хватит. Разбирайтесь с этим сами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Солгать] «Мы нашли её на нижних уровнях. Она сказала, что не вернётся».</DefaultText>
+      <DefaultText>[Солгать.] «Мы нашли её на нижних уровнях. Она сказала, что не вернётся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -398,7 +398,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>«Ты… уходишь? Но тогда же начнется…» Мелл трясет головой. «Это что, шутка такая?»</DefaultText>
+      <DefaultText>«Ты… уходишь? Но тогда же начнётся…» — Мелл трясёт головой. — «Это что, шутка такая?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,17 +408,17 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Писец громко сглатывает. «Прошу меня простить. У меня и в мыслях не было оспаривать твое решение».</DefaultText>
+      <DefaultText>Писец громко сглатывает: «Прошу меня простить. У меня и в мыслях не было оспаривать твоё решение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Он легонько кивает. «Что ж, тогда прощай. До скорой… а, неважно».</DefaultText>
+      <DefaultText>Он легонько кивает: «Что ж, тогда прощай. До скорой… а, неважно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>«Но все же… я подумал, что, может быть…» Он умолкает и пожимает плечами.</DefaultText>
+      <DefaultText>«Но всё же… я подумал, что, может быть…» — он умолкает и пожимает плечами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,8 +428,8 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«Все, мое терпение лопнуло. Скажите спасибо, что я не приказал предать вас всех мечу».</DefaultText>
-      <FemaleText>«Все, мое терпение лопнуло. Скажите спасибо, что я не приказала предать вас всех мечу».</FemaleText>
+      <DefaultText>«Всё, моё терпение лопнуло. Скажите спасибо, что я не приказал предать вас всех мечу».</DefaultText>
+      <FemaleText>«Всё, моё терпение лопнуло. Скажите спасибо, что я не приказала предать вас всех мечу».</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>

@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Если [url=glossary:опальные]Опальные[/url] надеются уморить нас голодом, их ждет разочарование».</DefaultText>
+      <DefaultText>«Если [url=glossary:опальные]Опальные[/url] надеются уморить нас голодом, их ждёт разочарование».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Наши припасы подходят к концу, но мы еще держимся».</DefaultText>
+      <DefaultText>«Наши припасы подходят к концу, но мы ещё держимся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Капитан Агатон уже не первый месяц не дает нам падать духом».</DefaultText>
+      <DefaultText>«Капитан Агатон уже не первый месяц не даёт нам падать духом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Ты пришел, чтобы помочь нам или чтобы судить нас, Вершитель судеб?»</DefaultText>
+      <DefaultText>«Ты пришёл, чтобы помочь нам или чтобы судить нас, Вершитель судеб?»</DefaultText>
       <FemaleText>«Ты пришла, чтобы помочь нам или чтобы судить нас, Вершительница судеб?»</FemaleText>
     </Entry>
   </Entries>

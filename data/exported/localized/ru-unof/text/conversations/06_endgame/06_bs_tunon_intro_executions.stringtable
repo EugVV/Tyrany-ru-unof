@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Бегите, пока Адъюдикатор не приговорил кого-то еще!»</DefaultText>
+      <DefaultText>«Бегите, пока Адъюдикатор не приговорил кого-то ещё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Никто не уйдет от меня!»</DefaultText>
+      <DefaultText>«Никто не уйдёт от меня!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

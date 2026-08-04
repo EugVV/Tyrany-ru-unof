@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Может, теперь, когда наши здания не обрушиваются чуть ли не каждый день, мы сможем все отстроить заново».</DefaultText>
+      <DefaultText>«Может, теперь, когда наши здания не обрушиваются чуть ли не каждый день, мы сможем всё отстроить заново».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>«Не знаю, сколько еще мы сможем тут жить».</DefaultText>
+      <DefaultText>«Не знаю, сколько ещё мы сможем тут жить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>«Толчки становятся все сильнее и сильнее».</DefaultText>
+      <DefaultText>«Толчки становятся всё сильнее и сильнее».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

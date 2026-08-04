@@ -26,8 +26,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Зовешь себя Вершителем судеб, да? А если я назову тебя своей новой игрушкой?»</DefaultText>
-      <FemaleText>«Зовешь себя Вершительницей судеб, да? А если я назову тебя своей новой игрушкой?»</FemaleText>
+      <DefaultText>«Зовёшь себя Вершителем судеб, да? А если я назову тебя своей новой игрушкой?»</DefaultText>
+      <FemaleText>«Зовёшь себя Вершительницей судеб, да? А если я назову тебя своей новой игрушкой?»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Иди куда шел».</DefaultText>
+      <DefaultText>«Иди куда шёл».</DefaultText>
       <FemaleText>«Иди куда шла».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Никогда еще не доводилось убивать Архонта. Интересно, каково это?»</DefaultText>
+      <DefaultText>«Никогда ещё не доводилось убивать Архонта. Интересно, каково это?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

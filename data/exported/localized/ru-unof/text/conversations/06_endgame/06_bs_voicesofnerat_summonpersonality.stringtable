@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Подожди, не сдавайся… мы еще не все тебе показали!»</DefaultText>
+      <DefaultText>«Подожди, не сдавайся… мы ещё не всё тебе показали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Тебе придется убить нас ВСЕХ!»</DefaultText>
+      <DefaultText>«Тебе придётся убить нас ВСЕХ!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

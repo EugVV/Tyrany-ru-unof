@@ -669,12 +669,12 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>[Достать оружие] «Согласен. Её нельзя оставлять в живых».</DefaultText>
-      <FemaleText>[Достать оружие] «Согласна. Её нельзя оставлять в живых».</FemaleText>
+      <DefaultText>[Достать оружие.] «Согласен. Её нельзя оставлять в живых».</DefaultText>
+      <FemaleText>[Достать оружие.] «Согласна. Её нельзя оставлять в живых».</FemaleText>
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>[Отпустить Фугу] «Прибереги свою ярость для поля боя. Я не потерплю ещё одного нарушения синего флага».</DefaultText>
+      <DefaultText>[Сдержать Фугу.] «Прибереги свою ярость для поля боя. Я не потерплю ещё одного нарушения синего флага».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,7 +801,7 @@
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>[Атаковать] «Взять её!»</DefaultText>
+      <DefaultText>[Атаковать.] «Взять её!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

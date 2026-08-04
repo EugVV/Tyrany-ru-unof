@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесет закон и порядок в эти дикие земли. Я верю».</DefaultText>
+      <DefaultText>«[url=glossary:грэйвен аше]Грэйвен Аше[/url] принесёт закон и порядок в эти дикие земли. Я верю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Как еще научить разбойников закону, если не с помощью мечей и публичных казней?»</DefaultText>
+      <DefaultText>«Как ещё научить разбойников закону, если не с помощью мечей и публичных казней?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

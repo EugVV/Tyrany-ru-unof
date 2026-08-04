@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Уйти] «Как-нибудь в другой раз».</DefaultText>
+      <DefaultText>[Уйти.] «Как-нибудь в другой раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Как насчет Полумачты?»</DefaultText>
+      <DefaultText>«Как насчёт Полумачты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

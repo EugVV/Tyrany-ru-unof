@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Атаковать] «Мы должны помочь Драстусу!»</DefaultText>
+      <DefaultText>[Атаковать.] «Мы должны помочь Драстусу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Атаковать] «Слышали, что сказал Драстус, — пусть умрёт!»</DefaultText>
+      <DefaultText>[Атаковать.] «Слышали, что сказал Драстус, — пусть умрёт!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

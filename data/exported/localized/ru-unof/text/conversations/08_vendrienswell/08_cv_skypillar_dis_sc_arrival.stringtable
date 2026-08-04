@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Атаковать] «Не желаешь принимать меня всерьёз — доставай оружие».</DefaultText>
+      <DefaultText>[Атаковать.] «Не желаешь принимать меня всерьёз — доставай оружие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Атаковать] «Давно пора».</DefaultText>
+      <DefaultText>[Атаковать.] «Давно пора».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
