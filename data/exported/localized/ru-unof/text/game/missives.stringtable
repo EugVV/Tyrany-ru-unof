@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Отчет о статусе</DefaultText>
+      <DefaultText>Отчёт о статусе</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Пусть [url=glossary:эдикт]Эдикт[/url] заберет твою бесполезную жизнь.</DefaultText>
+      <DefaultText>Пусть [url=glossary:эдикт]Эдикт[/url] заберёт твою бесполезную жизнь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Насчет вашего интереса в Шпилях</DefaultText>
+      <DefaultText>Насчёт вашего интереса в Шпилях</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -32,7 +32,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Уйти] «Мне надо идти».</DefaultText>
+      <DefaultText>[Уйти.] «Мне надо идти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>«Архонт, при всём моем уважении — нам стоит держаться подальше друг от друга. Я больше не общаюсь с тобой, даже в компании других людей».</DefaultText>
+      <DefaultText>«Архонт, при всём моём уважении — нам стоит держаться подальше друг от друга. Я больше не общаюсь с тобой, даже в компании других людей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Атаковать] «Подходи, палач».</DefaultText>
+      <DefaultText>[Атаковать.] «Подходи, палач».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Атаковать] «В таком случае я с радостью решу этот вопрос кровопролитием».</DefaultText>
+      <DefaultText>[Атаковать.] «В таком случае я с радостью решу этот вопрос кровопролитием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,12 +105,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Атаковать] «Позволь мне тебя перебить».</DefaultText>
+      <DefaultText>[Атаковать.] «Позволь мне тебя перебить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Нервно посмеяться] «Приятель… мой старый друг… в чём дело?»</DefaultText>
+      <DefaultText>[Нервно посмеяться.] «Приятель… мой старый друг… в чём дело?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

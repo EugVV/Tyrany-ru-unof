@@ -225,7 +225,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Уйти] «Прощай».</DefaultText>
+      <DefaultText>[Уйти.] «Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
