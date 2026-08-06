@@ -651,7 +651,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Вам не удалось обезвредить ловушку.</DefaultText>
+      <DefaultText>Не удалось обезвредить ловушку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Желаете отдохнуть в течение {0} ч.?</DefaultText>
+      <DefaultText>Отдохнуть в течение {0} ч.?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1255,42 +1255,42 @@
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Рубящий</DefaultText>
+      <DefaultText>рубящий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>Дробящий</DefaultText>
+      <DefaultText>дробящий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>Колющий</DefaultText>
+      <DefaultText>колющий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Огненный</DefaultText>
+      <DefaultText>огненный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Ледяной</DefaultText>
+      <DefaultText>ледяной</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Электрический</DefaultText>
+      <DefaultText>электрический</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>Разъедающий</DefaultText>
+      <DefaultText>разъедающий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>Магический</DefaultText>
+      <DefaultText>магический</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5654,7 +5654,7 @@
     </Entry>
     <Entry>
       <ID>1429</ID>
-      <DefaultText>{0} к Выносливости</DefaultText>
+      <DefaultText>{0} к выносливости</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5699,7 +5699,7 @@
     </Entry>
     <Entry>
       <ID>1438</ID>
-      <DefaultText>{0} к Хитроумию</DefaultText>
+      <DefaultText>{0} к хитроумию</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10329,27 +10329,27 @@
     </Entry>
     <Entry>
       <ID>2542</ID>
-      <DefaultText>Обычное</DefaultText>
+      <DefaultText>обычное</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2543</ID>
-      <DefaultText>Хорошее</DefaultText>
+      <DefaultText>хорошее</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2544</ID>
-      <DefaultText>Превосходное</DefaultText>
+      <DefaultText>превосходное</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2545</ID>
-      <DefaultText>Выдающееся</DefaultText>
+      <DefaultText>выдающееся</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2546</ID>
-      <DefaultText>Безупречное</DefaultText>
+      <DefaultText>безупречное</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13964,32 +13964,32 @@
     </Entry>
     <Entry>
       <ID>3337</ID>
-      <DefaultText>Ткань</DefaultText>
+      <DefaultText>ткань</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3338</ID>
-      <DefaultText>Кожа</DefaultText>
+      <DefaultText>кожа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3339</ID>
-      <DefaultText>Дерево</DefaultText>
+      <DefaultText>дерево</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3340</ID>
-      <DefaultText>Железо</DefaultText>
+      <DefaultText>железо</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3341</ID>
-      <DefaultText>Бронза</DefaultText>
+      <DefaultText>бронза</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3342</ID>
-      <DefaultText>Сталь</DefaultText>
+      <DefaultText>сталь</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19576,7 +19576,7 @@
     </Entry>
     <Entry>
       <ID>4431</ID>
-      <DefaultText>Для персонажа {0} есть незавершенные изменения.</DefaultText>
+      <DefaultText>Для персонажа {0} есть незавершённые изменения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
