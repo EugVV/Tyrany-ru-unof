@@ -176,8 +176,8 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Забудь, что я об этом говорил. Вернемся к другим вопросам».</DefaultText>
-      <FemaleText>«Забудь, что я об этом говорила. Вернемся к другим вопросам».</FemaleText>
+      <DefaultText>«Забудь, что я об этом говорил. Вернёмся к другим вопросам».</DefaultText>
+      <FemaleText>«Забудь, что я об этом говорила. Вернёмся к другим вопросам».</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[Солгать] «Всё в порядке, Маттиас. Мы ничего не могли сделать».</DefaultText>
+      <DefaultText>[Солгать.] «Всё в порядке, Маттиас. Мы ничего не могли сделать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

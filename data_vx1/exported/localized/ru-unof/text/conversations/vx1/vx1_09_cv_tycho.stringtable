@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[Уйти] «Я продолжу расследование».</DefaultText>
+      <DefaultText>[Уйти.] «Я продолжу расследование».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Махальник? Но чистота воды — это же его конек! Чем ты можешь доказать свои слова?»</DefaultText>
+      <DefaultText>«Махальник? Но чистота воды — это же его конёк! Чем ты можешь доказать свои слова?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

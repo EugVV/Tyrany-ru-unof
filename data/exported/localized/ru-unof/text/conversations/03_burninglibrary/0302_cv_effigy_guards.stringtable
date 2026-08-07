@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Атаковать] «Книгочеи должны умереть! За Грэйвена Аше!»</DefaultText>
+      <DefaultText>[Атаковать.] «Книгочеи должны умереть! За Грэйвена Аше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Уйти] «Поговорим позже».</DefaultText>
+      <DefaultText>[Уйти.] «Поговорим позже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Это исключено. Рената сказала, что к нему нельзя никого пускать без ее сопровождения».</DefaultText>
+      <DefaultText>«Это исключено. Рената сказала, что к нему нельзя никого пускать без её сопровождения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Она наш лидер. Если хочешь увидеть пленника, тебе нужно получить у нее на это разрешение».</DefaultText>
+      <DefaultText>«Она наш лидер. Если хочешь увидеть пленника, тебе нужно получить у неё на это разрешение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Возвращайся туда, откуда пришел, пока не начались проблемы».</DefaultText>
+      <DefaultText>«Возвращайся туда, откуда пришёл, пока не начались проблемы».</DefaultText>
       <FemaleText>«Возвращайся туда, откуда пришла, пока не начались проблемы».</FemaleText>
     </Entry>
     <Entry>

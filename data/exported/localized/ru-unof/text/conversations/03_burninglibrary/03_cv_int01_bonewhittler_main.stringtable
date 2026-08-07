@@ -55,12 +55,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Атаковать] «Я хочу, чтобы ты умер».</DefaultText>
+      <DefaultText>[Атаковать.] «Я хочу, чтобы ты умер».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Обратиться к Книгочеям] «Кто-то из вас хочет, чтобы этот тип нашел Безмолвный Архив? Я, например, не хочу».</DefaultText>
+      <DefaultText>[Обратиться к Книгочеям.] «Кто-то из вас хочет, чтобы этот тип нашёл Безмолвный Архив? Я, например, не хочу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«[url=glossary:эдикт]Эдикт[/url], провозглашенный в Северной Империи, должен решить все проблемы».</DefaultText>
+      <DefaultText>«[url=glossary:эдикт]Эдикт[/url], провозглашённый в Северной Империи, должен решить все проблемы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,7 +332,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[Солгать] «Не волнуйся. Мы это исправим».</DefaultText>
+      <DefaultText>[Солгать.] «Не волнуйся. Мы это исправим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

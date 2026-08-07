@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Атаковать] «Ты мне не указ».</DefaultText>
+      <DefaultText>[Атаковать.] «Ты мне не указ».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Уйти] «Хорошо».</DefaultText>
+      <DefaultText>[Уйти.] «Хорошо».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

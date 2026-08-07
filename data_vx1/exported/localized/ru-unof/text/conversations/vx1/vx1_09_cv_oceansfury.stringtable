@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Уйти] «Я пойду».</DefaultText>
+      <DefaultText>[Уйти.] «Я пойду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
