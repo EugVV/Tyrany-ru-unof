@@ -2491,17 +2491,17 @@
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>[Посмотреть на Сирин] «Я имел в виду „его“».</DefaultText>
-      <FemaleText>[Посмотреть на Сирин] «Я имела в виду „его“».</FemaleText>
+      <DefaultText>[Посмотреть на Сирин.] «Я имел в виду „его“».</DefaultText>
+      <FemaleText>[Посмотреть на Сирин.] «Я имела в виду „его“».</FemaleText>
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>[Посмотреть на Сирин] «Я имею в виду „её“».</DefaultText>
+      <DefaultText>[Посмотреть на Сирин.] «Я имею в виду „её“».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>[Включить Атли в отряд] «Собирайся, мне нужны твои навыки».</DefaultText>
+      <DefaultText>[Включить Атли в отряд.] «Собирайся, мне нужны твои навыки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

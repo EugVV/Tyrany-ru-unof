@@ -242,8 +242,8 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Спасибо, что спас меня из этого ужасного места».</DefaultText>
-      <FemaleText>«Спасибо, что спасла меня из этого ужасного места».</FemaleText>
+      <DefaultText>«Спасибо, что спас меня из того ужасного места».</DefaultText>
+      <FemaleText>«Спасибо, что спасла меня из того ужасного места».</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
