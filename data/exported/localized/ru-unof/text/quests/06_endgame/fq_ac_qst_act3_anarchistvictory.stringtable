@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант — Семипалая. Убейте ее, чтобы расчистить себе путь.</DefaultText>
+      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант — Семипалая. Убейте её, чтобы расчистить себе путь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] ждет вас для разговора в Пепельной Глуши.</DefaultText>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] ждёт вас для разговора в Пепельной Глуши.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>10021</ID>
-      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] выразился ясно: ему придется сражаться с вами в суде Тунона.</DefaultText>
+      <DefaultText>[url=glossary:бледен марк]Бледен Марк[/url] выразился ясно: ему придётся сражаться с вами в суде Тунона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

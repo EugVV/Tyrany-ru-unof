@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Никто не войдет в руины без разрешения Цензора!»</DefaultText>
+      <DefaultText>«Никто не войдёт в руины без разрешения Цензора!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Иди. Твоя могила ждет тебя».</DefaultText>
+      <DefaultText>«Иди. Твоя могила ждёт тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Марик привел сюда поисковую группу. Говорят, они плохо кончили».</DefaultText>
+      <DefaultText>«Марик привёл сюда поисковую группу. Говорят, они плохо кончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

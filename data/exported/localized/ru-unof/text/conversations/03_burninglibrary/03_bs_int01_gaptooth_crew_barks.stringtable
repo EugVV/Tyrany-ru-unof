@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Я жажду боя! Идем!»</DefaultText>
+      <DefaultText>«Я жажду боя! Идём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Пока мы тут ждем, другая группа может выиграть!»</DefaultText>
+      <DefaultText>«Пока мы тут ждём, другая группа может выиграть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

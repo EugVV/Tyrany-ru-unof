@@ -382,7 +382,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>«А вы вообще-то похожи. В определенном смысле».</DefaultText>
+      <DefaultText>«А вы вообще-то похожи. В определённом смысле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>«Хотя я рискую исторгнуть из себя последнюю трапезу, но мне второй раз придется согласиться с Бариком».</DefaultText>
+      <DefaultText>«Хотя я рискую исторгнуть из себя последнюю трапезу, но мне второй раз придётся согласиться с Бариком».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

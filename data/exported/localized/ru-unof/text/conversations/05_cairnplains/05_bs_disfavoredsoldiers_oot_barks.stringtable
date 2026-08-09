@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Может, мы и прервали [url=glossary:эдикт]Эдикт[/url], но земле мы точно ничем не помогли, да? Теперь нам остается только ждать, пока наши враги станут умирать от голода».</DefaultText>
+      <DefaultText>«Может, мы и прервали [url=glossary:эдикт]Эдикт[/url], но земле мы точно ничем не помогли, да? Теперь нам остаётся только ждать, пока наши враги начнут умирать от голода».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Мое почтение, господин».</DefaultText>
-      <FemaleText>«Мое почтение, госпожа».</FemaleText>
+      <DefaultText>«Моё почтение, господин».</DefaultText>
+      <FemaleText>«Моё почтение, госпожа».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Мы начнем собирать силу Каирна сразу, как только завершим все приготовления».</DefaultText>
+      <DefaultText>«Мы начнём собирать силу Каирна сразу, как только завершим все приготовления».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Чего ты ждешь? Убей чудовище!»</DefaultText>
+      <DefaultText>«Чего ты ждёшь? Убей чудовище!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Золотое кольцо тому, кто принесет мне его отрубленную лапу!»</DefaultText>
+      <DefaultText>«Золотое кольцо тому, кто принесёт мне его отрубленную лапу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

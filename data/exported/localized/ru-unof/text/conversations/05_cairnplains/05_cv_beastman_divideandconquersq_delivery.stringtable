@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Он раздраженно взвизгивает. «Зверолюды не лгут, в отличие от людей».</DefaultText>
+      <DefaultText>Он раздражённо взвизгивает: «Зверолюды не лгут, в отличие от людей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Предложить угощение] «Что ты видел? Скажи мне».</DefaultText>
+      <DefaultText>[Предложить угощение.] «Что ты видел? Скажи мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Уйти] «Меня это не интересует».</DefaultText>
+      <DefaultText>[Уйти.] «Меня это не интересует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,17 +56,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Он наклоняет голову набок, задумавшись. «Как может зверолюд знать мысли людей?»</DefaultText>
+      <DefaultText>Он наклоняет голову набок, задумавшись: «Как может зверолюд знать мысли людей?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Он охотно принимает мясное лакомство и начинает разгрызать его мощными челюстями, разбрызгивая слюну. Он радостно излагает свой рассказ, поглощая кровавый кусок мяса.</DefaultText>
+      <DefaultText>Он охотно принимает мясное лакомство и начинает разгрызать его мощными челюстями, разбрызгивая слюну. Довольный кровавым куском мяса, он рассказывает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Помню запах человека. Человек пошел посмотреть то, что видел Разломорой?»</DefaultText>
+      <DefaultText>«Помню запах человека. Человек пошёл посмотреть то, что видел Разломорой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
