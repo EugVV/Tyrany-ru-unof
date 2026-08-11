@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Хотя вы провозгласили себя Архонтом, [url=glossary:грэйвен аше]Грэйвен Аше[/url] все же призвал вас в Железный Очаг для разговора.</DefaultText>
+      <DefaultText>Хотя вы провозгласили себя Архонтом, [url=glossary:грэйвен аше]Грэйвен Аше[/url] всё же призвал вас в Железный Очаг для разговора.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант — Семипалая. Убейте ее, чтобы расчистить себе путь.</DefaultText>
+      <DefaultText>Между вами и Голосами Нерата стоит его лейтенант — Семипалая. Убейте её, чтобы расчистить себе путь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] побежден, но [url=glossary:опальные]Опальные[/url] отказались следовать за вами.</DefaultText>
+      <DefaultText>[url=glossary:грэйвен аше]Грэйвен Аше[/url] побеждён, но [url=glossary:опальные]Опальные[/url] отказались следовать за вами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

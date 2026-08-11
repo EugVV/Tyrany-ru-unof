@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Махальник тут все построил с нуля».</DefaultText>
+      <DefaultText>«Махальник тут всё построил с нуля».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Заклинатель Приливов мужик нелюдимый, зато свое дело знает отлично».</DefaultText>
+      <DefaultText>«Заклинатель Приливов мужик нелюдимый, зато своё дело знает отлично».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Махальник все может расчистить, Вершитель судеб, честное слово».</DefaultText>
-      <FemaleText>«Махальник все может расчистить, Вершительница судеб, честное слово».</FemaleText>
+      <DefaultText>«Махальник всё может расчистить, Вершитель судеб, честное слово».</DefaultText>
+      <FemaleText>«Махальник всё может расчистить, Вершительница судеб, честное слово».</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Золотая Лапа вернулась… Думаю, от воды стоит держаться подальше».</DefaultText>
+      <DefaultText>«Золотая Лапа вернулась… думаю, от воды стоит держаться подальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Придется привыкать, выходит, Яспоса мастером называть».</DefaultText>
+      <DefaultText>«Придётся привыкать, выходит, Яспоса мастером называть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
