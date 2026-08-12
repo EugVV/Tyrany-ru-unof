@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Положить на пьедестал «Весы Милосердия».</DefaultText>
+      <DefaultText>Положить на пьедестал «Весы милосердия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Положить на пьедестал «Перчатки Алхимика».</DefaultText>
+      <DefaultText>Положить на пьедестал «Перчатки алхимика».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Положить на пьедестал «Кровь Сердца».</DefaultText>
+      <DefaultText>Положить на пьедестал «Кровь сердца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Положить на пьедестал «Снежный Клык».</DefaultText>
+      <DefaultText>Положить на пьедестал «Снежный клык».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,17 +121,17 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Положить на пьедестал «Оковы Теней».</DefaultText>
+      <DefaultText>Положить на пьедестал «Оковы теней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Положить на пьедестал «Оковы Теней».</DefaultText>
+      <DefaultText>Положить на пьедестал «Оковы теней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Положить на пьедестал «Последний Крик».</DefaultText>
+      <DefaultText>Положить на пьедестал «Последний крик».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Положить на пьедестал «Посох Часов».</DefaultText>
+      <DefaultText>Положить на пьедестал «Посох часов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
