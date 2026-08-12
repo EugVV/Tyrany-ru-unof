@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Столько мощи… поразительно! Посмотрим, к чему это приведет».</DefaultText>
+      <DefaultText>«Столько мощи… поразительно! Посмотрим, к чему это приведёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Это не обычная буря, нам понадобится защита, чтобы сквозь нее пробиться».</DefaultText>
+      <DefaultText>«Это не обычная буря, нам понадобится защита, чтобы сквозь неё пробиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Эта буря разнесет нас в клочья! Надо чем-то себя оградить, чтобы пройти».</DefaultText>
+      <DefaultText>«Эта буря разнесёт нас в клочья! Надо чем-то себя оградить, чтобы пройти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -566,12 +566,12 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>«Приношу свои извинения, Вершитель судеб. Я не думал, что с тобой надо нежничать». Он распрямляется.</DefaultText>
-      <FemaleText>«Приношу свои извинения, Вершительница судеб. Я не думал, что с тобой надо нежничать». Он распрямляется.</FemaleText>
+      <DefaultText>«Приношу свои извинения, Вершитель судеб. Я не думал, что с тобой надо нежничать», — он распрямляется.</DefaultText>
+      <FemaleText>«Приношу свои извинения, Вершительница судеб. Я не думал, что с тобой надо нежничать», — он распрямляется.</FemaleText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Он раздраженно повторяет ваш жест.</DefaultText>
+      <DefaultText>Он раздражённо повторяет ваш жест.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>«В нем было куда больше двусмысленности, чем тебе кажется. Гибкость закона — в деталях».</DefaultText>
+      <DefaultText>«В нём было куда больше двусмысленности, чем тебе кажется. Гибкость закона — в деталях».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>«Не пойму я вас, судейских! Говорите одно, затеваете другое, и все во имя правосудия».</DefaultText>
+      <DefaultText>«Не пойму я вас, судейских! Говорите одно, затеваете другое, и всё во имя правосудия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,12 +1211,12 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>«И я рад, что я с тобой, Архонт. Ну что, пойдем?»</DefaultText>
+      <DefaultText>«И я рад, что я с тобой, Архонт. Ну что, пойдём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>«Пойдем». Барик кивает.</DefaultText>
+      <DefaultText>«Пойдём», — Барик кивает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

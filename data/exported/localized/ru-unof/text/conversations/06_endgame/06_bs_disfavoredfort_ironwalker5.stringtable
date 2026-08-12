@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Знаешь эту песню? Я раньше пела ее дочери».</DefaultText>
+      <DefaultText>«Знаешь эту песню? Я раньше пела её дочери».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Мы решили, что только один из нас пойдет на войну. Он для армии непригоден».</DefaultText>
+      <DefaultText>«Мы решили, что только один из нас пойдёт на войну. Он для армии непригоден».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Хотелось бы увидеть выражение на лице Аше теперь, когда его последний отпрыск мертв».</DefaultText>
+      <DefaultText>«Хотелось бы увидеть выражение на лице Аше теперь, когда его последний отпрыск мёртв».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Амелия была хорошим солдатом. Мне ужасно ее жаль».</DefaultText>
+      <DefaultText>«Амелия была хорошим солдатом. Мне ужасно её жаль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

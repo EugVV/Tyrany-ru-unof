@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Скажем прямо — я тут слишком много трачу, но она того стоит, правда».</DefaultText>
+      <DefaultText>«Скажем прямо: я тут слишком много трачу, но она того стоит, правда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Если будет возможность, „Железное долбило“ у нее закажи. Круче не бывает!»</DefaultText>
+      <DefaultText>«Если будет возможность, „Железное долбило“ у неё закажи. Круче не бывает!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

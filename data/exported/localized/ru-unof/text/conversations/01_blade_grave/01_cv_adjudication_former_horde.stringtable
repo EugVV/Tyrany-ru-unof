@@ -221,17 +221,17 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Так вот в какую игру мы играем, а?» Он ухмыляется. «У меня есть пригоршня-другая колец. Не слишком высокая цена за новую жизнь».</DefaultText>
+      <DefaultText>«Так вот в какую игру мы играем, да?» — он ухмыляется. — «У меня есть пригоршня-другая колец. Не слишком высокая цена за новую жизнь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Забрать кольца] «Тренируйтесь вместе с Опальными, но вступить в их ряды я вам не разрешу».</DefaultText>
+      <DefaultText>[Забрать кольца.] «Тренируйтесь вместе с Опальными, но вступить в их ряды я вам не разрешу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>«Так не пойдет».</DefaultText>
+      <DefaultText>«Так не пойдёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>«Напомни, в чем суть вашего спора».</DefaultText>
+      <DefaultText>«Напомни, в чём суть вашего спора?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

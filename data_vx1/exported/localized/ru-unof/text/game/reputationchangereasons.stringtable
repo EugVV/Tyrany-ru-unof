@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>992</ID>
-      <DefaultText>Кассандра разозлилась за то, что вы заставили ее отдать ценные инструменты.</DefaultText>
+      <DefaultText>Кассандра разозлилась за то, что вы заставили её отдать ценные инструменты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>1010</ID>
-      <DefaultText>Вы поручили Смерти-из-Тени поговорить с Золотой Лапой и вразумить ее.</DefaultText>
+      <DefaultText>Вы поручили Смерти-из-Тени поговорить с Золотой Лапой и вразумить её.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
