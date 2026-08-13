@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Буря рассеялась прямо на моих глазах! В какое захватывающее время мы живем!»</DefaultText>
+      <DefaultText>«Буря рассеялась прямо на моих глазах! В какое захватывающее время мы живём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«А правда, что ты прошел в брешь в Старых Стенах?»</DefaultText>
+      <DefaultText>«А правда, что ты прошёл в брешь в Старых Стенах?»</DefaultText>
       <FemaleText>«А правда, что ты прошла в брешь в Старых Стенах?»</FemaleText>
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Регент мертв? Вот и хорошо».</DefaultText>
+      <DefaultText>«Регент мёртв? Вот и хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

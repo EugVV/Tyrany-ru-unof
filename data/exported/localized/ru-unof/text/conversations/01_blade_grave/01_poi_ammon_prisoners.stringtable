@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Видишь тот хлев? Пленники в нем одеты в цвета Несломленных».</DefaultText>
+      <DefaultText>«Видишь тот хлев? Пленники в нём одеты в цвета Несломленных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Этим пленникам повезло, что Голоса не пришел допрашивать их лично».</DefaultText>
+      <DefaultText>«Этим пленникам повезло, что Голоса не пришёл допрашивать их лично».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

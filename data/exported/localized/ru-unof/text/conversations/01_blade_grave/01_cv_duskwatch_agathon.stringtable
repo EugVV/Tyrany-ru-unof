@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>«Я пришел закончить [url=glossary:эдикт]Эдикт[/url] и принести мир в регион».</DefaultText>
+      <DefaultText>«Я пришёл закончить [url=glossary:эдикт]Эдикт[/url] и принести мир в регион».</DefaultText>
       <FemaleText>«Я пришла закончить [url=glossary:эдикт]Эдикт[/url] и принести мир в регион».</FemaleText>
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>«Если так, что тут тебе помогут охотно. [url=glossary:несломленные]Несломленные[/url] хотят попасть в Твердыню Часовых и исполнить [url=glossary:эдикт]Эдикт[/url] Кайроса, убив Стрейдуса Иродина».</DefaultText>
+      <DefaultText>«Если так, что тут тебе помогут охотно. [url=glossary:несломленные]Несломленные[/url] хотят попасть в Твердыню Часовых и завершить [url=glossary:эдикт]Эдикт[/url] Кайроса, убив Стрейдуса Иродина».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

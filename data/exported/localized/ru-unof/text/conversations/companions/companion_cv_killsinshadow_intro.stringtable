@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Приготовить оружие] «Стаи давно нет. Но если хочешь взять реванш — давай, иди ко мне».</DefaultText>
+      <DefaultText>[Приготовить оружие.] «Стаи давно нет. Но если хочешь взять реванш — давай, иди ко мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Блефовать.] «Нет. Но я пришел за тобой».</DefaultText>
+      <DefaultText>[Блефовать.] «Нет. Но я пришёл за тобой».</DefaultText>
       <FemaleText>[Блефовать.] «Нет. Но я пришла за тобой».</FemaleText>
     </Entry>
     <Entry>

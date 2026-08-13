@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Одно твое присутствие уже вдохновляет нас, Вершитель судеб».</DefaultText>
-      <FemaleText>«Одно твое присутствие уже вдохновляет нас, Вершительница судеб».</FemaleText>
+      <DefaultText>«Одно твоё присутствие уже вдохновляет нас, Вершитель судеб».</DefaultText>
+      <FemaleText>«Одно твоё присутствие уже вдохновляет нас, Вершительница судеб».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Они выжидают, но долго они не продержатся».</DefaultText>
+      <DefaultText>«Они выжидают, но долго не продержатся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Здравствуй, Барик». Солдат уважительно кивает.</DefaultText>
+      <DefaultText>«Здравствуй, Барик», — солдат уважительно кивает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Не доверяй своей водяной ведьме. Она наверняка лжет тебе на каждом шагу».</DefaultText>
+      <DefaultText>«Не доверяй своей водяной ведьме. Она наверняка лжёт тебе на каждом шагу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«А-архонт». Солдат глубоко кланяется Сирин.</DefaultText>
+      <DefaultText>«А-архонт», — солдат глубоко кланяется Сирин.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Вершитель судеб в свое время отдал Хору [url=glossary:распутье летианы]Распутье Летианы[/url]. Он поддержит нас и сейчас».</DefaultText>
-      <FemaleText>«Вершительница судеб в свое время отдала Хору [url=glossary:распутье летианы]Распутье Летианы[/url]. Она поддержит нас и сейчас».</FemaleText>
+      <DefaultText>«Вершитель судеб в своё время отдал Хору [url=glossary:распутье летианы]Распутье Летианы[/url]. Он поддержит нас и сейчас».</DefaultText>
+      <FemaleText>«Вершительница судеб в своё время отдала Хору [url=glossary:распутье летианы]Распутье Летианы[/url]. Она поддержит нас и сейчас».</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Обратиться к Тареку] «Расскажи мне, что произошло».</DefaultText>
+      <DefaultText>[Обратиться к Тареку.] «Расскажи мне, что произошло».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Обратиться к Тычку] «Расскажи мне, что произошло».</DefaultText>
+      <DefaultText>[Обратиться к Тычку.] «Расскажи мне, что произошло».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

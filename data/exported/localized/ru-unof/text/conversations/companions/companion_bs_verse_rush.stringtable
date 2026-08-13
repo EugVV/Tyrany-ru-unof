@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Твоя кожа — мое знамя!»</DefaultText>
+      <DefaultText>«Твоя кожа — моё знамя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Я иду к тебе, поросеночек!»</DefaultText>
+      <DefaultText>«Я иду к тебе, поросёночек!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
