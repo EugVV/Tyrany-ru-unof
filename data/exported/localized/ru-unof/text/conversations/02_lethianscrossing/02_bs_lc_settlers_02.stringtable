@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?»</DefaultText>
+      <DefaultText>«Говорят, в Колодце Вендриенов провозглашён [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Со стороны Гребня шло огромное свечение, которое заполнило все небо. Интересно, что это было…»</DefaultText>
+      <DefaultText>«Со стороны Гребня шло огромное свечение, которое заполнило всё небо. Интересно, что это было…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Объединенные Ярусы будут непобедимыми».</DefaultText>
+      <DefaultText>«Объединённые Ярусы будут непобедимыми».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>«Похоже, этого будет легко обобрать».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Похоже, эту будет легко обобрать».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Тихо! Ты что, не узнаешь Вершителя судеб Тунона?»</DefaultText>
-      <FemaleText>«Тихо! Ты что, не узнаешь Вершительницу судеб Тунона?»</FemaleText>
+      <DefaultText>«Тихо! Ты что, не узнаёшь Вершителя судеб Тунона?»</DefaultText>
+      <FemaleText>«Тихо! Ты что, не узнаёшь Вершительницу судеб Тунона?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>

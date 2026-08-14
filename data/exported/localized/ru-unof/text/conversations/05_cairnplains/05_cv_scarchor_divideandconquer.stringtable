@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«И что тут у нас? Хор выдает себя за Опальных?»</DefaultText>
+      <DefaultText>«И что тут у нас? Хор выдаёт себя за Опальных?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,7 +84,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Атаковать.] «Я пришел наказать вас за ваши преступления».</DefaultText>
+      <DefaultText>[Атаковать.] «Я пришёл наказать вас за ваши преступления».</DefaultText>
       <FemaleText>[Атаковать.] «Я пришла наказать вас за ваши преступления».</FemaleText>
     </Entry>
     <Entry>
