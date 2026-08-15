@@ -283,18 +283,18 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>«Ты не подвел своих людей».</DefaultText>
+      <DefaultText>«Ты не подвёл своих людей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>«Все. Иди».</DefaultText>
+      <DefaultText>«Всё. Иди».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>«Прощай, Вершитель судеб». В последний раз взглянув на вас, Скованный Клятвой уходит прочь.</DefaultText>
-      <FemaleText>«Прощай, Вершительница судеб». В последний раз взглянув на вас, Скованный Клятвой уходит прочь.</FemaleText>
+      <DefaultText>«Прощай, Вершитель судеб», — в последний раз взглянув на вас, Скованный Клятвой уходит прочь.</DefaultText>
+      <FemaleText>«Прощай, Вершительница судеб», — в последний раз взглянув на вас, Скованный Клятвой уходит прочь.</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
