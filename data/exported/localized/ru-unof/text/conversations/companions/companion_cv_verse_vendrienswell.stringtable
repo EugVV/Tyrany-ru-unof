@@ -41,8 +41,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Вступить в бой] «Я готов, если ты готова».</DefaultText>
-      <FemaleText>[Вступить в бой] «Я готова, если ты готова».</FemaleText>
+      <DefaultText>[Вступить в бой.] «Я готов, если ты готова».</DefaultText>
+      <FemaleText>[Вступить в бой.] «Я готова, если ты готова».</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Вступить в бой] «Оставь кого-нибудь мне».</DefaultText>
+      <DefaultText>[Вступить в бой.] «Оставь кого-нибудь мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

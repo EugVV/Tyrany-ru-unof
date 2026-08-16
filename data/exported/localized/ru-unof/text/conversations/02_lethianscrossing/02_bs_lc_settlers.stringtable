@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Говорят, в Колодце Вендриенов провозглашен [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чем?»</DefaultText>
+      <DefaultText>«Говорят, в Колодце Вендриенов провозглашён [url=glossary:эдикт]Эдикт[/url]… и [url=glossary:кайрос]Кайрос[/url] тут ни при чём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Целая армия Орды исчезла в один миг… Как вообще такое возможно?»</DefaultText>
+      <DefaultText>«Целая армия орды исчезла в один миг… как вообще такое возможно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

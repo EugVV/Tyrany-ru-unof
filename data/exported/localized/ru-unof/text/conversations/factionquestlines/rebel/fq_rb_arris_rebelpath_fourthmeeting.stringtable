@@ -62,22 +62,22 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Указать на Арри] «Ты. Замолчи. Сейчас же».</DefaultText>
+      <DefaultText>[Указать на Арри.] «Ты. Замолчи. Сейчас же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Указать на Ренату] «Прояви уважение к этому союзу».</DefaultText>
+      <DefaultText>[Указать на Ренату.] «Прояви уважение к этому союзу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Все верно! Я просто указала нашим союзникам на их место».</DefaultText>
+      <DefaultText>«Всё верно! Я просто указала нашим союзникам на их место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Необходимость сгонять союзников в кучу не улучшила твой характер… Ну что же, когда мне понадобится заставить их сотрудничать, я сразу же обращусь к тебе».</DefaultText>
+      <DefaultText>«Необходимость сгонять союзников в кучу не улучшила твой характер… ну что же, когда мне понадобится заставить их сотрудничать, я сразу же обращусь к тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Указать на Айседору] «Пути назад нет. [url=glossary:кайрос]Кайрос[/url] прославился вовсе не своим милосердием».</DefaultText>
+      <DefaultText>[Указать на Айседору.] «Пути назад нет. [url=glossary:кайрос]Кайрос[/url] прославился вовсе не своим милосердием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

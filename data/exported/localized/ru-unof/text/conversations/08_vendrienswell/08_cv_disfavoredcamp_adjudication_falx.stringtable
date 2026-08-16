@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Обратиться к солдату Опальных] «Я слушаю тебя. Расскажи, что случилось».</DefaultText>
+      <DefaultText>[Обратиться к солдату Опальных.] «Я слушаю тебя. Расскажи, что случилось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Обратиться к воину Хора] «Расскажи в подробностях, что произошло».</DefaultText>
+      <DefaultText>[Обратиться к воину Хора.] «Расскажи в подробностях, что произошло».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

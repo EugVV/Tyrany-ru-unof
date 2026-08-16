@@ -218,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[Достать оружие] «Хватит! Ещё одна ложь, и я отрублю тебе голову».</DefaultText>
+      <DefaultText>[Достать оружие.] «Хватит! Ещё одна ложь, и я отрублю тебе голову».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Угрожать] «Уверяю, если ты мне не ответишь, жить тебе станет ещё неудобнее».</DefaultText>
+      <DefaultText>[Угрожать.] «Уверяю, если ты мне не ответишь, жить тебе станет ещё неудобнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

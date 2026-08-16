@@ -28,12 +28,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Атаковать Элию] «Давай посмотрим, достойны ли [url=glossary:несломленные]Несломленные[/url] своего названия».</DefaultText>
+      <DefaultText>[Атаковать Элию.] «Давай посмотрим, достойны ли [url=glossary:несломленные]Несломленные[/url] своего названия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Атаковать Элию и Джакома] «Идите сюда — я с вами обоими разберусь».</DefaultText>
+      <DefaultText>[Атаковать Элию и Джакома.] «Идите сюда — я с вами обоими разберусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Джакому] «[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит. Давай убьём её и возьмём этот регион для Архонта».</DefaultText>
+      <DefaultText>[Джакому.] «[url=glossary:грэйвен аше]Грэйвен Аше[/url] хранит. Давай убьём её и возьмём этот регион для Архонта».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

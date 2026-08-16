@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Спросить у Фуги] «Ты в порядке?»</DefaultText>
+      <DefaultText>[Спросить у Фуги.] «Ты в порядке?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Обратиться к Фуге] «Запевай, Фуга, а я поддержу».</DefaultText>
+      <DefaultText>[Обратиться к Фуге.] «Запевай, Фуга, а я поддержу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

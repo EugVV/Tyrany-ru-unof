@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Достать оружие, позволить селянам сбежать] «Ну что ж, начнём?»</DefaultText>
+      <DefaultText>[Достать оружие, позволить селянам сбежать.] «Ну что ж, начнём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[Достать оружие] «Всё верно. Вы слышали своего командира. Селяне пусть уходят, а мы решим всё по чести».</DefaultText>
+      <DefaultText>[Достать оружие.] «Всё верно. Вы слышали своего командира. Селяне пусть уходят, а мы решим всё по чести».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,8 +253,8 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[Достать оружие] «Хотя я тут подумал…»</DefaultText>
-      <FemaleText>[Достать оружие] «Хотя я тут подумала…»</FemaleText>
+      <DefaultText>[Достать оружие.] «Хотя я тут подумал…»</DefaultText>
+      <FemaleText>[Достать оружие.] «Хотя я тут подумала…»</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>

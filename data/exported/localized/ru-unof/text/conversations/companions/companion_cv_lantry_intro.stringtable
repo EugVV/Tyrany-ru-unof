@@ -597,7 +597,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Повторять за ним] «Поверь, у меня к такому природная склонность».</DefaultText>
+      <DefaultText>[Повторять за ним.] «Поверь, у меня к такому природная склонность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -672,7 +672,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>[Повторять за ним] «Поверь, у меня к такому природная склонность».</DefaultText>
+      <DefaultText>[Повторять за ним.] «Поверь, у меня к такому природная склонность».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

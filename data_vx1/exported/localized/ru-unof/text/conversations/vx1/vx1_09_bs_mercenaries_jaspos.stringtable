@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«У меня были сомнения на твой счет. Я рад, что ошибся».</DefaultText>
+      <DefaultText>«У меня были сомнения на твой счёт. Я рад, что ошибся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Мастер Яспос скоро все наладит».</DefaultText>
+      <DefaultText>«Мастер Яспос скоро всё наладит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Без мастера Яспоса поселок бы не выжил. Когда уже до людей наконец дойдет!»</DefaultText>
+      <DefaultText>«Без мастера Яспоса посёлок бы не выжил. Когда уже до людей наконец дойдёт!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,8 +41,8 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Вершитель судеб не Архонт. Будешь на нас давить, мы за оружие возьмемся».</DefaultText>
-      <FemaleText>«Вершительница судеб не Архонт. Будешь на нас давить, мы за оружие возьмемся».</FemaleText>
+      <DefaultText>«Вершитель судеб — не Архонт. Будешь на нас давить, мы за оружие возьмёмся».</DefaultText>
+      <FemaleText>«Вершительница судеб — не Архонт. Будешь на нас давить, мы за оружие возьмёмся».</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>

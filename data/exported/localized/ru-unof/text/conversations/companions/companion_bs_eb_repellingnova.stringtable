@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Сосредоточенно творит мощное заклинание воды]</DefaultText>
+      <DefaultText>[Сосредоточенно творит мощное заклинание воды.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Делает глубокий вдох и с усилием придает заклинанию направление]</DefaultText>
+      <DefaultText>[Делает глубокий вдох и с усилием придаёт заклинанию направление.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

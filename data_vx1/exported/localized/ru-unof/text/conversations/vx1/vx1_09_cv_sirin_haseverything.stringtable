@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Отдать ей пергамент] «Конечно, держи. Скажи, что ты думаешь».</DefaultText>
+      <DefaultText>[Отдать ей пергамент.] «Конечно, держи. Скажи, что ты думаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Отказаться] «Исключено. Я не хочу давать тебе ещё больше могущества».</DefaultText>
+      <DefaultText>[Отказаться.] «Исключено. Я не хочу давать тебе ещё больше могущества».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Уничтожить заметки] «Позволь-ка мне взглянуть».</DefaultText>
+      <DefaultText>[Уничтожить заметки.] «Позволь-ка мне взглянуть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

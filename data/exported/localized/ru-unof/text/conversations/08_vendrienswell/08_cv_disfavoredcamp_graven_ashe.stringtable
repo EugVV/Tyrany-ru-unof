@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[Поклониться Архонту] «Мы можем поговорить?»</DefaultText>
+      <DefaultText>[Поклониться Архонту.] «Мы можем поговорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[Поклониться Архонту] «Мы можем поговорить?»</DefaultText>
+      <DefaultText>[Поклониться Архонту.] «Мы можем поговорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[Отдать воинское приветствие и развернуться, чтобы уйти] «Это всё».</DefaultText>
+      <DefaultText>[Отдать воинское приветствие и развернуться, чтобы уйти.] «Это всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

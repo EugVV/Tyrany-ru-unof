@@ -368,7 +368,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>«Что ж, спасибо, что ответил на мои вопросы. А теперь… на чем мы остановились?»</DefaultText>
+      <DefaultText>«Что ж, спасибо, что ответил на мои вопросы. А теперь… на чём мы остановились?»</DefaultText>
       <FemaleText>«Что ж, спасибо, что ответила на мои вопросы. А теперь… на чём мы остановились?»</FemaleText>
     </Entry>
     <Entry>
@@ -1661,7 +1661,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>[Встать в очень угрожающую позу] «Нужно больше намёков на насилие».</DefaultText>
+      <DefaultText>[Встать в очень угрожающую позу.] «Нужно больше намёков на насилие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1888,7 +1888,7 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>[Показать свой шрам] «А как насчёт этого?»</DefaultText>
+      <DefaultText>[Показать свой шрам.] «А как насчёт этого?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

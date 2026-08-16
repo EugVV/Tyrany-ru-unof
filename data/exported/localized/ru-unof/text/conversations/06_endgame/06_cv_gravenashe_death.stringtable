@@ -80,8 +80,8 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Убить его] «Я услышал достаточно».</DefaultText>
-      <FemaleText>[Убить его] «Я услышала достаточно».</FemaleText>
+      <DefaultText>[Убить его.] «Я услышал достаточно».</DefaultText>
+      <FemaleText>[Убить его.] «Я услышала достаточно».</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -179,17 +179,17 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Убить его] «Я услышал достаточно».</DefaultText>
-      <FemaleText>[Убить его] «Я услышала достаточно».</FemaleText>
+      <DefaultText>[Убить его.] «Я услышал достаточно».</DefaultText>
+      <FemaleText>[Убить его.] «Я услышала достаточно».</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Аше… вы не можете нас покинуть. [url=glossary:опальные]Опальные[/url] нуждаются в вас. Без вас…» Барик умолкает, не в силах подобрать слова.</DefaultText>
+      <DefaultText>«Аше… вы не можете нас покинуть. [url=glossary:опальные]Опальные[/url] нуждаются в вас. Без вас…» — Барик умолкает, не в силах подобрать слова.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>«Мир тебе, сын Бариконенов. Север будет помнить меня. У всего на свете есть конец. Что твой друг скоро поймет». Аше поворачивается к вам.</DefaultText>
+      <DefaultText>«Мир тебе, сын Бариконенов. Север будет помнить меня. У всего на свете есть конец. Что твой друг скоро поймёт», — Аше поворачивается к вам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

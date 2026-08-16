@@ -256,17 +256,17 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[Взять его за грудки] «Ты меня совсем за дурака держишь?!»</DefaultText>
-      <FemaleText>[Взять его за грудки] «Ты меня совсем за дуру держишь?!»</FemaleText>
+      <DefaultText>[Взять его за грудки.] «Ты меня совсем за дурака держишь?!»</DefaultText>
+      <FemaleText>[Взять его за грудки.] «Ты меня совсем за дуру держишь?!»</FemaleText>
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[Обратиться к Опальной] «Кажется, яруснику не помешает хорошая взбучка».</DefaultText>
+      <DefaultText>[Обратиться к Опальной.] «Кажется, яруснику не помешает хорошая взбучка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Обратиться к Опальной] «Ты была права. Убей этого лжеца, а добычу раздели с Легионом».</DefaultText>
+      <DefaultText>[Обратиться к Опальной.] «Ты была права. Убей этого лжеца, а добычу раздели с Легионом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Подойти поближе] «Хочешь опротестовать моё решение?»</DefaultText>
+      <DefaultText>[Подойти поближе.] «Хочешь опротестовать моё решение?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

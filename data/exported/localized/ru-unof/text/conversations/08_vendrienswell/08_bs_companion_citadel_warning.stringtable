@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Идем, Вершитель! У нас мало времени!»</DefaultText>
-      <FemaleText>«Идем, Вершительница! У нас мало времени!»</FemaleText>
+      <DefaultText>«Идём, Вершитель! У нас мало времени!»</DefaultText>
+      <FemaleText>«Идём, Вершительница! У нас мало времени!»</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>

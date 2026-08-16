@@ -333,7 +333,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[Обратиться к Лантри] «Не мог бы ты нас представить?»</DefaultText>
+      <DefaultText>[Обратиться к Лантри.] «Не мог бы ты нас представить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,7 +343,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[Обратиться к Фуге] «Я так понимаю, это один из тех, кто убил твоих сестёр?»</DefaultText>
+      <DefaultText>[Обратиться к Фуге.] «Я так понимаю, это один из тех, кто убил твоих сестёр?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -633,7 +633,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>[Обращаясь к Фуге.] «Ты поступила правильно, Фуга. Я тобой горжусь».</DefaultText>
+      <DefaultText>[Обратиться к Фуге.] «Ты поступила правильно, Фуга. Я тобой горжусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
