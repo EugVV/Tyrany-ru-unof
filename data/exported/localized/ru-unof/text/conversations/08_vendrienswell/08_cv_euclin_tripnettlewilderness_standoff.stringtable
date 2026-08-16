@@ -135,8 +135,8 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>«Я сделал все, что мог, но, похоже, он не очень-то любил Хор».</DefaultText>
-      <FemaleText>«Я сделала все, что могла, но, похоже, он не очень-то любил Хор».</FemaleText>
+      <DefaultText>«Я сделал всё, что мог, но, похоже, он не очень-то любил Хор».</DefaultText>
+      <FemaleText>«Я сделала всё, что могла, но, похоже, он не очень-то любил Хор».</FemaleText>
     </Entry>
     <Entry>
       <ID>95</ID>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>[Прошептать] «У меня есть свои причины так поступать».</DefaultText>
+      <DefaultText>[Прошептать.] «У меня есть свои причины так поступать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>[Прошептать] «У меня есть свои причины так поступать».</DefaultText>
+      <DefaultText>[Прошептать.] «У меня есть свои причины так поступать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

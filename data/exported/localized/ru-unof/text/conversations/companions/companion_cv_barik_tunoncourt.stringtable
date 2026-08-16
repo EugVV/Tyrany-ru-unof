@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[Приставу] «Он со мной».</DefaultText>
+      <DefaultText>[Приставу.] «Он со мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>«Я? То есть да, конечно». Барик долго смотрит на вас, прежде чем понять что к чему и выпрямиться.</DefaultText>
+      <DefaultText>«Я? То есть да, конечно», — Барик долго смотрит на вас, прежде чем понять что к чему и выпрямиться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

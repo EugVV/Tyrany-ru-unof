@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Увеличивает получаемый урон, когда цели уже нанесен урон.</DefaultText>
+      <DefaultText>Увеличивает получаемый урон, когда цели уже нанесён урон.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

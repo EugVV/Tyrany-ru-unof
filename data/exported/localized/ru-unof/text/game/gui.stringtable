@@ -5804,7 +5804,7 @@
     </Entry>
     <Entry>
       <ID>1459</ID>
-      <DefaultText>Щелкните и перетащите для перемещения по экрану</DefaultText>
+      <DefaultText>Для перемещения по экрану — щёлкнуть и перетащить</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8582,7 +8582,7 @@
     </Entry>
     <Entry>
       <ID>2137</ID>
-      <DefaultText>Щелкните, чтобы ввести название заклинания</DefaultText>
+      <DefaultText>Щелчок — ввести название заклинания</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

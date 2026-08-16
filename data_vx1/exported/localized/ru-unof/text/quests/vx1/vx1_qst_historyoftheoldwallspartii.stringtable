@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Отыскать настенные рисунки в Темной Пустоте.</DefaultText>
+      <DefaultText>Отыскать настенные рисунки в Тёмной Пустоте.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Отыщите и изучите рисунки зверолюдов в Темной Пустоте.</DefaultText>
+      <DefaultText>Отыщите и изучите рисунки зверолюдов в Тёмной Пустоте.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

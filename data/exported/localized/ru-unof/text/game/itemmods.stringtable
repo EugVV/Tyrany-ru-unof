@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Темная кожа</DefaultText>
+      <DefaultText>Тёмная кожа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,12 +856,12 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Поросенок Ризатрикс</DefaultText>
+      <DefaultText>Поросёнок Ризатрикс</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Ученый</DefaultText>
+      <DefaultText>Учёный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

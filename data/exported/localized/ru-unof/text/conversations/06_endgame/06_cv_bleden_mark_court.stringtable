@@ -125,7 +125,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Пройти мимо] «Нет, спасибо».</DefaultText>
+      <DefaultText>[Пройти мимо.] «Нет, спасибо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

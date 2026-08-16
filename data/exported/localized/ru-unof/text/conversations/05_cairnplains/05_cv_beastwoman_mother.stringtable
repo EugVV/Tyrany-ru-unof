@@ -178,12 +178,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Почесать за ухом] «Я человек, воспитанный северным племенем».</DefaultText>
-      <FemaleText>[Почесать за ухом] «Я воспитана северным племенем».</FemaleText>
+      <DefaultText>[Почесать за ухом.] «Я человек, воспитанный северным племенем».</DefaultText>
+      <FemaleText>[Почесать за ухом.] «Я воспитана северным племенем».</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Она фыркает и кивает своей массивной головой.</DefaultText>
+      <DefaultText>Она фыркает и кивает массивной головой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

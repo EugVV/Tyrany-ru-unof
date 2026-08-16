@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[Кивнуть] «Солдат».</DefaultText>
+      <DefaultText>[Кивнуть.] «Солдат».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
