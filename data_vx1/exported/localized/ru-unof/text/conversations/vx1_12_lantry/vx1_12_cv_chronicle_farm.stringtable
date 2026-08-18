@@ -262,7 +262,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>«Объясни, что все это значит».</DefaultText>
+      <DefaultText>«Объясни, что всё это значит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,7 +272,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>«Это… да, но… не совсем так, как запомнилось лично мне… я извел на себя довольно много чернил».</DefaultText>
+      <DefaultText>«Это… да, но… не совсем так, как запомнилось лично мне… я извёл на себя довольно много чернил».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
