@@ -166,8 +166,8 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Проклятье, Вершитель… Почему нельзя оставить все как есть?»</DefaultText>
-      <FemaleText>«Проклятье, Вершительница… Почему нельзя оставить все как есть?»</FemaleText>
+      <DefaultText>«Проклятье, Вершитель… почему нельзя оставить всё как есть?»</DefaultText>
+      <FemaleText>«Проклятье, Вершительница… почему нельзя оставить всё как есть?»</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>«Не очень-то обнадеживает».</DefaultText>
+      <DefaultText>«Не очень-то обнадёживает».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
