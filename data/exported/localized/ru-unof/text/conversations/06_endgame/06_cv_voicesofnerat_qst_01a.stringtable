@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Позволь мне спросить о чем-то другом».</DefaultText>
+      <DefaultText>«Позволь спросить кое о чём другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>«Позволь мне спросить о чем-то другом».</DefaultText>
+      <DefaultText>«Позволь спросить кое о чём другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +652,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>«Позволь мне спросить кое о чём другом».</DefaultText>
+      <DefaultText>«Позволь спросить кое о чём другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
