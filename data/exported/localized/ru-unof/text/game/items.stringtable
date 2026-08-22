@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>Щит</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Меч</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Палаш</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>Зелье исцеления</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>Целебные зелья мгновенно восстанавливают небольшое количество здоровья. Этому эффективному универсальному средству от порезов, ушибов, уколов и разрывов при варке традиционно придают прогорклый вкус, чтобы предотвратить бесконтрольное употребление.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>Меч</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>Железное копьё Опальных</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>Плащ</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,12 +151,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>Бронзовый меч</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>Бронзовый топор</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,22 +236,22 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>Зелье регенерации</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText />
+      <DefaultText>Солдаты пьют зелья регенерации, чтобы в течение нескольких секунд восстанавливать небольшое количество здоровья. Это алхимическое чудо — удивительно вкусная смесь трав и реагентов — усиливает естественную способность организма к регенерации тканей, восполнению крови и срашиванию костей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>Зелье магии</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText />
+      <DefaultText>Зелья магии на короткое время повышают силу магической атаки выпившего. Не рекомендуются беременным, не имеющим подготовки в области магии и тем, у кого аллергия на чернила кальмара.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,12 +310,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText />
+      <DefaultText>Временный свиток знания</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
+      <DefaultText>Описание временного свитка знания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -617,7 +617,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText />
+      <DefaultText>Обрывок знамени Несломленных</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,12 +732,12 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText />
+      <DefaultText>Этот облегающий кожанный кольчужный нагрудник, скроенный так, чтобы не сковывать движений, — стандартная боевая униформа самых грозных убийц Алого Хора. Хотя он, скорее всего, изготовлен из шкур животных, ходят слухи, что Алые Фурии для изготовления своей боевой одежды выделывают человеческую кожу. Эти слухи по большей части не соответствуют действительности: Алые Фурии просто окрашивают доспехи человеческой кровью, поскольку давно выяснили, что людская кожа недостаточно прочна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText />
+      <DefaultText>Эта простая накидка из ткани защищает от дождя, ветра и палящих солнечных лучей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -757,17 +757,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText />
+      <DefaultText>Самую распространённую в Ярусах обувь изготавливают из тонких деревянных дощечек и стёганных льняных ремешков. Такие сандалии с плоской подошвой и открытым носком местные носят в тёплом климате Ярусов круглый год.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText />
+      <DefaultText>Эта простая и лёгкая обувь свободного кроя с толстой резиновой подошвой незаменима в длительных путешествиях по скалистым районам Ярусов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText />
+      <DefaultText>Эти вызывающие сандалии окрашены исключительно лучшими красителям, обтянуты кожей угря и имеют мягкую резиновую подошву.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -787,12 +787,12 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText />
+      <DefaultText>Историки носят с собой самые разные чернила и письменные принадлежности, но мало что ценится ими больше, чем Перо подмастерья. Хотя его и используют как полноценый инструмент для письма, это конкретное перо — плохо замаскированное средство самообороны. В руках любого обывателя оно выглядит безобидным, но в руках историка, хорошо разбирающегося в анатомии человека, крупное перо превращается в смертельное оружие.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText />
+      <DefaultText>Пожалуй, такие копья — самое распространённое оружие в известном мире, и солдаты Опальных в основном используют их. Даже солдаты, использующие другое оружие, такие как мастера-мечники из Железных Ходоков, ежедневно тренируются с копьём в рамках ритуальных упражнений. Тяжёлое древко копья помогает при отражении атаки, но не подходит для метания — для этой цели используются более лёгкие дротики.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -815,12 +815,12 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText />
+      <DefaultText>Пожалуй, такие копья — самое распространённое оружие в известном мире, и в легионе Опальных в основном используют их. Даже солдаты, использующие другое оружие, такие как мастера-мечники из Железных Ходоков, ежедневно тренируются с копьём в рамках ритуальных упражнений.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText />
+      <DefaultText>Магия для изготовления Могильного лука из застывшего лунного света долгое время была секретом гильдии Заклинателей Приливов. Только наиболее заслуживающих доверия учеников обучали этому заклинанию.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1159,7 +1159,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText />
+      <DefaultText>Броня Багровых Копий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1339,12 +1339,12 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText />
+      <DefaultText>Припасы для Переправы Отголоска</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText />
+      <DefaultText>Это продовольствие передано вам Роной в лагере Опальных, чтобы вы в знак доброй воли передали его поселенцам Переправы Отголоска.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1392,22 +1392,22 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText />
+      <DefaultText>Символ сопротивления</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText />
+      <DefaultText>У жителей Колодца Вендриенов это считается символом сопротивления властям: лозы символизируют местный цветок, из стеблей которого сплетены колючие кандалы. Заострённый с двух сторон символ означает, что инструменты угнетения можно превратить в оружие против угнетателей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText />
+      <DefaultText>Утяжелённый кинжал</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText />
+      <DefaultText>Этот кинжал особым образом сбалансировали, чтобы облегчить метание и повысить точность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1484,14 +1484,14 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText />
+      <DefaultText>Сообщение для Локка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>358</ID>
       <DefaultText>Похоже, это послание написано в спешке:
 
-«Командир Локк, я не могу понять мотивы Раэтоммона, но он забрал шлем и убежал в Старые Стены. Не спрашивайте меня, почему. Нам нужна вся возможная помощь, чтобы вытащить его оттуда. Если можете придумать подходящее наказание, то нам оно тоже пригодится».</DefaultText>
+«Командир Локк, я не могу понять мотивы Раэтоммона, но он забрал шлем и убежал в Старые Стены. Не спрашивайте меня почему. Нам нужна вся возможная помощь, чтобы вытащить его оттуда. Если можете придумать подходящее наказание, то нам оно тоже пригодится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,7 +1586,7 @@
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText />
+      <DefaultText>Скипетр Нерата</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1865,7 +1865,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText />
+      <DefaultText>Железный шест</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1880,12 +1880,12 @@
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText />
+      <DefaultText>Прекрасная полностью сохранившаяся золотая скульптура — должно быть, она принадлежала Лазури, бывшему королевству Каменного Моря.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText />
+      <DefaultText>Записка Первого Книгочея</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1919,12 +1919,12 @@
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText />
+      <DefaultText>Доспех Бронзового Братства</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText />
+      <DefaultText>Молот Скованных Горном</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2070,7 +2070,7 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText />
+      <DefaultText>Железный дротик</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2160,12 +2160,12 @@
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText />
+      <DefaultText>Артефакт книжного знания</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText />
+      <DefaultText>Временная замена артефакта Горящей Библиотеки, пока не будет создан настоящий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2185,7 +2185,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText />
+      <DefaultText>Особое зелье</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2205,7 +2205,7 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText />
+      <DefaultText>Бронзовый топор</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2807,7 +2807,7 @@
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText />
+      <DefaultText>Зелье брони</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2912,7 +2912,9 @@
     </Entry>
     <Entry>
       <ID>650</ID>
-      <DefaultText />
+      <DefaultText>Потрёпанный свиток со странным чернильным символом.
+
+Свиток сделан из плотного пергамента некогда явно высокого качества. Хотя время и не пощадило пергамент, чернила, которыми нарисован символ, по-прежнему чёткие и яркие, словно были нанесены недавно. Сам символ выглядит странно: он одновременно прост и выполнен необычайно тщательно. Чтобы раскрыть тайны этого свитка, потребуется тщательное изучение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2942,7 +2944,7 @@
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText />
+      <DefaultText>Книгочеи Шпиля корпят над древними томами и пыльными свитками в поисках забытых магических знаний. Они обнаружили символ, который, по их мнению, представляет собой новый штрих, применяемый к любому заклинанию.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3201,27 +3203,27 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText />
+      <DefaultText>Охотничий лук ярусника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText />
+      <DefaultText>Охотничий лук ярусника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>708</ID>
-      <DefaultText />
+      <DefaultText>Охотничий лук ярусника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>709</ID>
-      <DefaultText />
+      <DefaultText>Охотничий лук ярусника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText />
+      <DefaultText>Как и остальные части элитных доспехов, шлем Скованных Клятвой обеспечивает разведчикам необходимую незаметность, не уступая при этом в защитных свойствах. Лицо владельца закрыто, но большие прорези для глаз обеспечивают более чем достаточное поле зрения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3535,7 +3537,7 @@
     </Entry>
     <Entry>
       <ID>774</ID>
-      <DefaultText />
+      <DefaultText>Посох истощения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3618,7 +3620,7 @@
     </Entry>
     <Entry>
       <ID>789</ID>
-      <DefaultText />
+      <DefaultText>Белый сигнальный кристалл из Старых Стен Летианы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3722,7 +3724,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText />
+      <DefaultText>Безмолвный Архив</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3751,12 +3753,12 @@
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText />
+      <DefaultText>Книгочеи Шпиля корпят над древними томами и пыльными свитками в поисках забытых магических знаний. Они обнаружили символ, который, по их мнению, представляет собой новое выражение для составления заклинаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText />
+      <DefaultText>Книгочеи Шпиля корпят над древними томами и пыльными свитками в поисках забытых магических знаний. Они обнаружили символ, который, по их мнению, представляет собой новый сигил для составления заклинаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4946,7 +4948,7 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText />
+      <DefaultText>Гроза погибелей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4971,7 +4973,7 @@
     </Entry>
     <Entry>
       <ID>1057</ID>
-      <DefaultText />
+      <DefaultText>Бездумная ярость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5046,7 +5048,7 @@
     </Entry>
     <Entry>
       <ID>1072</ID>
-      <DefaultText />
+      <DefaultText>Потрёпанный дневник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5098,12 +5100,14 @@
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText />
+      <DefaultText>Броня Барика представляет собой отвратительное слияние некогда прекрасных железных доспехов, давно заржавевших и сплавленных между собой. Нельзя сказать, сколько изуродованных войной частей вошло в состав этого громадного доспеха и из скольких слоёв он состоит. Не заметно никаких застёжек или ремней, которые позволили бы снять броню.
+
+Ряды шипов на плечах и локтях, изогнутых в неком грубом порядке, придают доспеху боевую готовность и устрашающий вид. Доносящийся из-под лат запах намекает, что носили доспех довольно долго.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText />
+      <DefaultText>Сапоги Барика, кажется, собрали в себе обломки и осколки нескольких сражений. Они скрипят на каждом шагу, а деформированные части почти полностью покрыты ржавчиной.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5117,7 +5121,7 @@
     </Entry>
     <Entry>
       <ID>1085</ID>
-      <DefaultText />
+      <DefaultText>Перчатки Барика являют собой чудовищные выступы, спрессованные из железа. Костяшки украшены безжалостными шипами, а каждый палец заканчивается похожим на коготь изогнутым остриём. Похоже, Барик доработал хват под оружие, но для более тонкой работы его перчатки не подходят.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5167,7 +5171,7 @@
     </Entry>
     <Entry>
       <ID>1095</ID>
-      <DefaultText />
+      <DefaultText>Окровавленная ткань</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5249,12 +5253,12 @@
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText />
+      <DefaultText>Записка от Железного Стража Винтары</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>«Согласно нашему устному договору, тебе разрешен вход в Старые Стены Распутья Летианы исключительно для того, чтобы найти путь к лагерю Бронзового Братства на другом конце. Любые предметы, найденные в Старых Стенах, будут считаться твоими в обмен на помощь в этом вопросе».
+      <DefaultText>«Согласно нашему устному договору, тебе разрешён вход в Старые Стены Распутья Летианы исключительно для того, чтобы найти путь к лагерю Бронзового Братства на другом конце. Любые предметы, найденные в Старых Стенах, будут считаться твоими в обмен на помощь в этом вопросе».
 
 Железный Страж Винтара
 Командир Распутья Летианы</DefaultText>
@@ -5282,7 +5286,7 @@
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText />
+      <DefaultText>Свиток: сигил «Ледяного пламени» (штрих)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5690,7 +5694,7 @@
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5700,7 +5704,7 @@
     </Entry>
     <Entry>
       <ID>1199</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5820,7 +5824,7 @@
     </Entry>
     <Entry>
       <ID>1223</ID>
-      <DefaultText />
+      <DefaultText>Бронзовый двуручный топор</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6154,7 +6158,7 @@
     </Entry>
     <Entry>
       <ID>1289</ID>
-      <DefaultText />
+      <DefaultText>Железый дротик</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6169,17 +6173,17 @@
     </Entry>
     <Entry>
       <ID>1292</ID>
-      <DefaultText />
+      <DefaultText>Молот Скованных Горном</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText />
+      <DefaultText>Молот Скованных Горном</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText />
+      <DefaultText>Молот Скованных Горном</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6248,7 +6252,7 @@
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6383,12 +6387,12 @@
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1335</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6408,17 +6412,17 @@
     </Entry>
     <Entry>
       <ID>1339</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText />
+      <DefaultText>Книгочеи Шпиля корпят над древними томами и пыльными свитками в поисках забытых магических знаний. Они обнаружили символ, который, по их мнению, представляет собой новый сигил для составления заклинаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText />
+      <DefaultText>Свиток магических знаний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6672,7 +6676,7 @@
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText />
+      <DefaultText>Щит Вершителя судеб</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8586,12 +8590,12 @@
     </Entry>
     <Entry>
       <ID>1753</ID>
-      <DefaultText />
+      <DefaultText>Шлем Вершителя судеб Тунона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1754</ID>
-      <DefaultText />
+      <DefaultText>Шлем Вершителя судеб Тунона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
