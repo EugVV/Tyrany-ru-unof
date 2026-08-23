@@ -9525,12 +9525,12 @@
     </Entry>
     <Entry>
       <ID>2352</ID>
-      <DefaultText>много</DefaultText>
+      <DefaultText>сильно</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2353</ID>
-      <DefaultText>очень много</DefaultText>
+      <DefaultText>очень сильно</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13668,7 +13668,7 @@
     </Entry>
     <Entry>
       <ID>3281</ID>
-      <DefaultText>({0} — снять паузу)</DefaultText>
+      <DefaultText>({0} — снять с паузы)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
