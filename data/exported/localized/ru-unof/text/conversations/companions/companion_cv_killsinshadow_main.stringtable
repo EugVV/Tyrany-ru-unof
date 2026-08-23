@@ -324,7 +324,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>«Давай поговорим о тех, кто в Ярусах хочет бросить вызов Кайросу».</DefaultText>
+      <DefaultText>«Давай поговорим о тех, кто на Ярусах хочет бросить вызов Кайросу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>«В Ярусах есть другие племена?»</DefaultText>
+      <DefaultText>«На Ярусах есть другие племена?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

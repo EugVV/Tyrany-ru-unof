@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Слабость. Наследие этих крыс из Ярусов».</DefaultText>
+      <DefaultText>«Слабость. Наследие этих крыс с Ярусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Да проклянет [url=glossary:кайрос]Кайрос[/url] этих повстанцев!»</DefaultText>
+      <DefaultText>«Да проклянёт [url=glossary:кайрос]Кайрос[/url] этих повстанцев!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

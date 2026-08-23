@@ -104,7 +104,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Имеешь ли ты представление о том, что творится в Ярусах?»</DefaultText>
+      <DefaultText>«Имеешь ли ты представление о том, что творится на Ярусах?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Что насчёт других сил в Ярусах?»</DefaultText>
+      <DefaultText>«Что насчёт других сил на Ярусах?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
