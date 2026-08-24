@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Закаленность</DefaultText>
+      <DefaultText>Закалённость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Легкость</DefaultText>
+      <DefaultText>Лёгкость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
