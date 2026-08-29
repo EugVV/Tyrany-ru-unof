@@ -1380,17 +1380,17 @@
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>{0} ({1}: {2} + бонус: {3}): {4}</DefaultText>
+      <DefaultText>{0} ({1}: {2} + прибавка: {3}): {4}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>531</ID>
-      <DefaultText>{0} (бросок: {1} + бонус: {2})</DefaultText>
+      <DefaultText>{0} (бросок: {1} + прибавка: {2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>{0} (броня: {1} + бонус: {2})</DefaultText>
+      <DefaultText>{0} (броня: {1} + прибавка: {2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1400,7 +1400,7 @@
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>{0} (получено: {1} + бонус за сложность: {2}): {3}</DefaultText>
+      <DefaultText>{0} (получено: {1} + прибавка за сложность: {2}): {3}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6734,7 +6734,7 @@
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>Бонус ({0}): {1}</DefaultText>
+      <DefaultText>Прибавка ({0}): {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6774,7 +6774,7 @@
     </Entry>
     <Entry>
       <ID>1688</ID>
-      <DefaultText>[url=glossary:искусность]Искусность[/url] (бонус): {0}</DefaultText>
+      <DefaultText>[url=glossary:искусность]Искусность[/url] (прибавка): {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7315,7 +7315,7 @@
     </Entry>
     <Entry>
       <ID>1808</ID>
-      <DefaultText>Бонусы от категории навыков</DefaultText>
+      <DefaultText>Прибавки от категории навыков</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16484,7 +16484,7 @@
     </Entry>
     <Entry>
       <ID>3828</ID>
-      <DefaultText>{0} ({1} + бонус: {2})</DefaultText>
+      <DefaultText>{0} ({1} + прибавка: {2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
