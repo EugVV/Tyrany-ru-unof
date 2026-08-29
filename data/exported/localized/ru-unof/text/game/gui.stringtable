@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Бросок</DefaultText>
+      <DefaultText>бросок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -906,7 +906,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Урон</DefaultText>
+      <DefaultText>урон</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5404,7 +5404,7 @@
     </Entry>
     <Entry>
       <ID>1379</ID>
-      <DefaultText>Чистый</DefaultText>
+      <DefaultText>чистый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6209,7 +6209,7 @@
     </Entry>
     <Entry>
       <ID>1562</ID>
-      <DefaultText>Защита</DefaultText>
+      <DefaultText>защита</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16448,12 +16448,12 @@
     </Entry>
     <Entry>
       <ID>3822</ID>
-      <DefaultText>Недостаток</DefaultText>
+      <DefaultText>недостаток</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3823</ID>
-      <DefaultText>Преимущество</DefaultText>
+      <DefaultText>преимущество</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
