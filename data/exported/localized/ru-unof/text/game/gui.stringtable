@@ -1395,7 +1395,7 @@
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>{0} получает ед. опыта за навык:</DefaultText>
+      <DefaultText>{0} получает опыта за навык:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1410,7 +1410,7 @@
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>{0} ед. опыта до следующего ранга</DefaultText>
+      <DefaultText>{0} опыта до следующего ранга</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3804,12 +3804,12 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>Получено ед. опыта: {0}</DefaultText>
+      <DefaultText>Получено опыта: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1038</ID>
-      <DefaultText>Чтобы ввести команду, нажмите клавишу Enter.</DefaultText>
+      <DefaultText>Enter — ввести команду.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5354,7 +5354,7 @@
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>Отряд получил {0} ед. опыта.</DefaultText>
+      <DefaultText>Отряд получил {0} опыта.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5584,7 +5584,7 @@
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>Ловушка обезврежена! Сложность: {0} (получено {1} ед. опыта)</DefaultText>
+      <DefaultText>Ловушка обезврежена! Сложность: {0} (получено {1} опыта)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7014,7 +7014,7 @@
     </Entry>
     <Entry>
       <ID>1745</ID>
-      <DefaultText>{0} получает {1} ед. опыта в навыке «{2}».</DefaultText>
+      <DefaultText>{0} получает {1} опыта в навыке «{2}».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7905,7 +7905,7 @@
     </Entry>
     <Entry>
       <ID>1957</ID>
-      <DefaultText>Все бойцы отряда получают {0} ед. опыта ({1}).</DefaultText>
+      <DefaultText>Все бойцы отряда получают {0} опыта ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
