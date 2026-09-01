@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Доспехи не могут уменьшить урон настолько, чтобы он стал меньше 1.</DefaultText>
+      <DefaultText>Доспехи не могут снизить урон до значения меньше 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

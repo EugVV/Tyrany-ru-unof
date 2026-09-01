@@ -4089,7 +4089,7 @@
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>Невозможно исключить бойцов из отряда в данный момент.</DefaultText>
+      <DefaultText>Сейчас невозможно исключить бойцов из отряда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8617,7 +8617,7 @@
     </Entry>
     <Entry>
       <ID>2147</ID>
-      <DefaultText>У вас уже есть эта способность.</DefaultText>
+      <DefaultText>Эта способность уже есть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8627,7 +8627,7 @@
     </Entry>
     <Entry>
       <ID>2149</ID>
-      <DefaultText>Получены припасы для привала. Они были добавлены к вашему общему запасу.</DefaultText>
+      <DefaultText>Получены припасы для привала. Они были добавлены к общему запасу отряда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13648,17 +13648,17 @@
     </Entry>
     <Entry>
       <ID>3277</ID>
-      <DefaultText>(Щелчок — взять в отряд)</DefaultText>
+      <DefaultText>(щелчок — взять в отряд)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3278</ID>
-      <DefaultText>(Щелчок — исключить)</DefaultText>
+      <DefaultText>(щелчок — исключить)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3279</ID>
-      <DefaultText>Нет мест</DefaultText>
+      <DefaultText>нет мест</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
