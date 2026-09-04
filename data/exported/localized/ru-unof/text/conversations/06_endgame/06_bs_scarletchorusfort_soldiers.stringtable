@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Неплохой сегодня денек, да, босс?»</DefaultText>
+      <DefaultText>«Неплохой сегодня денёк, да, босс?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Смотри, куда прешь! Ой, это вы, Архонт».</DefaultText>
+      <DefaultText>«Смотри, куда прёшь! Ой, это вы, Архонт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

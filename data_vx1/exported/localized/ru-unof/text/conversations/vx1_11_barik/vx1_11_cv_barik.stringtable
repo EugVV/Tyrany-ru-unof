@@ -826,17 +826,17 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>«Так точно». Он колеблется мгновение, прежде чем это сказать.</DefaultText>
+      <DefaultText>«Так точно», — он колеблется мгновение, прежде чем это сказать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>«Клянешься ли ты мне в верности? Клянешься ли ты служить мне как Архонту и защищать меня ценой своей жизни?»</DefaultText>
+      <DefaultText>«Клянёшься ли ты мне в верности? Клянёшься ли ты служить мне как Архонту и защищать меня ценой своей жизни?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>«Клянешься ли ты воевать за меня?»</DefaultText>
+      <DefaultText>«Клянёшься ли ты воевать за меня?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,7 +1081,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>«А я очень признателен тебе». Он чуть заметно улыбается.</DefaultText>
+      <DefaultText>«А я очень признателен тебе», — он чуть заметно улыбается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

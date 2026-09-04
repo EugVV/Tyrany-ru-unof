@@ -387,12 +387,12 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>«Мне обязательно терпеть это все?»</DefaultText>
+      <DefaultText>«Мне обязательно терпеть это всё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Она моргает. «Глаза Кайроса, да мы уже почти закончили. Тебе нужен ответ или нет?»</DefaultText>
+      <DefaultText>Она моргает: «Глаза Кайроса, да мы уже почти закончили. Тебе нужен ответ или нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>«Конечно». Она прочищает горло.</DefaultText>
+      <DefaultText>«Конечно», — она прочищает горло.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
