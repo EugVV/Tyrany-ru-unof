@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Дела тут становятся все хуже и хуже».</DefaultText>
+      <DefaultText>«Дела тут становятся всё хуже и хуже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,13 +16,13 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Приветствую, Вершитель!».</DefaultText>
-      <FemaleText>«Приветствую, Вершительница!».</FemaleText>
+      <DefaultText>«Приветствую, Вершитель!»</DefaultText>
+      <FemaleText>«Приветствую, Вершительница!»</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Все спокойно, Вершитель».</DefaultText>
-      <FemaleText>«Все спокойно, Вершительница».</FemaleText>
+      <DefaultText>«Всё спокойно, Вершитель».</DefaultText>
+      <FemaleText>«Всё спокойно, Вершительница».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
