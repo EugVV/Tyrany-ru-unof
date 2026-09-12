@@ -1425,7 +1425,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>Он улыбается. «Не будем слишком отвлекаться».</DefaultText>
+      <DefaultText>Он улыбается: «Не будем слишком отвлекаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1435,7 +1435,7 @@
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>«Я мог бы, да. Но соглашусь ли?» Он демонстративно почесывает подбородок, якобы взвешивая вашу просьбу.</DefaultText>
+      <DefaultText>«Я мог бы, да. Но соглашусь ли?» — он демонстративно почёсывает подбородок, якобы взвешивая вашу просьбу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -566,8 +566,8 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>«[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, доволен теперь?» Она хмурится.</DefaultText>
-      <FemaleText>«[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, довольна теперь?» Она хмурится.</FemaleText>
+      <DefaultText>«[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, доволен теперь?» — она хмурится.</DefaultText>
+      <FemaleText>«[url=glossary:голоса нерата]Голоса Нерата[/url]. Что, довольна теперь?» — она хмурится.</FemaleText>
     </Entry>
     <Entry>
       <ID>118</ID>

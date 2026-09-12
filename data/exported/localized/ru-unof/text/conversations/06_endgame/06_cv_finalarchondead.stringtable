@@ -1502,7 +1502,7 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>Сирин слегка усмехается, но быстро справляется с собой. «Конечно».</DefaultText>
+      <DefaultText>Сирин слегка усмехается, но быстро справляется с собой: «Конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1522,7 +1522,7 @@
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Запуганная до послушания зверолюдка почесывает переносицу.</DefaultText>
+      <DefaultText>Запуганная до послушания зверолюдка почёсывает переносицу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
