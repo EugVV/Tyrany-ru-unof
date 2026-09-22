@@ -1754,7 +1754,7 @@
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>Адъюдикатор обдумывает это и кивает. «Принимается».</DefaultText>
+      <DefaultText>Адъюдикатор обдумывает это и кивает: «Принимается».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1869,7 +1869,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Тунон кивает. «Согласен. Здесь имеет место очевидное нарушение».</DefaultText>
+      <DefaultText>Тунон кивает: «Согласен. Здесь имеет место очевидное нарушение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2009,13 +2009,13 @@
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Она вздыхает и машет рукой, смирившись. «Ладно. Удачи».</DefaultText>
+      <DefaultText>Она вздыхает и машет рукой, смирившись: «Ладно. Удачи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>«Вообще-то, я бы хотел привести приговор в исполнение лично».</DefaultText>
-      <FemaleText>«Вообще-то, я бы хотела привести приговор в исполнение лично».</FemaleText>
+      <DefaultText>«Вообще-то я бы хотел привести приговор в исполнение лично».</DefaultText>
+      <FemaleText>«Вообще-то я бы хотела привести приговор в исполнение лично».</FemaleText>
     </Entry>
     <Entry>
       <ID>728</ID>
