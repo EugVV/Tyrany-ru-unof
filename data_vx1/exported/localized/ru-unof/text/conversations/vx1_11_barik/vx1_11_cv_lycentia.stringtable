@@ -1324,7 +1324,7 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>«Само собой, Архонт. Прошу простить меня».</DefaultText>
+      <DefaultText>«Само собой, Архонт. Прошу меня простить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1519,7 +1519,7 @@
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>«Спасибо тебе, Лицентия. За все».</DefaultText>
+      <DefaultText>«Спасибо тебе, Лицентия. За всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
