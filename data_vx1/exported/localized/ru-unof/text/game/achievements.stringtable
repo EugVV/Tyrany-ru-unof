@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Бессонные в трех битвах</DefaultText>
+      <DefaultText>Бессонные в трёх битвах</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Победить в трех встречах с Бессонными противниками.</DefaultText>
+      <DefaultText>Победить в трёх встречах с Бессонными противниками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Разделить неловкий момент с компанией из четырех или больше спутников (Сирин не считается).</DefaultText>
+      <DefaultText>Разделить неловкий момент с компанией из четырёх или больше спутников (Сирин не считается).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

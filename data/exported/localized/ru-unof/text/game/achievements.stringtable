@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Все доступное взору</DefaultText>
+      <DefaultText>Всё доступное взору</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Изучить последний талант в каждом из 6 деревьев талантов игрока.</DefaultText>
+      <DefaultText>Изучить последний талант в любом из 6 деревьев талантов игрока.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
